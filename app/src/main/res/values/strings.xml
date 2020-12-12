@@ -1,0 +1,4 @@
+<resources>
+    <string name="btCalculate">Calculator</string>
+    <string name="app_name">CalculatorBmi</string>
+</resources>
