@@ -6,7 +6,15 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f89995-c9dc-4a15-87ab-412c408b0446" name="Default Changelist" comment="" />
+    <list default="true" id="31f89995-c9dc-4a15-87ab-412c408b0446" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CalculatorBmi" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l9zYVlmfBoLuH2o9c1whddKPmq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,8 +55,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.recentlyUsedThemes" value="AppTheme&#10;android:Theme.Material.NoActionBar&#10;android:Theme" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BmICalcltr" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -131,6 +139,11 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/CalculatorBmi" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="507" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607754848735">
       <screen x="0" y="0" width="1280" height="680" />
@@ -144,14 +157,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="221" y="46" key="AndroidThemeDialog/0.0.1280.680@0.0.1280.680" timestamp="1607759020461" />
-    <state x="411" y="62" key="FileChooserDialogImpl" timestamp="1607501817944">
+    <state x="411" y="62" key="FileChooserDialogImpl" timestamp="1607796588799">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="411" y="62" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607501817944" />
-    <state x="132" y="0" key="SettingsEditor" timestamp="1607330523210">
+    <state x="411" y="62" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607796588798" />
+    <state x="132" y="0" key="SettingsEditor" timestamp="1607796592491">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="132" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1607330523210" />
+    <state x="132" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1607796592491" />
     <state x="326" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1607794154959">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
