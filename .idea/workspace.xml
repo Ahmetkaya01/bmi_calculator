@@ -5,9 +5,28 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="31f89995-c9dc-4a15-87ab-412c408b0446" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/calculator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/btn_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/edit_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/edit_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +73,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\drawable" />
       <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\app\src\main\res\drawable-v24" />
     </key>
     <key name="android.template.1040042292">
@@ -68,7 +88,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -139,6 +159,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1607798053026">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1607798053026" />
     <state x="507" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607754848735">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -155,14 +179,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="411" y="62" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1607796588798" />
+    <state width="1236" height="121" key="GridCell.Tab.0.bottom" timestamp="1608065941527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="121" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608065941527" />
+    <state width="1236" height="121" key="GridCell.Tab.0.center" timestamp="1608065941527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="121" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608065941527" />
+    <state width="1236" height="121" key="GridCell.Tab.0.left" timestamp="1608065941526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="121" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608065941526" />
+    <state width="1236" height="121" key="GridCell.Tab.0.right" timestamp="1608065941527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="121" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608065941527" />
     <state x="132" y="0" key="SettingsEditor" timestamp="1607796592491">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="132" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1607796592491" />
-    <state x="326" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1607794154959">
+    <state x="326" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1608009981173">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="326" y="144" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1607794154959" />
+    <state x="326" y="144" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1608009981173" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1607053988735">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
