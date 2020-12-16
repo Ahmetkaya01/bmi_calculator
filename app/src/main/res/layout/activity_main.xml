@@ -10,8 +10,7 @@
     tools:context=".MainActivity">
 
 
-
-
+    // Things inside 'ScrollView' is scrollable
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -81,28 +80,6 @@
                 android:gravity="center"
                 android:text="@string/btCalculate"
                 android:textColor="#fafafa" />
-
-            <TextView
-                android:id="@+id/tvAnswer"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="Your Result"
-                android:textColor="#000"
-                android:textSize="30sp" />
-
-            <Button
-                android:id="@+id/btn2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginHorizontal="30dp"
-                android:layout_marginVertical="15dp"
-                android:background="@drawable/btn_bg"
-                android:gravity="center"
-                android:text="Next"
-                android:textColor="#fafafa" />/>
-
-            <!-- things to scroll -->
 
         </LinearLayout>
     </ScrollView>
