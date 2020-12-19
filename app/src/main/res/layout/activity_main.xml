@@ -11,6 +11,7 @@
 
 
     // Things inside 'ScrollView' is scrollable
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -37,9 +38,9 @@
                 android:layout_width="177dp"
                 android:layout_height="29dp"
                 android:layout_marginHorizontal="30dp"
+                android:gravity="center"
                 android:text="Enter Your Weight in {Kg}"
-                android:textStyle="bold"
-                android:gravity="center"/>
+                android:textStyle="bold" />
 
             <EditText
                 android:id="@+id/etWeight"
@@ -57,9 +58,9 @@
                 android:layout_height="29dp"
                 android:layout_marginHorizontal="30dp"
                 android:layout_marginVertical="15dp"
+                android:gravity="center"
                 android:text="Enter Your Height in {Cm}"
-                android:textStyle="bold"
-                android:gravity="center"/>
+                android:textStyle="bold" />
 
             <EditText
                 android:id="@+id/etHeight"
@@ -69,6 +70,11 @@
                 android:background="@drawable/edit_bg"
                 android:inputType="numberDecimal"
                 android:padding="12dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
 
             <Button
                 android:id="@+id/btCalculate"

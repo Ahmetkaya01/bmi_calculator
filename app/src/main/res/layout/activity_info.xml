@@ -60,8 +60,7 @@
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
+                android:layout_height="30dp"></View>
 
             //todo How to Prevent Obesity in Kids and Adults//
 
@@ -148,12 +147,14 @@ A family is made up of individuals at different stages of life, of different age
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:text="8. Snack on seasonal fruits, keep whole fruits easily available for the family members to pick up."
                 android:textColor="#000"
-                android:textSize="20sp"
-                android:text="8. Snack on seasonal fruits, keep whole fruits easily available for the family members to pick up."/>
+                android:textSize="20sp" />
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
@@ -164,6 +165,27 @@ A family is made up of individuals at different stages of life, of different age
                 android:textColor="#000"
                 android:textSize="20sp"
                 android:text=""/>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text="What Kind of Exercise Can You Do? "
+                android:textColor="#000"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/Exercises"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="See The Exercises"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="@drawable/btn_bg"
+                android:gravity="center"
+                android:textColor="#fafafa"/>
 
         </LinearLayout>
     </ScrollView>
