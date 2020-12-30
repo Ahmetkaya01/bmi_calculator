@@ -39,6 +39,7 @@ public class Results extends AppCompatActivity {
                     "7-Have an occasional treat. \n" +
                     "8-Exercise." );
 
+
         } else if (bmiValue >= 18.5 && bmiValue < 25) {
             // If BMI value more than 18.5 and less than 25 he is "normal"
             Answer.setText("You Are Normal " +
@@ -51,7 +52,7 @@ public class Results extends AppCompatActivity {
 
         } else {
             Answer.setText("You are obese\n" +
-                        "Follow These Steps\n"+
+                    "Follow These Steps\n"+
                     "8 weight loss tips\n" +
                     "1-Eat a high protein breakfast. ...\n" +
                     "2-Avoid sugary drinks and fruit juice. ...\n" +
@@ -61,6 +62,7 @@ public class Results extends AppCompatActivity {
                     "6-Drink coffee or tea. ...\n" +
                     "7-Base your diet on whole foods. ...\n" +
                     "8-Eat slowly.");
+
         }
 
         // Open Next Activity when Next button tapped!

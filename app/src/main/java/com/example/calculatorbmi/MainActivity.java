@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 // Put BMI value in Intent to send over Results activity
                 intent.putExtra("bmiValue", bmiValue);
                 startActivity(intent);
+
             }
         });
 
