@@ -7,19 +7,19 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class info extends AppCompatActivity {
-    Button Exercises;
+public class ObeseActivity extends AppCompatActivity {
+    Button show;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_info);
+        setContentView(R.layout.activity_obese);
 
-        Button Exercises = (Button)findViewById(R.id.Exercises);
+        Button show = (Button) findViewById(R.id.show);
 
-        Exercises.setOnClickListener(new View.OnClickListener() {
+        show.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                startActivity(new Intent(info.this, Exercises.class));
+            public void onClick(View view) {
+                startActivity(new Intent(ObeseActivity.this,exer.class));
             }
         });
     }

@@ -8,7 +8,9 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="-29dp"
+        tools:layout_editor_absoluteY="32dp">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -23,19 +25,41 @@
                 android:text="Your Result"
                 android:textColor="#000"
                 android:textSize="30sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="283dp"
+                app:srcCompat="@drawable/bodybmi" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
 
             <Button
-                android:id="@+id/btn2"
+                android:id="@+id/btn3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="30dp"
                 android:layout_marginVertical="15dp"
                 android:background="@drawable/btn_bg"
                 android:gravity="center"
-                android:text="Next"
+                android:text="Get More Information"
                 android:textColor="#fafafa" />
 
         </LinearLayout>
+
     </ScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
