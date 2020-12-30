@@ -1,17 +1,20 @@
 package com.example.calculatorbmi;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class Results extends AppCompatActivity {
 
     private TextView Answer;
     private Button Next;
+    private ImageView ResultImage;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,6 +23,7 @@ public class Results extends AppCompatActivity {
 
         Answer = findViewById(R.id.tvAnswer);
         Next = findViewById(R.id.btn3);
+        ResultImage = findViewById(R.id.imageViewResult);
 
         // Get BMI value sent from Main activity, using the key "bmiValue"
         Bundle extras = getIntent().getExtras();
@@ -39,6 +43,7 @@ public class Results extends AppCompatActivity {
                     "7-Have an occasional treat. \n" +
                     "8-Exercise." );
 
+            ResultImage.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.picture));
 
         } else if (bmiValue >= 18.5 && bmiValue < 25) {
             // If BMI value more than 18.5 and less than 25 he is "normal"
@@ -49,6 +54,7 @@ public class Results extends AppCompatActivity {
                     "Be as physically active as you can be.\n" +
                     "Talk to your doctor about your weight if you think that you weigh too much or too little.");
 
+            ResultImage.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.picture2));
 
         } else {
             Answer.setText("You are obese\n" +
@@ -62,6 +68,7 @@ public class Results extends AppCompatActivity {
                     "6-Drink coffee or tea. ...\n" +
                     "7-Base your diet on whole foods. ...\n" +
                     "8-Eat slowly.");
+            ResultImage.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.bodybmi));
 
         }
 
