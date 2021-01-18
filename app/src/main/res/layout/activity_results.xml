@@ -25,21 +25,447 @@
                 android:text="Your Result"
                 android:textColor="#000"
                 android:textSize="30sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
+
+
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text="Best Advices"
+                android:textColor="#000"
+                android:textSize="30sp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
+            <ImageView
+                android:id="@+id/p2"
+                android:layout_width="match_parent"
+                android:layout_height="198dp"
+                app:srcCompat="@drawable/obese" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text="It's All About Planning"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+            <TextView
+
+                android:id="@+id/t4"
+                android:layout_width="match_parent"
+                android:layout_height="256dp"
+                android:text="When you have a lot of weight to lose, it means playing the long game. And during that time, you'll face challenges. Weight loss experts and people who have done it offer you their ideas to cut calories, fight the 'angry' make exercise easier, stay on track, and more. Some are tried-and-true, and others may surprise you."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+
+            //todo How to Prevent Obesity in Kids and Adults//
+
+
+            <!-- things to scroll -->
+
+            <ImageView
+                android:id="@+id/i5"
+                android:layout_width="match_parent"
+                android:layout_height="249dp"
+                app:srcCompat="@drawable/obese1" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:background="@drawable/edit_bg"
+                android:textColor="#000"
+                android:textSize="25sp"
+                android:text="Go Big for Breakfast"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+
+            </View>
+
+            <ImageView
+                android:id="@+id/i18"
+                android:layout_width="match_parent"
+                android:layout_height="249dp"
+                app:srcCompat="@drawable/obesebreakfast" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+
+            </View>
+
+
+            <TextView
+                android:id="@+id/t7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#141414"
+                android:textSize="23sp"
+                android:text="People who eat more in the morning and less at night tend to lose more weight. Some studies suggest that starting your day with a high-protein meal -- especially warm, solid food -- helps you feel fuller and less hungry later. Shoot for 350-400 calories with at least 25 grams of protein, says Domenica Rubino, MD, director of the Washington Center for Weight Management/Research." />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+
+
+            <ImageView
+                android:id="@+id/i8"
+                android:layout_width="match_parent"
+                android:layout_height="327dp"
+                app:srcCompat="@drawable/obesebreakfast" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+            <TextView
+                android:id="@+id/t9"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textColor="#000"
+                android:background="@drawable/edit_bg"
+                android:textSize="25sp"
+                android:text="Keep a Photo Diary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+
+            <TextView
+                android:id="@+id/t10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:text="‘We have horrible memories in terms of what we eat,’ says Susan Albers, PsyD, author of EatQ. Save your food photos in a daily file. Before your next snack or meal, review them. They'll remind you what you've already eaten. And that may help you decide to downsize or choose something else." />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+
+            <ImageView
+                android:id="@+id/i11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/obesetakepic" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text="Try a Meal Replacement Plan"
+                android:textColor="#000"
+                android:textSize="25sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Under a licensed professional's care, you'll eat one regular meal per day and swap the others for special shakes, soups, or bars. ''If you can stick to it, you'll see big results in 6 months to a year,'' says Ken Fujioka, MD, an obesity specialist at the Scripps Clinic in San Diego."
+                android:textColor="#000"
+                android:textSize="20sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+            <ImageView
+                android:id="@+id/i14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/tryameal" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t15"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text="Set Up Your Food Storage"
+                android:textColor="#000"
+                android:textSize="25sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Out of sight, out of mind -- and mouth. After you purge your home of those treats you can't resist, Albers recommends taking the idea a step further: Assign shelves in the pantry and the fridge so your healthy food becomes easy to see and reach. Put fresh veggies and fruit at eye level instead of inside a drawer, and you're more likely to grab them when you open the door."
+                android:textColor="#000"
+                android:textSize="20sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+            <ImageView
+                android:id="@+id/i17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/setup" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
 
             <ImageView
                 android:id="@+id/imageViewResult"
                 android:layout_width="match_parent"
-                android:layout_height="283dp"
-                app:srcCompat="@drawable/bodybmi" />
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/cycling" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="@android:color/background_dark">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp">
+            </View>
+
+<!--            <TextView-->
+<!--                android:id="@+id/can1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:gravity="center"-->
+<!--                android:text="5 Starter Exercises for People Battling Obesity"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="30sp" />-->
+
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/can2"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:background="@drawable/edit_bg"-->
+<!--                android:gravity="center"-->
+<!--                android:text=" Swimming"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp" />-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="250dp"-->
+<!--                android:src="@drawable/swimcan" />-->
+
+
+
+<!--            <TextView-->
+<!--                android:id="@+id/can3"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="165dp"-->
+
+<!--                android:gravity="center"-->
+<!--                android:text="Swimming and other water exercises are a great way to ease into exercise. Water makes the body feel lighter, allowing the person to burn calories without straining their joints and bones."-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="12dp"></View>-->
+
+<!--            //todo How to Prevent Obesity in Kids and Adults//-->
+
+
+<!--            &lt;!&ndash; things to scroll &ndash;&gt;-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/can4"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:background="@drawable/edit_bg"-->
+<!--                android:gravity="center"-->
+<!--                android:text=" Walking"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:id="@+id/can5"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="250dp"-->
+<!--                android:src="@drawable/walkingcan" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/can6"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="This is probably the most popular form of exercise for anyone starting out. It’s free, there’s no equipment involved, and it’s not that difficult. Many people start out walking down the block. With time, they work up to longer walks, running, and even partaking in marathons. But it all started with a stroll down the street."-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/can7"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:background="@drawable/edit_bg"-->
+<!--                android:gravity="center"-->
+<!--                android:text=" Cycling"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp" />-->
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="250dp"-->
+<!--                android:src="@drawable/cancycling" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/can8"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:text="Getting on a bike is another low impact form of exercise that’s great for beginners. It doesn't matter if it’s a stationary bike or a road bike, this is a wonderful way to enjoy exercising." />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp">-->
+<!--            </View>-->
+<!--            <TextView-->
+<!--                android:id="@+id/can9"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:background="@drawable/edit_bg"-->
+<!--                android:gravity="center"-->
+<!--                android:text="Stretching"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"/>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:id="@+id/can10"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="250dp"-->
+<!--                android:src="@drawable/stretchingcancan" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/can11"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Stretching is extremely important to reduce the soreness of newly worked muscles. Plus, it’s a great way to prevent injuries. Stretching can be difficult at first since the muscles are extremely tight. Again, it’s important to slowly and gently work up to the goal. Eventually, the muscles will start stretching and it will be a thoroughly enjoyable part of any workout."-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"/>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp">-->
+<!--            </View>-->
+<!--            <TextView-->
+<!--                android:id="@+id/can12"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:background="@drawable/edit_bg"-->
+<!--                android:gravity="center"-->
+<!--                android:text="Lifting Weights"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"/>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp">-->
+<!--            </View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:id="@+id/can13"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="250dp"-->
+<!--                android:src="@drawable/liftingscan" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/tcan14"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="A common misconception is that cardio alone is what will help a person lose weight. While cardio is definitely important, weight training is vital as well.-->
+
+<!--Weight training boosts the metabolism, helping a person burn more calories than with cardio alone. And this type of workout allows for “after-burn,” where the body continues to burn calories even after the workout."-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp" />-->
 
             <View
                 android:layout_width="fill_parent"

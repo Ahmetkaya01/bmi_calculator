@@ -20,8 +20,12 @@
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
+
+
+
+
             <TextView
-                android:id="@+id/advice"
+                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/edit_bg"
@@ -29,13 +33,13 @@
                 android:text="Best Advices"
                 android:textColor="#000"
                 android:textSize="30sp" />
-
+t
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
             <ImageView
-                android:id="@+id/imageView9"
+                android:id="@+id/p2"
                 android:layout_width="match_parent"
                 android:layout_height="198dp"
                 app:srcCompat="@drawable/obese" />
@@ -46,7 +50,7 @@
             </View>
 
             <TextView
-                android:id="@+id/title"
+                android:id="@+id/t3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/edit_bg"
@@ -63,6 +67,7 @@
 
             <TextView
 
+                android:id="@+id/t4"
                 android:layout_width="match_parent"
                 android:layout_height="256dp"
                 android:text="When you have a lot of weight to lose, it means playing the long game. And during that time, you'll face challenges. Weight loss experts and people who have done it offer you their ideas to cut calories, fight the 'angry' make exercise easier, stay on track, and more. Some are tried-and-true, and others may surprise you."
@@ -80,7 +85,7 @@
             <!-- things to scroll -->
 
             <ImageView
-                android:id="@+id/imageView3"
+                android:id="@+id/i5"
                 android:layout_width="match_parent"
                 android:layout_height="249dp"
                 app:srcCompat="@drawable/obese1" />
@@ -90,7 +95,7 @@
                 android:layout_height="30dp"></View>
 
             <TextView
-                android:id="@+id/textView"
+                android:id="@+id/t6"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:gravity="center"
@@ -102,7 +107,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="30dp"></View>
             <TextView
-                android:id="@+id/textView8"
+                android:id="@+id/t7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="#141414"
@@ -114,13 +119,13 @@
                 android:layout_height="30dp"></View>
 
             <ImageView
-                android:id="@+id/imageView"
+                android:id="@+id/i8"
                 android:layout_width="match_parent"
                 android:layout_height="327dp"
                 app:srcCompat="@drawable/obesebreakfast" />
 
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/t9"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:gravity="center"
@@ -133,7 +138,7 @@
                 android:layout_height="30dp">
             </View>
             <TextView
-                android:id="@+id/textView6"
+                android:id="@+id/t10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="#000"
@@ -146,12 +151,13 @@
 
 
             <ImageView
-                android:id="@+id/imageView7"
+                android:id="@+id/i11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:srcCompat="@drawable/obesetakepic" />
 
             <TextView
+                android:id="@+id/t12"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/edit_bg"
@@ -163,47 +169,52 @@
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
+
             <TextView
+                android:id="@+id/t13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:text="Under a licensed professional's care, you'll eat one regular meal per day and swap the others for special shakes, soups, or bars. ''If you can stick to it, you'll see big results in 6 months to a year,'' says Ken Fujioka, MD, an obesity specialist at the Scripps Clinic in San Diego."
                 android:textColor="#000"
-                android:textSize="20sp"
-                android:text="Under a licensed professional's care, you'll eat one regular meal per day and swap the others for special shakes, soups, or bars. ''If you can stick to it, you'll see big results in 6 months to a year,'' says Ken Fujioka, MD, an obesity specialist at the Scripps Clinic in San Diego."/>
+                android:textSize="20sp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
 
             <ImageView
-                android:id="@+id/imageView8"
+                android:id="@+id/i14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:srcCompat="@drawable/tryameal" />
 
             <TextView
+                android:id="@+id/t15"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/edit_bg"
                 android:gravity="center"
                 android:text="Set Up Your Food Storage"
                 android:textColor="#000"
-                android:textSize="25sp"/>
+                android:textSize="25sp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
+
             <TextView
+                android:id="@+id/t16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:text="Out of sight, out of mind -- and mouth. After you purge your home of those treats you can't resist, Albers recommends taking the idea a step further: Assign shelves in the pantry and the fridge so your healthy food becomes easy to see and reach. Put fresh veggies and fruit at eye level instead of inside a drawer, and you're more likely to grab them when you open the door."
                 android:textColor="#000"
-                android:textSize="20sp"
-                android:text="Out of sight, out of mind -- and mouth. After you purge your home of those treats you can't resist, Albers recommends taking the idea a step further: Assign shelves in the pantry and the fridge so your healthy food becomes easy to see and reach. Put fresh veggies and fruit at eye level instead of inside a drawer, and you're more likely to grab them when you open the door."/>
+                android:textSize="20sp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
             <ImageView
-                android:id="@+id/imageView10"
+                android:id="@+id/i17"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:srcCompat="@drawable/setup" />

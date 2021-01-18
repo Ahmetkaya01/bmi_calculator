@@ -87,6 +87,12 @@
                 android:text="@string/btCalculate"
                 android:textColor="#fafafa" />
 
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="125dp"
+                app:srcCompat="@drawable/bmicalculatorc" />
+
         </LinearLayout>
     </ScrollView>
 

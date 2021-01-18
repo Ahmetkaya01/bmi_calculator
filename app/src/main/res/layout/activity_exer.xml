@@ -18,11 +18,13 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="12dp"></View>
             <TextView
-                android:id="@+id/advice"
+                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/edit_bg"
                 android:gravity="center"
                 android:text="5 Starter Exercises for People Battling Obesity"
                 android:textColor="#000"
@@ -35,7 +37,7 @@
             </View>
 
             <TextView
-                android:id="@+id/title"
+                android:id="@+id/t3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/edit_bg"
@@ -44,22 +46,17 @@
                 android:textColor="#000"
                 android:textSize="20sp" />
 
-            <ImageView
-                android:id="@+id/imageView2"
+            <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="313dp"
-                app:srcCompat="@drawable/swim" />
+                android:layout_height="250dp"
+                android:src="@drawable/swimcan" />
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
 
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="165dp"
-                android:background="@drawable/edit_bg"
+
                 android:gravity="center"
                 android:text="Swimming and other water exercises are a great way to ease into exercise. Water makes the body feel lighter, allowing the person to burn calories without straining their joints and bones."
                 android:textColor="#000"
@@ -87,18 +84,17 @@
                 android:layout_width="fill_parent"
                 android:layout_height="30dp"></View>
 
-            <ImageView
-                android:id="@+id/imageView3"
+            <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="249dp"
-                app:srcCompat="@drawable/walking" />
+                android:layout_height="250dp"
+                android:src="@drawable/walkingcan" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp"></View>
 
             <TextView
-                android:id="@+id/textView"
+                android:id="@+id/t6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="This is probably the most popular form of exercise for anyone starting out. It’s free, there’s no equipment involved, and it’s not that difficult. Many people start out walking down the block. With time, they work up to longer walks, running, and even partaking in marathons. But it all started with a stroll down the street."
@@ -117,15 +113,13 @@
                 android:text=" Cycling"
                 android:textColor="#000"
                 android:textSize="20sp" />
-
-            <ImageView
-                android:id="@+id/imageView"
+            <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="327dp"
-                app:srcCompat="@drawable/cycling" />
+                android:layout_height="250dp"
+                android:src="@drawable/cancycling" />
 
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/t9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="#000"
@@ -136,7 +130,7 @@
                 android:layout_height="30dp">
             </View>
             <TextView
-                android:id="@+id/textView6"
+                android:id="@+id/t10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/edit_bg"
@@ -145,11 +139,10 @@
                 android:textColor="#000"
                 android:textSize="20sp"/>
 
-            <ImageView
-                android:id="@+id/imageView4"
+            <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="283dp"
-                app:srcCompat="@drawable/workout2" />
+                android:layout_height="250dp"
+                android:src="@drawable/stretchingcancan" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -174,11 +167,10 @@
                 android:layout_height="30dp">
             </View>
 
-            <ImageView
-                android:id="@+id/imageView5"
+            <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="417dp"
-                app:srcCompat="@drawable/liftingweights" />
+                android:layout_height="250dp"
+                android:src="@drawable/liftingscan" />
 
             <View
                 android:layout_width="fill_parent"
@@ -198,12 +190,7 @@ Weight training boosts the metabolism, helping a person burn more calories than 
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#000"
-                android:textSize="20sp"
-                android:text=""/>
+
 
             <TextView
                 android:id="@+id/textView3"
@@ -229,6 +216,7 @@ Weight training boosts the metabolism, helping a person burn more calories than 
 
 
         </LinearLayout>
+
     </ScrollView>
 
 </LinearLayout>
