@@ -93,40 +93,40 @@ public class Results extends AppCompatActivity {
         text15=findViewById(R.id.t15);
         text16=findViewById(R.id.t16);
         image17=findViewById(R.id.i17);
-=========
+//////////////////////////////////////
+         tesla1=findViewById(R.id.tcan1);
+        tesla2=findViewById(R.id.tcan2);
+         gifcan3=findViewById(R.id.gif3);
+        tesla4=findViewById(R.id.tcan4);
+        tesla5=findViewById(R.id.tcan5);
+         gifcan6=findViewById(R.id.gif6);
+        tesla7=findViewById(R.id.tcan7);
+         tesla8=findViewById(R.id.tcan8);
+        gifcan9=findViewById(R.id.gif9);
+         tesla10=findViewById(R.id.tcan10);
+        tesla11=findViewById(R.id.tcan11);
+         gifcan12=findViewById(R.id.gif12);
+         tesla13=findViewById(R.id.tcan13);
+         tesla14=findViewById(R.id.tcan14);
+         gifcan15=findViewById(R.id.gif15);
+         tesla16=findViewById(R.id.tcan16);
 
-         tesla1;
-        private TextView tesla2;
-        private GifImageView gifcan3;
-        private TextView tesla4;
-        private TextView tesla5;
-        private GifImageView gifcan6;
-        private TextView tesla7;
-        private TextView tesla8;
-        private GifImageView gifcan9;
-        private TextView tesla10;
-        private TextView tesla11;
-        private GifImageView gifcan12;
-        private TextView tesla13;
-        private TextView tesla14;
-        private GifImageView gifcan15;
-        private TextView tesla16;
-       xet= can1
-                tcan2
-        gif3
-                tcan4
-        tcan5
-                gif6
-        tcan7
-                tcan8
-        gif9
-                tcan10
-        tcan11
-                gif12
-        tcan13
-                tcan14
-        gif15
-                tcan16
+//       xet= can1
+//                tcan2
+//        gif3
+//                tcan4
+//        tcan5
+//                gif6
+//        tcan7
+//                tcan8
+//        gif9
+//                tcan10
+//        tcan11
+//                gif12
+//        tcan13
+//                tcan14
+//        gif15
+//                tcan16
 
         Answer = findViewById(R.id.tvAnswer);
         Next = findViewById(R.id.btn01);
@@ -301,6 +301,50 @@ public class Results extends AppCompatActivity {
             text15.setText("Set Up Your Food Storage");
 
             text16.setText("Out of sight, out of mind -- and mouth. After you purge your home of those treats you can't resist, Albers recommends taking the idea a step further: Assign shelves in the pantry and the fridge so your healthy food becomes easy to see and reach. Put fresh veggies and fruit at eye level instead of inside a drawer, and you're more likely to grab them when you open the door.");
+
+            ////////////////////////////////////////////////////////////////////////
+
+//            tesla1=findViewById(R.id.tcan1);
+            tesla1.setText("5 Starter Exercises for People Battling Obesity");
+
+            tesla2.setText("Swimming");
+            gifcan3=findViewById(R.id.gif3);
+
+
+            tesla4.setText("Swimming and other water exercises are a great way to ease into exercise. Water makes the body feel lighter, allowing the person to burn calories without straining their joints and bones.");
+
+            tesla5.setText("Walking");
+            gifcan6=findViewById(R.id.gif6);
+
+
+            tesla7.setText("This is probably the most popular form of exercise for anyone starting out. It’s free, there’s no equipment involved, and it’s not that difficult. Many people start out walking down the block. With time, they work up to longer walks, running, and even partaking in marathons. But it all started with a stroll down the street.");
+
+            tesla8.setText("Cycling");
+            gifcan9=findViewById(R.id.gif9);
+
+
+            tesla10.setText("Getting on a bike is another low impact form of exercise that’s great for beginners. It doesn't matter if it’s a stationary bike or a road bike, this is a wonderful way to enjoy exercising.");
+
+            tesla11.setText("Stretching");
+            gifcan12=findViewById(R.id.gif12);
+
+            gifcan12.setImageDrawable(R.id.gif12);
+            tesla13.setText("Stretching is extremely important to reduce the soreness of newly worked muscles. Plus, it’s a great way to prevent injuries. Stretching can be difficult at first since the muscles are extremely tight. Again, it’s important to slowly and gently work up to the goal. Eventually, the muscles will start stretching and it will be a thoroughly enjoyable part of any workout.");
+
+            tesla14.setText("Lifting Weights");
+
+
+
+            gifcan15.setImageDrawable(R.id.gif15);
+
+            tesla16.setText("A common misconception is that cardio alone is what will help a person lose weight. While cardio is definitely important, weight training is vital as well.\n" +
+                    "\n" +
+                    "Weight training boosts the metabolism, helping a person burn more calories than with cardio alone. And this type of workout allows for “after-burn,” where the body continues to burn calories even after the workout.");
+
+
+
+
+
 
             image17.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.setup));
 
