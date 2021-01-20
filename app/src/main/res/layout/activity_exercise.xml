@@ -43,11 +43,11 @@
 
 
             <View
-                android:layout_width="fill_parent"
-                android:layout_height="2dp"
-                android:background="@android:color/background_dark">
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="@android:color/background_dark">
 
-            </View>
+        </View>
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="251dp"
@@ -434,6 +434,33 @@ Do 12 on each side for a total of 24 reps."
                 android:layout_height="30dp">
             </View>
 
+            <Button
+                android:id="@+id/btn01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="@drawable/btn_bg"
+                android:gravity="center"
+                android:text="See The Articles"
+                android:textColor="#fafafa" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="@android:color/background_dark">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
 
             <!--            Burpee and Tuck Jumps-->
 

@@ -9,8 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Exercise"></activity>
-        <activity android:name=".normalweight" />
+        <activity android:name=".supereasyworkout"></activity>
+        <activity android:name=".FunctionalFitness" />
+        <activity android:name=".Energyboostingarticle" />
+        <activity android:name=".Yogaarticle" />
+        <activity android:name=".fitnessplan" />
+        <activity android:name=".ExercisesYouCanDatome" />
+        <activity android:name=".Workoutmorning" />
+        <activity android:name=".Metabolism" />
+        <activity android:name=".Exercise" />
         <activity android:name=".Healthyeatingbasics" />
         <activity android:name=".exer" />
         <activity android:name=".ObeseActivity" />

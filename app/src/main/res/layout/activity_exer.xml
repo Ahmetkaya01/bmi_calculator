@@ -203,7 +203,7 @@ Weight training boosts the metabolism, helping a person burn more calories than 
                 android:textSize="24sp" />
 
             <Button
-                android:id="@+id/Exercises"
+                android:id="@+id/m.morning"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="See The Exercises"

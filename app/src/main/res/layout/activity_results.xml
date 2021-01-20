@@ -295,177 +295,196 @@
                 android:layout_height="5dp">
             </View>
 
-<!--            <TextView-->
-<!--                android:id="@+id/can1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="5 Starter Exercises for People Battling Obesity"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
+            <TextView
+                android:id="@+id/tcan1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="5 Starter Exercises for People Battling Obesity"
+                android:textColor="#000"
+                android:textSize="30sp" />
 
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
 
-<!--            <TextView-->
-<!--                android:id="@+id/can2"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:background="@drawable/edit_bg"-->
-<!--                android:gravity="center"-->
-<!--                android:text=" Swimming"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp" />-->
+            <TextView
+                android:id="@+id/tcan2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text=" Swimming"
+                android:textColor="#000"
+                android:textSize="20sp" />
 
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="250dp"-->
-<!--                android:src="@drawable/swimcan" />-->
-
-
-
-<!--            <TextView-->
-<!--                android:id="@+id/can3"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="165dp"-->
-
-<!--                android:gravity="center"-->
-<!--                android:text="Swimming and other water exercises are a great way to ease into exercise. Water makes the body feel lighter, allowing the person to burn calories without straining their joints and bones."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="12dp"></View>-->
-
-<!--            //todo How to Prevent Obesity in Kids and Adults//-->
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif3"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:src="@drawable/swimcan" />
 
 
-<!--            &lt;!&ndash; things to scroll &ndash;&gt;-->
 
-<!--            <TextView-->
-<!--                android:id="@+id/can4"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:background="@drawable/edit_bg"-->
-<!--                android:gravity="center"-->
-<!--                android:text=" Walking"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp"></View>-->
+            <TextView
+                android:id="@+id/tcan4"
+                android:layout_width="match_parent"
+                android:layout_height="165dp"
 
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:id="@+id/can5"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="250dp"-->
-<!--                android:src="@drawable/walkingcan" />-->
+                android:gravity="center"
+                android:text="Swimming and other water exercises are a great way to ease into exercise. Water makes the body feel lighter, allowing the person to burn calories without straining their joints and bones."
+                android:textColor="#000"
+                android:textSize="20sp" />
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp"></View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="12dp"></View>
 
-<!--            <TextView-->
-<!--                android:id="@+id/can6"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:text="This is probably the most popular form of exercise for anyone starting out. It’s free, there’s no equipment involved, and it’s not that difficult. Many people start out walking down the block. With time, they work up to longer walks, running, and even partaking in marathons. But it all started with a stroll down the street."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp"></View>-->
+            //todo How to Prevent Obesity in Kids and Adults//
 
-<!--            <TextView-->
-<!--                android:id="@+id/can7"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:background="@drawable/edit_bg"-->
-<!--                android:gravity="center"-->
-<!--                android:text=" Cycling"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp" />-->
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="250dp"-->
-<!--                android:src="@drawable/cancycling" />-->
 
-<!--            <TextView-->
-<!--                android:id="@+id/can8"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp"-->
-<!--                android:text="Getting on a bike is another low impact form of exercise that’s great for beginners. It doesn't matter if it’s a stationary bike or a road bike, this is a wonderful way to enjoy exercising." />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-<!--            <TextView-->
-<!--                android:id="@+id/can9"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:background="@drawable/edit_bg"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Stretching"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp"/>-->
+            <!-- things to scroll -->
 
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:id="@+id/can10"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="250dp"-->
-<!--                android:src="@drawable/stretchingcancan" />-->
+            <TextView
+                android:id="@+id/tcan5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text=" Walking"
+                android:textColor="#000"
+                android:textSize="20sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
 
-<!--            <TextView-->
-<!--                android:id="@+id/can11"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:text="Stretching is extremely important to reduce the soreness of newly worked muscles. Plus, it’s a great way to prevent injuries. Stretching can be difficult at first since the muscles are extremely tight. Again, it’s important to slowly and gently work up to the goal. Eventually, the muscles will start stretching and it will be a thoroughly enjoyable part of any workout."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp"/>-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-<!--            <TextView-->
-<!--                android:id="@+id/can12"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:background="@drawable/edit_bg"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Lifting Weights"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp"/>-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif6"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:src="@drawable/walkingcan" />
 
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:id="@+id/can13"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="250dp"-->
-<!--                android:src="@drawable/liftingscan" />-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
+            <TextView
+                android:id="@+id/tcan7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="This is probably the most popular form of exercise for anyone starting out. It’s free, there’s no equipment involved, and it’s not that difficult. Many people start out walking down the block. With time, they work up to longer walks, running, and even partaking in marathons. But it all started with a stroll down the street."
+                android:textColor="#000"
+                android:textSize="20sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
 
-<!--            <TextView-->
-<!--                android:id="@+id/tcan14"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:text="A common misconception is that cardio alone is what will help a person lose weight. While cardio is definitely important, weight training is vital as well.-->
+            <TextView
+                android:id="@+id/tcan8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text=" Cycling"
+                android:textColor="#000"
+                android:textSize="20sp" />
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif9"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:src="@drawable/cancycling" />
 
-<!--Weight training boosts the metabolism, helping a person burn more calories than with cardio alone. And this type of workout allows for “after-burn,” where the body continues to burn calories even after the workout."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="20sp" />-->
+            <TextView
+                android:id="@+id/tcan10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="20sp"
+                android:text="Getting on a bike is another low impact form of exercise that’s great for beginners. It doesn't matter if it’s a stationary bike or a road bike, this is a wonderful way to enjoy exercising." />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+            <TextView
+                android:id="@+id/tcan11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text="Stretching"
+                android:textColor="#000"
+                android:textSize="20sp"/>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif12"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:src="@drawable/stretchingcancan" />
+
+            <TextView
+                android:id="@+id/tcan13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Stretching is extremely important to reduce the soreness of newly worked muscles. Plus, it’s a great way to prevent injuries. Stretching can be difficult at first since the muscles are extremely tight. Again, it’s important to slowly and gently work up to the goal. Eventually, the muscles will start stretching and it will be a thoroughly enjoyable part of any workout."
+                android:textColor="#000"
+                android:textSize="20sp"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+            <TextView
+                android:id="@+id/tcan14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_bg"
+                android:gravity="center"
+                android:text="Lifting Weights"
+                android:textColor="#000"
+                android:textSize="20sp"/>
+
+<!--            tcan1-->
+<!--            tcan2-->
+<!--            gif3-->
+<!--            tcan4-->
+<!--            tcan5-->
+<!--            gif6-->
+<!--            tcan7-->
+<!--            tcan8-->
+<!--            gif9-->
+<!--            tcan10-->
+<!--            tcan11-->
+<!--            gif12-->
+<!--            tcan13-->
+<!--            tcan14-->
+<!--            gif15-->
+<!--            tcan16-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gif15"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:src="@drawable/liftingscan" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <TextView
+                android:id="@+id/tcan16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A common misconception is that cardio alone is what will help a person lose weight. While cardio is definitely important, weight training is vital as well.
+
+Weight training boosts the metabolism, helping a person burn more calories than with cardio alone. And this type of workout allows for “after-burn,” where the body continues to burn calories even after the workout."
+                android:textColor="#000"
+                android:textSize="20sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -474,7 +493,7 @@
 
 
             <Button
-                android:id="@+id/btn3"
+                android:id="@+id/btn01"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="30dp"

@@ -10,7 +10,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import javax.xml.transform.Result;
+import pl.droidsonroids.gif.GifImageView;
 
 public class Results extends AppCompatActivity {
 
@@ -36,6 +36,40 @@ public class Results extends AppCompatActivity {
     private TextView text16;
     private ImageView image17;
     private ImageView edit2;
+//
+//    tcan1
+//            tcan2
+//    gif3
+//            tcan4
+//    tcan5
+//            gif6
+//    tcan7
+//            tcan8
+//    gif9
+//            tcan10
+//    tcan11
+//            gif12
+//    tcan13
+//            tcan14
+//    gif15
+//            tcan16
+
+    private TextView tesla1;
+    private TextView tesla2;
+    private GifImageView gifcan3;
+    private TextView tesla4;
+    private TextView tesla5;
+    private GifImageView gifcan6;
+    private TextView tesla7;
+    private TextView tesla8;
+    private GifImageView gifcan9;
+    private TextView tesla10;
+    private TextView tesla11;
+    private GifImageView gifcan12;
+    private TextView tesla13;
+    private TextView tesla14;
+    private GifImageView gifcan15;
+    private TextView tesla16;
 
 
     @Override
@@ -59,11 +93,43 @@ public class Results extends AppCompatActivity {
         text15=findViewById(R.id.t15);
         text16=findViewById(R.id.t16);
         image17=findViewById(R.id.i17);
+=========
 
-
+         tesla1;
+        private TextView tesla2;
+        private GifImageView gifcan3;
+        private TextView tesla4;
+        private TextView tesla5;
+        private GifImageView gifcan6;
+        private TextView tesla7;
+        private TextView tesla8;
+        private GifImageView gifcan9;
+        private TextView tesla10;
+        private TextView tesla11;
+        private GifImageView gifcan12;
+        private TextView tesla13;
+        private TextView tesla14;
+        private GifImageView gifcan15;
+        private TextView tesla16;
+       xet= can1
+                tcan2
+        gif3
+                tcan4
+        tcan5
+                gif6
+        tcan7
+                tcan8
+        gif9
+                tcan10
+        tcan11
+                gif12
+        tcan13
+                tcan14
+        gif15
+                tcan16
 
         Answer = findViewById(R.id.tvAnswer);
-        Next = findViewById(R.id.btn3);
+        Next = findViewById(R.id.btn01);
         ResultImage = findViewById(R.id.imageViewResult);
 
         // Get BMI value sent from Main activity, using the key "bmiValue"
@@ -247,7 +313,7 @@ public class Results extends AppCompatActivity {
 
 
 
-        Button show = (Button) findViewById(R.id.btn3);
+        Button show = (Button) findViewById(R.id.btn01);
 
         show.setOnClickListener(new View.OnClickListener() {
             @Override

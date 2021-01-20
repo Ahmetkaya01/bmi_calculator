@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundandroid"
+    android:gravity="center">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:background="@android:color/holo_green_dark"
+                android:gravity="center"
+                android:text="Healthy Life Articles"
+                android:textColor="#000"
+                android:textSize="30sp" />
+
+//5morningworkout btn1
+          your  //
+
+            <View
+            android:layout_width="fill_parent"
+            android:layout_height="30dp">
+        </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@android:color/holo_blue_dark">
+
+            </View>
+
+
+
+            <Button
+                android:id="@+id/btn01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="?android:attr/colorActivatedHighlight"
+                android:gravity="center"
+                android:text="5-Move Morning Workout"
+                android:textColor="#fafafa" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="194dp"
+                app:srcCompat="@drawable/movemoving19" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@android:color/holo_blue_dark">
+
+            </View>
+
+            <Button
+                android:id="@+id/btn2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="?android:attr/colorActivatedHighlight"
+                android:gravity="center"
+                android:text="Your 30-Day Fitness Plan"
+                android:textColor="#fafafa" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                app:srcCompat="@drawable/gymplan" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@android:color/holo_blue_dark">
+
+            </View>
+            <Button
+                android:id="@+id/btn3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="?android:attr/colorActivatedHighlight"
+                android:gravity="center"
+                android:text="8 Quick Resistance-Band"
+                android:textColor="#fafafa" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="301dp"
+                app:srcCompat="@drawable/candoathome" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@android:color/holo_blue_dark">
+
+            </View>
+            <Button
+                android:id="@+id/btn4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="?android:attr/colorActivatedHighlight"
+                android:gravity="center"
+                android:text="12 Yoga Moves to Target Your Abs"
+                android:textColor="#fafafa" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="238dp"
+                app:srcCompat="@drawable/yoga" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@android:color/holo_blue_dark">
+
+            </View>
+            <Button
+                android:id="@+id/btn5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="?android:attr/colorActivatedHighlight"
+                android:gravity="center"
+                android:text="3 Energy-Boosting Outdoor Workouts"
+                android:textColor="#fafafa" />
+asimple15minuteworkout
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="match_parent"
+                android:layout_height="257dp"
+                app:srcCompat="@drawable/energyboosting" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@android:color/holo_blue_dark">
+
+            </View>
+            <Button
+                android:id="@+id/btn6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="?android:attr/colorActivatedHighlight"
+                android:gravity="center"
+                android:text="Everything You Need to Know About Functional Fitness"
+                android:textColor="#fafafa" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="match_parent"
+                android:layout_height="244dp"
+                app:srcCompat="@drawable/functionalfitness" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@android:color/holo_blue_dark">
+
+            </View>
+            <Button
+                android:id="@+id/btn7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="?android:attr/colorActivatedHighlight"
+                android:gravity="center"
+                android:text="A Simple 15-Minute Workout That Delivers Real Results"
+                android:textColor="#fafafa" />
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="match_parent"
+                android:layout_height="281dp"
+                app:srcCompat="@drawable/asimpleworkout" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@android:color/holo_blue_dark">
+
+            </View>
+            <Button
+                android:id="@+id/btn8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="15dp"
+                android:background="?android:attr/colorActivatedHighlight"
+                android:gravity="center"
+                android:text="5 Super-Easy Moves for a Full-Body Workout (No Weights Required)"
+                android:textColor="#fafafa" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="match_parent"
+                android:layout_height="219dp"
+                app:srcCompat="@drawable/wcanwork" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="@android:color/holo_blue_dark">
+
+            </View>
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
