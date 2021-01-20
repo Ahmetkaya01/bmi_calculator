@@ -1,15 +1,23 @@
 package com.example.calculatorbmi;
 
+import androidx.annotation.DrawableRes;
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import pl.droidsonroids.gif.GifImageView;
 
+import java.io.IOException;
+
+import pl.droidsonroids.gif.GifDrawable;
 import pl.droidsonroids.gif.GifImageView;
 
 public class Results extends AppCompatActivity {
@@ -36,6 +44,7 @@ public class Results extends AppCompatActivity {
     private TextView text16;
     private ImageView image17;
     private ImageView edit2;
+
 //
 //    tcan1
 //            tcan2
@@ -56,23 +65,40 @@ public class Results extends AppCompatActivity {
 
     private TextView tesla1;
     private TextView tesla2;
-    private GifImageView gifcan3;
+
     private TextView tesla4;
     private TextView tesla5;
-    private GifImageView gifcan6;
+
     private TextView tesla7;
     private TextView tesla8;
-    private GifImageView gifcan9;
+
     private TextView tesla10;
     private TextView tesla11;
-    private GifImageView gifcan12;
+
     private TextView tesla13;
     private TextView tesla14;
-    private GifImageView gifcan15;
+
     private TextView tesla16;
 
 
+    private GifImageView gifcan3;
+    private GifImageView gifcan6;
+    private GifImageView gifcan9;
+    private GifImageView  gifcan12;
+    private GifImageView  gifcan15;
+
     @Override
+
+//    gifcan3=findViewById(R.id.gif3);
+
+//    gifcan6=findViewById(R.id.gif6);
+
+//    gifcan9=findViewById(R.id.gif9);
+
+//    gifcan12=findViewById(R.id.gif12);
+
+
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_results);
@@ -108,26 +134,16 @@ public class Results extends AppCompatActivity {
          gifcan12=findViewById(R.id.gif12);
          tesla13=findViewById(R.id.tcan13);
          tesla14=findViewById(R.id.tcan14);
-         gifcan15=findViewById(R.id.gif15);
+        gifcan15=findViewById(R.id.gif15);
+
          tesla16=findViewById(R.id.tcan16);
 
-//       xet= can1
-//                tcan2
-//        gif3
-//                tcan4
-//        tcan5
-//                gif6
-//        tcan7
-//                tcan8
-//        gif9
-//                tcan10
-//        tcan11
-//                gif12
-//        tcan13
-//                tcan14
-//        gif15
-//                tcan16
 
+
+//      -  GifDrawable yourDrawable = new GifDrawable( getResources(), R.drawable.anim );
+//        gifcan12.setImageDrawable(yourDrawable)
+//        setDrawable da gifFromResource yapabilirsin
+//        GifDrawable gifFromResource = new GifDrawable( getResources(), R.drawable.anim );
         Answer = findViewById(R.id.tvAnswer);
         Next = findViewById(R.id.btn01);
         ResultImage = findViewById(R.id.imageViewResult);
@@ -255,11 +271,14 @@ public class Results extends AppCompatActivity {
                     " If you can’t do this much activity right away, try to be as physically active as you can." +
                     " Doing something is better than doing nothing at all.");
 
+          
+
             image17.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.phactivity));
 
+//            GifDrawable gifFromResource = new GifDrawable( getResources(), R.drawable.anim );
 
 
-
+//            setDrawable da gifFromResource
 
         } else {
 
@@ -304,38 +323,38 @@ public class Results extends AppCompatActivity {
 
             ////////////////////////////////////////////////////////////////////////
 
-//            tesla1=findViewById(R.id.tcan1);
+
             tesla1.setText("5 Starter Exercises for People Battling Obesity");
 
             tesla2.setText("Swimming");
-            gifcan3=findViewById(R.id.gif3);
+            gifcan15.setImageResource(R.drawable.swimcan);
 
 
             tesla4.setText("Swimming and other water exercises are a great way to ease into exercise. Water makes the body feel lighter, allowing the person to burn calories without straining their joints and bones.");
 
             tesla5.setText("Walking");
-            gifcan6=findViewById(R.id.gif6);
+            gifcan6.setImageResource(R.drawable.walkingcan);
 
 
             tesla7.setText("This is probably the most popular form of exercise for anyone starting out. It’s free, there’s no equipment involved, and it’s not that difficult. Many people start out walking down the block. With time, they work up to longer walks, running, and even partaking in marathons. But it all started with a stroll down the street.");
 
             tesla8.setText("Cycling");
-            gifcan9=findViewById(R.id.gif9);
+            gifcan9.setImageResource(R.drawable.cancycling);
 
 
             tesla10.setText("Getting on a bike is another low impact form of exercise that’s great for beginners. It doesn't matter if it’s a stationary bike or a road bike, this is a wonderful way to enjoy exercising.");
 
             tesla11.setText("Stretching");
-            gifcan12=findViewById(R.id.gif12);
 
-            gifcan12.setImageDrawable(R.id.gif12);
+            gifcan12.setImageResource(R.drawable.stretchingcancan);
+
+
             tesla13.setText("Stretching is extremely important to reduce the soreness of newly worked muscles. Plus, it’s a great way to prevent injuries. Stretching can be difficult at first since the muscles are extremely tight. Again, it’s important to slowly and gently work up to the goal. Eventually, the muscles will start stretching and it will be a thoroughly enjoyable part of any workout.");
 
             tesla14.setText("Lifting Weights");
 
+            gifcan15.setImageResource(R.drawable.liftingscan);
 
-
-            gifcan15.setImageDrawable(R.id.gif15);
 
             tesla16.setText("A common misconception is that cardio alone is what will help a person lose weight. While cardio is definitely important, weight training is vital as well.\n" +
                     "\n" +
@@ -346,9 +365,7 @@ public class Results extends AppCompatActivity {
 
 
 
-            image17.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.setup));
-
-
+                Button show = (Button) findViewById(R.id.btn01);
 
 
 
@@ -371,4 +388,9 @@ public class Results extends AppCompatActivity {
     }
 
 }
+
+
+
+
+
 
