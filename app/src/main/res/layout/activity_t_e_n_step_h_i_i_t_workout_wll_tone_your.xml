@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="This 10-Step HIIT Workout Will Tone Your Whole Body"
+                android:textColor="#000"
+                android:textSize="30sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+            <ImageView
+                android:id="@+id/p2"
+                android:layout_width="match_parent"
+                android:layout_height="376dp"
+                app:srcCompat="@drawable/titlecankan" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="To help you reach your health and fitness goals, we tapped Karena Dawn and Katrina Scott from Tone It Up for their advice. Here, they’ll let you in on all their fitness secrets, as well as a few tips and tricks along the way."
+                android:textColor="#000"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="322dp"
+                android:text="You’ve probably heard the buzz about HIIT workouts by now, and today we’re here to tell you that it’s true: These high-intensity routines are an incredibly effective way to rev your metabolism and sculpt every inch of your body. HIIT (aka high-intensity interval training) mixes short bursts of all-out, high-intensity effort with periods of recovery. We like to do a few slower paced, total-body toning moves during this recovery time to really boost that metabolism."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="146dp"
+                android:text="HIIT workouts are fast and efficient, so they’re perfect for when you’re on the go. When you join the Studio Tone It Up app, you can sign up for tons of incredible workout classes, including HIIT, kickboxing, and yoga sculpt that you can do anywhere."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="146dp"
+                android:text="Today’s workout includes 10 moves designed to tone your entire body. That’s the beauty of HIIT: It works your glutes, abs, and upper body, all while raising your heart rate, leaving you feeling energized and strong. Use these moves all season long whenever you need a quick sculpting routine."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="146dp"
+                android:text="Remember, HIIT workouts are designed to push your body, so make sure you’re refueling your muscles with plenty of protein. Give our favorite spring smoothies a try. They’re made with clean, non-GMO Tone It Up Protein ($27), so you can replenish your muscles with essential proteins and rev your metabolism all day long."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="239dp"
+                android:text="Go through three rounds of the moves below. Rest for 30 seconds between each round and always remember to hydrate!"
+                android:textColor="#141414"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+=========================================================================
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="01 - Cardio Burst: Squat Jumps"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/cardiobust" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Squat jumps tone your entire lower body while raising your heart rate and boosting your metabolism."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Stand tall with feet hip-width apart.
+Push hips back and lower into a squat.
+Push off the ground and jump as high into the air as possible.
+Land softly in a squat position.
+Do as many reps as you can in 30 seconds."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            =================================================================================
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="02 - Oblique Burners"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/obliquecan" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="This exercise sculpts your waistline (oblique muscles) and strengthens your shoulders."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Begin in a high plank position with your hands directly below your shoulders.
+With your core engaged, lift your right knee up to your right elbow.
+Lower and repeat on the opposite side.
+Do 15 reps on each side."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            =========================================================
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="03 - Cardio Burst: Burpee and Pushup"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/cardiobust" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="This burpee and pushup combination boosts your metabolism and sculpts your abs, chest, and shoulders."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Start with your feet hip-width apart, standing tall.
+Jump into the air, then lower your hands to the ground and hop your legs back into a high plank position.
+Lower your chest toward the ground and perform a pushup.
+Hop your legs forward with your feet landing next to your hands.
+From here, jump straight into the air.
+Modify this exercise as needed by taking out the jump or stepping back.
+Do as many reps as you can in 30 seconds."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            =========================================================
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="04 - Plank Hip Dips"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/plankhiphops" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Plank hip dips tone your core, obliques, and shoulders."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Begin in a high plank position with your elbows directly below your shoulders.
+Twist your hips down and to the left, then over to the right.
+Continue this movement back and forth while keeping your core engaged.
+Do 15 reps on each side."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            =========================================================
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="05 - Cardio Burst: Skaters"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/cardiobust" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="The skater exercise raises your metabolism and tones your booty, quads, and core."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Start on the right side of your mat. Squat slightly and jump to the left as far as you can, landing on your left foot and swinging your right leg behind you.
+Push off your left leg and now jump to the right, landing on your right foot.
+Continue alternating sides.
+Keep your core engaged throughout this exercise.
+Do as many as you can in 30 seconds."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            =========================================================
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="06 - Switch Jumps"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/switchjumps" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Switch jumps will not only burn some serious calories, they will also build power and strength in your lower body."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Start in a lunge position, with one leg bent in front and one leg straight behind.
+Place your hands on the floor in front of you.
+Use your arms to help stabilize your body as you push off while switching lunge positions.
+Your hands should stay on the ground the entire time.
+Push off again, switching your legs back to starting position.
+Do as many as you can in 30 seconds."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            =========================================================
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="07 - Tuck Jumps"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/truckjumps" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="This powerful exercise keep your heart rate in that fat burning zone, while strengthening your quads, hamstrings, and core."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Start in a slightly squatted position, with your arms in a straight line with your hips.
+Jump up and tuck your knees as you focus on using your core muscles to pull your knees up.
+Bring your arms in front as you tuck up.
+Return to the starting position.
+Do as many as you can in 30 seconds."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            =========================================================
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="08 - Mountain Climbers"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/mountainclimbersxd" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Mountain climbers are a fabulous fat-burning exercise because they work your core, while also giving you a great cardio workout."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Start in a plank position, with your core engaged and your hands under your shoulders.
+Lift your right knee and bring it towards your right elbow.
+As you bring your right knee back to the starting position, start moving your left knee towards your left elbow.
+Continue this ''running in place'' movement, making sure your core stays engaged throughout the exercise.
+Do as many as you can for 30 seconds."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            =======================================================
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="09 - Plank Jacks"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/plankjacksxde" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="This exercise takes the plank up to another level by incorporating your legs to really challenge your core."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Start in a plank position, with your body in a straight line and your hands under your shoulders.
+Engage your core as you jump your feet out to shoulder width apart.
+Return to the starting position with your legs in a straight line.
+Repeat 15 times."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            ======================================================
+
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="575dp"
+                android:text="10 - Jump Lunge and Squat"
+                android:textColor="#141414"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="308dp"
+                android:src="@drawable/jumplungecde" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="This exercise combines two amazing leg exercises—the lunge and the squat—into one powerful move that will strengthen and tone your lower body."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="184dp"
+                android:text="Start in a squat position with your arms in front.
+Jump back into a lunge position with your right leg behind and your left leg bent in front.
+Push off through your legs as you switch sides, placing your left leg behind you and your right leg bent in front.
+Continue switching sides.
+Repeat 15 times each side."
+                android:textColor="#141414"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"></View>
+
+            =====================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="02 - Warrior III Pose"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/warriorcan" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="184dp"-->
+<!--                android:text="Warrior III (Virabhadrasana III), the most challenging pose in the warrior series, combines balance with strength. This asana helps strengthen both the core and back muscles while helping to clear your mind."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="378dp"-->
+<!--                android:text="Begin at the top of your mat in mountain pose (Tadasana), begin to slowly stretch your body forward while simultaneously raising your right heel and leg backward and upwards. Keeping the toes flexed and pointing downwards, take your arms out in front of you, parallel to each other. Your neck is aligned with your spine, shoulders are relaxed, and gaze is focused down on one point on the mat to keep your balance. Stay in this pose for seven breaths before repeating on the other side."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="03 - Cobra Pose"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/cobrapose" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="203dp"-->
+<!--                android:text="The key to cobra pose (Bhujangasana) is to lift off the mat using your core, thus strengthening it, while keeping your arms light. This asana also improves the flexibility of your spine and relieves pain caused by menstruation and sciatica."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="354dp"-->
+<!--                android:text="Lie down on your belly, placing your legs together with the tops of all your toes firmly planted on the ground. Put your hands in line with your chest and on an inhale, clench your butt muscles and use your core to lift the upper body off the mat. Make sure your pelvis remains on the mat, your elbows are close to the sides of your body, your chest is open, and your shoulder blades are drawing downwards. Stay here for seven breaths."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            =========================================================================-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="04 - Plank Pose"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/plankrosecan" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="146dp"-->
+<!--                android:text="Plank pose (Phalakasana) is one of the key asanas meant to develop both arm and core strength."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="350dp"-->
+<!--                android:text="Begin on all fours with your shoulders in line with your wrists and fingers active and spread. Engage your belly upwards as you extend one leg back at a time with your toes tucked and your thighs nice and flexed. Your spine is long, and there is a straight line from the head to your heels. Keep your arms engaged as you push up from the mat, roll your shoulder blades down your back, and lengthen your tailbone towards your heels."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+<!--            ===============================================-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="05 - Side Plank Pose"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/sideplankrosecan" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="146dp"-->
+<!--                android:text="A variation on the traditional plank, side plank pose (Vasisthasana) further strengthens your core and arms while the added arm balance challenges focus and concentration."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="349dp"-->
+<!--                android:text="From plank, keep your core engaged as you turn onto the outside edge of your right foot while stacking your left foot on top of the right. Shifting your weight to your right hand, slowly raise your left hand up to the ceiling as you open your body towards the left side of the room. Your gaze is directly in front of you or to your middle finger of your left hand. Stay in the pose for seven breaths before coming back to plank and repeating on the other side. "-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            =========================================================================-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="06 - Dolphin Pose"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/dolphinrosecangif" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="187dp"-->
+<!--                android:text="Dolphin pose (Matsyakrida) not only targets your abs, but it may also improve the flexibility of your spine and help strengthen your shoulders—great for those of us looking to build our upper body strength."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="425dp"-->
+<!--                android:text="Begin by kneeling on the mat with your feet tucked under your buttocks. Put your elbows in front of your knees, and place your forearms on the mat, interlacing your fingers where they meet. Tuck your toes and slowly lift your hips to the ceiling, straightening your knees and coming to the shape of an inverted V. Take a breath in and lift your belly upwards and inwards, and on your exhale move your body forward, taking your chin in front of your clasped hands. Inhale, coming back to the starting position. Repeat at least 7-10 more times. "-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+<!--            ================================================================-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="07 - Cat Pose Crunches"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/catposegif" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="146dp"-->
+<!--                android:text="While regular cat pose (Marjariasana) is used to massage the spine, modifying it with a crunch targets the abs and also works on your balance and concentration."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="575dp"-->
+<!--                android:text="Start on your hands and knees, shoulders in line with your wrists, and your hips in line with your knees—this starting pose is commonly referred to as tabletop position. On an inhale, lift your right hand off the floor to shoulder height with fingers pointing forward. Engage your core and find your balance as you lift your left leg straight behind you to hip height, toes pointing downward. On your exhale, round your back and lift your belly upwards as you move your right elbow and left knee in towards your navel. Inhale back to starting position, and exhale to crunch. Repeat for five more breaths before returning to tabletop position, and repeat on the other side. "-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+<!--            ================================================================-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="08 - Upward Facing Plank Pose"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/upwardcangif" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="146dp"-->
+<!--                android:text="In addition to engaging the abdominal muscles, upward facing plank pose (Purvottanasana) is a great heart opening pose that stretches the shoulders, and ankles. It also helps strengthen the arms and wrists and is one I highly recommend practicing if you work in front of a computer all day long."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="575dp"-->
+<!--                android:text="Begin in a seated position with legs activated and outstretched. Place your hands on the mat keeping a forearm's distance between the fingertips and buttocks, with fingers spread active and pointing towards heels. On an inhale, expand your chest and draw your shoulder blades down as you slowly begin to lift your glutes off the ground, keeping your legs straight, thighs rolled inwards, and core engaged. Keep your chin pointing towards your chest, and your gaze to the front of the room. "-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+<!--            ================================================-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="09 - Camel Pose"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="341dp"-->
+<!--                android:src="@drawable/camelposecangif" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="146dp"-->
+<!--                android:text="A primer for other back bending poses in yoga, camel pose (Ustrasana) provides a deep stretch through your front body, which helps treat migraines2﻿ and pain associated with your monthly cycle."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="575dp"-->
+<!--                android:text="Start by kneeling with your knees hip distance apart and tops of the feet resting on your mat. Place your hands on the backs of your hips with fingers pointing downwards as you slowly begin to use your thigh muscles to lean back and reach for your heels, one hand at a time. Open through your chest and push your shoulder blades together as your head hangs backward. Stay in the pose for seven breaths, and make sure to bring your head up first when dismounting from the posture. "-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+<!--            ==============================================-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="10 - Boat Pose-->
+<!--"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/boatposegifcan" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="232dp"-->
+<!--                android:text="An excellent asana for developing your core, Boat Pose (Navasana) is more challenging than it looks. But the rewards of regular practice speak for themselves: strengthening of your spine, neck, and legs; improving mental strength by focusing on balancing in the pose."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="575dp"-->
+<!--                android:text="Sit on your mat with your feet extended in front of you. Lean back and find your balance on your sit bones as you slowly begin to lift your legs off the floor. Keep your legs straight, and feet pointed to the ceiling. Engage your abdomen and extend your arms straight towards your feet until they are parallel with the floor, palms facing each other. Your spine is lengthening as your balance on your sit bones. "-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+<!--            ==============================================-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="11 - Half-Boat Pose with a Twist"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/halfboatcangif" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="188dp"-->
+<!--                android:text="While half-boat pose (Ardha Navasana) is the asana you practice while working your way up to full boat pose, adding a modification in the form of a twist will turn the simple pose into a challenging one that targets your oblique muscles."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="575dp"-->
+<!--                android:text="Begin in boat pose with your legs fully extended to the ceiling, and arms at shoulder length in front of you. On an inhale bend at your knees and bring your hands to the middle, holding an imaginary ball between them. Exhale moving your knees to the right as you reach your arms to the left and slowly lower your torso halfway back down. Inhale coming back to the starting position—boat pose—and stay here for a couple of breaths, before repeating on the other side. This is one round; repeat three more times. "-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+<!--            ==============================================-->
+
+
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="12 - Modified Bridge Pose with Single Leg Lift"-->
+<!--                android:textColor="#000"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="308dp"-->
+<!--                android:src="@drawable/bridgeposecangif" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="185dp"-->
+<!--                android:text="Regular bridge pose (Setubandhasana) is excellent for strengthening the legs and glutes. Modifying it with alternating leg lifts engages the muscles in your core, effectively targeting and building your abs."-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="575dp"-->
+<!--                android:text="Lie in a supine position with your knees bent, and heels close to your hip bones. On your inhale, gently squeeze your glutes and slowly lift your pelvis up, one vertebra at a time. Keep your shoulder blades rotating inward, and your chin away from your chest. On your next inhale, slowly bring your right knee in towards your chest, squeezing your glute and straightening your leg upward. Keep your core engaged as you point your toes up toward the ceiling. Stay in the pose for seven breaths before releasing and repeating on the other side. "-->
+<!--                android:textColor="#141414"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="30dp"></View>-->
+<!--            ==============================================-->
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

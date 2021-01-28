@@ -121,7 +121,9 @@ public class Results extends AppCompatActivity {
         image17=findViewById(R.id.i17);
 //////////////////////////////////////
          tesla1=findViewById(R.id.tcan1);
+         tesla1.setVisibility(View.VISIBLE);
         tesla2=findViewById(R.id.tcan2);
+
          gifcan3=findViewById(R.id.gif3);
         tesla4=findViewById(R.id.tcan4);
         tesla5=findViewById(R.id.tcan5);
@@ -221,6 +223,58 @@ public class Results extends AppCompatActivity {
                     "-Have an occasional treat\n" +
                     "-Exercise");
 
+            tesla1.setText("5 Starter Exercises for People Battling Obesity");
+            tesla1.setVisibility(View.INVISIBLE);
+
+            tesla2.setText("Swimming");
+            tesla2.setVisibility(View.INVISIBLE);
+
+
+            tesla4.setText("Swimming and other water exercises are a great way to ease into exercise. Water makes the body feel lighter, allowing the person to burn calories without straining their joints and bones.");
+            tesla4.setVisibility(View.INVISIBLE);
+
+            tesla5.setText("Walking");
+            tesla5.setVisibility(View.INVISIBLE);
+
+            gifcan6.setImageResource(R.drawable.walkingcan);
+            gifcan6.setVisibility(View.INVISIBLE);
+
+            tesla7.setText("This is probably the most popular form of exercise for anyone starting out. It’s free, there’s no equipment involved, and it’s not that difficult. Many people start out walking down the block. With time, they work up to longer walks, running, and even partaking in marathons. But it all started with a stroll down the street.");
+            tesla7.setVisibility(View.INVISIBLE);
+
+            tesla8.setText("Cycling");
+            tesla8.setVisibility(View.INVISIBLE);
+
+            gifcan9.setImageResource(R.drawable.cancycling);
+            gifcan9.setVisibility(View.INVISIBLE);
+
+            tesla10.setText("Getting on a bike is another low impact form of exercise that’s great for beginners. It doesn't matter if it’s a stationary bike or a road bike, this is a wonderful way to enjoy exercising.");
+            tesla10.setVisibility(View.INVISIBLE);
+
+            tesla11.setText("Stretching");
+            tesla11.setVisibility(View.INVISIBLE);
+
+            gifcan12.setImageResource(R.drawable.stretchingcancan);
+            gifcan12.setVisibility(View.INVISIBLE);
+
+
+            tesla13.setText("Stretching is extremely important to reduce the soreness of newly worked muscles. Plus, it’s a great way to prevent injuries. Stretching can be difficult at first since the muscles are extremely tight. Again, it’s important to slowly and gently work up to the goal. Eventually, the muscles will start stretching and it will be a thoroughly enjoyable part of any workout.");
+            tesla13.setVisibility(View.INVISIBLE);
+
+            tesla14.setText("Lifting Weights");
+            tesla14.setVisibility(View.INVISIBLE);
+
+            gifcan15.setImageResource(R.drawable.liftingscan);
+            gifcan15.setVisibility(View.INVISIBLE);
+
+
+            tesla16.setText("A common misconception is that cardio alone is what will help a person lose weight. While cardio is definitely important, weight training is vital as well.\n" +
+                    "\n" +
+                    "Weight training boosts the metabolism, helping a person burn more calories than with cardio alone. And this type of workout allows for “after-burn,” where the body continues to burn calories even after the workout.");
+            tesla16.setVisibility(View.INVISIBLE);
+
+
+
             image17.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.setup));
 
 
@@ -271,7 +325,58 @@ public class Results extends AppCompatActivity {
                     " If you can’t do this much activity right away, try to be as physically active as you can." +
                     " Doing something is better than doing nothing at all.");
 
-          
+            tesla1.setText("5 Starter Exercises for People Battling Obesity");
+            tesla1.setVisibility(View.INVISIBLE);
+
+            tesla2.setText("Swimming");
+            tesla2.setVisibility(View.INVISIBLE);
+
+
+            tesla4.setText("Swimming and other water exercises are a great way to ease into exercise. Water makes the body feel lighter, allowing the person to burn calories without straining their joints and bones.");
+            tesla4.setVisibility(View.INVISIBLE);
+
+            tesla5.setText("Walking");
+            tesla5.setVisibility(View.INVISIBLE);
+
+            gifcan6.setImageResource(R.drawable.walkingcan);
+            gifcan6.setVisibility(View.INVISIBLE);
+
+            tesla7.setText("This is probably the most popular form of exercise for anyone starting out. It’s free, there’s no equipment involved, and it’s not that difficult. Many people start out walking down the block. With time, they work up to longer walks, running, and even partaking in marathons. But it all started with a stroll down the street.");
+            tesla7.setVisibility(View.INVISIBLE);
+
+            tesla8.setText("Cycling");
+            tesla8.setVisibility(View.INVISIBLE);
+
+            gifcan9.setImageResource(R.drawable.cancycling);
+            gifcan9.setVisibility(View.INVISIBLE);
+
+            tesla10.setText("Getting on a bike is another low impact form of exercise that’s great for beginners. It doesn't matter if it’s a stationary bike or a road bike, this is a wonderful way to enjoy exercising.");
+            tesla10.setVisibility(View.INVISIBLE);
+
+            tesla11.setText("Stretching");
+            tesla11.setVisibility(View.INVISIBLE);
+
+            gifcan12.setImageResource(R.drawable.stretchingcancan);
+            gifcan12.setVisibility(View.INVISIBLE);
+
+
+            tesla13.setText("Stretching is extremely important to reduce the soreness of newly worked muscles. Plus, it’s a great way to prevent injuries. Stretching can be difficult at first since the muscles are extremely tight. Again, it’s important to slowly and gently work up to the goal. Eventually, the muscles will start stretching and it will be a thoroughly enjoyable part of any workout.");
+            tesla13.setVisibility(View.INVISIBLE);
+
+            tesla14.setText("Lifting Weights");
+            tesla14.setVisibility(View.INVISIBLE);
+
+            gifcan15.setImageResource(R.drawable.liftingscan);
+            gifcan15.setVisibility(View.INVISIBLE);
+
+
+            tesla16.setText("A common misconception is that cardio alone is what will help a person lose weight. While cardio is definitely important, weight training is vital as well.\n" +
+                    "\n" +
+                    "Weight training boosts the metabolism, helping a person burn more calories than with cardio alone. And this type of workout allows for “after-burn,” where the body continues to burn calories even after the workout.");
+            tesla16.setVisibility(View.INVISIBLE);
+
+
+
 
             image17.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.phactivity));
 
@@ -365,7 +470,7 @@ public class Results extends AppCompatActivity {
 
 
 
-                Button show = (Button) findViewById(R.id.btn01);
+
 
 
 

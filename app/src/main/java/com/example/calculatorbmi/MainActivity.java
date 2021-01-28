@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         Weight=findViewById(R.id.etWeight);
         Height=findViewById(R.id.etHeight);
 
+
         Calculate = findViewById(R.id.btCalculate);
 
         // Open Results Activity when Calculate button tapped!

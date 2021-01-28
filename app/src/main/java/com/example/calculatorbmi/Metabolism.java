@@ -46,7 +46,7 @@ public class Metabolism extends AppCompatActivity {
                         workout.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(Metabolism.this, com.example.calculatorbmi.Workoutmorning.class));
+                                startActivity(new Intent(Metabolism.this, FiveMoveMorningworkout.class));
                             }
                         });
 
@@ -63,10 +63,10 @@ public class Metabolism extends AppCompatActivity {
                         Quickresistance= findViewById(R.id.btn3);
                         Button quick = (Button) findViewById(R.id.btn3);
 
-                        quick.setOnClickListener(new View.OnClickListener() {
+                       quick.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(Metabolism.this,ExercisesYouCanDatome.class));
+                                startActivity(new Intent(Metabolism.this,EightQuickresistance.class));
                             }
                         });
 
@@ -87,7 +87,7 @@ public class Metabolism extends AppCompatActivity {
                             @Override
                             public void onClick(View v) {
 
-                                startActivity(new Intent(Metabolism.this,Energyboostingarticle.class));
+                                startActivity(new Intent(Metabolism.this,FiveBurpeeWorkouts.class));
                             }
                         });
 
@@ -107,7 +107,7 @@ public class Metabolism extends AppCompatActivity {
                         simplework.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(Metabolism.this,ExercisesYouCanDatome.class));
+                                startActivity(new Intent(Metabolism.this,TENStepHIITWorkoutWllToneYour.class));
                             }
                         });
 

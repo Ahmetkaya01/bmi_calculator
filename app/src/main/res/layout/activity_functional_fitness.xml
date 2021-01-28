@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FunctionalFitness">
+    tools:context=".FunctionalFitness"
+    android:orientation="vertical">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <VideoView
+        android:id="@+id/VideoPlayer"
+        android:layout_width="match_parent"
+        android:layout_height="505dp" />
+
+    <Button
+        android:id="@+id/btn_Play"
+        android:layout_width="match_parent"
+        android:layout_height="94dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:text="Play"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+
+</LinearLayout>
+
+
+
+
