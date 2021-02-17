@@ -6,6 +6,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#010203"
+
     android:gravity="center">
 
     <ScrollView
@@ -16,19 +18,31 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+
+            ///
+            DONE///
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp">
+            </View>
+
             <TextView
                 android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="@drawable/edit_bg"
+                android:layout_height="63dp"
+
+                android:background="@drawable/btn_bg"
                 android:gravity="center"
                 android:text="Healthy Eating Basics"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -38,52 +52,52 @@
             <ImageView
                 android:id="@+id/p2"
                 android:layout_width="match_parent"
-                android:layout_height="259dp"
+                android:layout_height="288dp"
                 app:srcCompat="@drawable/womanchopping" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:text="Eating a healthy, balanced diet is one of the most important things you can do to protect your health. In fact, up to 80% of premature heart disease and stroke can be prevented through your life choices and habits, such as eating a healthy diet and being physically active."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
 
             <ImageView
                 android:id="@+id/imageView11"
                 android:layout_width="match_parent"
-                android:layout_height="258dp"
+                android:layout_height="236dp"
                 app:srcCompat="@drawable/food" />
 
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="256dp"
+                android:layout_height="172dp"
+                android:paddingLeft="5dp"
                 android:text="A healthy diet can help lower your risk of heart disease and stroke by:
 
                 1-improving your cholesterol levels
                 2-reducing your blood pressure
                 3-helping you manage your body weight
                 4-controlling your blood sugar."
-                android:textColor="#141414"
+                android:textColor="#FDFEFE"
                 android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             //todo How to Prevent Obesity in Kids and Adults//
@@ -101,29 +115,40 @@
                 android:layout_width="fill_parent"
                 android:layout_height="30dp"></View>
 
-            <TextView
-                android:id="@+id/t6"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:gravity="center"
-                android:background="@drawable/edit_bg"
-                android:textColor="#000"
-                android:textSize="25sp"
-                android:text="Go Big for Breakfast"/>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
-            <TextView
-                android:id="@+id/t7"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#141414"
-                android:textSize="23sp"
-                android:text="People who eat more in the morning and less at night tend to lose more weight. Some studies suggest that starting your day with a high-protein meal -- especially warm, solid food -- helps you feel fuller and less hungry later. Shoot for 350-400 calories with at least 25 grams of protein, says Domenica Rubino, MD, director of the Washington Center for Weight Management/Research." />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t6"
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Go Big for Breakfast"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t7"
+                android:layout_width="match_parent"
+                android:layout_height="309dp"
+                android:paddingLeft="10dp"
+                android:text="People who eat more in the morning and less at night tend to lose more weight. Some studies suggest that starting your day with a high-protein meal -- especially warm, solid food -- helps you feel fuller and less hungry later. Shoot for 350-400 calories with at least 25 grams of protein, says Domenica Rubino, MD, director of the Washington Center for Weight Management/Research."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
 
             <ImageView
                 android:id="@+id/i8"
@@ -131,93 +156,145 @@
                 android:layout_height="327dp"
                 app:srcCompat="@drawable/obesebreakfast" />
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
             <TextView
                 android:id="@+id/t9"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:gravity="center"
-                android:textColor="#000"
-                android:background="@drawable/edit_bg"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp"
                 android:text="Keep a Photo Diary"/>
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
+
             <TextView
                 android:id="@+id/t10"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#000"
-                android:textSize="20sp"
-                android:text="‘We have horrible memories in terms of what we eat,’ says Susan Albers, PsyD, author of EatQ. Save your food photos in a daily file. Before your next snack or meal, review them. They'll remind you what you've already eaten. And that may help you decide to downsize or choose something else." />
+                android:layout_height="229dp"
+                android:paddingLeft="10dp"
+                android:text="‘We have horrible memories in terms of what we eat,’ says Susan Albers, PsyD, author of EatQ. Save your food photos in a daily file. Before your next snack or meal, review them. They'll remind you what you've already eaten. And that may help you decide to downsize or choose something else."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
+
 
 
             <ImageView
                 android:id="@+id/i11"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="299dp"
                 app:srcCompat="@drawable/obesetakepic" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@drawable/edit_bg"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Try a Meal Replacement Plan"
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
+
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#000"
-                android:textSize="20sp"
-                android:text="Under a licensed professional's care, you'll eat one regular meal per day and swap the others for special shakes, soups, or bars. ''If you can stick to it, you'll see big results in 6 months to a year,'' says Ken Fujioka, MD, an obesity specialist at the Scripps Clinic in San Diego."/>
+                android:layout_height="226dp"
+                android:paddingLeft="10dp"
+                android:text="Under a licensed professional's care, you'll eat one regular meal per day and swap the others for special shakes, soups, or bars. ''If you can stick to it, you'll see big results in 6 months to a year,'' says Ken Fujioka, MD, an obesity specialist at the Scripps Clinic in San Diego."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <ImageView
                 android:id="@+id/i14"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="292dp"
                 app:srcCompat="@drawable/tryameal" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@drawable/edit_bg"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Set Up Your Food Storage"
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp"/>
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
+
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="#000"
-                android:textSize="20sp"
-                android:text="Out of sight, out of mind -- and mouth. After you purge your home of those treats you can't resist, Albers recommends taking the idea a step further: Assign shelves in the pantry and the fridge so your healthy food becomes easy to see and reach. Put fresh veggies and fruit at eye level instead of inside a drawer, and you're more likely to grab them when you open the door."/>
+                android:layout_height="305dp"
+                android:paddingLeft="10dp"
+                android:text="Out of sight, out of mind -- and mouth. After you purge your home of those treats you can't resist, Albers recommends taking the idea a step further: Assign shelves in the pantry and the fridge so your healthy food becomes easy to see and reach. Put fresh veggies and fruit at eye level instead of inside a drawer, and you're more likely to grab them when you open the door."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
+
             <ImageView
                 android:id="@+id/i17"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="299dp"
                 app:srcCompat="@drawable/setup" />
 
             <View
@@ -231,10 +308,17 @@
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="30dp"
                 android:layout_marginVertical="15dp"
-                android:background="@drawable/btn_bg"
+                android:background="#FDFEFE"
+
                 android:gravity="center"
                 android:text="See The Exercise"
-                android:textColor="#fafafa" />
+                android:textColor="#000"
+                />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
 
 
         </LinearLayout>

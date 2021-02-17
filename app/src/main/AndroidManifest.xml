@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.calculatorbmi">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -9,7 +14,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".player"></activity>
+        <activity android:name=".Plankitup"></activity>
+        <activity android:name=".thebestbuttworkouts" />
+        <activity android:name=".Randomworkout" />
+        <activity android:name=".browse" />
+        <activity android:name=".allfooddiet" />
+        <activity android:name=".MainActivity1" />
+        <activity android:name=".SelfLove" />
+        <activity android:name=".Antistress" />
+        <activity android:name=".happinies" />
+        <activity android:name=".FitnessArticle" />
+        <activity android:name=".Articles" />
         <activity android:name=".TENStepHIITWorkoutWllToneYour" />
         <activity android:name=".FiveBurpeeWorkouts" />
         <activity android:name=".FiveMoveMorningworkout" />

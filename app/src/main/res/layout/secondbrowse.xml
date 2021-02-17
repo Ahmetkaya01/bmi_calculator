@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <LinearLayout
+        android:layout_height="350sp"
+        android:layout_width="320sp">
+        <LinearLayout
+            android:id="@+id/viewContainer"
+            android:background="#CCCCCC"
+            android:layout_width="640sp"
+            android:layout_height="700sp">
+
+         
+        </LinearLayout>
+    </LinearLayout>
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="320sp"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1"
+        android:gravity="bottom"
+        android:layout_alignParentBottom="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#333333"
+            android:gravity="bottom">
+
+            <Button
+                android:id="@+id/btnScreenUp"
+                android:layout_width="wrap_content"
+                android:layout_height="95dp"
+                android:layout_gravity="right"
+                android:text="Scrn U" />
+            <Button
+                android:id="@+id/btnScreenUp"
+                android:layout_width="wrap_content"
+                android:layout_height="95dp"
+                android:layout_gravity="right"
+                android:text="Scrn U" />
+        </TableRow>
+        <TableRow
+            android:background="#444444"
+            android:layout_gravity="right"/>
+    </TableLayout>
+</FrameLayout>

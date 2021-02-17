@@ -1,4 +1,15 @@
 <resources>
     <string name="btCalculate">Calculate</string>
     <string name="app_name">CalculatorBmi</string>
+    <string name="articlefitness">Fitness</string>
+    <string name="articleyoga">Yoga</string>
+    <string name="articlewalking">Walking</string>
+    <string name="articledance">Dance</string>
+    <string name="articlerunning">Running</string>
+    <string name="articlenutrition">Nutrition</string>
+    <string name="articlemedidation">Meditation</string>
+    <string name="articlesleep">Sleep</string>
+    <string name="articlemusicsounds">Music  Sounds</string>
+    <string name="articlecollections">Collections</string>
+    <string name="articletips">Tips</string>
 </resources>

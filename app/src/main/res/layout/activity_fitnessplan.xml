@@ -6,9 +6,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#010203"
+
     android:gravity="center">
-
-
 
     <ScrollView
         android:layout_width="match_parent"
@@ -18,15 +18,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+
+            //DONE
+            DONE
+            DONE//
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="2dp"
-                android:background="@android:color/background_dark">
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
 
             </View>
             <View
@@ -39,24 +43,9 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="Your 30-Day Fitness "
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
                 android:textSize="30sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="2dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
 
             <View
                 android:layout_width="fill_parent"
@@ -66,34 +55,41 @@
             <ImageView
                 android:id="@+id/p2"
                 android:layout_width="match_parent"
-                android:layout_height="548dp"
-                app:srcCompat="@drawable/body30" />
+                android:layout_height="271dp"
+                app:srcCompat="@drawable/updateworkout" />
 
             //workoutnac//
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
 
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
                 android:layout_height="149dp"
+                android:paddingLeft="10dp"
                 android:text=" Take this 30-day beach body challenge for toned arms, shapely legs and a slim waist. This equipment-free workout can be done from the comfort of your home, on-the-go or at the beach."
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
                 android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
 
             <ImageView
                 android:id="@+id/imageView11"
                 android:layout_width="match_parent"
-                android:layout_height="293dp"
+                android:layout_height="290dp"
                 app:srcCompat="@drawable/fitness1" />
+
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
 
@@ -102,6 +98,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="739dp"
                 app:srcCompat="@drawable/planfitness" />
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp"></View>
@@ -111,51 +108,103 @@
                 android:layout_width="match_parent"
                 android:layout_height="739dp"
                 app:srcCompat="@drawable/planfitness2" />
----------------------------------------
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Push-Ups"
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
                 android:textSize="30sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
+
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="422dp"
                 android:src="@drawable/pushups" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
                 android:text="Target: Chest, Arms, Shoulders and Triceps"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Push-ups are a great exercise to challenge your core and upper-body strength. To decrease the difficulty of the exercise, you can add an incline position by resting your hands on a wall, bench or chair."
-                android:textColor="#010203"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <!-- things to scroll -->
+ -----------------------------------------------------
+
+
+            <TextView
+                android:id="@+id/tvAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Power Jacks"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
@@ -163,49 +212,29 @@
                 android:layout_height="30dp">
             </View>
 
-            //todo How to Prevent Obesity in Kids and Adults//
-
-
-            <!-- things to scroll -->
------------------------------------------------------
-
-
-            <TextView
-                android:id="@+id/tvAnswer"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="Power Jacks"
-                android:textColor="#000"
-                android:textSize="30sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="409dp"
                 android:src="@drawable/powerjacks" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
                 android:text="Target: Full-Body"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
@@ -213,15 +242,25 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Power jacks are a great full-body cardio exercise to burn fat. By adding the power to the jack, you’ll target your glutes and thighs and increase the difficulty of the exercise by leaps and bounds. For a modified version, perform regular jumping jacks without the added squat motion. "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
             --------------------------------------------------
 
             <TextView
@@ -229,9 +268,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Plank Up-Downs"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:text="- Plank Up-Downs -"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="25dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -240,45 +280,53 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="405dp"
                 android:src="@drawable/plankup" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
                 android:text="Target: Core, Shoulders - Triceps"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Plank Up-Downs are a great exercise for strengthening your core, shoulders and triceps in one go while keeping your heart rate in the fat-burning zone. For a modified version, leave your knees in contact with the ground.  "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
 
-            --------------------------------------------------
-
-
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
@@ -286,53 +334,65 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="Plyo Lunges"
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
                 android:textSize="30sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="411dp"
                 android:src="@drawable/plyo" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
                 android:text="Target: Quads, Hamstrings, Glutes"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Plyo lunges are the perfect lower-body exercise for beach-ready legs. Jump training exercises are notorious for toning your legs faster and shedding extra calories. If you find that plyo lunges are too challenging, perform reverse lunges instead.
 
 Note: For this exercise, right-left is considered one repetition.   "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
             --------------------------------------------------
 
@@ -341,119 +401,144 @@ Note: For this exercise, right-left is considered one repetition.   "
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Side Plank Crunches"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:text="- Side Plank Crunches -"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="398dp"
                 android:src="@drawable/sideplank" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
                 android:text="Target: Right and Left Obliques, Shoulders, Triceps"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Let’s focus on your obliques for the beach! Side plank crunches are the perfect exercise for developing deep core strength and getting rid of stubborn belly fat. For a modified version, leave your top leg on the ground instead of stacking your feet.
 
 Note: For this exercise, complete the required amount of repetitions on one side and then switch to the opposite side.   "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
 
             --------------------------------------------------
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Drop Squats"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textStyle="bold"
+                android:text="- Drop Squats - "
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="403dp"
                 android:src="@drawable/dropsquats" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
                 android:text="Target: Quads and Glutes"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Add a little more intensity to your squat. Drop squats target your glutes and quadriceps and because they’re explosive, you’ll burn extra calories. If drop squats are too challenging, perform regular air squats instead.   "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
 
-            --------------------------------------------------
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Knee Tucks"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -462,99 +547,121 @@ Note: For this exercise, complete the required amount of repetitions on one side
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="410dp"
                 android:src="@drawable/kneetucks" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
                 android:text="Target: Core, Hip Flexors, Quads"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Look and feel your best at the beach! Knee tucks work both your upper and lower abdominal muscles to get you beach body ready.   "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
 
-            --------------------------------------------------
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Mountain Climbers"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="400dp"
                 android:src="@drawable/mountainclimbers" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
                 android:text="Target: Full-Body"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="If you’ve been looking for one of the most effective bodyweight exercises around, look no further. Mountain climbers hit your entire body while keeping your heart rate high enough to burn all those extra calories.
 
 Note: For this exercise, right-left is considered one repetition.    "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
 
-            --------------------------------------------------
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
 
             <TextView
@@ -562,95 +669,119 @@ Note: For this exercise, right-left is considered one repetition.    "
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Burpees"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:text="- Burpees -"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="409dp"
                 android:src="@drawable/burpess" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
                 android:text="Target: Full-Body"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="If there is one exercise that hits it all, it’s burpees. Burpees engage multiple muscle groups at once, making them one of the best strength-cardio exercises around. Add this exercise to the mix and reap the benefits of increased strength and maximized calorie burn.
 
 Note: For a modified version, walk your feet up to your hands one at a time and then stand nice and tall. Omit the jumping portion at the top of the movement.  "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
 
             --------------------------------------------------
 
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="1.5dp"
+                            android:background="@android:color/background_light">
+                        </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Plank Jacks "
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textStyle="bold"
+                android:text="- Plank Jacks - "
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="400dp"
                 android:src="@drawable/plankjacks" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="2dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
                 android:text="Target: Core, Shoulders, Tricepsy"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
@@ -660,8 +791,9 @@ Note: For a modified version, walk your feet up to your hands one at a time and 
                 android:text="If you think regular planks are easy, try this!  Add plank jacks to your workout routine to elevate your heart rate to the fat-burning zone while increasing your upper-body strength. If you find plank jacks are too challenging, step your feet in and out instead of jumping.
 
 Note: For this exercise, out-in with your feet is considered one repetition.   "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -669,492 +801,7 @@ Note: For this exercise, out-in with your feet is considered one repetition.   "
             </View>
 
 
-            --------------------------------------------------
-            <!--            <ImageView-->
-<!--                android:id="@+id/i8"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="342dp"-->
-<!--                app:srcCompat="@drawable/howtoincrease" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp"></View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t6"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="match_parent"-->
-
-<!--                android:textColor="#000"-->
-<!--                android:textSize="25sp"-->
-<!--                android:text="Plan your workout the night before so that you don't have to make decisions or put in too much thought when your brain is still wishing it was checked out in la-la land. The more you can do the night before to cut down on the time and brain power you need in the morning before your workout, the better."/>-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp"></View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp"></View>-->
-
-
-<!--            <TextView-->
-<!--                android:id="@+id/t9"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="match_parent"-->
-
-<!--                android:text="So, put together a playlist of your favorite pump-up songs, set one (or two!) alarms, and get excited for your new morning workout routine. This workout doesn’t require any equipment, so it’s the perfect routine to do anytime, anywhere."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="25sp" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="4dp"-->
-<!--                android:background="@android:color/background_dark">-->
-
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-
-<!--                android:text="Go through one or two rounds of the five HIIT moves below to transform your morning exercise routine and start your day off right."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="4dp"-->
-<!--                android:background="@android:color/background_dark">-->
-
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Jump Lunge"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="308dp"-->
-<!--                android:src="@drawable/jumplunge" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-
-<!--                android:text="Strengthens your legs, butt, and core."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-
-<!--                android:text="Start in a standing position and jump your right leg forward and your left leg back, landing in a lunge position with both knees bent. You should for 90-degree bends in both legs.-->
-<!--Jump up and switch your legs in mid-air so that you land in a lunge position with your left leg in front.-->
-<!--Continue jumping back and forth, switching sides with each rep."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-
-<!--                android:text="Continue for 20 seconds, and then rest for 10 seconds. Repeat a total of two times before moving to the next exercise."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="4dp"-->
-<!--                android:background="@android:color/background_dark">-->
-
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Squat Up Down"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="308dp"-->
-<!--                android:src="@drawable/squatup" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp"></View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Sculpts your lower body and core."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Start in a standing position with your hands on your hips, feet together, and a slight bend in your knees.-->
-<!--Step your left leg back, lowering into a half-kneeling position.-->
-<!--Repeat on your right leg, then immediately step your right leg out in front of you to push yourself back up to the starting position.-->
-<!--Switch the starting leg with each rep."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Complete 15 reps on each side."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="4dp"-->
-<!--                android:background="@android:color/background_dark">-->
-
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="High Knees"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="308dp"-->
-<!--                android:src="@drawable/highknees" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Works your core while boosting your heart rate."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Start by standing with your feet hip-width apart and your hands in front of you at a 90-degree angle with your palms facing down.-->
-<!--Lift your left knee up to touch your left palm, then quickly alternate sides, lifting your right knee to your right palm as the opposite knee lowers.-->
-<!--Switch sides with each rep."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Continue for 20 seconds, and then rest for 10 seconds. Repeat a total of two times before moving on to the next exercise."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="4dp"-->
-<!--                android:background="@android:color/background_dark">-->
-
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Side Plank Hip Dips"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="308dp"-->
-<!--                android:src="@drawable/sideplank" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Sculpts your obliques, core, hips, and shoulders."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Sculpts your obliques, core, hips, and shoulders.-->
-
-<!--Start on the ground in a side plank position with your right foot placed out in front of your left foot and right arm raised up towards the sky.-->
-<!--Lower your hips up and down a few inches.-->
-<!--Complete all reps before switching sides."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Perform 15 reps on each side."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="4dp"-->
-<!--                android:background="@android:color/background_dark">-->
-
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            ///////////////////////////////////////////////////////////////////-->
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Mountain Climbers"-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <pl.droidsonroids.gif.GifImageView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="308dp"-->
-<!--                android:src="@drawable/mountainclimbers" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/tvAnswer"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Strengthens your core, shoulders, legs, and hip flexors, and gets your heart pumping."-->
-<!--                android:textColor="#000"-->
-<!--                android:textSize="30sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Start on the ground in a high plank position with your shoulders over your wrists and your core tight.-->
-<!--Bring your right knee under your torso up towards your chest.-->
-<!--Return your right leg to starting position while pulling your left knee under your torso up towards your chest.-->
-<!--Switch sides with each rep and move as quickly as possible while keeping good form."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Continue for 20 seconds. Then rest for 10 seconds. Repeat a total of two times."-->
-<!--                android:textColor="#010203"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="4dp"-->
-<!--                android:background="@android:color/background_dark">-->
-
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-
-
-
-
+<!--         -->
 
 
         </LinearLayout>

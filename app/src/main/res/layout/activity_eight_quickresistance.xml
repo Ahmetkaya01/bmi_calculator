@@ -6,6 +6,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#010203"
+
     android:gravity="center">
 
     <ScrollView
@@ -16,59 +18,51 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+
+            //DONE
+            DONE
+            DONE//
+
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="10dp">
+                android:layout_height="15dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="2dp"
-                android:background="@android:color/background_dark">
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
 
             </View>
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="10dp">
+                android:layout_height="15dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/bandarmexercises"
                 android:layout_width="match_parent"
                 android:layout_height="113dp"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="8 Quick Resistance-Band Arm Exercises You Can Do at Home"
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
                 android:textSize="28sp" />
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="2dp"
-                android:background="@android:color/background_dark">
 
-            </View>
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
 
             <ImageView
-                android:id="@+id/p2"
+                android:id="@+id/candoathome"
                 android:layout_width="match_parent"
                 android:layout_height="548dp"
                 app:srcCompat="@drawable/candoathome" />
 
-            //workoutnac//
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
 
 
             <TextView
@@ -76,12 +70,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="280dp"
                 android:text="We absolutely love resistance bands. They’re so convenient to throw in your gym bag and take your workouts anywhere. Plus, they'll help you target every muscle group—big and small—to leave you feeling toned all over. Resistance bands are the perfect tool to add some extra intensity, too. The greater the resistance, the more energy you’ll burn."
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
                 android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="10dp">
             </View>
 
 
@@ -90,48 +86,48 @@
                 android:layout_width="match_parent"
                 android:layout_height="293dp"
                 app:srcCompat="@drawable/tips5" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
+
 
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="216dp"
+                android:layout_height="wrap_content"
                 android:text="Today, we’re sharing some of our favorite arm exercises using a resistance band. From your triceps and biceps to your shoulders and entire core, get ready to feel the burn. For the best results, complete three rounds of each move, and do 15 reps each."
-                android:textColor="#141414"
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
                 android:textSize="23sp" />
 
-            ---------------------------------------------------------------------------
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
 
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
+
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/banbicep"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Band Bicep Curl"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
@@ -144,76 +140,72 @@
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/thismove"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
                 android:text="This move primarily targets your biceps with some forearm activation. Be sure to lower the band slowly with control, not letting it snap back down. Brace your core throughout."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="15dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/standing"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Standing with feet hip-width apart, place the resistance band under your feet and hold a handle in each hand, palms facing up, in an underhand grip.
 Curl the band up to shoulder height, then lower."
-                android:textColor="#010203"
-                android:textSize="25sp" />
-
-
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/do1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="- Do 15 reps"
-                android:textColor="#000"
+                android:textStyle="bold"
+                android:text="- Do 15 reps -"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
-
-
-
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             ---------------------------------------------------------------------
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
+                android:layout_height="15dp">
             </View>
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/bandtriceps"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Band Triceps Kickback"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -230,12 +222,14 @@ Curl the band up to shoulder height, then lower."
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/moveprimaly"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="This move primarily sculpts your triceps with some core activation. Keep a slight bend in your knees, squeeze the band at the top, and lower slowly and with control."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:paddingRight="5dp"
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -243,80 +237,64 @@ Curl the band up to shoulder height, then lower."
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/feet"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Standing with feet hip-width apart, place the resistance band under your feet and hold a handle in each hand, palms facing in.
 With a flat back and core engaged, hinge forward at the waist and bend your arms to 90 degrees.
 Keeping elbows tucked close to your sides, extend your arms straight back behind you, and then return to start position. "
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
 
 
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/do123"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="- Do 15 reps"
-                android:textColor="#000"
+                android:textStyle="bold"
+                android:text="- Do 15 reps -"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="10dp">
             </View>
-
-
-
             -------------------------------------------------------------------
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/bandforward"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Band Forward Raise"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
@@ -325,16 +303,17 @@ Keeping elbows tucked close to your sides, extend your arms straight back behind
                 android:src="@drawable/bandforward" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/stengthen"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="This move will strengthen your shoulders, particularly the front deltoids. Keep a slight bend in your elbows at all times. Pause at the top to feel the muscle contract before lowering slowly, with control, back to the starting position."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -342,177 +321,143 @@ Keeping elbows tucked close to your sides, extend your arms straight back behind
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/foot"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Stand with one foot staggered slightly in front of the other, and place the resistance band under your front foot.
 Holding a handle in each hand, palms facing your thighs in an overhand grip, raise your arms straight out in front of you until you reach shoulder height, then lower back down to start position. "
-                android:textColor="#010203"
-                android:textSize="25sp" />
-
-
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/bold"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="- Do 15 reps"
-                android:textColor="#000"
+                android:textStyle="bold"
+                android:text="- Do 15 reps -"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
+                android:layout_height="1.5dp"
                 android:background="@android:color/background_dark">
 
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
-
-            --------------------------------------------------------------
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/latpull"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Band Lat Pull"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
                 android:layout_height="354dp"
                 android:src="@drawable/bandlatpull" />
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/banlatpulls"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="152dp"
+                android:paddingLeft="10dp"
                 android:text="Band lat pulls strengthen your back and shoulders, particularly your latissimus dorsi—lats for short—which are in the middle of your back. This movement also works your neck and upper traps."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/padding"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Standing with feet hip-width apart, hold one end of the resistance band in each hand, palms facing down, and extend your arms out in front of you at shoulder height.
 Engaging your core and squeezing your back muscles together, pull the band apart by extending your arms out to the sides. "
-                android:textColor="#010203"
-                android:textSize="25sp" />
-
-
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/reverse"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="- Reverse the motion and repeat for 15 reps."
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp">
+            </View>
+
+            <TextView
+                android:id="@+id/bandupright"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Band Upright Row"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-
-            -------------------------------------------------------------
-
-
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-            <TextView
-                android:id="@+id/tvAnswer"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="Band Upright Row"
-                android:textColor="#000"
-                android:textSize="30sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
@@ -525,93 +470,72 @@ Engaging your core and squeezing your back muscles together, pull the band apart
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/thismovementwi"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="This movement will strengthen your shoulders, especially your front deltoids. You will also work your abs, upper back, and lower traps."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/feetwidth"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Standing with feet hip-width apart, place the resistance band under your feet. Cross the band in front of you and hold a handle in each hand, palms facing your thighs in an overhand grip.
 With your chest tall and core engaged, pull the handles up to chest height, bending your elbows out to the sides. "
-                android:textColor="#010203"
-                android:textSize="25sp" />
-
-
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="-Lower back to start position and repeat for 15 reps."
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp">
+            </View>
+            <TextView
+                android:id="@+id/tvAnhuihytftuswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Band Shoulder Press"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-
-            ----------------------------------------------------------------------------
-
-
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-            <TextView
-                android:id="@+id/tvAnswer"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="Band Shoulder Press"
-                android:textColor="#000"
-                android:textSize="30sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
@@ -620,95 +544,80 @@ With your chest tall and core engaged, pull the handles up to chest height, bend
                 android:src="@drawable/bandshoulder" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/doublecan"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="This double-duty move works all the muscles of your shoulders and your core. Be sure to brace your core throughout and bring the bands down slowly, with control."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/middleoftheband"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Stand in the middle of the band, grasping the band handles in your hands with an overhand grip. Tighten your core.
 Press the handles of the band up, pausing when your upper arms are parallel with the ground, and the band is behind your arms, then press all the way up.
 Keep a soft bend in your elbows, slowly lower to the starting position. "
-                android:textColor="#010203"
-                android:textSize="25sp" />
-
-
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/repeat"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="-Repeat for 15 reps."
-                android:textColor="#000"
+                android:textStyle="bold"
+                android:text="- Repeat for 15 reps -"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            --------------------------------------------------------------
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
 
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
+
+
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/bandbentover"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Band Bent Over Row"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
@@ -717,97 +626,86 @@ Keep a soft bend in your elbows, slowly lower to the starting position. "
                 android:src="@drawable/bandxc" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/entire"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="201dp"
+                android:paddingLeft="10dp"
                 android:text="You will strengthen your entire back, abs, and biceps with this move. Make sure to brace your core and keep a soft bend in your knees. Try to keep your shoulder blades back and down before beginning this movement and not shrug your shoulders."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/ontotheresistan"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Step onto the resistance band with feet shoulder-width apart. Grip the handles with an overhand grip.
 With knees slightly bent, hinge forward at the hips, keeping a straight back and your core engaged.
 Pull the band back, leading with your elbows, bringing your shoulder blades together.
 Hold this contraction at the top, feeling the squeeze, then slowly release to the starting position.  "
-                android:textColor="#010203"
-                android:textSize="25sp" />
-
-
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/boldreps"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="-Do 15 reps."
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="15dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
-            ----------------------------------------------------------------------
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/curltopress"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Band Curl to Press"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
                 android:layout_height="354dp"
                 android:src="@drawable/bandcurl" />
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
@@ -817,30 +715,30 @@ Hold this contraction at the top, feeling the squeeze, then slowly release to th
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="You've already hit your biceps and shoulders, so that this move will help further tax the muscles for even better results. You'll also fire up your core muscles for this movement as you brace to keep yourself steady. Remember to move slowly and with control, never letting the band snap back down."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/shoulders"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Stand on the middle of the band and grip the handles with an underhand grip.
 Keep a tight core and upright chest. Curl the bands towards your shoulders, keeping your elbows locked in place at your sides. Once the bands are at your shoulders, twists your wrists, so your palms face forward.
 Press the bands overhead. Slowly lower to your shoulders, flip your palms back to face the front, and slowly lower to the starting position.   "
-                android:textColor="#010203"
-                android:textSize="25sp" />
-
-
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
@@ -848,8 +746,9 @@ Press the bands overhead. Slowly lower to your shoulders, flip your palms back t
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="-Do 15 reps."
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
@@ -859,8 +758,8 @@ Press the bands overhead. Slowly lower to your shoulders, flip your palms back t
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
 
             </View>
 

@@ -31,4 +31,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.1'
 
+//    implementation 'com.pierfrancescosoffritti.androidyoutubeplayer:core:10.0.5'
+
 }

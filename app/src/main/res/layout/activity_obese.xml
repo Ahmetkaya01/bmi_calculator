@@ -16,20 +16,35 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+
+            //DONE
+            DONE//
+
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_dark">
+
             </View>
 
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/edit_bg"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Best Advices"
                 android:textColor="#000"
                 android:textSize="30sp" />
@@ -38,10 +53,11 @@ t
                 android:layout_width="fill_parent"
                 android:layout_height="30dp">
             </View>
+
             <ImageView
                 android:id="@+id/p2"
                 android:layout_width="match_parent"
-                android:layout_height="198dp"
+                android:layout_height="205dp"
                 app:srcCompat="@drawable/obese" />
 
             <View
@@ -53,15 +69,15 @@ t
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@drawable/edit_bg"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="It's All About Planning"
                 android:textColor="#000"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
 
@@ -71,12 +87,13 @@ t
                 android:layout_width="match_parent"
                 android:layout_height="256dp"
                 android:text="When you have a lot of weight to lose, it means playing the long game. And during that time, you'll face challenges. Weight loss experts and people who have done it offer you their ideas to cut calories, fight the 'angry' make exercise easier, stay on track, and more. Some are tried-and-true, and others may surprise you."
-                android:textColor="#141414"
+                android:textColor="#000"
+                android:paddingLeft="10dp"
                 android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             //todo How to Prevent Obesity in Kids and Adults//
@@ -87,87 +104,122 @@ t
             <ImageView
                 android:id="@+id/i5"
                 android:layout_width="match_parent"
-                android:layout_height="249dp"
+                android:layout_height="288dp"
                 app:srcCompat="@drawable/obese1" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
+                android:layout_height="20dp"></View>
 
-            <TextView
-                android:id="@+id/t6"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:gravity="center"
-                android:background="@drawable/edit_bg"
-                android:textColor="#000"
-                android:textSize="25sp"
-                android:text="Go Big for Breakfast"/>
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_dark">
+
+            </View>
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
             <TextView
                 android:id="@+id/t7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="#141414"
+                android:textColor="#000"
+                android:paddingLeft="10dp"
                 android:textSize="23sp"
                 android:text="People who eat more in the morning and less at night tend to lose more weight. Some studies suggest that starting your day with a high-protein meal -- especially warm, solid food -- helps you feel fuller and less hungry later. Shoot for 350-400 calories with at least 25 grams of protein, says Domenica Rubino, MD, director of the Washington Center for Weight Management/Research." />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
+                android:layout_height="20dp"></View>
 
             <ImageView
                 android:id="@+id/i8"
                 android:layout_width="match_parent"
-                android:layout_height="327dp"
+                android:layout_height="296dp"
                 app:srcCompat="@drawable/obesebreakfast" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_dark">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
 
             <TextView
                 android:id="@+id/t9"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:textColor="#000"
-                android:background="@drawable/edit_bg"
                 android:textSize="25sp"
                 android:text="Keep a Photo Diary"/>
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
+
             <TextView
                 android:id="@+id/t10"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="226dp"
+                android:paddingLeft="10dp"
+                android:text="‘We have horrible memories in terms of what we eat,’ says Susan Albers, PsyD, author of EatQ. Save your food photos in a daily file. Before your next snack or meal, review them. They'll remind you what you've already eaten. And that may help you decide to downsize or choose something else."
                 android:textColor="#000"
-                android:textSize="20sp"
-                android:text="‘We have horrible memories in terms of what we eat,’ says Susan Albers, PsyD, author of EatQ. Save your food photos in a daily file. Before your next snack or meal, review them. They'll remind you what you've already eaten. And that may help you decide to downsize or choose something else." />
+                android:textSize="23sp" />
+
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
+                android:layout_height="20dp"></View>
 
 
             <ImageView
                 android:id="@+id/i11"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="281dp"
                 app:srcCompat="@drawable/obesetakepic" />
 
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_dark">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
             <TextView
                 android:id="@+id/t12"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@drawable/edit_bg"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Try a Meal Replacement Plan"
                 android:textColor="#000"
                 android:textSize="25sp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
@@ -176,47 +228,68 @@ t
                 android:layout_height="wrap_content"
                 android:text="Under a licensed professional's care, you'll eat one regular meal per day and swap the others for special shakes, soups, or bars. ''If you can stick to it, you'll see big results in 6 months to a year,'' says Ken Fujioka, MD, an obesity specialist at the Scripps Clinic in San Diego."
                 android:textColor="#000"
-                android:textSize="20sp" />
+                android:paddingLeft="10dp"
+                android:textSize="23sp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <ImageView
                 android:id="@+id/i14"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="283dp"
                 app:srcCompat="@drawable/tryameal" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_dark">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
             <TextView
                 android:id="@+id/t15"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@drawable/edit_bg"
                 android:gravity="center"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
                 android:text="Set Up Your Food Storage"
                 android:textColor="#000"
                 android:textSize="25sp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Out of sight, out of mind -- and mouth. After you purge your home of those treats you can't resist, Albers recommends taking the idea a step further: Assign shelves in the pantry and the fridge so your healthy food becomes easy to see and reach. Put fresh veggies and fruit at eye level instead of inside a drawer, and you're more likely to grab them when you open the door."
                 android:textColor="#000"
-                android:textSize="20sp" />
+                android:textSize="23sp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
+
             <ImageView
                 android:id="@+id/i17"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="288dp"
                 app:srcCompat="@drawable/setup" />
 
             <View

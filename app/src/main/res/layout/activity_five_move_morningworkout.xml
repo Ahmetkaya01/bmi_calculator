@@ -6,6 +6,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#010203"
+
     android:gravity="center">
 
     <ScrollView
@@ -16,15 +18,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+
+            //DONE
+            DONE
+            DONE//
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="2dp"
-                android:background="@android:color/background_dark">
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
 
             </View>
             <View
@@ -32,39 +38,34 @@
                 android:layout_height="20dp">
             </View>
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/tt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+
+                android:textStyle="bold"
                 android:text="This 5-Move Morning Workout Will Put Your Metabolism in Overdrive"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="2dp"
-                android:background="@android:color/background_dark">
-
-            </View>
+                android:paddingLeft="10sp"
+                android:textSize="28sp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
 
+
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
+
 
             <ImageView
                 android:id="@+id/p2"
                 android:layout_width="match_parent"
-                android:layout_height="632dp"
+                android:layout_height="513dp"
                 app:srcCompat="@drawable/workoutnac" />
 
             //workoutnac//
@@ -77,15 +78,14 @@
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
                 android:layout_height="531dp"
-
-
                 android:text="The number one thing that starts our day right is making sure we move our bodies first thing in the morning. When we kick off our day with a workout, it guarantees that we feel more alert, energized, and ready to take on whatever comes our way. We especially love high-intensity interval training (HIIT) workouts in the morning because they’re quick to complete and they tone your body from head to toe.HIIT workouts efficiently and effectively boost your metabolism, increase your energy levels, and sculpt your muscles.Plus, your metabolism will be revved all day long, and you’ll feel good that you accomplished something before even sitting at your desk for the day."
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
                 android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
 
@@ -103,128 +103,115 @@
 
                 android:layout_width="match_parent"
                 android:layout_height="262dp"
+                android:paddingLeft="10dp"
                 android:text="Now, if we're starting to lose you because you've never been a morning workout lover, we have a few tips to help you form a morning workout routine that doesn't feel like a chore. In fact, once you get a taste of how great you feel the rest of the day after your early morning sweat session, we bet you won't look back!"
-                android:textColor="#141414"
+                android:textColor="#FDFEFE"
                 android:textSize="23sp" />
 
 
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="381dp"
+                android:layout_height="365dp"
+                android:paddingLeft="10dp"
                 android:text="Because being well-rested is so important for your health and feeling energized during the day, be sure you're going to bed early enough. Make sure you set your alarm at a reasonable time: you need to have enough time for your workout, but you want your wake-up time to be sustainable so that you can form a workable habit. Moving the alarm clock away from the bed can help ensure that you actually drag yourself out from under the blankets and start lacing up your sneakers."
-                android:textColor="#141414"
+                android:textColor="#FDFEFE"
                 android:textSize="23sp" />
 
             <ImageView
                 android:id="@+id/imageView"
                 android:layout_width="match_parent"
-                android:layout_height="358dp"
+                android:layout_height="238dp"
                 app:srcCompat="@drawable/howtoboostmeto" />
 
-
-            //todo How to Prevent Obesity in Kids and Adults//
-
-
-            <!-- things to scroll -->
 
             <TextView
                 android:id="@+id/t7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="#141414"
+                android:paddingLeft="10dp"
+                android:textColor="#FDFEFE"
                 android:textSize="23sp"
                 android:text="Before bed, we like to lay out our clothes, sneakers, earbuds, headbands, and any sort of gear we might need for our morning workout. That way, everything is ready to go and we aren't rummaging through the closet trying to find the right leggings while still rubbing the sleep from our eyes. It also helps to throw a water bottle in the fridge the night before, so a quick grab of cold water is at the ready. You can even prep a healthy breakfast, such as overnight oats or a protein-packed smoothie, and stash it in the fridge." />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
+                android:layout_height="25dp"></View>
 
 
             <ImageView
                 android:id="@+id/i8"
                 android:layout_width="match_parent"
-                android:layout_height="342dp"
+                android:layout_height="280dp"
                 app:srcCompat="@drawable/howtoincrease" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
+                android:layout_height="20dp">
+
+            </View>
 
             <TextView
                 android:id="@+id/t6"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-
-                android:textColor="#000"
-                android:textSize="25sp"
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="23sp"
                 android:text="Plan your workout the night before so that you don't have to make decisions or put in too much thought when your brain is still wishing it was checked out in la-la land. The more you can do the night before to cut down on the time and brain power you need in the morning before your workout, the better."/>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
+                android:layout_height="20dp">
+
+            </View>
 
 
             <TextView
                 android:id="@+id/t9"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-
+                android:paddingLeft="10dp"
                 android:text="So, put together a playlist of your favorite pump-up songs, set one (or two!) alarms, and get excited for your new morning workout routine. This workout doesn’t require any equipment, so it’s the perfect routine to do anytime, anywhere."
-                android:textColor="#000"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/tr"
                 android:layout_width="match_parent"
                 android:layout_height="124dp"
-
+                android:paddingLeft="10dp"
                 android:text="Go through one or two rounds of the five HIIT moves below to transform your morning exercise routine and start your day off right."
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/rt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="Jump Lunge"
-                android:textColor="#000"
+                android:textColor="#FDFEFE"
                 android:textSize="30sp" />
 
             <View
@@ -234,39 +221,38 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="403dp"
                 android:src="@drawable/jumplunge" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/tf"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
+                android:textStyle="bold"
+                android:paddingLeft="10dp"
                 android:text="Strengthens your legs, butt, and core."
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/c"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
+                android:paddingLeft="10dp"
                 android:text="Start in a standing position and jump your right leg forward and your left leg back, landing in a lunge position with both knees bent. You should for 90-degree bends in both legs.
 Jump up and switch your legs in mid-air so that you land in a lunge position with your left leg in front.
 Continue jumping back and forth, switching sides with each rep."
-                android:textColor="#010203"
-                android:textSize="25sp" />
-
-
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -274,332 +260,345 @@ Continue jumping back and forth, switching sides with each rep."
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/cds"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Continue for 20 seconds, and then rest for 10 seconds. Repeat a total of two times before moving to the next exercise."
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
 
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/dfg"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="Squat Up-Down"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="400dp"
                 android:src="@drawable/squatup" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/nbvc"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="54dp"
                 android:gravity="center"
                 android:text="Sculpts your lower body and core."
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp"
+                android:textStyle="bold" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/asdcv"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
+                android:layout_height="251dp"
+                android:paddingLeft="10dp"
                 android:text="Start in a standing position with your hands on your hips, feet together, and a slight bend in your knees.
 Step your left leg back, lowering into a half-kneeling position.
 Repeat on your right leg, then immediately step your right leg out in front of you to push yourself back up to the starting position.
 Switch the starting leg with each rep."
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/erg"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Complete 15 reps on each side."
-                android:textColor="#010203"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/mj"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="High Knees"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <TextView
-                android:id="@+id/tvAnswer"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="High Knees"
-                android:textColor="#000"
-                android:textSize="30sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="402dp"
                 android:src="@drawable/highknees" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/sc"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Works your core while boosting your heart rate."
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/zxcvby"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
                 android:text="Start by standing with your feet hip-width apart and your hands in front of you at a 90-degree angle with your palms facing down.
 Lift your left knee up to touch your left palm, then quickly alternate sides, lifting your right knee to your right palm as the opposite knee lowers.
 Switch sides with each rep."
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:paddingLeft="10dp"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/wds"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:text="Continue for 20 seconds, and then rest for 10 seconds. Repeat a total of two times before moving on to the next exercise."
-                android:textColor="#010203"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/tvAnrtghbfswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Side Plank Hip Dips"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
-
-            <TextView
-                android:id="@+id/tvAnswer"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="Side Plank Hip Dips"
-                android:textColor="#000"
-                android:textSize="30sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="391dp"
                 android:src="@drawable/sideplank" />
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="30dp">
-            </View>
+
 
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/juyt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Sculpts your obliques, core, hips, and shoulders."
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/vbgr"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:text="Sculpts your obliques, core, hips, and shoulders.
 
 Start on the ground in a side plank position with your right foot placed out in front of your left foot and right arm raised up towards the sky.
 Lower your hips up and down a few inches.
 Complete all reps before switching sides."
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/qwd"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Perform 15 reps on each side."
-                android:textColor="#010203"
+                android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
-
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
             </View>
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             ///////////////////////////////////////////////////////////////////
             <TextView
-                android:id="@+id/tvAnswer"
+                android:id="@+id/lkh"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="Mountain Climbers"
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="388dp"
                 android:src="@drawable/mountainclimbers" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:textStyle="bold"
+                android:paddingLeft="10dp"
                 android:text="Strengthens your core, shoulders, legs, and hip flexors, and gets your heart pumping."
-                android:textColor="#000"
-                android:textSize="30sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
-                android:id="@+id/t1"
+                android:id="@+id/iyd"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:text="Start on the ground in a high plank position with your shoulders over your wrists and your core tight.
 Bring your right knee under your torso up towards your chest.
 Return your right leg to starting position while pulling your left knee under your torso up towards your chest.
 Switch sides with each rep and move as quickly as possible while keeping good form."
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
+                android:layout_height="65dp"
+
                 android:text="Continue for 20 seconds. Then rest for 10 seconds. Repeat a total of two times."
-                android:textColor="#010203"
-                android:textSize="25sp" />
+                android:textColor="#FDFEFE"
+                android:textSize="23sp"
+                android:textStyle="bold" />
 
             <View
                 android:layout_width="fill_parent"
@@ -608,8 +607,8 @@ Switch sides with each rep and move as quickly as possible while keeping good fo
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="4dp"
-                android:background="@android:color/background_dark">
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
 
             </View>
 

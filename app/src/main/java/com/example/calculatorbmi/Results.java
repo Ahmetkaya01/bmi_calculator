@@ -44,43 +44,17 @@ public class Results extends AppCompatActivity {
     private TextView text16;
     private ImageView image17;
     private ImageView edit2;
-
-//
-//    tcan1
-//            tcan2
-//    gif3
-//            tcan4
-//    tcan5
-//            gif6
-//    tcan7
-//            tcan8
-//    gif9
-//            tcan10
-//    tcan11
-//            gif12
-//    tcan13
-//            tcan14
-//    gif15
-//            tcan16
-
     private TextView tesla1;
     private TextView tesla2;
-
     private TextView tesla4;
     private TextView tesla5;
-
     private TextView tesla7;
     private TextView tesla8;
-
     private TextView tesla10;
     private TextView tesla11;
-
     private TextView tesla13;
     private TextView tesla14;
-
     private TextView tesla16;
-
-
     private GifImageView gifcan3;
     private GifImageView gifcan6;
     private GifImageView gifcan9;
@@ -281,7 +255,7 @@ public class Results extends AppCompatActivity {
         } else if (bmiValue >= 18.5 && bmiValue < 25) {
             // If BMI value more than 18.5 and less than 25 he is "normal"
 
-            Answer.setText("You Are Normal");
+            Answer.setText("You Are Healthy");
 
             ResultImage.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.normaweight));
 

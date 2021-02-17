@@ -20,12 +20,12 @@ public class Metabolism extends AppCompatActivity {
     private Button functionalfitness;
     private Button asimple15minuteworkout;
     private Button     supereasymoves;
-
+    private Button Showarticles;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_metabolism);
-
+        Showarticles = findViewById(R.id.ArticleButton);
         Workoutmorning = findViewById(R.id.btn01);
         Fitnesplan = findViewById(R.id.btn2);
         Quickresistance = findViewById(R.id.btn3);
@@ -118,6 +118,17 @@ public class Metabolism extends AppCompatActivity {
                             @Override
                             public void onClick(View v) {
                                 startActivity(new Intent(Metabolism.this,supereasyworkout.class));
+                            }
+                        });
+
+                        Showarticles = findViewById(R.id.ArticleButton);
+
+                        Button show = (Button) findViewById(R.id.ArticleButton);
+
+                        show.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                startActivity(new Intent(Metabolism.this,MainActivity1.class));
                             }
                         });
 

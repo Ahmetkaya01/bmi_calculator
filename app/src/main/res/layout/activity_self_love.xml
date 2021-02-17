@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+
+    tools:context=".SelfLove">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Self-Love"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="30sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="427dp"
+                android:src="@drawable/originalselflove" />
+
+            //workoutnac//
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="111dp"
+                android:paddingLeft="10dp"
+                android:text="We were all born and celebrated as cute little bundles of joy. Then we blossom and the cuteness somewhat fades away."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="178dp"
+                android:paddingLeft="10dp"
+                android:text="Then comes the bosses, colleagues, mates, boys, men, and friends. This is when the seed of self-love you’ve sowed is put to test. If you have learnt the art of self-love, then you will easily get through life."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:paddingLeft="10dp"
+                android:text="Loving yourself more is not being greedy, selfish or unfair. "
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="178dp"
+                android:paddingLeft="10dp"
+                android:text="We are taught to be considerate and put others first but never how to love and prepare ourselves for the journey ahead. While you can be generous and kind, it shouldn’t be with a low self-esteem."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="214dp"
+                android:src="@drawable/selflove55" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="201dp"
+                android:paddingLeft="10dp"
+                android:text="Self-esteem, self-care, self-acceptance, self-awareness, self-empowerment, self-respect, self-compassion, self-expression and self-worth are characteristics that all women should have. Notice that these words all begin with “self”?"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="149dp"
+                android:paddingLeft="10dp"
+                android:text="We need to get over the fear of the unknown and understand our worth by simply practicing self-love. Self-love is not a one-time event but an endless, ongoing process."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:paddingLeft="10dp"
+                android:text="“To love oneself is the beginning of a life-long romance.”"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="37dp"
+                android:paddingLeft="225dp"
+                android:text="– Oscar Wilde"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <ImageView
+                android:id="@+id/p2"
+                android:layout_width="match_parent"
+                android:layout_height="306dp"
+                app:srcCompat="@drawable/articleselflovew" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:paddingLeft="10dp"
+                android:text="Here, ladies, is what happens when you love yourself:"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="119dp"
+                android:paddingLeft="10dp"
+                android:text="- You take ownership of your life and understand that it doesn’t matter what others think of you, but how you feel about yourself."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="137dp"
+                android:paddingLeft="10dp"
+                android:text="-You stop acting small and instead allow growth in. You let yourself live your purpose and see no need to compete, prove or compare yourself to others."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="94dp"
+                android:paddingLeft="10dp"
+                android:text="-Negotiations become easy because you know your value and will not settle for less."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="94dp"
+                android:paddingLeft="10dp"
+                android:text="-You accept your failures as learning curves and know your significance isn’t dependent on what you produce."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="121dp"
+                android:paddingLeft="10dp"
+                android:text="-You naturally attract peace and harmony in your day-to-day relationships.
+I’ve got some great self-love ideas for you."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:text="Honour and Love Yourself"
+                android:textColor="#FDFEFE"
+                android:textSize="27sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="265dp"
+                android:src="@drawable/honourandyourself" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:text="Put yourself first"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:paddingLeft="10dp"
+                android:text="Act upon your own needs first, rather than on what others expect from you."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:paddingLeft="10dp"
+                android:text="Remember, other people’s needs are not your responsibility."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:text="Take care of yourself"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:paddingLeft="10dp"
+                android:text="Exercise, eat healthy, pamper yourself and interact socially."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="204dp"
+                android:src="@drawable/yourselftreat" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:paddingLeft="10dp"
+                android:text="Remember to treat your body like the temple it is and spend time doing things that enrich your soul."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="25dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Set boundaries and maintain them"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="71dp"
+                android:paddingLeft="10dp"
+                android:text="Always let people know what you will and won’t tolerate."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="118dp"
+                android:paddingLeft="10dp"
+                android:text="When you set boundaries, you avoid situations at work, in relationships, or in any activity that emotionally or physically damages you."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Select the right friends"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="93dp"
+                android:paddingLeft="10dp"
+                android:text="Don’t waste time with people who won’t mind taking away your happiness."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="241dp"
+                android:src="@drawable/selecttheright" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="93dp"
+                android:paddingLeft="10dp"
+                android:text="Spend more time with like-minded people or those that bring out the best in you."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+============
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Do all it takes to be you"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="115dp"
+                android:paddingLeft="10dp"
+                android:text="Your purpose doesn’t have to be crystal clear but figure out what makes you feel good, and do it as often as you can."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="401dp"
+                android:src="@drawable/beyourslfgh" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="67dp"
+                android:paddingLeft="10dp"
+                android:text="Feeling good is all the permission you need to do what you love."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+===============--------------------=========---------==========
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Acknowledge your imperfect self"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:paddingLeft="10dp"
+                android:text="Stop judging and criticizing yourself. You don’t always have to win."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="418dp"
+                android:src="@drawable/acknowladge" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="67dp"
+                android:paddingLeft="10dp"
+                android:text="Remember, it’s the effort that counts, no matter the results."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            =================-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Engage in Spirituality"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:paddingLeft="10dp"
+                android:text="By doing this, you will just learn to naturally fall in love with yourself."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="578dp"
+                android:src="@drawable/engage" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            ============================
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Improve Your Skills"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="125dp"
+                android:paddingLeft="10dp"
+                android:text="Look for opportunities capable of increasing your self-confidence, like making time to focus on what you are good at."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="234dp"
+                android:src="@drawable/skillsqa" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:paddingLeft="10dp"
+                android:text="This will boost your self-confidence and esteem."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            --------------------------------------
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Identify A Go-To Place"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:paddingLeft="10dp"
+                android:text="Find a place you can sit and embrace life without anything getting in your way."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="91dp"
+                android:paddingLeft="10dp"
+                android:text="Forget about work deadlines and bills that need your attention. Have a moment to connect with just yourself."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="396dp"
+                android:src="@drawable/findlove" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="147dp"
+                android:paddingLeft="10dp"
+                android:text="These suggestions will help you to develop a sense of accomplishment and pride in what you do and who you are. You will realize that you are worthy and talented and deserve to be loved."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="153dp"
+                android:paddingLeft="10dp"
+                android:text="When you start experiencing the power of self-love, trust me, the effect will be magical and everything will simply fall into place. Life can actually feel really good."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+-------------------------------------------------
+            ====================================
+            ------------------------------------
+            <!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="3.5dp"-->
+<!--                android:background="@android:color/background_light">-->
+
+<!--            </View>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+<!--            <TextView-->
+<!--                android:id="@+id/t3"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="85dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:gravity="center"-->
+<!--                android:text="What is the fastest way to relieve  stress?"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="30sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t3"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="58dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="There are countless techniques for managing stress. "-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

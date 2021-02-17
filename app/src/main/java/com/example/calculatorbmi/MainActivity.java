@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         Weight=findViewById(R.id.etWeight);
         Height=findViewById(R.id.etHeight);
 
@@ -48,6 +49,10 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
+
+
 
     }
 }

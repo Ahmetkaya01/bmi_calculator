@@ -1,30 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/parent"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FunctionalFitness"
+    tools:context=".MainActivity"
+    android:gravity="center"
     android:orientation="vertical">
-
-
-    <VideoView
-        android:id="@+id/VideoPlayer"
-        android:layout_width="match_parent"
-        android:layout_height="505dp" />
-
-    <Button
-        android:id="@+id/btn_Play"
-        android:layout_width="match_parent"
-        android:layout_height="94dp"
-        android:backgroundTint="@color/colorPrimary"
-        android:text="Play"
-        android:textColor="#fff"
-        android:textSize="18sp" />
-
-
+    <TextView
+        android:id="@+id/openYoutube"
+        android:text="Open youtube application"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </LinearLayout>
-
-
 
 

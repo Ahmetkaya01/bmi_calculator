@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+    tools:context=".FitnessArticle">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/happinies"
+
+                android:gravity="center"
+                android:paddingTop="250dp"
+                android:paddingRight="150dp"
+                android:text="Happiness"
+                android:textColor="#ffffff"
+                android:textSize="30dp" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+
+            </View>
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/antistress"
+                android:paddingTop="250dp"
+                android:text="Anti-Stress"
+                android:textColor="#ffffff"
+                android:textSize="30dp" />
+
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/selflove"
+                android:paddingTop="250dp"
+                android:text="Self-Love"
+                android:textColor="#ffffff"
+                android:textSize="30dp" />
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/dietfoodall"
+                android:paddingTop="250dp"
+                android:text="All-Food Diet"
+                android:textColor="#ffffff"
+                android:textSize="30dp" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="375dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+        <Button
+            android:layout_width="337dp"
+            android:layout_height="297dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/happinies"
+
+            android:gravity="center"
+            android:paddingTop="250dp"
+            android:paddingRight="150dp"
+            android:text="Happiness"
+            android:textColor="#ffffff"
+            android:textSize="30dp" />
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dp">
+
+        </View>
+
+        <Button
+            android:layout_width="337dp"
+            android:layout_height="297dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/antistress"
+            android:paddingTop="250dp"
+            android:text="Anti-Stress"
+            android:textColor="#ffffff"
+            android:textSize="30dp" />
+
+
+        <Button
+            android:layout_width="337dp"
+            android:layout_height="297dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/selflove"
+            android:paddingTop="250dp"
+            android:text="Self-Love"
+            android:textColor="#ffffff"
+            android:textSize="30dp" />
+
+        <Button
+            android:layout_width="337dp"
+            android:layout_height="297dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/dietfoodall"
+            android:paddingTop="250dp"
+            android:text="All-Food Diet"
+            android:textColor="#ffffff"
+            android:textSize="30dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"></View>
+
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+
+
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:background="#400000"
+                            android:text="Yes"
+                            android:textColor="#ffffff" />
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:background="#400000"
+                            android:text="No"
+                            android:textColor="#ffffff" />
+
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:background="#400000"
+                            android:text="Yes"
+                            android:textColor="#ffffff" />
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:background="#400000"
+                            android:text="No"
+                            android:textColor="#ffffff" />
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:background="#400000"
+                            android:text="Yes"
+                            android:textColor="#ffffff" />
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:background="#400000"
+                            android:text="No"
+                            android:textColor="#ffffff" />
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:background="#400000"
+                            android:text="Yes"
+                            android:textColor="#ffffff" />
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:background="#400000"
+                            android:text="No"
+                            android:textColor="#ffffff" />
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:background="#400000"
+                            android:text="Yes"
+                            android:textColor="#ffffff" />
+
+                        <Button
+                            android:layout_width="150dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:background="#400000"
+                            android:text="No"
+                            android:textColor="#ffffff" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+</LinearLayout>
+

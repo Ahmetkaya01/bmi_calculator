@@ -39,11 +39,12 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="@drawable/edit_bg"
+                android:layout_height="48dp"
+                android:background="@drawable/btn_bg"
                 android:gravity="center"
+
                 android:text=" Swimming"
-                android:textColor="#000"
+                android:textColor="#fafafa"
                 android:textSize="20sp" />
 
             <pl.droidsonroids.gif.GifImageView

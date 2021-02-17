@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#010203"
+    tools:context=".MainActivity1">
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="20dp">
+    </View>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:text="New / Trending"
+        android:textColor="#fafafa"
+        android:textSize="26dp" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="300dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="5dp"
+                android:paddingTop="250dp"
+
+                android:paddingRight="150dp"
+                android:gravity="center"
+                android:text="Happiness"
+                android:textSize="30dp"
+                android:background="@drawable/happinies"
+                android:textColor="#ffffff" />
+
+
+
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:paddingTop="250dp"
+                android:text="Anti-Stress"
+                android:textSize="30dp"
+                android:background="@drawable/antistress"
+                android:textColor="#ffffff" />
+
+
+<!--                            <Button-->
+<!--                                android:layout_width="337dp"-->
+<!--                                android:layout_height="297dp"-->
+<!--                                android:layout_marginLeft="10dp"-->
+<!--                                android:layout_marginRight="5dp"-->
+<!--                                android:paddingTop="250dp"-->
+<!--                                android:textSize="30dp"-->
+<!--                                android:background="@drawable/selflove"-->
+<!--                                android:text="Self-Love"-->
+<!--                                android:textColor="#ffffff" />-->
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="250dp"
+                android:text="All-Food Diet"
+                android:textSize="30dp"
+                android:background="@drawable/dietfoodall"
+                android:textColor="#ffffff" />
+
+
+        </LinearLayout>
+    </ScrollView>
+    </HorizontalScrollView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="375dp"></ScrollView>
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="5dp"
+                android:paddingTop="250dp"
+
+                android:paddingRight="150dp"
+                android:gravity="center"
+                android:text="Happiness"
+                android:textSize="30dp"
+                android:background="@drawable/happinies"
+                android:textColor="#ffffff" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+
+            </View>
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:paddingTop="250dp"
+                android:text="Anti-Stress"
+                android:textSize="30dp"
+                android:background="@drawable/antistress"
+                android:textColor="#ffffff" />
+
+
+            <!--                <Button-->
+            <!--                    android:layout_width="337dp"-->
+            <!--                    android:layout_height="297dp"-->
+            <!--                    android:layout_marginLeft="10dp"-->
+            <!--                    android:layout_marginRight="5dp"-->
+            <!--                    android:paddingTop="250dp"-->
+            <!--                    android:textSize="30dp"-->
+            <!--                    android:background="@drawable/selflove"-->
+            <!--                    android:text="Self-Love"-->
+            <!--                    android:textColor="#ffffff" />-->
+
+            <Button
+                android:layout_width="337dp"
+                android:layout_height="297dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="10dp"
+                android:paddingTop="250dp"
+                android:text="All-Food Diet"
+                android:textSize="30dp"
+                android:background="@drawable/dietfoodall"
+                android:textColor="#ffffff" />
+
+
+        </LinearLayout>
+    </HorizontalScrollView>
+<!--    <ScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="375dp">-->
+
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="vertical">-->
+
+
+<!--            <Button-->
+<!--                android:id="@+id/button"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Button" />-->
+<!--        </LinearLayout>-->
+<!--    </ScrollView>-->
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="23dp"> </View>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="23dp">
+    </View>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="23dp"> </View>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="23dp"> </View>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:background="#400000"
+                android:layout_marginLeft="10dp"
+                android:text="yes"
+                android:textColor="#ffffff" />
+
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+
+                android:background="#400000"
+                android:text="yes"
+
+                android:layout_marginRight="10dp"
+                android:textColor="#ffffff" />
+
+
+
+        </LinearLayout>
+    </HorizontalScrollView>
+</LinearLayout>

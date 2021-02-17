@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+
+    tools:context=".happinies">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="3.5dp"
+            android:background="@android:color/background_light">
+
+        </View>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <TextView
+            android:id="@+id/t1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="How to Be Happy "
+            android:textColor="#FDFEFE"
+            android:textStyle="bold"
+            android:textSize="30sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <ImageView
+            android:id="@+id/p2"
+            android:layout_width="match_parent"
+            android:layout_height="281dp"
+            app:srcCompat="@drawable/happinies10" />
+
+        //workoutnac//
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="91dp"
+            android:paddingLeft="10dp"
+            android:text="Behavioral scientists have spent a lot of time studying what makes us happy (and what doesn’t)."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="147dp"
+            android:paddingLeft="10dp"
+            android:text="We know happiness can predict health and longevity, and happiness scales can be used to measure social progress and the success of public policies."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <ImageView
+            android:id="@+id/p2"
+            android:layout_width="match_parent"
+            android:layout_height="496dp"
+            app:srcCompat="@drawable/itisnottoolate" />
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="175dp"
+            android:paddingLeft="10dp"
+            android:text="But happiness isn’t something that just happens to you. Everyone has the power to make small changes in our behavior, our surroundings and our relationships that can help set us on course for a happier life."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        =======
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="3.5dp"
+            android:background="@android:color/background_light">
+        </View>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <TextView
+            android:id="@+id/tvAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="Mind"
+            android:textColor="#FDFEFE"
+            android:textSize="30sp" />
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="94dp"
+            android:paddingLeft="10dp"
+            android:text=" Happiness often comes from within. Learn how to tame negative thoughts and approach every day with optimism."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"></View>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="284dp"
+            app:srcCompat="@drawable/mind" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"></View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:paddingLeft="10dp"
+            android:text=" Conquer Negative Thinking :"
+            android:textColor="#FDFEFE"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"></View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="284dp"
+            android:paddingLeft="10dp"
+            android:text="All humans have a tendency to be a bit more like Eeyore than Tigger, to ruminate more on bad experiences than positive ones. It’s an evolutionary adaptation — over-learning from the dangerous or hurtful situations we encounter through life (bullying, trauma, betrayal) helps us avoid them in the future and react quickly in a crisis."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"></View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="94dp"
+            android:paddingLeft="10dp"
+            android:text="But that means you have to work a little harder to train your brain to conquer negative thoughts. Here’s how:"
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dp"></View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="243dp"
+            android:paddingLeft="10dp"
+            android:text="Don’t try to stop negative thoughts. Telling yourself “I have to stop thinking about this,” only makes you think about it more. Instead, own your worries. When you are in a negative cycle, acknowledge it. “I’m worrying about money.” “I’m obsessing about problems at work.”"
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="288dp"
+            app:srcCompat="@drawable/stopnegaitive" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"></View>
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="153dp"
+            android:paddingLeft="10dp"
+            android:text="Treat yourself like a friend. When you are feeling negative about yourself, ask yourself what advice would you give a friend who was down on herself. Now try to apply that advice to you."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"></View>
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="367dp"
+            app:srcCompat="@drawable/treatyourself" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"></View>
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="Challenge your negative thoughts. Socratic questioning is the process of challenging and changing irrational thoughts. Studies show that this method can reduce depression symptoms. The goal is to get you from a negative mindset (“I’m a failure.”) to a more positive one (“I’ve had a lot of success in my career. This is just one setback that doesn’t reflect on me. I can learn from it and be better.”) Here are some examples of questions you can ask yourself to challenge negative thinking."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="496dp"
+            app:srcCompat="@drawable/challengeyour" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="First, write down your negative thought, such as “I’m having problems at work and am questioning my abilities.”"
+            android:textColor="#FDFEFE"
+            android:textStyle="bold"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:paddingLeft="10dp"
+                android:text="- Then ask yourself:
+                                         “What is the evidence for this thought?”"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dp">
+        </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="“Am I basing this on facts? Or feelings? ”"
+                android:textColor="#FDFEFE"
+                android:textSize="22sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="“Could I be misinterpreting the situation?”"
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:paddingLeft="10dp"
+                android:text="“How might other people view the situation differently?"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:paddingLeft="10dp"
+                android:text="“How might I view this situation if it happened to someone else?”"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+                    <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="The bottom line: Negative thinking happens to all of us, but if we recognize it and challenge that thinking, we are taking a big step toward a happier life."
+            android:textColor="#FDFEFE"
+            android:textStyle="bold"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="174dp"
+            app:srcCompat="@drawable/bottomlineqq" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2.0dp"
+            android:background="@android:color/background_light">
+
+        </View>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Controlled Breathing"
+            android:gravity="center"
+            android:textColor="#FDFEFE"
+            android:textStyle="bold"
+            android:textSize="25sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Science is just beginning to provide evidence that the benefits of this ancient practice are real. Studies have found, for example, that breathing practices can help reduce symptoms associated with anxiety, insomnia, post-traumatic stress disorder, depression and attention deficit disorder."
+            android:paddingLeft="10dp"
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="235dp"
+            app:srcCompat="@drawable/controlledbre" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="147dp"
+            android:paddingLeft="10dp"
+            android:text="For centuries yogis have used breath control, or pranayama, to promote concentration and improve vitality. Buddha advocated breath-meditation as a way to reach enlightenment."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2.0dp"
+            android:background="@android:color/background_light">
+
+        </View>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rewrite Your Story"
+            android:gravity="center"
+            android:textColor="#FDFEFE"
+            android:textStyle="bold"
+            android:textSize="25sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="237dp"
+            android:paddingLeft="10dp"
+            android:text="Writing about oneself and personal experiences — and then rewriting your story — can lead to behavioral changes and improve happiness. (We already know that expressive writing can improve mood disorders and help reduce symptoms among cancer patients, among other health benefits.)"
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="246dp"
+            app:srcCompat="@drawable/goodwritingis" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="309dp"
+            android:paddingLeft="10dp"
+            android:text="Some research suggests that writing in a personal journal for 15 minutes a day can lead to a boost in overall happiness and well-being, in part because it allows us to express our emotions, be mindful of our circumstances and resolve inner conflicts. Or you can take the next step and focus on one particular challenge you face, and write and rewrite that story."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="309dp"
+            android:paddingLeft="10dp"
+            android:text="We all have a personal narrative that shapes our view of the world and ourselves. But sometimes our inner voice doesn’t get it right. By writing and then editing our own stories, we can change our perceptions of ourselves and identify obstacles that stand in the way of our personal well-being. The process is similar to Socratic questioning (referenced above). Here’s a writing exercise:"
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="146dp"
+            android:paddingLeft="10dp"
+            android:text="1. Write a brief story about your struggle. I’m having money problems. I am having a hard time making friends in a new city. I’m never going to find love. I’m fighting with my spouse."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="119dp"
+            android:paddingLeft="10dp"
+            android:text="2. Now write a new story from the viewpoint of a neutral observer, or with the kind of encouragement you’d give a friend. "
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:paddingLeft="10dp"
+            android:text="- Money is a challenge but you can take steps to get yourself into financial shape.  "
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:paddingLeft="10dp"
+            android:text="- Everyone struggles in their first year in a new city. Give it some time. Join some groups.   "
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:paddingLeft="10dp"
+            android:text="- Don’t focus on finding love. Focus on meeting new people and having fun. The rest will follow.   "
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:paddingLeft="10dp"
+            android:text="- Couples argue. Here’s what your situation looks like to a neutral observer.    "
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/thereisno" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="139dp"
+                android:paddingLeft="10dp"
+                android:text="Numerous studies show that writing and rewriting your story can move you out of your negative mindset and into a more positive view of life."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="257dp"
+                android:paddingLeft="10dp"
+                android:text="“The idea here is getting people to come to terms with who they are, where they want to go,” said James Pennebaker, a psychology professor at the University of Texas who has pioneered much of the research on expressive writing.  “I think of expressive writing as a life course correction.”"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            ====---------=========------=========-
+        //  Conquer Negative Thinking //
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Get Moving"
+                android:gravity="center"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="25sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="84dp"
+                android:paddingLeft="10dp"
+                android:text="When people get up and move, even a little, they tend to be happier than when they are still."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/getupmoving" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="182dp"
+                android:paddingLeft="10dp"
+                android:text="A study that tracked the movement and moods of cellphone users found that people reported the most happiness if they had been moving in the past 15 minutes than when they had been sitting or lying down. "
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="93dp"
+                android:paddingLeft="10dp"
+                android:text="- Most of the time it wasn’t rigorous activity but just gentle walking that left them in a good mood. "
+                android:textColor="#FDFEFE"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="288dp"
+                app:srcCompat="@drawable/moveitmonday" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:paddingLeft="10dp"
+                android:text="Of course, we don’t know if moving makes you happy or if happy people just move more, but we do know that more activity goes hand-in-hand with better health and greater happiness."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+ =====================================================
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Practice Optimism"
+                android:gravity="center"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="25sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="124dp"
+                android:paddingLeft="10dp"
+                android:text="Optimism is part genetic, part learned. Even if you were born into a family of gloomy Guses, you can still find your inner ray of sunshine."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="242dp"
+            app:srcCompat="@drawable/myoptimism" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:paddingLeft="10dp"
+            android:text="Optimism doesn’t mean ignoring the reality of a dire situation. After a job loss, for instance, many people may feel defeated and think,"
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp">
+            </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:paddingLeft="10dp"
+            android:text="“I’ll never recover from this.”"
+            android:textColor="#FDFEFE"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp">
+            </View>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="92dp"
+            android:paddingLeft="10dp"
+            android:text="An optimist would acknowledge the challenge in a more hopeful way, saying, "
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="5dp">
+        </View>
+
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="93dp"
+            android:paddingLeft="10dp"
+            android:text="“This is going to be difficult, but it’s a chance to rethink my life goals and find work that truly makes me happy.”"
+            android:textColor="#FDFEFE"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="555dp"
+            app:srcCompat="@drawable/hopeoptimisim" />
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="176dp"
+            android:paddingLeft="10dp"
+            android:text="And thinking positive thoughts and surrounding yourself with positive people really does help. Optimism, like pessimism, can be infectious. So make a point to hang out with optimistic people."
+            android:textColor="#FDFEFE"
+            android:textSize="23sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
+        =====-=-=-=-=-=
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t3"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="151dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Of course, we don’t know if moving makes you happy or if happy people just move more, but we do know that more activity goes hand-in-hand with better health and greater happiness."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+            =====
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="1.5dp"-->
+<!--            android:background="@android:color/background_light">-->
+<!--        </View>-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/tvAnswer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:gravity="center"-->
+<!--            android:textStyle="bold"-->
+<!--            android:text="Push-Ups"-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:textSize="30sp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+
+<!--        <pl.droidsonroids.gif.GifImageView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="422dp"-->
+<!--            android:src="@drawable/pushups" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/tvAnswer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:paddingLeft="10dp"-->
+<!--            android:textStyle="bold"-->
+<!--            android:text="Target: Chest, Arms, Shoulders and Triceps"-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:textSize="23sp" />-->
+
+
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/t1"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:paddingLeft="10dp"-->
+<!--            android:text="Push-ups are a great exercise to challenge your core and upper-body strength. To decrease the difficulty of the exercise, you can add an incline position by resting your hands on a wall, bench or chair."-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:textSize="23sp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="1.5dp"-->
+<!--            android:background="@android:color/background_light">-->
+<!--        </View>-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+
+<!--        &lt;!&ndash; things to scroll &ndash;&gt;-->
+<!--        -&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-->
+
+
+<!--        <TextView-->
+<!--            android:id="@+id/tvAnswer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:gravity="center"-->
+<!--            android:textStyle="bold"-->
+<!--            android:text="Power Jacks"-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:textSize="25sp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="30dp">-->
+<!--        </View>-->
+
+<!--        <pl.droidsonroids.gif.GifImageView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="409dp"-->
+<!--            android:src="@drawable/powerjacks" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/tvAnswer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:paddingLeft="10dp"-->
+<!--            android:textStyle="bold"-->
+<!--            android:text="Target: Full-Body"-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:textSize="23sp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/t1"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Power jacks are a great full-body cardio exercise to burn fat. By adding the power to the jack, you’ll target your glutes and thighs and increase the difficulty of the exercise by leaps and bounds. For a modified version, perform regular jumping jacks without the added squat motion. "-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:paddingLeft="10dp"-->
+<!--            android:textSize="23sp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="1.5dp"-->
+<!--            android:background="@android:color/background_light">-->
+<!--        </View>-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+<!--        &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/tvAnswer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:gravity="center"-->
+<!--            android:text="- Plank Up-Downs -"-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:textStyle="bold"-->
+<!--            android:textSize="25dp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="30dp">-->
+<!--        </View>-->
+
+<!--        <pl.droidsonroids.gif.GifImageView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="405dp"-->
+<!--            android:src="@drawable/plankup" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/tvAnswer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:paddingLeft="10dp"-->
+<!--            android:textStyle="bold"-->
+<!--            android:text="Target: Core, Shoulders - Triceps"-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:textSize="23sp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/t1"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:paddingLeft="10dp"-->
+<!--            android:text="Plank Up-Downs are a great exercise for strengthening your core, shoulders and triceps in one go while keeping your heart rate in the fat-burning zone. For a modified version, leave your knees in contact with the ground.  "-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:textSize="23sp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="1.5dp"-->
+<!--            android:background="@android:color/background_light">-->
+<!--        </View>-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/tvAnswer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:gravity="center"-->
+<!--            android:text="Plyo Lunges"-->
+<!--            android:textColor="#FDFEFE"-->
+<!--            android:textSize="30sp" />-->
+
+<!--        <View-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="20dp">-->
+<!--        </View>-->
+
+<!--        <pl.droidsonroids.gif.GifImageView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="411dp"-->
+<!--            android:src="@drawable/plyo" />-->
+
+
+
+
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>
