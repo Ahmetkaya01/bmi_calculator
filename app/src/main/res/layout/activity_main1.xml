@@ -22,7 +22,7 @@
 <!--        android:textColor="#fafafa"-->
 <!--        android:textStyle="bold"-->
 <!--        android:textSize="28dp" />-->
-                                    ///
+        /////////////////////////////////////////////////////////////////////////////////
     <View
         android:layout_width="fill_parent"
         android:layout_height="20dp">
@@ -38,17 +38,12 @@
         android:textStyle="bold"
         android:textSize="26dp" />
 
-
-
-
     <HorizontalScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp">
 
-        <ScrollView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -56,6 +51,7 @@
             android:orientation="horizontal">
 
             <Button
+                android:id="@+id/happiness"
                 android:layout_width="337dp"
                 android:layout_height="297dp"
                 android:layout_marginLeft="20dp"
@@ -70,12 +66,12 @@
                 android:textColor="#ffffff" />
 
             <Button
+                android:id="@+id/antistress"
                 android:layout_width="337dp"
                 android:layout_height="297dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="5dp"
                 android:paddingTop="250dp"
-
                 android:paddingRight="150dp"
                 android:gravity="center"
                 android:text="Anti-Stress"
@@ -87,6 +83,7 @@
 
 
             <Button
+                android:id="@+id/allfooddiet"
                 android:layout_width="337dp"
                 android:layout_height="297dp"
                 android:layout_marginLeft="15dp"
@@ -100,6 +97,7 @@
 
 
             <Button
+                android:id="@+id/selflove"
                 android:layout_width="337dp"
                 android:layout_height="297dp"
                 android:layout_marginLeft="25dp"
@@ -110,30 +108,12 @@
                 android:background="@drawable/selflove"
                 android:textColor="#ffffff" />
 
-
-
-
-
-
-
-
-
-
-
-
-
         </LinearLayout>
-        </ScrollView>
-
-
-
-
     </HorizontalScrollView>
     <View
         android:layout_width="fill_parent"
         android:layout_height="25dp">
     </View>
-
 
     <TextView
         android:id="@+id/textView"
@@ -145,15 +125,17 @@
         android:textStyle="bold"
         android:textSize="26dp" />
 
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
     <HorizontalScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp">
 
-<ScrollView
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -161,6 +143,7 @@
 
 
             <Button
+                android:id="@+id/randomworkout"
                 android:layout_width="183dp"
                 android:layout_height="250dp"
                 android:layout_marginLeft="15dp"
@@ -171,6 +154,7 @@
                 android:textColor="@color/colorPrimary" />
 
             <Button
+                android:id="@+id/plankitup"
                 android:layout_width="183dp"
                 android:layout_height="250dp"
                 android:layout_marginLeft="5dp"
@@ -181,6 +165,7 @@
                 android:textColor="@color/colorPrimary" />
 
             <Button
+                android:id="@+id/quickresistance"
                 android:layout_width="183dp"
                 android:layout_height="250dp"
                 android:layout_marginLeft="20dp"
@@ -192,6 +177,7 @@
             //eightquickresistance//
 
             <Button
+                android:id="@+id/bestworkouts"
                 android:layout_width="183dp"
                 android:layout_height="250dp"
                 android:layout_marginLeft="20dp"
@@ -210,8 +196,51 @@
 
 
         </LinearLayout>
-</ScrollView>
+
 </HorizontalScrollView>
+
+</ScrollView>
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="185dp"
+                android:layout_height="wrap_content"
+                android:text="Browse"
+                android:textStyle="bold"
+                android:layout_marginRight="20dp"
+                android:textColor="@color/colorPrimary"
+                android:background="#400000"/>
+
+            <Button
+                android:layout_width="185dp"
+                android:layout_height="wrap_content"
+                android:text="Home"
+                android:textStyle="bold"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/colorPrimary"
+                android:background="#400000"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+</ScrollView>
 
 
 

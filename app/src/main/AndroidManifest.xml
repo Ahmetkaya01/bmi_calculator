@@ -9,7 +9,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/appicon"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
@@ -19,7 +19,7 @@
         <activity android:name=".Randomworkout" />
         <activity android:name=".browse" />
         <activity android:name=".allfooddiet" />
-        <activity android:name=".MainActivity1" />
+
         <activity android:name=".SelfLove" />
         <activity android:name=".Antistress" />
         <activity android:name=".happinies" />
@@ -39,12 +39,14 @@
         <activity android:name=".exer" />
         <activity android:name=".ObeseActivity" />
         <activity android:name=".Results" />
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".MainActivity1">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>>
+
         </activity>
     </application>
 
