@@ -1,0 +1,195 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+    android:fillViewport="true">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="1">
+
+        <!-- everything you already have -->
+        <TextView
+            android:id="@+id/textViewActivity"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:text="Your Activity Plan"
+            android:textColor="#fafafa"
+            android:textStyle="bold"
+            android:textSize="26dp" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="16dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/happiness"
+                    android:layout_width="200dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/happinies"
+                    android:gravity="center"
+                    android:paddingTop="250dp"
+                    android:paddingRight="150dp"
+                    android:text="Happiness"
+                    android:textColor="#ffffff"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/antistress"
+                    android:layout_width="200dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/antistress"
+                    android:gravity="center"
+                    android:paddingTop="250dp"
+                    android:paddingRight="150dp"
+                    android:text="Anti-Stress"
+                    android:textColor="#ffffff"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+
+                <Button
+                    android:id="@+id/allfooddiet"
+                    android:layout_width="200dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/dietfoodall"
+                    android:paddingTop="250dp"
+                    android:text="All-Food Diet"
+                    android:textColor="#ffffff"
+                    android:textSize="30dp" />
+
+
+                <Button
+                    android:id="@+id/selflove"
+                    android:layout_width="200dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/selflove"
+                    android:paddingTop="250dp"
+                    android:text="Self-Love"
+                    android:textColor="#ffffff"
+                    android:textSize="30dp" />
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <TextView
+            android:id="@+id/textViewSingle"
+            android:layout_width="396dp"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:text="Single Sessions"
+            android:textColor="#fafafa"
+            android:textStyle="bold"
+            android:textSize="26dp" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="16dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <Button
+                    android:id="@+id/randomworkout"
+                    android:layout_width="200dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/randomworkout"
+                    android:text="Random Workout"
+                    android:textColor="@color/colorPrimary" />
+
+                <Button
+                    android:id="@+id/plankitup"
+                    android:layout_width="200dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/plnakitup"
+                    android:text="Plank It Up"
+                    android:textColor="@color/colorPrimary" />
+
+                <Button
+                    android:id="@+id/quickresistance"
+                    android:layout_width="200dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/lowerbody"
+                    android:text="8 Quick Resistance-Band Arm Exercises"
+                    android:textColor="@color/colorPrimary" />
+
+
+                <Button
+                    android:id="@+id/bestworkouts"
+                    android:layout_width="200dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/legsfordays"
+                    android:text="The Best Workouts at Home"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="25dp" />
+
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="111dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="185dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center"
+                android:layout_marginRight="20dp"
+                android:background="#400000"
+                android:text="Browse"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_width="185dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="10dp"
+                android:background="#400000"
+                android:text="Home"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </TableLayout>
+</ScrollView>

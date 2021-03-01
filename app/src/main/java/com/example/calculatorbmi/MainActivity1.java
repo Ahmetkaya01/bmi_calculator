@@ -24,7 +24,7 @@ public class MainActivity1 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main1);
+        setContentView(R.layout.activity_home);
 
         Randomworkout = findViewById(R.id.randomworkout);
         Plankitup = findViewById(R.id.plankitup);
