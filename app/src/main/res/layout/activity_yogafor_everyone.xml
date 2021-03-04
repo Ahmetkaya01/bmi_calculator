@@ -1,0 +1,1906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+    tools:context=".YogaforEveryone">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            //TODO
+            DONE
+            DONE
+            DONE//
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Yoga for Everyone"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="298dp"
+                android:src="@drawable/gifsyoga" />
+            //workoutnac//
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:text="It’s time to roll out your yoga mat and discover the combination of physical and mental exercises that for thousands of years have hooked yoga practitioners around the globe."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:paddingLeft="10dp"
+                android:text="The beauty of yoga is that you don’t have to be a yogi or yogini to reap the benefits. Whether you are young or old, overweight or fit, yoga has the power to calm the mind and strengthen the body."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="117dp"
+                android:paddingLeft="10dp"
+                android:text="Don’t be intimidated by yoga terminology, fancy yoga studios and complicated poses. Yoga is for everyone."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <View
+
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:gravity="center"
+                android:text="10 Yoga Poses You Need to Know"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:paddingLeft="10dp"
+                android:text="The building blocks of yoga are poses. These are good ones to learn as you build a regular yoga practice."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="match_parent"
+                android:layout_height="259dp"
+                app:srcCompat="@drawable/yogaposes" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="119dp"
+                android:paddingLeft="10dp"
+                android:text="These 10 poses are a complete yoga workout. Move slowly through each pose, remembering to breathe as you move."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="119dp"
+                android:paddingLeft="10dp"
+                android:text="Pause after any pose you find challenging, especially if you are short of breath, and start again when your breathing returns to normal."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                app:srcCompat="@drawable/benefit13" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="84dp"
+                android:paddingLeft="10dp"
+                android:text="The idea is to hold each pose for a few, slow breaths before moving on to the next one."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="1.Child's Pose"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:paddingLeft="10dp"
+                android:text="This calming pose is a good default pause position. You can use child’s pose to rest and refocus before continuing to your next pose."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:paddingLeft="10dp"
+                android:text=" It gently stretches your lower back, hips, thighs, knees and ankles and relaxes your spine, shoulders and neck."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="398dp"
+                android:src="@drawable/childspose" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:paddingLeft="10dp"
+                android:text="When you want to get a nice gentle stretch through your neck spine and hips."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:paddingLeft="10dp"
+                android:text="If you have knee injuries or ankle problems. Avoid also if you have high blood pressure or are pregnant."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="113dp"
+                android:paddingLeft="10dp"
+                android:text="You can rest your head on a cushion or block. You can place a rolled towel under your ankles if they are uncomfortable."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="67dp"
+                android:paddingLeft="10dp"
+                android:text="Focus on relaxing the muscles of the spine and lower back as you breathe."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+==================================================
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="2.Downward-Facing Dog"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:paddingLeft="10dp"
+                android:text="Downward-facing dog strengthens the arms, shoulders and back while stretching the hamstrings, calves and arches of your feet."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:paddingLeft="10dp"
+                android:text="It can also help relieve back pain."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="398dp"
+                android:src="@drawable/downwardfacing" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:paddingLeft="10dp"
+                android:text="To help relieve back pain."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="143dp"
+                android:paddingLeft="10dp"
+                android:text="This pose is not recommended if you have carpal tunnel syndrome or other wrist problems, have high blood pressure or are in the late stages of pregnancy."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="141dp"
+                android:paddingLeft="10dp"
+                android:text="You can do the pose with your elbows on the ground, which takes the weight off your wrists. You can also use blocks under your hands, which may feel more comfortable."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="119dp"
+                android:paddingLeft="10dp"
+                android:text="Focus on distributing the weight evenly through your palms and lifting your hips up and back, away from your shoulders."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+================================================
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="3.Plank Pose"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="86dp"
+                android:paddingLeft="10dp"
+                android:text="A commonly seen exercise, plank helps build strength in the core, shoulders, arms and legs."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="271dp"
+                android:src="@drawable/plankposebeginface" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:paddingLeft="10dp"
+                android:text="Plank pose is good if you are looking to tone your abs and build strength in your upper body."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="143dp"
+                android:paddingLeft="10dp"
+                android:text="Avoid plank pose if you suffer from carpal tunnel syndrome. It can be hard on your wrists. You might also skip it or modify if you have low back pain."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="62dp"
+                android:paddingLeft="10dp"
+                android:text="You can modify it by placing your knees on the floor."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:paddingLeft="10dp"
+                android:text="As you do a plank, imagine the back of your neck and spine lengthening."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+=======================================================
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="4.Four-Limbed Staff Pose"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="86dp"
+                android:paddingLeft="10dp"
+                android:text="This push-up variation follows plank pose in a common yoga sequence known as the sun salutation."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="118dp"
+                android:paddingLeft="10dp"
+                android:text="It is a good pose to learn if you want to eventually work on more advanced poses, such as arm balances or inversions."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="404dp"
+                android:src="@drawable/staffhose" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="67dp"
+                android:paddingLeft="10dp"
+                android:text="Like plank, this pose strengthens arms and wrists and tones the abdomen."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:paddingLeft="10dp"
+                android:text="If you have carpal tunnel syndrome, lower back pain, a shoulder injury or are pregnant."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:paddingLeft="10dp"
+                android:text="It’s a good idea for beginners to modify the pose by keeping your knees on the floor."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="92dp"
+                android:paddingLeft="10dp"
+                android:text="Press your palms evenly into the floor and lift your shoulders away from the floor as you hold this pose."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            ========
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="5.Cobra Pose"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="114dp"
+                android:paddingLeft="10dp"
+                android:text="This back-bending pose can help strengthen the back muscles, increase spinal flexibility and stretches the chest, shoulders and abdomen."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="404dp"
+                android:src="@drawable/cobrarose" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:paddingLeft="10dp"
+                android:text="This post is great for strengthening the back."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:paddingLeft="10dp"
+                android:text="If you have arthritis in your spine or neck, a low-back injury or carpal tunnel syndrome."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:paddingLeft="10dp"
+                android:text="Just lift up a few inches, and don’t try to straighten your arms."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="67dp"
+                android:paddingLeft="10dp"
+                android:text="Try to keep your navel drawing up away from the floor as you hold this pose."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+            ==========================
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="6.Tree Pose"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="93dp"
+                android:paddingLeft="10dp"
+                android:text="Beyond helping improve your balance, it can also strengthen your core, ankles, calves, thighs and spine."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="248dp"
+                android:src="@drawable/treepose" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:paddingLeft="10dp"
+                android:text="Great for working on your balance and posture."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="114dp"
+                android:paddingLeft="10dp"
+                android:text=" You many want to skip this pose if you have low blood pressure or any medical conditions that affect your balance."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
+                android:paddingLeft="10dp"
+                android:text="Place one of your hands on a wall for support."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="67dp"
+                android:paddingLeft="10dp"
+                android:text="Focus on your breath in and out as you hold this pose."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            =-==-=-=-=-=-=-=-=--=-=
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="7.Triangle Pose"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="141dp"
+                android:paddingLeft="10dp"
+                android:text="Triangle, which is a part of many yoga sequences helps build strength in the legs and stretches the hips, spine, chest, shoulders, groins, hamstrings and calves."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:paddingLeft="10dp"
+                android:text="It can also help increase mobility in the hips and neck."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="387dp"
+                android:src="@drawable/trianglepose" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:paddingLeft="10dp"
+                android:text="This pose is great for building strength and endurance."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:paddingLeft="10dp"
+                android:text="Avoid this pose if you have a headache or low blood pressure."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="If you have high blood pressure, turn your head to gaze downward in the final pose. If you have neck problems, don’t turn your head to look upward; look straight ahead and keep both sides of the neck long."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:paddingLeft="10dp"
+                android:text="Keep lifting your raised arm toward the ceiling. It helps keep the pose buoyant."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            ===============
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="8.Seated Half-Spinal Twist Pose"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="79dp"
+                android:paddingLeft="10dp"
+                android:text="This twisting pose can increase the flexibility in your back, while stretching the shoulders, hips and chest."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:paddingLeft="10dp"
+                android:text="It can also help relieve tension in the middle of your back."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="279dp"
+                android:src="@drawable/seated" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:paddingLeft="10dp"
+                android:text="To release tight muscles around the shoulders and upper and lower back."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text=" If you have a back injury."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="86dp"
+                android:paddingLeft="10dp"
+                android:text="If bending your right knee is uncomfortable, keep it straight out in front of you."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="64dp"
+                android:paddingLeft="10dp"
+                android:text=" Lift your torso with each inhale, and twist as you exhale."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            =======
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="9.Bridge Pose"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="112dp"
+                android:paddingLeft="10dp"
+                android:text="This is a back-bending pose that stretches the muscles of the chest, back and neck. It also builds strength in the back and hamstring muscles."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="237dp"
+                android:src="@drawable/bridgepose" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:paddingLeft="10dp"
+                android:text="If you sit most of the day, this pose will help you open your upper chest."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="61dp"
+                android:paddingLeft="10dp"
+                android:text="Avoid this pose if you have a neck injury."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="149dp"
+                android:paddingLeft="10dp"
+                android:text="Place a block between your thighs to help keep the legs and feet in proper alignment. Or you can place a block under your pelvis if your lower back is bothering you."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="101dp"
+                android:paddingLeft="10dp"
+                android:text="While holding this pose, try to keep your chest lifted and your sternum toward your chin."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            ======================
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="10.Pose"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="112dp"
+                android:paddingLeft="10dp"
+                android:text="Like life, yoga classes typically end with this pose. It allows for a moment of relaxation, but some people find it difficult to stay still in this pose."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="83dp"
+                android:paddingLeft="10dp"
+                android:text="However, the more you try this pose, the easier it is to sink into a relaxing, meditative state."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="388dp"
+                android:src="@drawable/corpseose" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:paddingLeft="10dp"
+                android:text="Do it:"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:paddingLeft="10dp"
+                android:text=" Always!"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:paddingLeft="10dp"
+                android:text="Skip it:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="61dp"
+                android:paddingLeft="10dp"
+                android:text="If you don’t want to have a moment’s peace."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:paddingLeft="10dp"
+                android:text="Modify:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="149dp"
+                android:paddingLeft="10dp"
+                android:text="Place a blanket under your head, if that feels more comfortable. You can also roll up a blanket and place that under your knees, if your lower back is sensitive or bothering you."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:paddingLeft="10dp"
+                android:text="Be mindful:"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="73dp"
+                android:paddingLeft="10dp"
+                android:text="Feel the weight of your body sinking into your mat one part at a time."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <!--            <ImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="412dp"-->
+<!--                android:src="@drawable/burpess1998" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="257dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Keep in mind proper form while performing a burpee. It is important you keep your back straight during the plank. Don’t let your midsection sag down and don’t let your hips go too far up in the air. While doing the jump squat portion of the burpee, make sure you land with your knees slightly bent to protect your knees.  "-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="133dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Get started with this total body burpee workout consisting of five exercises that will strengthen, tone and improve your agility. "-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+<!--            <View-->
+
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="1.5dp"-->
+<!--                android:background="@android:color/background_light">-->
+
+<!--            </View>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+
+
+<!--            <TextView-->
+<!--                android:id="@+id/grq"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:gravity="center"-->
+<!--                android:text="- Classic Burpee -"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textStyle="bold"-->
+<!--                android:textSize="25sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="398dp"-->
+<!--                android:src="@drawable/classicburpeecan1" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

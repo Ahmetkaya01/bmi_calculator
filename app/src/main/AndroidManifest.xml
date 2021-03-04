@@ -14,12 +14,32 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Plankitup"></activity>
+        <activity android:name=".Articlesofsleeping"></activity>
+        <activity android:name=".HealthySleepHygiene" />
+        <activity android:name=".thebestwaystogetbetterSLEEP" />
+        <activity android:name=".SleepPurpose" />
+        <activity android:name=".whygoodisimportant" />
+        <activity android:name=".articlesofrunning" />
+        <activity android:name=".benefitsofRunningThatMakeYou" />
+        <activity android:name=".benefitsofrunningandjogging" />
+        <activity android:name=".Articlesofwalking" />
+        <activity android:name=".Articlesoffitness" />
+        <activity android:name=".runninginthemorning" />
+        <activity android:name=".Yogaproses" />
+        <activity android:name=".sixbenefitsofrunning" />
+        <activity android:name=".ArticlesofYoga" />
+        <activity android:name=".whilewalkingwhathappens" />
+        <activity android:name=".walkingsafetytips" />
+        <activity android:name=".walk30minutes" />
+        <activity android:name=".benefitsofwalking" />
+        <activity android:name=".yogaandpain" />
+        <activity android:name=".YogaforEveryone" />
+        <activity android:name=".testercan" />
+        <activity android:name=".Plankitup" />
         <activity android:name=".thebestbuttworkouts" />
         <activity android:name=".Randomworkout" />
         <activity android:name=".browse" />
         <activity android:name=".allfooddiet" />
-
         <activity android:name=".SelfLove" />
         <activity android:name=".Antistress" />
         <activity android:name=".happinies" />
@@ -39,14 +59,13 @@
         <activity android:name=".exer" />
         <activity android:name=".ObeseActivity" />
         <activity android:name=".Results" />
-        <activity android:name=".MainActivity"/>
+        <activity android:name=".MainActivity" />
         <activity android:name=".MainActivity1">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>>
-
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
     </application>
 

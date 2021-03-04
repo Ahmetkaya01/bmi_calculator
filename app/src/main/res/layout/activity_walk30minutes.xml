@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+    tools:context=".walk30minutes">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="What Might Happen If You Walk 30 Minutes a Day"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:paddingLeft="10dp"
+                android:text="- Think About It"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="204dp"
+                android:paddingLeft="10dp"
+                android:text="Be honest: You easily spend 30 minutes a day on Instagram, Facebook and Snapchat. (It's OK, we do, too.) Well, put down your phone and use that time to take a walk around the neighborhood. There are eight amazing things that might happen if you do."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="396dp"
+                app:srcCompat="@drawable/thinkingofthat" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            =================================
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:paddingLeft="10dp"
+                android:text="- You'll Burn About 150 Calories"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="Depending on your weight and the speed you're walking, you're likely to burn about 150 calories whenever you take a half-hour stroll. So don't worry about eating that extra cookie after lunch—you got this."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="396dp"
+                app:srcCompat="@drawable/youwillburn" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+=================================
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:paddingLeft="10dp"
+                android:text="- You'll Feel Calmer"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="The act of walking can be relaxing, even if you're exploring a busy city street and not a quiet meadow. For an even deeper experience, download the meditation app  and listen to a guided walking meditation."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="411dp"
+                app:srcCompat="@drawable/youwillfeelcalmer" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+==================================================
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:paddingLeft="10dp"
+                android:text="- Your Legs Will Become More Toned"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="24sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="Just 30 minutes a day can strengthen and tone the muscles in your thighs and calves. Pair your walks with strength-training exercises twice a week (lunges, squats, etc.) and you'll notice even better results."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="411dp"
+                app:srcCompat="@drawable/yourlegs" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+
+
+=========================================
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:text="- And You Might Reduce Varicose Veins"
+                android:textColor="#FDFEFE"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="Walking regularly has been proven to help reduce the appearance and pain of varicose veins, according to the . (Just make sure you change into sneaks before you start to prevent injury and increase circulation.)"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="411dp"
+                app:srcCompat="@drawable/andyoumight" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+======================================================
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:text="-You'll Improve Your Digestion"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="141dp"
+                android:paddingLeft="10dp"
+                android:text="After eating a heavy meal, don't flop down on the couch in front of the TV. A 30-minute walk will help get things moving in your digestive tract and keep your blood sugar levels more stable."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="411dp"
+                app:srcCompat="@drawable/improveyourdigestion" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+======================================================
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:text="- And You'll Feel More Creative"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="224dp"
+                android:paddingLeft="10dp"
+                android:text="You know what won't get your creative juices flowing? Watching Friends reruns. (We still love you, Chandler.) When you go for a walk, bring a notebook with you. You'll be surprised how easily creative ideas pop up when you're on the move and clearing your head."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="411dp"
+                app:srcCompat="@drawable/morecreative" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+===================================================
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:text="- You'll Get Errands Done On-the-Go"
+                android:textColor="#FDFEFE"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="168dp"
+                android:paddingLeft="10dp"
+                android:text="Something else you can take on that walk: your phone. Use the time to catch up with long-distance friends and family. Or, hell, make that dentist appointment you've been putting off for weeks."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="411dp"
+                app:srcCompat="@drawable/errandsdone" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+================================================
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:paddingLeft="10dp"
+                android:text="You Might Be Inspired to Exercise Even More"
+                android:textColor="#FDFEFE"
+                android:gravity="center"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="193dp"
+                android:paddingLeft="10dp"
+                android:text="After a few weeks of making this routine, your half-hour walk will become a piece of cake. You might even be inspired to take it to the next level and try a 30-minute run or bike ride. The possibilities are endless, people."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="411dp"
+                app:srcCompat="@drawable/inspired" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+===============================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

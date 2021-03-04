@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+
+    tools:context=".runninginthemorning">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Is it Safe To Run Early In The Morning?"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="- The simple answer to this ‘NOT ALWAYS’!"
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="- Truth is bad things happens."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="- It may be because of you (unlikely) or the other person."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Also, it may be some other mishap."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="551dp"
+                app:srcCompat="@drawable/tentips" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="89dp"
+                android:paddingLeft="10dp"
+                android:text="It is not always that your safety is threatened by a person, it may be some unfortunate accident."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="83dp"
+                android:gravity="center"
+
+                android:text="1. Let someone know when to expect you back"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="225dp"
+                android:paddingLeft="10dp"
+                android:text="When going out for a run, let a close friend or a family member know, when to expect you back or how many miles you plan to run.
+
+God forbid, if something unfortunate happens, you family members will be able to provide a timeline from when you went missing."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="232dp"
+                app:srcCompat="@drawable/jogginwhy" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="Also, knowing when you will be back, will stop them from worrying for you too soon.
+
+If you are staying alone, or don’t want to bother others, you may leave a note at your home, just before leaving for a run."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            /////////////////////////////////////
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:gravity="center"
+
+                android:text="2.Switch up your routes"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="152dp"
+                android:paddingLeft="10dp"
+                android:text="This is one mistake that many early runners make.They become too predictable. They take the exact same route, the same time of the morning every single day."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="232dp"
+                app:srcCompat="@drawable/trailrunning" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="155dp"
+                android:paddingLeft="10dp"
+                android:text="This makes them an easy target since during wee hours in the morning, there are very few people on the roads.
+
+To ensure your safety, don’t be predictable."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+///////////////////////////////////////////////////
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:gravity="center"
+                android:text="3. Choose a well-lit route"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:paddingLeft="10dp"
+                android:text=" When running in the morning don’t venture out in the dark.
+
+Choose a well lit route."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="443dp"
+                app:srcCompat="@drawable/idcard" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="123dp"
+                android:paddingLeft="10dp"
+                android:text="You should be able to see what is there in front of you or who is at your back.
+
+It is easier to take advantage of you, if you are running in the dark."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+//////////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:gravity="center"
+                android:text="4. Wear a ID tag"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="142dp"
+                android:paddingLeft="10dp"
+                android:text=" Though we can try everything we can to avoid mishaps, sometimes they will happen.
+
+In today’s world, all people have a smartphone. It helps you in almost every possible situation."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="299dp"
+                app:srcCompat="@drawable/carryingid" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="169dp"
+                android:paddingLeft="10dp"
+                android:text="But if you are unconscious, these password protected phones will do little to save your life.
+
+So, you want people to know your absolute essential details in such critical situations."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:gravity="center"
+                android:text="5. Get a running partner"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="118dp"
+                android:paddingLeft="10dp"
+                android:text="Many love to run alone. But if you don’t mind, get a running partner.
+
+You will have someone to turn to immediately, in case of emergencies."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="299dp"
+                app:srcCompat="@drawable/youshouldnt" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:paddingLeft="10dp"
+                android:text="You can either try to partner up yourself or join a running club in your area.
+
+Running club is a great idea, but most of the runners there will not want to go for a run 4:00 AM in the morning."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            //////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:gravity="center"
+                android:text="6. Carry a cell phone"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="63dp"
+                android:paddingLeft="10dp"
+                android:text="This may seem counter intuitive, but it is not.
+
+ Why?"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="299dp"
+                app:srcCompat="@drawable/bestclothesforrun" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="199dp"
+                android:paddingLeft="10dp"
+                android:text="It may not be useful when you are unconscious, but it will help in all other situations.
+
+Like, in case you get lost. You will be able to call your loved one to inform that you are safe.
+
+Otherwise, they may start worrying if you are taking longer to return."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

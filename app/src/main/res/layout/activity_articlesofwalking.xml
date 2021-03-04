@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#010203"
+    tools:context=".Articlesofwalking">
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"></View>
+    <TextView
+        android:layout_width="347dp"
+        android:layout_height="38dp"
+        android:paddingLeft="20dp"
+        android:text="Articles Of Walking"
+        android:textColor="#FDFEFE"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"></View>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="600dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/walkingsafety"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="260dp"
+                android:paddingRight="70dp"
+                android:textSize="24dp"
+                android:textStyle="bold"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/scaredrunalone"
+                android:text="12 Walking Safety Tips" />
+
+            <Button
+                android:id="@+id/whenyouwalking"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="260dp"
+                android:paddingRight="2dp"
+                android:textStyle="bold"
+                android:textSize="21dp"
+                android:background="@drawable/bionic"
+                android:text="What Happen when you walking" />
+            <Button
+                android:id="@+id/benefitsofwalking"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="255dp"
+                android:paddingRight="120dp"
+                android:textSize="23dp"
+                android:textStyle="bold"
+                android:text="Benefits Of Walking"
+                android:background="@drawable/costofhuman"/>
+            <Button
+                android:id="@+id/walk30minutes"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="255dp"
+                android:paddingRight="90dp"
+                android:textSize="23dp"
+                android:textStyle="bold"
+                android:text="Walk 30 minutes a day"
+                android:background="@drawable/brisklysc"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>   <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"></View>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

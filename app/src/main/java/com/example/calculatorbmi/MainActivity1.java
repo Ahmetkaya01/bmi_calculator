@@ -9,8 +9,9 @@ import android.widget.Button;
 
 
 public class MainActivity1 extends AppCompatActivity {
-
-
+    private Button Browsebtn;
+    private Button Homebtn;
+////
     private Button Happiness;
     private Button Antistress;
     private Button Allfooddiet;
@@ -26,6 +27,9 @@ public class MainActivity1 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
+        Browsebtn = findViewById(R.id.browsebutton);
+        Homebtn = findViewById(R.id.homebutton);
+        ////
         Randomworkout = findViewById(R.id.randomworkout);
         Plankitup = findViewById(R.id.plankitup);
         Quickresistance= findViewById(R.id.quickresistance);
@@ -130,12 +134,30 @@ public class MainActivity1 extends AppCompatActivity {
                             }
                         });
 
+                        Browsebtn = findViewById(R.id.browsebutton);
+
+                        Button browsebutton = (Button) findViewById(R.id.browsebutton);
+
+                        browsebutton.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                startActivity(new Intent(MainActivity1.this,browse.class));
+                            }
+                        });
+
+                        Homebtn = findViewById(R.id.homebutton);
+                        Button homebutton = (Button) findViewById(R.id.homebutton);
+
+                        homebutton.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                startActivity(new Intent(MainActivity1.this,MainActivity1.class));
+                            }
+                        });
                     }
+
                 });
             }
         });
-
-
-
     }
 }

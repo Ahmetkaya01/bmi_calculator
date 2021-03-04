@@ -9,42 +9,25 @@
     tools:context=".MainActivity1">
 
 
-    <HorizontalScrollView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp">
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"></View>
+    <TextView
+        android:layout_width="347dp"
+        android:layout_height="38dp"
+        android:paddingLeft="20dp"
+        android:text="Articles Of Yoga"
 
+        android:textColor="#FDFEFE"
+        android:textSize="25sp"
+        android:textStyle="bold" />
 
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-
-        <Button
-            android:layout_width="185dp"
-            android:layout_height="match_parent"
-            android:layout_marginRight="20dp"
-            android:background="#400000"
-
-            android:text="yes"
-            android:textColor="@color/colorPrimary" />
-
-        <Button
-            android:layout_width="185dp"
-            android:layout_height="wrap_content"
-            android:text="yes"
-            android:layout_marginRight="10dp"
-            android:layout_marginLeft="20dp"
-            android:textColor="@color/colorPrimary"
-            android:background="#400000"/>
-
-    </LinearLayout>
-    </HorizontalScrollView>
-
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"></View>
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="300dp">
+        android:layout_height="600dp">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -53,27 +36,24 @@
 
             <Button
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="300dp"
                 android:layout_marginLeft="20dp"
-                android:layout_marginRight="20dp"
-                android:text="Hello"
-
                 android:layout_marginTop="20dp"
-
-                android:background="#800000"/>
+                android:layout_marginRight="20dp"
+                android:background="#800000"
+                android:text="Hello" />
 
             <Button
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="300dp"
                 android:layout_marginLeft="20dp"
-                android:layout_marginRight="20dp"
-                android:text="Hello"
                 android:layout_marginTop="20dp"
-
-                android:background="#800000"/>
+                android:layout_marginRight="20dp"
+                android:background="#800000"
+                android:text="Hello" />
             <Button
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="300dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:text="Hello"
@@ -83,64 +63,16 @@
                 android:layout_marginTop="20dp"
 
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="300dp"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
                 android:text="Hello"
                 android:background="#800000"/>
-            <Button
-                android:layout_marginTop="20dp"
 
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="20dp"
-                android:layout_marginRight="20dp"
-                android:text="Hello"
-                android:background="#800000"/>
-            <Button
-                android:layout_marginTop="20dp"
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
 
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="20dp"
-                android:layout_marginRight="20dp"
-                android:text="Hello"
-                android:background="#800000"/>
         </LinearLayout>
-
     </ScrollView>
-
-    <HorizontalScrollView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp">
-
-
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
-
-            <Button
-                android:layout_width="185dp"
-                android:layout_height="wrap_content"
-                android:text="yes"
-                android:layout_marginRight="20dp"
-
-                android:textColor="@color/colorPrimary"
-                android:background="#400000"/>
-
-            <Button
-                android:layout_width="185dp"
-                android:layout_height="wrap_content"
-                android:text="yes"
-                android:layout_marginRight="10dp"
-                android:layout_marginLeft="20dp"
-                android:textColor="@color/colorPrimary"
-                android:background="#400000"/>
-
-        </LinearLayout>
-    </HorizontalScrollView>
-
 </LinearLayout>

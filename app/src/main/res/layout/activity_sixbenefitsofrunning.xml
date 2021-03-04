@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+    tools:context=".sixbenefitsofrunning">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="6 Benefits of Running"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Everyone knows that running is a great way to get into shape, but it also can benefit almost every part of your bod and lift your mood. Whether it's your favorite part of the day or something you have to push yourself through, the benefits are undeniable."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="269dp"
+                app:srcCompat="@drawable/benefitsofrunnung" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="94dp"
+                android:paddingLeft="10dp"
+                android:text="The next time you're thinking of skipping a run, think of these six reasons to get your butt out the door."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:gravity="center"
+
+                android:text="1.Running Improves Your Health"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:paddingLeft="10dp"
+                android:text="Believe it or not, running is actually a great way to increase your overall level of health."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="317dp"
+                app:srcCompat="@drawable/phsycal" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text=" Research shows that running can raise your levels of good cholesterol while also helping you increase lung function and use. In addition, running can also boost your immune system and lower your risk of developing blood clots."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+===========================
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:gravity="center"
+
+                android:text="2.It Prevents Disease"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="203dp"
+                android:paddingLeft="10dp"
+                android:text="For women, running can actually help to lower your risk of breast cancer. It can also help reduce the risk of having a stroke. Many doctors today recommend running for people who are in the early stages of diabetes, high blood pressure, and osteoporosis,"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="246dp"
+                app:srcCompat="@drawable/runningoutdors" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="and it is proven to help reduce the risk of having a heart attack. By helping the arteries retain their elasticity and strengthening the heart, your chances of suffering a heart attack can be significantly reduced."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            =================================
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:gravity="center"
+
+                android:text="3.You Might Lose Weight"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="86dp"
+                android:paddingLeft="10dp"
+                android:text="Running is one of the best forms of exercise for losing or maintaining a consistent weight."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="393dp"
+                app:srcCompat="@drawable/coaching" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text=" You will find that it is a leading way to burn off extra calories and that it is the second most effective exercise in terms of calories burned per minute, following only after cross country skiing."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+==================================================
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:gravity="center"
+
+                android:text="4.Running Boosts Your Confidence"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="117dp"
+                android:paddingLeft="10dp"
+                android:text="Not all of the benefits of running are physical. Running can provide an noticeable boost to your confidence and self-esteem."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="278dp"
+                app:srcCompat="@drawable/bestsports" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="121dp"
+                android:paddingLeft="10dp"
+                android:text="By setting and achieving goals, you can help give yourself a greater sense of empowerment that will leave you feeling much happier."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+==================================================
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:gravity="center"
+
+                android:text="5.It Relieves Stress"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="144dp"
+                android:paddingLeft="10dp"
+                android:text="Stress can actually cause a number of health and mood problems. It can also diminish appetite and sleep quality. When you run, you force your body to exert excess energy and hormones."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="264dp"
+                app:srcCompat="@drawable/learntorun" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="91dp"
+                android:paddingLeft="10dp"
+                android:text=" Running also helps to reduce your chances of developing tension headaches."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+=======================================================
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:gravity="center"
+
+                android:text="6.Running has the Power to Eliminate Depression"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="123dp"
+                android:paddingLeft="10dp"
+                android:text="When you are depressed, the last thing you likely want to do is to get up and go for a run. Yet you will find that after only a few minutes of running,"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="264dp"
+                app:srcCompat="@drawable/runnur" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:paddingLeft="10dp"
+                android:text="your brain will start to secrete hormones that naturally improve your mood. In fact, there are few things in the world that can better or more rapidly treat depression than exercise such as running."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="Running is incredibly beneficial to the body, mind and spirit. You will find that even short runs can leave you feeling more energized, more focused and better able to enjoy all that life has to offer."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

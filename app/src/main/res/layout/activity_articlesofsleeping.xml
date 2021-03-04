@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="#010203"
+    tools:context=".Articlesofsleeping">
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"></View>
+    <TextView
+        android:layout_width="347dp"
+        android:layout_height="38dp"
+        android:paddingLeft="20dp"
+        android:text="Articles Of Sleep"
+        android:textColor="#FDFEFE"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"></View>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="600dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+//6 Healthy Sleep Hygiene Habits//
+            <Button
+                android:id="@+id/healthyhygiene"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="260dp"
+                android:paddingRight="175dp"
+                android:textStyle="bold"
+                android:textSize="24dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/asleepcan"
+                android:text="Healthy Sleep" />
+
+            <Button
+                android:id="@+id/sleepurose"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="260dp"
+                android:paddingLeft="5dp"
+                android:textStyle="bold"
+                android:paddingRight="180dp"
+                android:textSize="24dp"
+                android:background="@drawable/sleeppurposeman"
+                android:text="Sleep Purpose" />
+            //6 Reasons Why Good Sleep Is Important//
+            <Button
+                android:id="@+id/reasonwhygood"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="260dp"
+                android:textStyle="bold"
+                android:paddingRight="60dp"
+                android:textSize="24dp"
+                android:text="Why sleep is important"
+                android:background="@drawable/affectingfac"/>
+            <Button
+                android:id="@+id/bettergetsleep"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="260dp"
+                android:textStyle="bold"
+                android:paddingRight="70dp"
+                android:textSize="24dp"
+                android:text="Best way to get sleep"
+                android:background="@drawable/beswaystogetsleep"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

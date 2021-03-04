@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+    tools:context=".HealthySleepHygiene">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:gravity="center"
+                android:text="6 Healthy Sleep Hygiene Habits"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="249dp"
+                android:paddingLeft="10dp"
+                android:text="Do you ever find yourself staring at the ceiling, wondering if you’ll ever fall asleep? Or maybe you wake up thinking it’s time to get up, but it’s actually 2 a.m.
+
+If you’re in need of better sleep, it may be time to consider your sleep hygiene — and how your habits may be preventing you from getting the quality sleep you need."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                app:srcCompat="@drawable/sleephygien" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="116dp"
+                android:paddingLeft="10dp"
+                android:text="Let’s get into what sleep hygiene is and the changes you can make to your daytime and bedtime habits to improve your sleep."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:text="What is sleep hygiene?"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="Sleep hygiene refers to healthy sleep habits. Good sleep hygiene is important because of how crucial getting good sleep is for your mental and physical health, as well as your overall quality of life."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="283dp"
+                app:srcCompat="@drawable/howsleephygiene" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="179dp"
+                android:paddingLeft="10dp"
+                android:text="Your behaviors during the day — not just before you go to bed — can affect how well you sleep. Your food and drink choices, schedule, evening routine, and many other activities all play a part in your ability to sleep."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+///////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+
+                android:text="1. Keep a Consistent Sleep Schedule"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="174dp"
+                android:paddingLeft="10dp"
+                android:text="Try to go to sleep and wake up at about the same times every day — even on weekends. This reinforces your body’s sleep cycle (your internal clock), which can make it easier for you to fall asleep and wake up every day."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="406dp"
+                app:srcCompat="@drawable/agoodnightsleep" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="145dp"
+                android:paddingLeft="10dp"
+                android:text="Sticking to a consistent schedule may also help reduce daytime sleepiness.
+
+Make sure that the bedtime you pick allows you to get 7 to 8 hours of sleep each night."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="2.Turn off Electronic Devices Before You Go To Sleep"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="198dp"
+                android:paddingLeft="10dp"
+                android:text="Electronic devices like your phone emit blue light, which can reduce the melatonin levels in your body.
+
+Melatonin is a chemical that controls your sleep/wake cycle. When your melatonin levels dip, it can be more difficult to fall asleep."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="241dp"
+                app:srcCompat="@drawable/poweroff" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="343dp"
+                android:paddingLeft="10dp"
+                android:text="Devices that emit blue light can also distract you, keeping your brain alert. This may make it harder to fall asleep.
+
+You might think that not looking at your phone close to bedtime is enough, but keeping your phone near your bed can disrupt your sleep, even if you’re not aware of it.
+
+The message notifications, buzzing, and light that can suddenly pop on in the middle of the night can wake you up momentarily, leading to an interrupted sleep."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+//////////////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="3.Exercise Regularly"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="289dp"
+                android:paddingLeft="10dp"
+                android:text="As little as 30 minutes of aerobic exercise per day can improve your sleep quality, as well as your overall health. And if you can exercise outside, that might increase the benefits even more, since exposure to natural light helps regulate your sleep cycle.
+
+But if you can’t get outside, don’t worry. Even regular indoor exercise may help you sleep better."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="409dp"
+                app:srcCompat="@drawable/exerregularlyx" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="206dp"
+                android:paddingLeft="10dp"
+                android:text="Just avoid exercising within an hour or two of your bedtime. This can increase your energy levels and body temperature, which may make it harder to fall asleep.
+
+If you want to do some type of activity later in the day, try doing stretches or yoga."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+////////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="4.Limit Your Caffeine Intake"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="255dp"
+                android:paddingLeft="10dp"
+                android:text="The effects of caffeine can last 3 to 7 hours after you consume it. This means that your afternoon cup of coffee may keep you awake and alert a lot longer than you’d like.
+
+Although it’s usually best to limit your caffeine intake to the morning hours, keep in mind that everyone has a different tolerance to caffeine."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="328dp"
+                app:srcCompat="@drawable/limitcanyourx" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="206dp"
+                android:paddingLeft="10dp"
+                android:text="Some people may be able to stretch their consumption to midafternoon, while others might need to cut themselves off much earlier in order to fall asleep easily.
+
+The less caffeine you consume, the more sensitive you may be to its effects."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+///////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="47dp"
+                android:gravity="center"
+                android:text="5.Go To Bed Only When You’re Tired"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="255dp"
+                android:paddingLeft="10dp"
+                android:text="If you’re not tired, avoid lying in bed while you toss and turn. Instead, try doing a relaxing activity until you start to feel tired, then head to bed.
+
+If you don’t fall asleep within 20 minutes of going to bed, get up. Not being able to fall asleep may cause you to become frustrated, which can keep you awake even longer."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="288dp"
+                app:srcCompat="@drawable/theworstthings" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:paddingLeft="10dp"
+                android:text="Once you get out of bed, do something to help you unwind, like reading on the couch, until you’re tired enough to go back to bed."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+/////////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="86dp"
+                android:gravity="center"
+                android:text="6.Manage Stress Before Going To Bed"
+                android:textColor="#FDFEFE"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="121dp"
+                android:paddingLeft="10dp"
+                android:text="Thinking about things you’re worried about can keep you awake at night. To help prevent your worries from keeping you awake:"
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="288dp"
+                app:srcCompat="@drawable/theworstthings" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="91dp"
+                android:paddingLeft="10dp"
+                android:text="-Write down your worries before going to bed to help get them out of your head."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="123dp"
+                android:paddingLeft="10dp"
+                android:text="-If your to-do list stresses you out, write that down as well. Prioritize what you need to do tomorrow and the rest of the week, then try to relax."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="123dp"
+                android:paddingLeft="10dp"
+                android:text="-Research suggests that a weighted blanket may help with anxiety and insomnia, and it may provide benefits similar to deep pressure therapy."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:paddingLeft="10dp"
+                android:text="-Try meditation before bed to help calm your mind."
+                android:textColor="#FDFEFE"
+                android:textSize="23sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+///////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

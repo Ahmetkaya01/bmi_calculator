@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="#010203"
+    tools:context=".Articlesoffitness">
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"></View>
+    <TextView
+        android:layout_width="347dp"
+        android:layout_height="38dp"
+        android:paddingLeft="20dp"
+        android:text="Articles Of Fitness"
+        android:textColor="#FDFEFE"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"></View>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="600dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/yourfitness30"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="265dp"
+                android:paddingRight="150dp"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:textStyle="bold"
+                android:background="@drawable/daysfitness"
+                android:text="30-Days Fitness" />
+
+            <Button
+                android:id="@+id/thebestworkout"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="265dp"
+                android:textStyle="bold"
+                android:paddingRight="120dp"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:background="@drawable/besttoworkouts"
+                android:text="The Best Workouts" />
+            <Button
+                android:id="@+id/tenstep"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="265dp"
+                android:textStyle="bold"
+                android:paddingRight="100dp"
+                android:layout_marginRight="20dp"
+                android:text="10-Step HIIT Workout"
+                android:textSize="24dp"
+                android:background="@drawable/hittworkouts"/>
+            <Button
+                android:id="@+id/fiveburpeeworkout"
+                android:layout_height="300dp"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="255dp"
+                android:textStyle="bold"
+                android:paddingRight="120dp"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:text="5 Burpee Workouts"
+                android:background="@drawable/burpeecan"/>
+
+            <Button
+                android:id="@+id/eiqhtquick"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:paddingTop="265dp"
+                android:paddingRight="120dp"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:text="8 Quick Resistance"
+                android:background="@drawable/quickquickresist"/>
+            <Button
+                android:id="@+id/fivemovemorning"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="255dp"
+
+                android:paddingRight="14dp"
+                android:textStyle="bold"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:text="5 Move Morning Work Out"
+                android:background="@drawable/morningworkoutcankan"/>
+            <Button
+                android:id="@+id/supereasy"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="255dp"
+                android:paddingRight="100dp"
+                android:textStyle="bold"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:text="Super Easy Workout"
+                android:background="@drawable/supermaneasy"/>
+            <Button
+            android:id="@+id/randomworkout"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="255dp"
+                android:paddingRight="140dp"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:textStyle="bold"
+            android:text="Random Workout"
+            android:background="@drawable/aycanrandom"/>
+            <Button
+                android:id="@+id/plankitup"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="255dp"
+                android:textStyle="bold"
+                android:paddingRight="210dp"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:text="Plank It Up"
+                android:background="@drawable/canplankti"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
