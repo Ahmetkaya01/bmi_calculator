@@ -64,11 +64,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="111dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="We were all born and celebrated as cute little bundles of joy. Then we blossom and the cuteness somewhat fades away."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -78,11 +78,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="178dp"
+                android:layout_height="151dp"
                 android:paddingLeft="10dp"
                 android:text="Then comes the bosses, colleagues, mates, boys, men, and friends. This is when the seed of self-love you’ve sowed is put to test. If you have learnt the art of self-love, then you will easily get through life."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -93,11 +93,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="68dp"
+                android:layout_height="54dp"
                 android:paddingLeft="10dp"
                 android:text="Loving yourself more is not being greedy, selfish or unfair. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -108,11 +108,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="178dp"
+                android:layout_height="134dp"
                 android:paddingLeft="10dp"
                 android:text="We are taught to be considerate and put others first but never how to love and prepare ourselves for the journey ahead. While you can be generous and kind, it shouldn’t be with a low self-esteem."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -134,11 +134,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="201dp"
+                android:layout_height="157dp"
                 android:paddingLeft="10dp"
                 android:text="Self-esteem, self-care, self-acceptance, self-awareness, self-empowerment, self-respect, self-compassion, self-expression and self-worth are characteristics that all women should have. Notice that these words all begin with “self”?"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -147,11 +147,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="149dp"
+                android:layout_height="132dp"
                 android:paddingLeft="10dp"
                 android:text="We need to get over the fear of the unknown and understand our worth by simply practicing self-love. Self-love is not a one-time event but an endless, ongoing process."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -161,12 +161,12 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="“To love oneself is the beginning of a life-long romance.”"
                 android:textColor="#FDFEFE"
-                android:textStyle="bold"
-                android:textSize="23sp" />
+                android:textSize="21dp"
+                android:textStyle="bold" />
 
             <View
                 android:layout_width="fill_parent"
@@ -201,11 +201,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Here, ladies, is what happens when you love yourself:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
@@ -216,11 +216,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="119dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="- You take ownership of your life and understand that it doesn’t matter what others think of you, but how you feel about yourself."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -231,11 +231,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="137dp"
+                android:layout_height="107dp"
                 android:paddingLeft="10dp"
                 android:text="-You stop acting small and instead allow growth in. You let yourself live your purpose and see no need to compete, prove or compare yourself to others."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -244,11 +244,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="94dp"
+                android:layout_height="79dp"
                 android:paddingLeft="10dp"
                 android:text="-Negotiations become easy because you know your value and will not settle for less."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -258,11 +258,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="94dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="-You accept your failures as learning curves and know your significance isn’t dependent on what you produce."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -272,12 +272,12 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="121dp"
+                android:layout_height="79dp"
                 android:paddingLeft="10dp"
                 android:text="-You naturally attract peace and harmony in your day-to-day relationships.
 I’ve got some great self-love ideas for you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -317,7 +317,7 @@ I’ve got some great self-love ideas for you."
                 android:src="@drawable/honourandyourself" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
@@ -342,7 +342,7 @@ I’ve got some great self-love ideas for you."
                 android:paddingLeft="10dp"
                 android:text="Act upon your own needs first, rather than on what others expect from you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -356,7 +356,7 @@ I’ve got some great self-love ideas for you."
                 android:paddingLeft="10dp"
                 android:text="Remember, other people’s needs are not your responsibility."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -390,11 +390,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="55dp"
+                android:layout_height="54dp"
                 android:paddingLeft="10dp"
                 android:text="Exercise, eat healthy, pamper yourself and interact socially."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -414,11 +414,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="85dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Remember to treat your body like the temple it is and spend time doing things that enrich your soul."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -453,11 +453,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="71dp"
+                android:layout_height="59dp"
                 android:paddingLeft="10dp"
                 android:text="Always let people know what you will and won’t tolerate."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -467,11 +467,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="118dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="When you set boundaries, you avoid situations at work, in relationships, or in any activity that emotionally or physically damages you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -505,11 +505,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="93dp"
+                android:layout_height="57dp"
                 android:paddingLeft="10dp"
                 android:text="Don’t waste time with people who won’t mind taking away your happiness."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -528,11 +528,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="93dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Spend more time with like-minded people or those that bring out the best in you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -568,11 +568,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="115dp"
+                android:layout_height="83dp"
                 android:paddingLeft="10dp"
                 android:text="Your purpose doesn’t have to be crystal clear but figure out what makes you feel good, and do it as often as you can."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -592,11 +592,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="67dp"
+                android:layout_height="65dp"
                 android:paddingLeft="10dp"
                 android:text="Feeling good is all the permission you need to do what you love."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -633,11 +633,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="68dp"
+                android:layout_height="57dp"
                 android:paddingLeft="10dp"
                 android:text="Stop judging and criticizing yourself. You don’t always have to win."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -657,11 +657,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="67dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Remember, it’s the effort that counts, no matter the results."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -698,11 +698,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="68dp"
+                android:layout_height="54dp"
                 android:paddingLeft="10dp"
                 android:text="By doing this, you will just learn to naturally fall in love with yourself."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -711,7 +711,7 @@ I’ve got some great self-love ideas for you."
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="578dp"
+                android:layout_height="621dp"
                 android:src="@drawable/engage" />
 
             <View
@@ -743,17 +743,17 @@ I’ve got some great self-love ideas for you."
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="125dp"
+                android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="Look for opportunities capable of increasing your self-confidence, like making time to focus on what you are good at."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -773,11 +773,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="63dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="This will boost your self-confidence and esteem."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -812,11 +812,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="90dp"
+                android:layout_height="60dp"
                 android:paddingLeft="10dp"
                 android:text="Find a place you can sit and embrace life without anything getting in your way."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -826,11 +826,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="Forget about work deadlines and bills that need your attention. Have a moment to connect with just yourself."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -849,11 +849,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="147dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="These suggestions will help you to develop a sense of accomplishment and pride in what you do and who you are. You will realize that you are worthy and talented and deserve to be loved."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -862,11 +862,11 @@ I’ve got some great self-love ideas for you."
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="153dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="When you start experiencing the power of self-love, trust me, the effect will be magical and everything will simply fall into place. Life can actually feel really good."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">

@@ -49,15 +49,15 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="149dp"
+                android:layout_height="130dp"
                 android:paddingLeft="10dp"
                 android:text="Sleep is essential for good health. In fact, we need sleep to survive — just like we need food and water. So, it’s no wonder we spend about one-third of our lives sleeping."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="10dp"></View>
+                android:layout_height="15dp"></View>
 
             <ImageView
 
@@ -69,12 +69,12 @@
                 android:layout_height="15dp"></View>
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
-                android:textStyle="bold"
                 android:text="Many biological processes happen during sleep:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp"
+                android:textStyle="bold" />
 
             <View
                 android:layout_width="fill_parent"
@@ -82,11 +82,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="52dp"
                 android:paddingLeft="10dp"
                 android:text="- The brain stores new information and gets rid of toxic waste."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -94,11 +94,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="86dp"
+                android:layout_height="55dp"
                 android:paddingLeft="10dp"
                 android:text="- Nerve cells communicate and reorganize, which supports healthy brain function."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -106,11 +106,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="86dp"
+                android:layout_height="79dp"
                 android:paddingLeft="10dp"
                 android:text="- The body repairs cells, restores energy, and releases molecules like hormones and proteins."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -131,11 +131,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="146dp"
+                android:layout_height="130dp"
                 android:paddingLeft="10dp"
                 android:text="A lot is still unknown about the purpose of sleep. However, it’s widely accepted that there isn’t just one explanation for why we need to sleep. It’s likely necessary for many biological reasons."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -155,11 +155,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="128dp"
+                android:layout_height="108dp"
                 android:paddingLeft="10dp"
                 android:text="To date, scientists have found that sleep helps the body in several ways. The most prominent theoriesTrusted Source and reasons are outlined below."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -176,7 +176,6 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-///////////////////////////////////////////////////
 
             <TextView
                 android:layout_width="match_parent"
@@ -194,22 +193,20 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="172dp"
+                android:layout_height="133dp"
                 android:paddingLeft="10dp"
                 android:text="According to the energy conservation theory, we need sleep to conserve energy. Sleeping allows us to reduce our caloric needs by spending part of our time functioning at a lower metabolism."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-
-            <ImageView
+       <ImageView
 
                 android:layout_width="match_parent"
                 android:layout_height="199dp"
                 app:srcCompat="@drawable/energyconversatio" />
-
 
 
             <View
@@ -218,11 +215,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="205dp"
+                android:layout_height="158dp"
                 android:paddingLeft="10dp"
                 android:text="This concept is backed by the way our metabolic rate drops during sleep. Research suggests that 8 hours of sleep for human beings can produce a daily energy savings of 35 percentTrusted Source over complete wakefulness."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -257,13 +254,13 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="305dp"
+                android:layout_height="255dp"
                 android:paddingLeft="10dp"
                 android:text="The brain plasticity theory says sleep is required for brain function. Specifically, it allows your neurons, or nerve cells, to reorganize.
 
 When you sleep, your brain’s glymphatic (waste clearance) system clears out waste from the central nervous system. It removes toxic byproducts from your brain, which build up throughout the day. This allows your brain to work well when you wake up."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -272,10 +269,8 @@ When you sleep, your brain’s glymphatic (waste clearance) system clears out wa
             <ImageView
 
                 android:layout_width="match_parent"
-                android:layout_height="199dp"
-                app:srcCompat="@drawable/energyconversatio" />
-
-
+                android:layout_height="324dp"
+                app:srcCompat="@drawable/brainfunction" />
 
             <View
                 android:layout_width="fill_parent"
@@ -283,11 +278,11 @@ When you sleep, your brain’s glymphatic (waste clearance) system clears out wa
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="205dp"
+                android:layout_height="158dp"
                 android:paddingLeft="10dp"
                 android:text="Research suggests that sleep contributes to memory function by converting short-term memories into long-term memories, as well as by erasing, or forgetting, unneeded information that might otherwise clutter the nervous system."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -299,7 +294,7 @@ When you sleep, your brain’s glymphatic (waste clearance) system clears out wa
                 android:paddingLeft="10dp"
                 android:text="Sleep affects many aspects of brain function, including:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
@@ -308,15 +303,15 @@ When you sleep, your brain’s glymphatic (waste clearance) system clears out wa
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="96dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="Earning memory,Problem-solving skills,Creativity,Decision making,Focus,Concentration."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="10dp"></View>
+                android:layout_height="20dp"></View>
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -346,11 +341,11 @@ When you sleep, your brain’s glymphatic (waste clearance) system clears out wa
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="172dp"
+                android:layout_height="155dp"
                 android:paddingLeft="10dp"
                 android:text="Insulin is a hormone that helps your cells use glucose, or sugar, for energy. But in insulin resistance, your cells don’t respond properly to insulin. This can lead to high blood glucose levels and, eventually, type 2 diabetes."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -359,10 +354,8 @@ When you sleep, your brain’s glymphatic (waste clearance) system clears out wa
             <ImageView
 
                 android:layout_width="match_parent"
-                android:layout_height="199dp"
-                app:srcCompat="@drawable/energyconversatio" />
-
-
+                android:layout_height="266dp"
+                app:srcCompat="@drawable/insulinfunction" />
 
             <View
                 android:layout_width="fill_parent"
@@ -422,14 +415,16 @@ When you sleep, your body makes cytokines, which are proteins that fight infecti
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+            //////////////////
+            //////////////////
 
             <ImageView
 
                 android:layout_width="match_parent"
-                android:layout_height="199dp"
-                app:srcCompat="@drawable/energyconversatio" />
-
-
+                android:layout_height="239dp"
+                app:srcCompat="@drawable/flihter" />
+            //////////////////
+            //////////////////
 
             <View
                 android:layout_width="fill_parent"
@@ -464,7 +459,7 @@ That’s why sleep is so important when you’re sick or stressed. During these 
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="106dp"
+                android:layout_height="wrap_content"
                 android:gravity="center"
                 android:paddingLeft="10dp"
                 android:text="What Happens When You Sleep?"
@@ -478,11 +473,11 @@ That’s why sleep is so important when you’re sick or stressed. During these 
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="225dp"
+                android:layout_height="179dp"
                 android:paddingLeft="10dp"
                 android:text="Your body cycles through four stages of sleep. This cycle occurs multiple times throughout the night for different lengths of time, varying from 70 to 120 minutesTrusted Source each. The stages generally repeat about four to give times during a 7- to 9-hour sleep period."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -502,11 +497,11 @@ That’s why sleep is so important when you’re sick or stressed. During these 
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="175dp"
+                android:layout_height="158dp"
                 android:paddingLeft="10dp"
                 android:text="The pattern includes two major phases of sleep: non-rapid eye movement (non-REM) sleep and REM (rapid eye movement) sleep. The four stages of sleep include three stages of non-REM sleep and one stage of REM sleep."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"

@@ -11,7 +11,9 @@
 
     <View
         android:layout_width="fill_parent"
-        android:layout_height="20dp"></View>
+        android:layout_height="20dp">
+
+    </View>
     <TextView
         android:layout_width="347dp"
         android:layout_height="38dp"

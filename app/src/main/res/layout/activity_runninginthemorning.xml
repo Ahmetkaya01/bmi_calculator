@@ -105,11 +105,11 @@
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="89dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="It is not always that your safety is threatened by a person, it may be some unfortunate accident."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -119,7 +119,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="83dp"
                 android:gravity="center"
-
                 android:text="1. Let someone know when to expect you back"
                 android:textColor="#FDFEFE"
                 android:textSize="25sp"
@@ -131,13 +130,13 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="225dp"
+                android:layout_height="177dp"
                 android:paddingLeft="10dp"
                 android:text="When going out for a run, let a close friend or a family member know, when to expect you back or how many miles you plan to run.
 
 God forbid, if something unfortunate happens, you family members will be able to provide a timeline from when you went missing."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -157,13 +156,13 @@ God forbid, if something unfortunate happens, you family members will be able to
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="174dp"
+                android:layout_height="134dp"
                 android:paddingLeft="10dp"
                 android:text="Also, knowing when you will be back, will stop them from worrying for you too soon.
 
 If you are staying alone, or don’t want to bother others, you may leave a note at your home, just before leaving for a run."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -199,11 +198,11 @@ If you are staying alone, or don’t want to bother others, you may leave a note
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="152dp"
+                android:layout_height="134dp"
                 android:paddingLeft="10dp"
                 android:text="This is one mistake that many early runners make.They become too predictable. They take the exact same route, the same time of the morning every single day."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -223,13 +222,13 @@ If you are staying alone, or don’t want to bother others, you may leave a note
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="155dp"
+                android:layout_height="106dp"
                 android:paddingLeft="10dp"
                 android:text="This makes them an easy target since during wee hours in the morning, there are very few people on the roads.
 
 To ensure your safety, don’t be predictable."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -265,13 +264,13 @@ To ensure your safety, don’t be predictable."
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="88dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text=" When running in the morning don’t venture out in the dark.
 
 Choose a well lit route."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -291,13 +290,13 @@ Choose a well lit route."
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="123dp"
+                android:layout_height="109dp"
                 android:paddingLeft="10dp"
                 android:text="You should be able to see what is there in front of you or who is at your back.
 
 It is easier to take advantage of you, if you are running in the dark."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -331,13 +330,13 @@ It is easier to take advantage of you, if you are running in the dark."
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="142dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text=" Though we can try everything we can to avoid mishaps, sometimes they will happen.
 
 In today’s world, all people have a smartphone. It helps you in almost every possible situation."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -357,13 +356,13 @@ In today’s world, all people have a smartphone. It helps you in almost every p
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="169dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="But if you are unconscious, these password protected phones will do little to save your life.
 
 So, you want people to know your absolute essential details in such critical situations."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -397,13 +396,13 @@ So, you want people to know your absolute essential details in such critical sit
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="118dp"
+                android:layout_height="110dp"
                 android:paddingLeft="10dp"
                 android:text="Many love to run alone. But if you don’t mind, get a running partner.
 
 You will have someone to turn to immediately, in case of emergencies."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -423,13 +422,13 @@ You will have someone to turn to immediately, in case of emergencies."
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="You can either try to partner up yourself or join a running club in your area.
 
 Running club is a great idea, but most of the runners there will not want to go for a run 4:00 AM in the morning."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -444,7 +443,7 @@ Running club is a great idea, but most of the runners there will not want to go 
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+                android:layout_height="10dp"></View>
 
             //////////////////////////////////////////////////////
 
@@ -469,7 +468,7 @@ Running club is a great idea, but most of the runners there will not want to go 
 
  Why?"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -485,11 +484,11 @@ Running club is a great idea, but most of the runners there will not want to go 
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+                android:layout_height="10dp"></View>
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="199dp"
+                android:layout_height="184dp"
                 android:paddingLeft="10dp"
                 android:text="It may not be useful when you are unconscious, but it will help in all other situations.
 
@@ -497,7 +496,7 @@ Like, in case you get lost. You will be able to call your loved one to inform th
 
 Otherwise, they may start worrying if you are taking longer to return."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"

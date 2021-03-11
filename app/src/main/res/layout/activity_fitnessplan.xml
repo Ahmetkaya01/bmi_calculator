@@ -69,11 +69,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="149dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text=" Take this 30-day beach body challenge for toned arms, shapely legs and a slim waist. This equipment-free workout can be done from the comfort of your home, on-the-go or at the beach."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -158,7 +158,7 @@
                 android:textStyle="bold"
                 android:text="Target: Chest, Arms, Shoulders and Triceps"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 
@@ -174,7 +174,7 @@
                 android:paddingLeft="10dp"
                 android:text="Push-ups are a great exercise to challenge your core and upper-body strength. To decrease the difficulty of the exercise, you can add an incline position by resting your hands on a wall, bench or chair."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -214,8 +214,8 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="409dp"
-                android:src="@drawable/powerjacks" />
+                android:layout_height="233dp"
+                android:src="@drawable/jackspower" />
 
             <View
                 android:layout_width="fill_parent"
@@ -244,7 +244,7 @@
                 android:text="Power jacks are a great full-body cardio exercise to burn fat. By adding the power to the jack, you’ll target your glutes and thighs and increase the difficulty of the exercise by leaps and bounds. For a modified version, perform regular jumping jacks without the added squat motion. "
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -310,7 +310,7 @@
                 android:paddingLeft="10dp"
                 android:text="Plank Up-Downs are a great exercise for strengthening your core, shoulders and triceps in one go while keeping your heart rate in the fat-burning zone. For a modified version, leave your knees in contact with the ground.  "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -334,6 +334,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="Plyo Lunges"
+                android:textStyle="bold"
                 android:textColor="#FDFEFE"
                 android:textSize="30sp" />
 
@@ -376,7 +377,7 @@
 
 Note: For this exercise, right-left is considered one repetition.   "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -413,7 +414,7 @@ Note: For this exercise, right-left is considered one repetition.   "
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="398dp"
+                android:layout_height="407dp"
                 android:src="@drawable/sideplank" />
 
             <View
@@ -445,7 +446,7 @@ Note: For this exercise, right-left is considered one repetition.   "
 
 Note: For this exercise, complete the required amount of repetitions on one side and then switch to the opposite side.   "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -482,8 +483,8 @@ Note: For this exercise, complete the required amount of repetitions on one side
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="403dp"
-                android:src="@drawable/dropsquats" />
+                android:layout_height="272dp"
+                android:src="@drawable/squatsdropp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -512,7 +513,7 @@ Note: For this exercise, complete the required amount of repetitions on one side
                 android:paddingLeft="10dp"
                 android:text="Add a little more intensity to your squat. Drop squats target your glutes and quadriceps and because they’re explosive, you’ll burn extra calories. If drop squats are too challenging, perform regular air squats instead.   "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -577,7 +578,7 @@ Note: For this exercise, complete the required amount of repetitions on one side
                 android:paddingLeft="10dp"
                 android:text="Look and feel your best at the beach! Knee tucks work both your upper and lower abdominal muscles to get you beach body ready.   "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -613,8 +614,8 @@ Note: For this exercise, complete the required amount of repetitions on one side
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="400dp"
-                android:src="@drawable/mountainclimbers" />
+                android:layout_height="239dp"
+                android:src="@drawable/howtodomountainclimbers" />
 
             <View
                 android:layout_width="fill_parent"
@@ -645,7 +646,7 @@ Note: For this exercise, complete the required amount of repetitions on one side
 
 Note: For this exercise, right-left is considered one repetition.    "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -670,6 +671,7 @@ Note: For this exercise, right-left is considered one repetition.    "
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="- Burpees -"
+                android:textStyle="bold"
                 android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
@@ -680,7 +682,7 @@ Note: For this exercise, right-left is considered one repetition.    "
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
@@ -717,8 +719,8 @@ Note: For this exercise, right-left is considered one repetition.    "
 
 Note: For a modified version, walk your feet up to your hands one at a time and then stand nice and tall. Omit the jumping portion at the top of the movement.  "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
+                android:textSize="21dp" />
+/000000000000000000000000000000000000000000000000000000000000//
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -793,7 +795,7 @@ Note: For a modified version, walk your feet up to your hands one at a time and 
 Note: For this exercise, out-in with your feet is considered one repetition.   "
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"

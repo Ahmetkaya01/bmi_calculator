@@ -29,10 +29,11 @@
 
                 //DONE
             DONE//
+
             <ImageView
                 android:id="@+id/p2"
                 android:layout_width="match_parent"
-                android:layout_height="517dp"
+                android:layout_height="572dp"
                 app:srcCompat="@drawable/supereasyfull" />
 
 
@@ -44,11 +45,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="wrap_content"
-                android:layout_height="306dp"
+                android:layout_height="264dp"
                 android:paddingLeft="10dp"
                 android:text="We're here to let you in on a little secret: It is completely possible to get a total body workout from your own home. That's right: No weights? No gym? No problem! We’ve put together five moves to tone your entire body from head to toe, all without needing a single dumbbell! We're talking about a routine that will help sculpt your entire body all from the comfort of ease of your own living room or bedroom."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
                         <View
                             android:layout_width="fill_parent"
@@ -58,12 +59,12 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="400dp"
-                android:text="We love full-body workouts because they target all the major muscle groups, ensuring that you’re developing strength across your whole body. Workout routines that focus on specific muscles individually can create muscle imbalances, which can lead to poor posture and injuries. Plus, full-body workouts (like our workout below) tend to incorporate dynamic exercises that use many muscle groups simultaneously and mimic functional movements. This is great for two reasons: "
-                android:textColor="#FDFEFE"
-
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:text="We love full-body workouts because they target all the major muscle groups, ensuring that you’re developing strength across your whole body. Workout routines that focus on specific muscles individually can create muscle imbalances, which can lead to poor posture and injuries. Plus, full-body workouts (like our workout below) tend to incorporate dynamic exercises that use many muscle groups simultaneously and mimic functional movements. This is great for two reasons: "
+
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
                         <View
                             android:layout_width="fill_parent"
@@ -72,10 +73,10 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="126dp"
+                android:layout_height="82dp"
                 android:text="1- You’ll torch more calories in a shorter amount of time because you’re using a greater percentage of your muscle mass."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
                         <View
                             android:layout_width="fill_parent"
@@ -85,11 +86,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="180dp"
+                android:layout_height="159dp"
+                android:paddingLeft="10dp"
                 android:text="2- The benefits of your sweat session will make it easier for you to do regular, daily life activities like carrying groceries or running up a flight of stairs because you’ve trained your muscles to work synergistically."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -102,11 +103,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="283dp"
+                android:layout_height="235dp"
                 android:paddingLeft="10dp"
                 android:text="This means your brain is better able to actively recruit all your muscles to work together for different tasks. And, much like the power of teamwork, muscles that work together, and have been trained and strengthened together, equate to much greater efficiency and enhanced function for your whole body. In other words, full-body workouts work."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -114,15 +115,14 @@
                 android:layout_height="20dp"></View>
 
 
-
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="396dp"
+                android:layout_height="355dp"
                 android:paddingLeft="10dp"
                 android:text="We also love workouts that don’t require equipment because they can be done anytime, anywhere. Thanks to the force of gravity, your own bodyweight can provide all the resistance you need to get a challenging workout, especially when you rely on moves that get your heart rate pumping and target lots of muscles at once. We love high intensity interval training (HIIT) workouts with bodyweight exercises because you can fly from one move to the next without needing to switch equipment, keeping your heart rate up."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -135,10 +135,10 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="230dp"
+                android:layout_height="183dp"
                 android:text="Lastly, preparing for equipment-free, full-body workouts couldn’t be simpler. All you need is clothing that allows you to move, a good pair of sneakers, and some cold water to stay hydrated. We also suggest queuing up a playlist of your favorite workout jams to stay motivated and focused."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -149,11 +149,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="81dp"
                 android:paddingLeft="10dp"
                 android:text="Are you ready? Follow these five heart-pumping, bodyweight exercises for a full-body workout you can do from home."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
 
@@ -191,11 +191,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="199dp"
+                android:layout_height="178dp"
                 android:paddingLeft="10dp"
                 android:text="This move is the epitome of a full-body exercise. It packs a blast of cardio to raise your heart rate and strengthens all the muscles in your lower body. Your entire core will be required for stability, and you'll use your upper body for power and momentum."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -238,7 +238,7 @@
 Push off of the ground and jump into the air.
 While in the air, switch legs, and land softly with the left leg in front, engaging your core for balance."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 
@@ -254,7 +254,7 @@ While in the air, switch legs, and land softly with the left leg in front, engag
                 android:paddingLeft="10dp"
                 android:text="Complete 10 reps on each side (20 total jumps)."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
@@ -306,7 +306,7 @@ While in the air, switch legs, and land softly with the left leg in front, engag
                 android:paddingLeft="10dp"
                 android:text="Now it's time to tone your triceps, glutes, back, and hamstrings! You'll feel the burn along the entire backside of your body on this move. This move also strengthens your pecs (chest) and your abdominals."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -343,14 +343,14 @@ While in the air, switch legs, and land softly with the left leg in front, engag
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="207dp"
+                android:paddingLeft="10dp"
                 android:text="Start in a push-up position with your knees on the ground and your hands directly below shoulders.
 Keeping your elbows tucked by your side, lower your chest to the ground, while you simultaneously raise your left leg directly back behind you.
 Return to the starting position.
 Continue, alternating legs with each rep."
-                android:paddingLeft="10dp"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -361,11 +361,11 @@ Continue, alternating legs with each rep."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="33dp"
                 android:paddingLeft="10dp"
                 android:text="Complete 10 reps on each leg (20 total)."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
@@ -417,7 +417,7 @@ Continue, alternating legs with each rep."
                 android:text="This move strengthens your abs and hip flexors. We love it because it not only works your upper abs like traditional crunches and many popular core exercises, but it also strengthens and sculpts those pesky, harder-to-tone lower abs. Don't let the fact that you get to lie down trick you into thinking it's easy, though. We guarantee you'll still feel the burn."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -460,7 +460,7 @@ Keeping your belly button sucked in toward your spine, lift your legs straight u
 Slowly lower your legs back to a few inches off the ground."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -526,7 +526,7 @@ Slowly lower your legs back to a few inches off the ground."
                 android:text="We love this one. It primarily sculpts the glutes and hamstrings, giving you a powerful backside! You'll also work your hip flexors, abdominals, lower back, and triceps."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -534,7 +534,7 @@ Slowly lower your legs back to a few inches off the ground."
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="345dp"
+                android:layout_height="195dp"
                 android:src="@drawable/bridgedipsgif" />
 
             <View
@@ -569,7 +569,7 @@ Squeezing your glutes, lift your hips up into the air until you reach the bridge
 Slowly lower your hips back down."
                 android:paddingLeft="10dp"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -635,7 +635,7 @@ Slowly lower your hips back down."
                 android:text="Nothing says ''full-body workout'' like planking, and this modification works overtime to sculpt more than just your abs. This move strengthens your shoulders, core, glutes, back extensors, hamstrings, and quads. It's also a great exercise for improving posture and balance. It'll have you dripping with sweat, too!"
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -643,7 +643,7 @@ Slowly lower your hips back down."
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="339dp"
+                android:layout_height="418dp"
                 android:src="@drawable/planklegsgif" />
 
             <View
@@ -678,7 +678,7 @@ Tighten your core and squeeze your glutes as you lift your right leg into the ai
 Slowly lower your right leg back down."
                 android:paddingLeft="10dp"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -708,11 +708,11 @@ Slowly lower your right leg back down."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="204dp"
+                android:layout_height="184dp"
                 android:paddingLeft="10dp"
                 android:text="Begin by doing one round of all five exercises. As you get stronger and fitter, go through two or three rounds of all five exercises for a challenging full-body, bodyweight workout that will have you sweating, strengthening, and feeling great right from your own home."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
 

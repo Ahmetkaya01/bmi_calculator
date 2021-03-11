@@ -49,11 +49,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="228dp"
+                android:layout_height="203dp"
                 android:paddingLeft="10dp"
                 android:text="As important as sleep is to how well we perform at work, in the gym, and between the sheets, it’s a shame it’s always getting shafted. About 50-70 million Americans suffer from a sleep or wakefulness disorder, clipping the amount of time they spend in deep sleep, according to the CDC."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -71,11 +71,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="307dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="This slow-wave sleep is absolutely crucial for physical restoration, while rapid eye movement (REM) sleep, a lighter stage, is essential for restoring mental clarity and alertness. And, while both are important, a helpful strategy is to focus on “solid, unbroken sleep” overall, says J. Todd Arnedt, Ph.D., associate professor and director of the Behavioral Sleep Medicine Program at the University of Michigan."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -106,11 +106,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="231dp"
+                android:layout_height="207dp"
                 android:paddingLeft="10dp"
                 android:text="Organize your sleep environment so it feels comfortable for you, but keep it quiet and dark with a “generally cooler” temperature, says Arnedt. Stick to about 65-75 degrees Fahrenheit. This range is backed by research and ensures you won’t wake sweating or shivering in the middle of the night."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -130,11 +130,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="175dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="As for a particular fabric for the bed, or pillow style, it’s an individual choice rather than a scientific conclusion, he suggests. “In my experience, people have to figure out what works for them personally,” Arnedt says."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -169,11 +169,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="172dp"
+                android:layout_height="158dp"
                 android:paddingLeft="10dp"
                 android:text="“Caffeine doesn’t allow you to get into deep sleep,” says Michael Breus, a clinical psychologist and author of The Sleep Doctor’s Diet Plan: Lose Weight Through Better Sleep. “It keeps you in the lighter stages of sleep.”"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -193,13 +193,13 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="182dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="To avoid the “sleep-dampening” effects of caffeine, which has a half-life of 8 to 10 hours, shut down caffeine intake after 2 p.m.
 
 If you have your last cup of joe at 2 p.m., figure you can go to bed by 10 p.m., says Breus."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -234,11 +234,11 @@ If you have your last cup of joe at 2 p.m., figure you can go to bed by 10 p.m.,
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="247dp"
+                android:layout_height="233dp"
                 android:paddingLeft="10dp"
                 android:text="Exercise will take a couple of months to positively affect your sleep, but a regular routine will help, according to Breus. Vigorous exercise led to better sleep for twice as many respondents in the National Sleep Foundation’s 2013 “Sleep in America” poll. However, don’t exercise more than two hours before bedtime, says Breus."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -258,11 +258,11 @@ If you have your last cup of joe at 2 p.m., figure you can go to bed by 10 p.m.,
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="202dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Meanwhile, meditation may help treat insomnia, according to a 2009 study by the American Academy of Sleep Medicine. “Practice effective stress-management strategies,” such as meditation or relaxation exercises, advises Arnedt."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -297,11 +297,11 @@ If you have your last cup of joe at 2 p.m., figure you can go to bed by 10 p.m.,
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="148dp"
+                android:layout_height="115dp"
                 android:paddingLeft="10dp"
                 android:text="A relaxing rinse under hot water increases your core body temperature and can improve your sleep—especially if it’s 90 minutes before bedtime, says Breus."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -321,11 +321,11 @@ If you have your last cup of joe at 2 p.m., figure you can go to bed by 10 p.m.,
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="202dp"
+                android:layout_height="166dp"
                 android:paddingLeft="10dp"
                 android:text="“That drop in core body temperature [once you’re out of the shower] is a signal to produce melatonin,” says Breus. Known as the “Dracula of hormones,” melatonin makes you sleepy and regulates sleep and wake cycles."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -360,11 +360,11 @@ If you have your last cup of joe at 2 p.m., figure you can go to bed by 10 p.m.,
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="148dp"
+                android:layout_height="107dp"
                 android:paddingLeft="10dp"
                 android:text="A relaxing rinse under hot water increases your core body temperature and can improve your sleep—especially if it’s 90 minutes before bedtime, says Breus."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -384,11 +384,11 @@ If you have your last cup of joe at 2 p.m., figure you can go to bed by 10 p.m.,
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="202dp"
+                android:layout_height="151dp"
                 android:paddingLeft="10dp"
                 android:text="“That drop in core body temperature [once you’re out of the shower] is a signal to produce melatonin,” says Breus. Known as the “Dracula of hormones,” melatonin makes you sleepy and regulates sleep and wake cycles."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -424,13 +424,13 @@ If you have your last cup of joe at 2 p.m., figure you can go to bed by 10 p.m.,
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="252dp"
+                android:layout_height="209dp"
                 android:paddingLeft="10dp"
                 android:text="Consider using a sleep shield on your mobile device to control the amount of light you’re exposed to before bed, advises Breus.
 
 “It filters out that wavelength of light that affects your circadian rhythm,” he says. Circadian rhythms are changes to a person’s environment that affect sleep-wake patterns."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -450,11 +450,11 @@ If you have your last cup of joe at 2 p.m., figure you can go to bed by 10 p.m.,
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="176dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Products on the market include the Sleep Shield, which places a transparent polyethylene terephthalate (PET) coating over your mobile device to reduce the amount of blue light that interferes with melatonin production."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"

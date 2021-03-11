@@ -7,6 +7,19 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/appicon"
@@ -14,7 +27,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Articlesofsleeping"></activity>
+        <activity android:name=".Want_To_Start_Med"></activity>
+        <activity android:name=".Why_Should_Meditation" />
+        <activity android:name=".Types_of_Medidation" />
+        <activity android:name=".Articles_of_Meditation" />
+        <activity android:name=".Benefits_Of_Medidation" />
+        <activity android:name=".Benefits_of_Dance" />
+        <activity android:name=".Best_Dance" />
+        <activity android:name=".History_of_Dance" />
+        <activity android:name=".Articles_of_Dance" />
+        <activity android:name=".Article_Dance" />
+        <activity android:name=".Articlesofsleeping" />
         <activity android:name=".HealthySleepHygiene" />
         <activity android:name=".thebestwaystogetbetterSLEEP" />
         <activity android:name=".SleepPurpose" />
@@ -60,13 +83,18 @@
         <activity android:name=".ObeseActivity" />
         <activity android:name=".Results" />
         <activity android:name=".MainActivity" />
-        <activity android:name=".MainActivity1">
+        <activity android:name=".MainActivity1" />
+        <activity android:name=".Splash_Screen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    </application>
 
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+
+    </application>
 </manifest>

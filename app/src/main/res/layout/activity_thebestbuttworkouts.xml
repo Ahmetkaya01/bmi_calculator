@@ -59,11 +59,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="117dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="If you sit at a desk (or a makeshift couch desk) all day, regular butt workouts at home are one of the best things you can do for your body."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -72,11 +72,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="139dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="“Maintaining strong glutes is essential for the body to operate and function properly as a whole,” says master trainer Courtney Paul, a certified personal trainer in New York."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -85,11 +85,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="144dp"
+                android:layout_height="132dp"
                 android:paddingLeft="10dp"
                 android:text="“When your glutes are weak, the hip flexors, which are the glutes' opposing muscles, will begin to overpower, pulling the body forward and creating bad posture and lower-back pain.”"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -99,11 +99,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="171dp"
+                android:layout_height="128dp"
                 android:paddingLeft="10dp"
                 android:text="Doing regular butt exercises can help prevent dead butt syndrome (which, is indeed a real thing). (Not to mention it's also the path to getting a truly show stopping booty worthy of Jennifer Lopez.)"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -124,11 +124,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="148dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="You don't need to be in a gym or a bootcamp class to engage your glutes. Here are 14 butt exercises you can do right from the comfort of your living room that will help you build strength."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -138,11 +138,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="180dp"
+                android:layout_height="137dp"
                 android:paddingLeft="10dp"
                 android:text="All of these exercises can be done without equipment (or using objects you find around the house) but if you want to challenge yourself, grab a kettlebell or a set of dumbbells for added weight."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -153,11 +153,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="127dp"
+                android:layout_height="102dp"
                 android:paddingLeft="10dp"
                 android:text="You can perform these moves as a full butt workout circuit or pick and choose one or two to squeeze in between Zoom calls. Your glutes will thank you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -202,11 +202,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="145dp"
+                android:layout_height="123dp"
                 android:paddingLeft="10dp"
                 android:text="Start standing with feet shoulder-width apart. For an added challenge, hold a dumbbell (or a water bottle or even wine bottle) in each hand at waist level, palms facing you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -216,11 +216,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="128dp"
+                android:layout_height="108dp"
                 android:paddingLeft="10dp"
                 android:text="Keeping back flat and core engaged, bend from the hips and slowly lower hands toward the floor, keeping them close to your body,"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -241,11 +241,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="92dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="while simultaneously lifting left leg behind you. Stop when your chest is parallel to the floor."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -255,11 +255,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="81dp"
                 android:paddingLeft="10dp"
                 android:text="Hold for one second, then return to standing. That's 1 rep. Repeat for 10 to 12 reps, then switch legs."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -300,11 +300,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="111dp"
+                android:layout_height="81dp"
                 android:paddingLeft="10dp"
                 android:text="Stand with feet slightly wider than shoulder-width apart, holding one dumbbell with both hands in front of you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -314,11 +314,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="135dp"
                 android:paddingLeft="10dp"
                 android:text="Pushing knees outward, lower into a squat, keeping knees behind your feet. Squeeze your butt muscles and push through your heels to stand up, lifting arms overhead toward the right."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -339,11 +339,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="72dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="(For an added challenge, add weights like a dumbbell or even a heavy book.) "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -353,11 +353,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="77dp"
                 android:paddingLeft="10dp"
                 android:text="Twist your torso slightly, but keep legs and feet still. Repeat for 10 to 12 reps, then twist to the left side."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -401,7 +401,7 @@
                 android:paddingLeft="10dp"
                 android:text="Stand with feet slightly wider than hip-width apart, weights optional."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -411,11 +411,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="117dp"
+                android:layout_height="83dp"
                 android:paddingLeft="10dp"
                 android:text="Keeping spine straight and core engaged, lower into a squat, bringing your thighs as close to parallel to the floor as you can. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -436,11 +436,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="118dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Then squeeze your butt muscles and push through your heels to come up to standing, rising up onto the balls of your feet."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -450,11 +450,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="65dp"
+                android:layout_height="57dp"
                 android:paddingLeft="10dp"
                 android:text="Lower back into a squat and repeat for 10 to 12 reps."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -494,11 +494,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="108dp"
                 android:paddingLeft="10dp"
                 android:text="Stand with your back against wall, holding a dumbbell or heavy book. Keeping your back flat against the wall, walk your feet out in front of you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -508,13 +508,16 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="50dp"
                 android:paddingLeft="10dp"
                 android:text="Then, keeping your legs together, squat until your thighs are parallel to the floor."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
-
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
                 android:layout_height="353dp"
@@ -528,11 +531,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="118dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Raise arms overhead, then slowly lower them in front of you to chest level while simultaneously pushing your knees apart and out to the sides."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -542,11 +545,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="63dp"
+                android:layout_height="52dp"
                 android:paddingLeft="10dp"
                 android:text="Bring your knees back together and raise arms overhead."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -556,12 +559,12 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="63dp"
+                android:layout_height="36dp"
                 android:paddingLeft="10dp"
-                android:textStyle="bold"
                 android:text="- Repeat for 10 to 12 reps."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="23sp"
+                android:textStyle="bold" />
 
             <View
                 android:layout_width="fill_parent"
@@ -600,11 +603,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="Step your right leg forward and lower your body so that your right knee is directly over right ankle, and your left hip is directly over your left knee."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -614,13 +617,16 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="Squeeze your butt muscles and push up to stand on your right leg, lifting your left knee to chest."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
-
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
                 android:layout_height="467dp"
@@ -634,11 +640,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Place your left leg on the ground in front of you and repeat the exercise on the opposite side. For an added challenge, add weights."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 
@@ -650,7 +656,7 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="62dp"
                 android:paddingLeft="10dp"
                 android:text="- Continue repeating for 10 to 12 reps on each leg."
                 android:textColor="#FDFEFE"
@@ -696,11 +702,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_height="52dp"
                 android:paddingLeft="10dp"
                 android:text="Stand with your feet slightly wider than shoulder-width apart."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -710,16 +716,16 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="95dp"
+                android:layout_height="88dp"
                 android:paddingLeft="10dp"
                 android:text="If you want to add weight, grab a dumbbell or another weighted object and hold it in front of your chest."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="445dp"
+                android:layout_height="477dp"
                 android:src="@drawable/six6" />
 
             <View
@@ -730,11 +736,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="144dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Pushing your knees outward, lower into a squat position. Squeeze your butt muscles and push through your heels to jump up and twist 180 degrees in the air."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 
@@ -746,11 +752,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="69dp"
+                android:layout_height="52dp"
                 android:paddingLeft="10dp"
                 android:text="Land with feet slightly wider than shoulder width and immediately."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -760,12 +766,12 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="110dp"
+                android:layout_height="39dp"
                 android:paddingLeft="10dp"
                 android:text="- Repeat for 10 to 12 reps."
                 android:textColor="#FDFEFE"
-                android:textStyle="bold"
-                android:textSize="23sp" />
+                android:textSize="23sp"
+                android:textStyle="bold" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -803,11 +809,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="143dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="Stand with feet together, and step your right leg forward and lower your body so that your right knee is directly over your right ankle, and your left hip is directly over your left knee."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -821,7 +827,7 @@
                 android:paddingLeft="10dp"
                 android:text="Squeeze your butt muscles and push back up to standing, lifting arms overhead at the top."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -841,11 +847,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="If you're doing this without weights, squeeze your arms as you raise them, focusing on loading power and tension into your shoulders."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 
@@ -861,7 +867,7 @@
                 android:paddingLeft="10dp"
                 android:text="Hold for a few seconds at the top."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -914,11 +920,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="62dp"
+                android:layout_height="57dp"
                 android:paddingLeft="10dp"
                 android:text="Stand with feet together and take a big step with your right leg out to the right."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -928,11 +934,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="86dp"
                 android:paddingLeft="10dp"
                 android:text="Keeping your back flat, shoulders lifted, and left leg extended, bend your right knee and lower your butt toward the ground."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -941,7 +947,7 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="528dp"
+                android:layout_height="549dp"
                 android:src="@drawable/eighteight88" />
 
             <View
@@ -954,9 +960,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="113dp"
                 android:paddingLeft="10dp"
-                android:text=" (Don’t let your right knee go past your right ankle.) Using your glutes, push through your heel to come back to starting position."
+                android:text="(Don’t let your right knee go past your right ankle.) Using your glutes, push through your heel to come back to starting position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 
@@ -968,11 +974,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="62dp"
+                android:layout_height="57dp"
                 android:paddingLeft="10dp"
                 android:text="Repeat with your left leg. Add weights as needed."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1025,11 +1031,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="Start with feet shoulder-width apart, holding a weight in each hand if you want the added challenge, palms facing you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1039,11 +1045,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="118dp"
+                android:layout_height="106dp"
                 android:paddingLeft="10dp"
                 android:text="Keeping your back flat and your abs engaged, bend from the hips and slowly lower your hands toward the floor, keeping them close to your body."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1052,7 +1058,7 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="552dp"
+                android:layout_height="570dp"
                 android:src="@drawable/ninenine" />
 
             <View
@@ -1063,11 +1069,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="168dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text=" Stop when your chest is parallel to floor, and return to standing. Step your right leg forward and lower your body so that your right knee is directly over your right ankle, and your left hip is directly over your left knee."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 
@@ -1079,11 +1085,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="Pulse twice, then squeeze your butt muscles and push up to standing. Repeat, alternating the leg you use to lunge on each rep."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1137,11 +1143,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="81dp"
                 android:paddingLeft="10dp"
                 android:text="Stand with feet slightly wider than shoulder-width apart, holding a kettlebell in your right hand, palms facing your body."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1151,11 +1157,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="176dp"
+                android:layout_height="156dp"
                 android:paddingLeft="10dp"
                 android:text="(If you don't have a kettlebell, a jug of water will work.) Hinging at the hips, bend your knees slightly and push your butt backward, swinging the weight behind you and between your legs, slightly past your knees."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1164,7 +1170,7 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="300dp"
+                android:layout_height="305dp"
                 android:src="@drawable/original1998" />
 
             <View
@@ -1175,11 +1181,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="143dp"
+                android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="Using your butt and leg muscles, push your pelvis forward and come to standing, while simultaneously swinging the weight up to shoulder level."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 
@@ -1191,11 +1197,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="81dp"
                 android:paddingLeft="10dp"
                 android:text="(Your hips should do most of the work). Bring your left hand up to grab the weight. Hinge at the hips and repeat."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1205,7 +1211,7 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="36dp"
+                android:layout_height="59dp"
                 android:paddingLeft="10dp"
                 android:text="- Continue swinging for 10 to 12 reps with each hand."
                 android:textColor="#FDFEFE"
@@ -1247,11 +1253,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="103dp"
                 android:paddingLeft="10dp"
                 android:text="Stand on an exercise step with your arms extended in front of you. (If you don't have a step handy, a yoga block or thick book will do.)"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1261,11 +1267,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="108dp"
                 android:paddingLeft="10dp"
                 android:text="Keeping arms extended the whole time, bend your knees and step right foot to the ground, then switch sides, stepping your left foot down."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1319,7 +1325,7 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="73dp"
+                android:layout_height="57dp"
                 android:gravity="center"
                 android:text="12. High Knees"
                 android:textColor="#FDFEFE"
@@ -1338,7 +1344,7 @@
                 android:paddingLeft="10dp"
                 android:text="Start standing with feet shoulder width apart, core engaged."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1348,11 +1354,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="Drive your right knee to your chest followed by your left knee to your chest as you squeeze your glutes on each side."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1404,7 +1410,7 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="73dp"
+                android:layout_height="56dp"
                 android:gravity="center"
                 android:text="13. Run"
                 android:textColor="#FDFEFE"
@@ -1419,11 +1425,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="65dp"
+                android:layout_height="56dp"
                 android:paddingLeft="10dp"
                 android:text="A good old fashioned run is also a great butt exercise."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1444,11 +1450,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="94dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Doing these butt workouts can help you activate your glutes before your run so you get even bigger butt returns."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 
@@ -1474,7 +1480,7 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="73dp"
+                android:layout_height="51dp"
                 android:gravity="center"
                 android:text="14. Run stairs"
                 android:textColor="#FDFEFE"
@@ -1489,11 +1495,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="94dp"
+                android:layout_height="83dp"
                 android:paddingLeft="10dp"
                 android:text="For an added booty challenge, run stairs in your house, apartment building or local park."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1514,11 +1520,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="94dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Doing these butt workouts can help you activate your glutes before your run so you get even bigger butt returns."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
 

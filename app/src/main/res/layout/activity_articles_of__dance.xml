@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="#010203"
+    tools:context=".Articles_of_Dance">
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="10dp">
+    </View>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="3.5dp"
+        android:background="@android:color/background_light">
+
+    </View>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="20dp">
+    </View>
+    <TextView
+        android:layout_width="347dp"
+        android:layout_height="38dp"
+        android:paddingLeft="20dp"
+        android:gravity="center"
+        android:text="Articles Of Dance"
+        android:textColor="#FDFEFE"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"></View>
+
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="500dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/tenstep"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="265dp"
+                android:textStyle="bold"
+                android:paddingRight="210dp"
+                android:layout_marginRight="20dp"
+                android:text="Best Dance"
+                android:textSize="25dp"
+                android:background="@drawable/loverpooldance"/>
+            <Button
+                android:id="@+id/yourfitness30"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="263dp"
+                android:paddingRight="140dp"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:textStyle="bold"
+                android:background="@drawable/blackdancer"
+                android:text="You Can't Dance?" />
+
+            <Button
+                android:id="@+id/thebestworkout"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="255dp"
+                android:textStyle="bold"
+                android:paddingRight="140dp"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:background="@drawable/lindytitle"
+                android:text="History Of Dance" />
+
+            <Button
+                android:id="@+id/fiveburpeeworkout"
+                android:layout_height="300dp"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:textColor="#FDFEFE"
+                android:paddingTop="265dp"
+                android:textStyle="bold"
+                android:paddingRight="130dp"
+                android:layout_marginRight="20dp"
+                android:textSize="24dp"
+                android:text="Benefits Of Dance"
+                android:background="@drawable/benefitsofdancex"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

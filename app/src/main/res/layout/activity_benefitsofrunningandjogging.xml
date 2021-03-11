@@ -52,7 +52,7 @@
                 android:paddingLeft="10dp"
                 android:text="Heart health and strong bones are just the beginning."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
@@ -70,11 +70,11 @@
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="184dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="''I really should run more.'' I've said it, you've said it, we've ALL said it. I know there are many benefits of running—and that I feel ~gooood~ after doing it—but I often struggle to lace up my sneakers and get going."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -96,11 +96,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="200dp"
+                android:layout_height="180dp"
                 android:paddingLeft="10dp"
                 android:text="Of course, “the calories you burn running depend on a few variables, including your weight, sex, and age, as well as the weather, terrain, altitude, and effort you put into each step,” says certified running coach Corky Corkum, CPT, Variis Precision Run Instructor."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -109,7 +109,7 @@
             <ImageView
 
                 android:layout_width="match_parent"
-                android:layout_height="317dp"
+                android:layout_height="304dp"
                 app:srcCompat="@drawable/burningcalories" />
 
 
@@ -120,11 +120,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="93dp"
+                android:layout_height="58dp"
                 android:paddingLeft="10dp"
                 android:text="“On average, most people lacing up burn about 100 calories per mile.” Not bad, eh?"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -145,7 +145,7 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="37dp"
                 android:gravity="center"
 
                 android:text="2.Running strengthens your joints"
@@ -159,11 +159,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="230dp"
+                android:layout_height="212dp"
                 android:paddingLeft="10dp"
                 android:text="Don't let that ''running is rough on your joints'' mumbo-jumbo fool you. “There is always a lot of commentary around the negative effects of running on knees and joints, but there is actually a lower prevalence of hip and knee arthritis amongst active marathon runners,” says Corkum."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -183,11 +183,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="124dp"
+                android:layout_height="112dp"
                 android:paddingLeft="10dp"
                 android:text="“Instead, the study concluded that hip and knee arthritis is highly dependent on age, family history, and surgical history,” Corkum says."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -208,7 +208,7 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="45dp"
                 android:gravity="center"
 
                 android:text="3.It Relieves Stress"
@@ -222,11 +222,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="230dp"
+                android:layout_height="209dp"
                 android:paddingLeft="10dp"
                 android:text="If yoga isn't your thing, running can work wonders for stress relief. “Running reduces stress because you need to be super present while doing it,” says Sims. “I use running as a form of meditation, in which I really focus on my breath, sometimes even saying a mantra on the inhales and exhales."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -246,11 +246,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="151dp"
+                android:layout_height="131dp"
                 android:paddingLeft="10dp"
                 android:text="Running also allows me to separate myself from the other stresses of the day, giving me an opportunity to focus on bettering myself and enjoying a fun playlist.”"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -263,14 +263,14 @@
             </View>
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+                android:layout_height="10dp"></View>
 
 
 //////////////////////////////////////////////////////
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="44dp"
                 android:gravity="center"
 
                 android:text="4.It Strengthens your bones big time"
@@ -284,11 +284,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="230dp"
+                android:layout_height="183dp"
                 android:paddingLeft="10dp"
                 android:text="“Most people consider bones as strong and unchanging. However, after age 30, there is significant potential for decreases in bone density,” says Sims. “This sounds scary, but we are in luck! Bones are living things, and therefore get stronger when a force—like running—stimulates growth.”"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -306,11 +306,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="174dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="That's right; High-impact exercise (like running!) spurs bone growth and promotes healthy bone mineral density. It's a must if you want to avoid fractures and stay mobile your whole life long."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -345,11 +345,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="200dp"
+                android:layout_height="184dp"
                 android:paddingLeft="10dp"
                 android:text="If you need a reminder that you're da bomb dot com, go for a run. “Running boosts your confidence because you're physically doing something tough, something that you might never have thought was possible one month (or even six months) earlier,” says Sims."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -367,11 +367,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="185dp"
+                android:layout_height="155dp"
                 android:paddingLeft="10dp"
                 android:text="“That translates to everything else in your life,'' she says.''How you do anything is how you do everything. We practice doing hard things in workouts so that we can gain the confidence to do hard things elsewhere.” 'Nuff said."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -406,11 +406,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="230dp"
+                android:layout_height="213dp"
                 android:paddingLeft="10dp"
                 android:text="Running can help new nutrient-transporting blood vessels grow, blunt the brain's response to physical and emotional stress, and even promote neurogenesis, the process of creating new brain cells, according to Johns Hopkins Medical school professor of neuroscience David J. Linden, PhD."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -428,11 +428,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="111dp"
                 android:paddingLeft="10dp"
                 android:text="The result, he says: Pounding pavement can have positive, long-lasting effects on the hippocampus, a.k.a. the part of your brain that aids in memory and learning."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -451,21 +451,6 @@
 
 
 //////////////////////////////////////////////////////////////
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         </LinearLayout>
     </ScrollView>

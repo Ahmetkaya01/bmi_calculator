@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+    tools:context=".Benefits_Of_Medidation">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="4.0dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:gravity="center"
+                android:text="6 Benefits of Daily Meditation"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="228dp"
+                app:srcCompat="@drawable/meditation2" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:text="Daily meditation is good for stress—but it has many other benefits too."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="127dp"
+                android:paddingLeft="10dp"
+                android:text="Meditation isn’t just for people who live a stressful, fast-paced lifestyle. While daily meditation can provide a sense of peace and serenity, it also has many other health benefits."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="There are many ways to meditate, including mindfulness meditation (concentrating on your senses and the present moment), focused-attention meditation (centering around a fixed object), loving-kindness meditation (focusing on loving yourself, friends, strangers, and even people you dislike), and open monitoring meditation (being attentive to thoughts and sensations without judging or engaging them)."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="243dp"
+                app:srcCompat="@drawable/meditation3" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:paddingLeft="10dp"
+                android:text="Try one of these methods to start enjoying the benefits of meditation for yourself."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+           //////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:gravity="center"
+
+                android:text="1. Meditation can help decrease symptoms of stress."
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="157dp"
+                android:paddingLeft="10dp"
+                android:text="Because meditation enhances a person’s sense of peace and relaxation, it’s no wonder mindfulness meditation has been shown to decrease stress. In two separate studies of cancer patients and healthcare professionals,"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="208dp"
+                android:paddingLeft="10dp"
+                android:text="two groups that tend to have high levels of stress, daily meditation was shown to improve mood, decrease stress symptoms, and improve quality of life. Focused-attention meditation helps draw your mind away from things that cause stress and allows you to concentrate on a fixed object,"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="249dp"
+                app:srcCompat="@drawable/meditation4" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="62dp"
+                android:paddingLeft="10dp"
+                android:text="your breath, or a repeated sound or phrase, such as “I am at peace.”"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+/////////////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:gravity="center"
+
+                android:text="2. Meditation can help manage anxiety disorders."
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="132dp"
+                android:paddingLeft="10dp"
+                android:text="Mindfulness meditation has been shown to reduce anxiety symptoms, both subjective and objective. Other anxiety disorders, such as depression and panic attacks, also saw similar positive benefits."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="179dp"
+                android:paddingLeft="10dp"
+                android:text="In a three-year follow-up of a small study, people who had experienced panic attacks reported they had fewer and less severe attacks after starting to meditate regularly. Loving-kindness meditation has been shown to increase positive emotions and decrease symptoms of depression."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="249dp"
+                app:srcCompat="@drawable/medo" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="106dp"
+                android:paddingLeft="10dp"
+                android:text="In many studies, these meditation benefits appeared over time, making daily meditation an important factor in decreasing anxiety disorder symptoms."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+/////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="78dp"
+                android:gravity="center"
+
+                android:text="3. Meditation can improve the quality of your sleep."
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="79dp"
+                android:paddingLeft="10dp"
+                android:text="Millions of people suffer from insomnia or other sleep problems, and stress is often the culprit."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="161dp"
+                android:paddingLeft="10dp"
+                android:text="Mindfulness meditation has been shown to improve sleep by calming the mind, helping people take their attention off their to-do list or other stresses and instead focus on being fully aware of the present moment."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="249dp"
+                app:srcCompat="@drawable/meditation5" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="163dp"
+                android:paddingLeft="10dp"
+                android:text="Research has shown spending just 20 minutes in daily meditation can reduce sleep disturbances. And yes, sleep meditation can be practiced during the day, and you’ll still reap the benefits at night."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+////////////////////////////////////////////////////
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="78dp"
+                android:gravity="center"
+
+                android:text="4. Meditation can be a component of pain management."
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="231dp"
+                android:paddingLeft="10dp"
+                android:text="Daily meditation has been found to reduce both pain intensity and unpleasantness. Research has shown meditation to reduce pain unpleasantness (how much it bothers you) even more than it reduces pain intensity (how strong the pain was). In one study, just four days of mindfulness meditation training helped reduce participants’ experience of pain."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="78dp"
+                android:paddingLeft="10dp"
+                android:text="In that study, researchers noticed changes in brain function that causes the subjective experience of pain."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="249dp"
+                app:srcCompat="@drawable/meditationpng" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="111dp"
+                android:paddingLeft="10dp"
+                android:text="Study participants reported that the open monitoring method of meditation was more effective at reducing pain than focused-attention meditation."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+/////////////////////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="78dp"
+                android:gravity="center"
+
+                android:text="5. Meditation can boost cognition and immune function."
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="204dp"
+                android:paddingLeft="10dp"
+                android:text="In a study involving just four sessions of meditation training, researchers assessed participants’ working memory, visual-spatial processing, and mood, among other factors. All these measurements were improved, and the participants also experienced reduced fatigue and greater ability to pay attention."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:paddingLeft="10dp"
+                android:text="Another study showed the practice of mindfulness meditation gave participants a better ability to multitask, greater focus on tasks, and lower stress levels while completing assignments that involve multitasking."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="249dp"
+                app:srcCompat="@drawable/meditationpng" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="158dp"
+                android:paddingLeft="10dp"
+                android:text="Loving-kindness meditation has been shown to reduce stress-induced immune reactivity. Another study showed mindfulness meditation increased antibody production after participants received a flu vaccine."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+////////////////////////////////////////////////////////////////////
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="78dp"
+                android:gravity="center"
+
+                android:text="6. Meditation can make for healthier relationships."
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="177dp"
+                android:paddingLeft="10dp"
+                android:text="Beyond personal improvement, daily meditation has been associated with higher relationship satisfaction. Studies have shown several links, including lower personal stress levels as well as a greater ability to respond well when stress occurs within a relationship."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="106dp"
+                android:paddingLeft="10dp"
+                android:text="People who practice meditation also were found to have more positive perceptions of their relationships, both before and after conflicts."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="249dp"
+                app:srcCompat="@drawable/muuav" />
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="107dp"
+                android:paddingLeft="10dp"
+                android:text="Meditation practitioners also tended to have better communication within their relationships, including an increased ability to control anger."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

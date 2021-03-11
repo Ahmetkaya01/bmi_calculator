@@ -68,7 +68,7 @@
                 android:paddingLeft="10dp"
                 android:text="Learn how to use the power of your senses to relieve stress on the spot and stay calm, productive, and focused—no matter what life throws at you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
 
             <View
@@ -104,11 +104,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="58dp"
+                android:layout_height="61dp"
                 android:paddingLeft="10dp"
                 android:text="There are countless techniques for managing stress. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -127,25 +127,25 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Yoga, mindfulness meditation, and exercise are just a few examples of stress-relieving activities that work wonders."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="146dp"
+                android:layout_height="128dp"
                 android:paddingLeft="10dp"
                 android:text="But in the heat of the moment, during a high-pressured job interview, for example, or a disagreement with your spouse, you can’t just excuse yourself to meditate or take a long walk."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -156,11 +156,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="89dp"
+                android:layout_height="60dp"
                 android:paddingLeft="10dp"
                 android:text="In these situations, you need something more immediate and accessible."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -170,11 +170,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="One of the speediest and most reliable ways to stamp out stress is to engage one or more of your senses—sight, sound, taste, smell, touch—or through movement. Since everyone is different, you’ll need to do some experimenting to discover which technique works best for you—but the payoff is huge. You can stay calm, productive, and focused when you know how to quickly relieve stress."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -194,11 +194,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="308dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="One of the speediest and most reliable ways to stamp out stress is to engage one or more of your senses—sight, sound, taste, smell, touch—or through movement. Since everyone is different, you’ll need to do some experimenting to discover which technique works best for you—but the payoff is huge. You can stay calm, productive, and focused when you know how to quickly relieve stress."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -212,7 +212,7 @@
                 android:paddingLeft="10dp"
                 android:text="Social interaction is your body’s most evolved and surefire strategy for regulating the nervous system."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -222,11 +222,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="272dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Talking face-to-face with a relaxed and caring listener can help you quickly calm down and release tension. Although you can’t always have a pal to lean on in the middle of a stressful situation, maintaining a network of close relationships is vital for your mental health. Between sensory-based stress relief and good listeners, you’ll have your bases covered."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
  ========================================================
 
@@ -263,11 +263,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="166dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="It might seem obvious that you’d know when you’re stressed, but many of us spend so much time in a frazzled state that we’ve forgotten what it feels like when our nervous systems are in balance:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -288,11 +288,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="170dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="When we’re calm yet still alert and focused. If this is you, you can recognize when you’re stressed by listening to your body. When you’re tired, your eyes feel heavy and you might rest your head on your hand."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -302,11 +302,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="144dp"
+                android:layout_height="107dp"
                 android:paddingLeft="10dp"
                 android:text="When you’re happy, you laugh easily. And when you’re stressed, your body lets you know that, too. Get in the habit of paying attention to your body’s clues."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -316,11 +316,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="117dp"
+                android:layout_height="103dp"
                 android:paddingLeft="10dp"
                 android:text="Observe your muscles and insides. Are your muscles tense or sore? Is your stomach tight, cramped, or aching? Are your hands or jaw clenched?"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -330,11 +330,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="164dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Observe your breath. Is your breathing shallow? Place one hand on your belly, the other on your chest. Watch your hands rise and fall with each breath. Notice when you breathe fully or when you “forget” to breathe."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             ==========-------------------============-----------=========
 
@@ -371,11 +371,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="140dp"
+                android:layout_height="109dp"
                 android:paddingLeft="10dp"
                 android:text="Internally, we all respond the same way to the “fight-or-flight” stress response: your blood pressure rises, your heart pumps faster, and your muscles constrict."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -400,11 +400,11 @@
                 android:paddingLeft="10dp"
                 android:text="Your body works hard and drains your immune system. Externally, however, people respond to stress in different ways."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <TextView
@@ -414,23 +414,23 @@
                 android:paddingLeft="10dp"
                 android:text="The best way to quickly relieve stress often relates to your specific stress response:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="141dp"
+                android:layout_height="132dp"
                 android:paddingLeft="10dp"
                 android:text="Overexcited stress response: If you tend to become angry, agitated, overly emotional, or keyed up under stress, you will respond best to stress relief activities that quiet you down."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <ImageView
@@ -442,17 +442,17 @@
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="151dp"
+                android:layout_height="133dp"
                 android:paddingLeft="10dp"
                 android:text="Underexcited stress response: If you tend to become depressed, withdrawn, or spaced out under stress, you will respond best to stress relief activities that are stimulating and energizing."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -489,11 +489,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="113dp"
+                android:layout_height="102dp"
                 android:paddingLeft="10dp"
                 android:text="To use your senses to quickly relieve stress, you first need to identify the sensory experiences that work best for you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -514,11 +514,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="It can require some experimentation. As you employ different senses, note how quickly your stress levels drop."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -528,11 +528,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="83dp"
+                android:layout_height="77dp"
                 android:paddingLeft="10dp"
                 android:text="And be as precise as possible. What is the specific kind of sound or type of movement that affects you the most?"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -541,11 +541,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="107dp"
                 android:paddingLeft="10dp"
                 android:text="For example, if you’re a music lover, listen to many different artists and types of music until you find the song that instantly lifts and relaxes you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -566,11 +566,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="121dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Explore a variety of sensory experiences so that no matter where you are, you’ll always have a tool to relieve stress."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -580,11 +580,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="176dp"
+                android:layout_height="135dp"
                 android:paddingLeft="10dp"
                 android:text="The examples listed below are intended to be a jumping-off point. Let your imagination run free and come up with additional things to try. When you find the right sensory technique, you’ll know it!"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
@@ -618,11 +618,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="57dp"
                 android:paddingLeft="20dp"
                 android:text="- Look at a cherished photo or a favorite memento."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -632,11 +632,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="54dp"
                 android:paddingLeft="20dp"
                 android:text="- Use a plant or flowers to enliven your work space."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -646,24 +646,25 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="87dp"
+                android:layout_height="55dp"
                 android:paddingLeft="20dp"
                 android:text="- Enjoy the beauty of nature: a garden, the beach, a park, or your own backyard."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
             </View>
+
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="56dp"
                 android:paddingLeft="20dp"
                 android:text="- Surround yourself with colors that lift your spirits."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -673,11 +674,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="20dp"
                 android:text="- Close your eyes and picture a place that feels peaceful and rejuvenating."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -710,11 +711,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="52dp"
                 android:paddingLeft="20dp"
                 android:text="- Light a scented candle or burn some incense.."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -724,11 +725,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="31dp"
                 android:paddingLeft="20dp"
                 android:text="- Experiment with different essential oils."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -738,41 +739,42 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="87dp"
+                android:layout_height="58dp"
                 android:paddingLeft="20dp"
                 android:text="- Smell the roses or another type of flower."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
             </View>
+
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="59dp"
                 android:paddingLeft="20dp"
                 android:text="- Enjoy clean, fresh air in the great outdoors.."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
             </View>
 
+
+            =====================================
+
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="60dp"
                 android:paddingLeft="20dp"
                 android:text="- Spritz on your favorite perfume or cologne."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-
-            =====================================
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -805,11 +807,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="30dp"
                 android:paddingLeft="20dp"
                 android:text="- Wrap yourself in a warm blanket."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -819,11 +821,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="29dp"
                 android:paddingLeft="20dp"
                 android:text="- Pet a dog or cat."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -833,24 +835,25 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="63dp"
+                android:layout_height="54dp"
                 android:paddingLeft="20dp"
                 android:text="- Hold a comforting object (a stuffed animal, a favorite memento)."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
             </View>
+
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="29dp"
                 android:paddingLeft="20dp"
                 android:text="- Give yourself a hand or neck massage."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -860,11 +863,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="54dp"
                 android:paddingLeft="20dp"
                 android:text="- Wear clothing that feels soft against your skin."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -893,17 +896,17 @@
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="170dp"
+                android:layout_height="155dp"
                 android:paddingLeft="20dp"
                 android:text="Slowly savoring a favorite treat can be very relaxing, but mindless eating will only add to your stress and your waistline. The key is to indulge your sense of taste mindfully and in moderation."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -913,11 +916,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="31dp"
                 android:paddingLeft="20dp"
                 android:text="- Chew a piece of sugarless gum."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -927,11 +930,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="62dp"
+                android:layout_height="49dp"
                 android:paddingLeft="20dp"
                 android:text="- Indulge in a small piece of dark chocolate."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -941,11 +944,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="63dp"
+                android:layout_height="54dp"
                 android:paddingLeft="20dp"
                 android:text="- Sip a steaming cup of coffee or tea or a refreshing cold drink."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -955,11 +958,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="42dp"
+                android:layout_height="28dp"
                 android:paddingLeft="20dp"
                 android:text="- Eat a perfectly ripe piece of fruit."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -969,11 +972,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="54dp"
                 android:paddingLeft="20dp"
                 android:text="- Enjoy a healthy, crunchy snack (celery, carrots, or trail mix)."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1008,11 +1011,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="137dp"
+                android:layout_height="109dp"
                 android:paddingLeft="20dp"
                 android:text="If you tend to shut down when you’re under stress or have experienced trauma, stress-relieving activities that get you moving may be particularly helpful."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1022,11 +1025,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="34dp"
                 android:paddingLeft="20dp"
                 android:text="-Run in place or jump up and down."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1036,7 +1039,7 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="31dp"
                 android:paddingLeft="20dp"
                 android:text="- Dance around."
                 android:textColor="#FDFEFE"
@@ -1050,11 +1053,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="37dp"
+                android:layout_height="31dp"
                 android:paddingLeft="20dp"
                 android:text="- Stretch or roll your head in circles."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1064,11 +1067,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="42dp"
+                android:layout_height="29dp"
                 android:paddingLeft="20dp"
                 android:text="- Go for a short walk."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1078,16 +1081,15 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="37dp"
+                android:layout_height="32dp"
                 android:paddingLeft="20dp"
                 android:text="- Squeeze a rubbery stress ball."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
+                android:layout_height="20dp"></View>
 
             ==============
 
@@ -1119,11 +1121,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="32dp"
                 android:paddingLeft="20dp"
                 android:text="-Sing or play a favorite tune."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1133,11 +1135,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="29dp"
                 android:paddingLeft="20dp"
                 android:text="- Listen to calming or uplifting music."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1147,11 +1149,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="92dp"
+                android:layout_height="80dp"
                 android:paddingLeft="20dp"
                 android:text="- Tune in to the soundtrack of nature—crashing waves, the wind rustling the trees, birds singing."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1161,11 +1163,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="88dp"
+                android:layout_height="77dp"
                 android:paddingLeft="20dp"
                 android:text="- Buy a small fountain, so you can enjoy the soothing sound of running water in your home or office."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1175,11 +1177,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="37dp"
+                android:layout_height="32dp"
                 android:paddingLeft="20dp"
                 android:text="- Squeeze a rubbery stress ball"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1215,11 +1217,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="148dp"
+                android:layout_height="129dp"
                 android:paddingLeft="20dp"
                 android:text="Having trouble identifying sensory techniques that work for you? Look for inspiration around you, from your sights as you go about your day to memories from your past."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1265,11 +1267,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="198dp"
+                android:layout_height="183dp"
                 android:paddingLeft="20dp"
                 android:text="Think back to what you did as a child to calm down. If you had a blanket or stuffed toy, you might benefit from tactile stimulation. Try tying a textured scarf around your neck before an appointment or keeping a piece of soft suede in your pocket."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1305,11 +1307,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="136dp"
+                android:layout_height="105dp"
                 android:paddingLeft="20dp"
                 android:text=" Think back to what your parents did to blow off steam. Did your mother feel more relaxed after a long walk? Did your father work in the yard after a hard day?"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1346,11 +1348,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="198dp"
+                android:layout_height="160dp"
                 android:paddingLeft="20dp"
                 android:text="Observing how others deal with stress can give you valuable insight. Baseball players often pop gum before going up to bat. Singers often chat up the crowd before performing. Ask people you know how they stay focused under pressure."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1377,7 +1379,7 @@
                 android:text="- The power of imagination"
                 android:textStyle="bold"
                 android:textColor="#FDFEFE"
-                android:textSize="25sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1387,11 +1389,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="280dp"
+                android:layout_height="212dp"
                 android:paddingLeft="20dp"
                 android:text="Once drawing upon your sensory toolbox becomes habit, try simply imagining vivid sensations when stress strikes. The memory of your baby’s face will have the same calming or energizing effects on your brain as seeing her photo. When you can recall a strong sensation, you’ll never be without a quick stress relief tool."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1428,11 +1430,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="195dp"
+                android:layout_height="154dp"
                 android:paddingLeft="10dp"
                 android:text="It’s not easy to remember to use your senses in the middle of a mini—or or not so mino—crisis. At first, it will feel easier to just give into pressure and tense up. But with time, calling upon your senses will become second nature."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1452,11 +1454,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="Think of the process like learning to drive or play golf. You don’t master the skill in one lesson; you have to practice until it becomes second nature."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1465,11 +1467,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="115dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Eventually you’ll feel like you’re forgetting something if you don’t tune into your body during challenging times."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -1506,11 +1508,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="174dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="Instead of testing your quick stress relief tools on a source of major stress, start with a predictable low-level source of stress, like cooking dinner at the end of a long day or sitting down to pay bills."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1542,11 +1544,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="178dp"
+                android:layout_height="164dp"
                 android:paddingLeft="10dp"
                 android:text="Think of just one low-level stressor that you know will occur several times a week, such as commuting. Vow to target that stressor with quick stress relief every time. After a few weeks, target a second stressor and so on."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1579,15 +1581,15 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="178dp"
+                android:layout_height="154dp"
                 android:paddingLeft="10dp"
                 android:text="Think of just one low-level stressor that you know will occur several times a week, such as commuting. Vow to target that stressor with quick stress relief every time. After a few weeks, target a second stressor and so on."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="10dp">
+                android:layout_height="15dp">
             </View>
 
 
@@ -1618,11 +1620,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="191dp"
+                android:layout_height="157dp"
                 android:paddingLeft="10dp"
                 android:text="If you are practicing quick stress relief on your commute to work, bring a scented handkerchief with you one day, try music another day, and try a movement the next day. Keep experimenting until you find a clear winner."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -1654,11 +1656,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="115dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="If something doesn’t work, don’t force it. Move on until you find what works best for you. It should be pleasurable and noticeably calming."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -1695,11 +1697,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="193dp"
+                android:layout_height="160dp"
                 android:paddingLeft="10dp"
                 android:text="Telling friends or family members about the stress-relief strategies you’re trying out will help you integrate them into your life. As an added bonus, it’s bound to start an interesting conversation: everyone relates to the topic of stress."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">

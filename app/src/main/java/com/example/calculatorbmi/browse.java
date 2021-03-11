@@ -8,6 +8,9 @@ import android.provider.Browser;
 import android.view.View;
 import android.widget.Button;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 public class browse extends AppCompatActivity {
     private Button fitnessarticle;
     private Button yogaarticle;
@@ -16,7 +19,8 @@ public class browse extends AppCompatActivity {
     private Button sleeparticle;
     private Button Browsebtn;
     private Button Homebtn;
-
+///AD//
+    AdView adView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -112,6 +116,13 @@ public class browse extends AppCompatActivity {
                         startActivity(new Intent(browse.this,Articlesofsleeping.class));
                     }
                 });
+
+                adView = findViewById(R.id.adView);
+
+                AdRequest adRequest = new AdRequest.Builder().build();
+
+                  ///request internet permission///
+                adView.loadAd(adRequest);
 
             }
         });

@@ -16,206 +16,206 @@
             android:orientation="vertical">
 
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="15dp"></View>-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="3.5dp"
-                android:background="@android:color/background_light">
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="3.5dp"-->
+<!--                android:background="@android:color/background_light">-->
 
-            </View>
+<!--            </View>-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
 
-            <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:text="The Best Yoga Poses For Toned Arms"
-                android:textColor="#FDFEFE"
-                android:textSize="28sp" />
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="65dp"-->
+<!--                android:gravity="center"-->
+<!--                android:text="The Best Yoga Poses For Toned Arms"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23dp"-->
+<!--                android:textStyle="bold" />-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-
-
-            //workoutnac//
-
-            <ImageView
-                android:id="@+id/imageView2"
-                android:layout_width="match_parent"
-                android:layout_height="306dp"
-                app:srcCompat="@drawable/titleposes" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-            <TextView
-                android:id="@+id/t3"
-                android:layout_width="wrap_content"
-                android:layout_height="62dp"
-                android:paddingLeft="10dp"
-                android:text="Arms, like butts can be a a tricky old thing when it comes to working out."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="148dp"
-                android:paddingLeft="10dp"
-                android:text="‘What are the right exercises for a good level of lean muscle, and nice toning?’ is a question that even the most non-committal exerciser has asked themselves, right?"
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp"></View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="88dp"
-                android:paddingLeft="10dp"
-                android:text="Tuck shop arms, chicken wings, flabby arms, whatever you call them, missing #armday at the gym is not an option."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="284dp"
-                android:paddingLeft="10dp"
-                android:text="Because pumping weights and tricep dips are certainly not the only way to get the arms of your dreams, we caught up with ultra bendy—and super sweet—Brisbane yoga instructor Elise Maisonneuve of Elise Danielle Holistic Health/Wellbeing, Cultivate Calm and Harlow Hot Yoga to give us the low down on the best yoga moves for toned, sexy arms."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="88dp"
-                android:paddingLeft="10dp"
-                android:text="Because we’re also suckers for a moving picture, we’ve pulled together this sweet GIF guide for your work out."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-            ========================================
-            <View
-
-                android:layout_width="fill_parent"
-                android:layout_height="1.5dp"
-                android:background="@android:color/background_light">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="35dp"
-                android:gravity="center"
-                android:text="Mountain Pose with Swan Dive"
-                android:textColor="#FDFEFE"
-                android:textSize="25sp"
-                android:textStyle="bold" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-
-            <pl.droidsonroids.gif.GifImageView
-                android:layout_width="match_parent"
-                android:layout_height="295dp"
-                android:src="@drawable/swandive" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="68dp"
-                android:paddingLeft="10dp"
-                android:text="1. Stand tall, with your feet firmly planted shoulder-width apart."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp"></View>
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="96dp"
-                android:paddingLeft="10dp"
-                android:text="*Pro Tip: gently draw the lower abdominals in to help keep the spine long and straight throughout the pose."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
 
 
 
+<!--            //workoutnac//-->
 
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="84dp"
-                android:paddingLeft="10dp"
-                android:text="2. Take a deep breath in, and raise your arms out wide overhead, bringing the palms together to touch."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+<!--            <ImageView-->
+<!--                android:id="@+id/imageView2"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="306dp"-->
+<!--                app:srcCompat="@drawable/titleposes" />-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="84dp"
-                android:paddingLeft="10dp"
-                android:text="3. Exhale and begin to release the arms back down, whilst hinging at the hips to fold forward."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="84dp"
-                android:paddingLeft="10dp"
-                android:text="4. Inhale to lift up halfway—bending the knees if needed to keep the spine straight."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+<!--            <TextView-->
+<!--                android:id="@+id/t3"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="62dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Arms, like butts can be a a tricky old thing when it comes to working out."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="148dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="‘What are the right exercises for a good level of lean muscle, and nice toning?’ is a question that even the most non-committal exerciser has asked themselves, right?"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="10dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="88dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Tuck shop arms, chicken wings, flabby arms, whatever you call them, missing #armday at the gym is not an option."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="284dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Because pumping weights and tricep dips are certainly not the only way to get the arms of your dreams, we caught up with ultra bendy—and super sweet—Brisbane yoga instructor Elise Maisonneuve of Elise Danielle Holistic Health/Wellbeing, Cultivate Calm and Harlow Hot Yoga to give us the low down on the best yoga moves for toned, sexy arms."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="88dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Because we’re also suckers for a moving picture, we’ve pulled together this sweet GIF guide for your work out."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+<!--            ========================================-->
+<!--            <View-->
+
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="1.5dp"-->
+<!--                android:background="@android:color/background_light">-->
+
+<!--            </View>-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="35dp"-->
+<!--                android:gravity="center"-->
+<!--                android:text="Mountain Pose with Swan Dive"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="25sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="295dp"-->
+<!--                android:src="@drawable/swandive" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="68dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="1. Stand tall, with your feet firmly planted shoulder-width apart."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="10dp"></View>-->
+
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="96dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="*Pro Tip: gently draw the lower abdominals in to help keep the spine long and straight throughout the pose."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+
+
+
+
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="84dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="2. Take a deep breath in, and raise your arms out wide overhead, bringing the palms together to touch."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="84dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="3. Exhale and begin to release the arms back down, whilst hinging at the hips to fold forward."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp"></View>-->
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="84dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="4. Inhale to lift up halfway—bending the knees if needed to keep the spine straight."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="23sp" />-->
 
             <View
                 android:layout_width="fill_parent"

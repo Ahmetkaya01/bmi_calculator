@@ -63,72 +63,72 @@
                             android:paddingLeft="10dp"
                             android:text="To help you reach your health and fitness goals, we tapped Karena Dawn and Katrina Scott from Tone It Up for their advice. Here, they’ll let you in on all their fitness secrets, as well as a few tips and tricks along the way."
                             android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
+                            android:textSize="21dp" />
 
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
 
 
-                        <TextView
+            <TextView
 
-                            android:layout_width="match_parent"
-                            android:layout_height="362dp"
-                            android:paddingLeft="10dp"
-                            android:text="You’ve probably heard the buzz about HIIT workouts by now, and today we’re here to tell you that it’s true: These high-intensity routines are an incredibly effective way to rev your metabolism and sculpt every inch of your body. HIIT (aka high-intensity interval training) mixes short bursts of all-out, high-intensity effort with periods of recovery. We like to do a few slower paced, total-body toning moves during this recovery time to really boost that metabolism."
-                            android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
-
-                        <View
-                            android:layout_width="fill_parent"
-                            android:layout_height="20dp"></View>
-
-                        <TextView
-
-                            android:layout_width="match_parent"
-                            android:layout_height="205dp"
-                            android:paddingLeft="10dp"
-                            android:text="HIIT workouts are fast and efficient, so they’re perfect for when you’re on the go. When you join the Studio Tone It Up app, you can sign up for tons of incredible workout classes, including HIIT, kickboxing, and yoga sculpt that you can do anywhere."
-                            android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
+                android:layout_width="match_parent"
+                android:layout_height="307dp"
+                android:paddingLeft="10dp"
+                android:text="You’ve probably heard the buzz about HIIT workouts by now, and today we’re here to tell you that it’s true: These high-intensity routines are an incredibly effective way to rev your metabolism and sculpt every inch of your body. HIIT (aka high-intensity interval training) mixes short bursts of all-out, high-intensity effort with periods of recovery. We like to do a few slower paced, total-body toning moves during this recovery time to really boost that metabolism."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
 
-                        <TextView
+            <TextView
 
-                            android:layout_width="match_parent"
-                            android:layout_height="225dp"
-                            android:paddingLeft="10dp"
-                            android:text="Today’s workout includes 10 moves designed to tone your entire body. That’s the beauty of HIIT: It works your glutes, abs, and upper body, all while raising your heart rate, leaving you feeling energized and strong. Use these moves all season long whenever you need a quick sculpting routine."
-                            android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
-
-                        <View
-                            android:layout_width="fill_parent"
-                            android:layout_height="20dp"></View>
-
-                        <TextView
-
-                            android:layout_width="match_parent"
-                            android:layout_height="256dp"
-                            android:paddingLeft="10dp"
-                            android:text="Remember, HIIT workouts are designed to push your body, so make sure you’re refueling your muscles with plenty of protein. Give our favorite spring smoothies a try. They’re made with clean, non-GMO Tone It Up Protein ($27), so you can replenish your muscles with essential proteins and rev your metabolism all day long."
-                            android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="HIIT workouts are fast and efficient, so they’re perfect for when you’re on the go. When you join the Studio Tone It Up app, you can sign up for tons of incredible workout classes, including HIIT, kickboxing, and yoga sculpt that you can do anywhere."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
 
-                        <TextView
+            <TextView
 
-                            android:layout_width="match_parent"
-                            android:layout_height="118dp"
-                            android:text="Go through three rounds of the moves below. Rest for 30 seconds between each round and always remember to hydrate!"
-                            android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
+                android:layout_width="match_parent"
+                android:layout_height="205dp"
+                android:paddingLeft="10dp"
+                android:text="Today’s workout includes 10 moves designed to tone your entire body. That’s the beauty of HIIT: It works your glutes, abs, and upper body, all while raising your heart rate, leaving you feeling energized and strong. Use these moves all season long whenever you need a quick sculpting routine."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Remember, HIIT workouts are designed to push your body, so make sure you’re refueling your muscles with plenty of protein. Give our favorite spring smoothies a try. They’re made with clean, non-GMO Tone It Up Protein ($27), so you can replenish your muscles with essential proteins and rev your metabolism all day long."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
+
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:text="Go through three rounds of the moves below. Rest for 30 seconds between each round and always remember to hydrate!"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
                         <View
                             android:layout_width="fill_parent"
@@ -168,29 +168,28 @@
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
 
-                        <TextView
+            <TextView
 
-                            android:layout_width="match_parent"
-                            android:layout_height="94dp"
-                            android:paddingLeft="10dp"
-                            android:text="Squat jumps tone your entire lower body while raising your heart rate and boosting your metabolism."
-                            android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Squat jumps tone your entire lower body while raising your heart rate and boosting your metabolism."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
-                        <TextView
 
-                            android:layout_width="match_parent"
-                            android:layout_height="184dp"
-                            android:text="Stand tall with feet hip-width apart.
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="156dp"
+                android:paddingLeft="10dp"
+                android:text="Stand tall with feet hip-width apart.
             Push hips back and lower into a squat.
-            Push off the ground and jump as high into the air as possible.
-            Land softly in a squat position.
-            Do as many reps as you can in 30 seconds."
-                            android:paddingLeft="10dp"
-                            android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
+            Push off the ground and jump as high into the air as possible.Land softly in a squat position.Do as many reps as you can in 30 seconds."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -229,28 +228,27 @@
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
 
-                        <TextView
+            <TextView
 
-                            android:layout_width="match_parent"
-                            android:layout_height="91dp"
-                            android:paddingLeft="10dp"
-                            android:text="This exercise sculpts your waistline (oblique muscles) and strengthens your shoulders."
-                            android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="This exercise sculpts your waistline (oblique muscles) and strengthens your shoulders."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
-                        <TextView
 
-                            android:layout_width="match_parent"
-                            android:layout_height="176dp"
-                            android:paddingLeft="10dp"
-                            android:text="Begin in a high plank position with your hands directly below your shoulders.
-            With your core engaged, lift your right knee up to your right elbow.
-            Lower and repeat on the opposite side.
-            Do 15 reps on each side."
-                            android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="158dp"
+                android:paddingLeft="10dp"
+                android:text="Begin in a high plank position with your hands directly below your shoulders.
+            With your core engaged, lift your right knee up to your right elbow.Lower and repeat on the opposite side.Do 15 reps on each side."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -296,7 +294,7 @@
                             android:paddingLeft="10dp"
                             android:text="This burpee and pushup combination boosts your metabolism and sculpts your abs, chest, and shoulders."
                             android:textColor="#FDFEFE"
-                            android:textSize="23sp" />
+                            android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -313,7 +311,7 @@ From here, jump straight into the air.
 Modify this exercise as needed by taking out the jump or stepping back.
 Do as many reps as you can in 30 seconds."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="30dp"></View>
@@ -359,7 +357,7 @@ Do as many reps as you can in 30 seconds."
                 android:text="Plank hip dips tone your core, obliques, and shoulders."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -369,10 +367,9 @@ Do as many reps as you can in 30 seconds."
                 android:layout_height="match_parent"
                 android:paddingLeft="10dp"
                 android:text="Begin in a high plank position with your elbows directly below your shoulders.
-            Twist your hips down and to the left, then over to the right.
-            Continue this movement back and forth while keeping your core engaged."
+            Twist your hips down and to the left, then over to the right. Continue this movement back and forth while keeping your core engaged."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
@@ -427,10 +424,10 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="89dp"
+                android:layout_height="wrap_content"
                 android:text="The skater exercise raises your metabolism and tones your booty, quads, and core."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -438,14 +435,10 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="249dp"
-                android:text="Start on the right side of your mat. Squat slightly and jump to the left as far as you can, landing on your left foot and swinging your right leg behind you.
-            Push off your left leg and now jump to the right, landing on your right foot.
-            Continue alternating sides.
-            Keep your core engaged throughout this exercise.
-           "
+                android:layout_height="212dp"
+                android:text="Start on the right side of your mat. Squat slightly and jump to the left as far as you can, landing on your left foot and swinging your right leg behind you. Push off your left leg and now jump to the right, landing on your right foot. Continue alternating sides. Keep your core engaged throughout this exercise."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -500,11 +493,11 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="101dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Switch jumps will not only burn some serious calories, they will also build power and strength in your lower body."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -512,12 +505,12 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="251dp"
+                android:layout_height="227dp"
                 android:paddingLeft="10dp"
                 android:text="Start in a lunge position, with one leg bent in front and one leg straight behind. Place your hands on the floor in front of you. Use your arms to help stabilize your body as you push off while switching lunge positions.Your hands should stay on the ground the entire time.Push off again, switching your legs back to starting position.
             "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -570,11 +563,11 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="This powerful exercise keep your heart rate in that fat burning zone, while strengthening your quads, hamstrings, and core."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -582,11 +575,11 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="199dp"
+                android:layout_height="180dp"
                 android:paddingLeft="10dp"
                 android:text="Start in a slightly squatted position, with your arms in a straight line with your hips. Jump up and tuck your knees as you focus on using your core muscles to pull your knees up. Bring your arms in front as you tuck up. Return to the starting position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -643,7 +636,7 @@ Do as many reps as you can in 30 seconds."
                 android:paddingLeft="10dp"
                 android:text="Mountain climbers are a fabulous fat-burning exercise because they work your core, while also giving you a great cardio workout."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -651,15 +644,12 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="283dp"
+                android:layout_height="256dp"
                 android:paddingLeft="10dp"
-                android:text="Start in a plank position, with your core engaged and your hands under your shoulders.
-            Lift your right knee and bring it towards your right elbow.
-            As you bring your right knee back to the starting position, start moving your left knee towards your left elbow.
-            Continue this ''running in place'' movement, making sure your core stays engaged throughout the exercise.
+                android:text="Start in a plank position, with your core engaged and your hands under your shoulders. Lift your right knee and bring it towards your right elbow. As you bring your right knee back to the starting position, start moving your left knee towards your left elbow. Continue this ''running in place'' movement, making sure your core stays engaged throughout the exercise.
        "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -712,11 +702,11 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="93dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="This exercise takes the plank up to another level by incorporating your legs to really challenge your core."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -725,13 +715,11 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="199dp"
+                android:layout_height="158dp"
                 android:paddingLeft="10dp"
-                android:text="Start in a plank position, with your body in a straight line and your hands under your shoulders.
-            Engage your core as you jump your feet out to shoulder width apart.
-            Return to the starting position with your legs in a straight line."
+                android:text="Start in a plank position, with your body in a straight line and your hands under your shoulders.Engage your core as you jump your feet out to shoulder width apart.Return to the starting position with your legs in a straight line."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
                         <View
                             android:layout_width="fill_parent"
@@ -782,18 +770,18 @@ Do as many reps as you can in 30 seconds."
                 android:layout_height="406dp"
                 android:src="@drawable/jumplungecde" />
 
-                        <View
+            <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
 
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="124dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="This exercise combines two amazing leg exercises—the lunge and the squat—into one powerful move that will strengthen and tone your lower body."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>
@@ -801,11 +789,11 @@ Do as many reps as you can in 30 seconds."
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="212dp"
+                android:layout_height="157dp"
                 android:paddingLeft="10dp"
                 android:text="Start in a squat position with your arms in front.Jump back into a lunge position with your right leg behind and your left leg bent in front. Push off through your legs as you switch sides, placing your left leg behind you and your right leg bent in front."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
                         <View
                             android:layout_width="fill_parent"
                             android:layout_height="20dp"></View>

@@ -47,13 +47,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="64dp"
-            android:paddingLeft="10dp"
-            android:text="Just put one foot in front of the other, bend your arms and start moving."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:paddingLeft="10dp"
+                android:text="Just put one foot in front of the other, bend your arms and start moving."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -73,13 +73,13 @@
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="251dp"
-            android:paddingLeft="10dp"
-            android:text="Excess body fat is very dangerous to your health. Walking can actually help you burn more fat, it boosts your metabolism and heart rate. According to research, “if you walk to lose belly fat, you need to walk at a steady speed fast enough so your heart beats faster and causing you to breathe harder and deeper."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="207dp"
+                android:paddingLeft="10dp"
+                android:text="Excess body fat is very dangerous to your health. Walking can actually help you burn more fat, it boosts your metabolism and heart rate. According to research, “if you walk to lose belly fat, you need to walk at a steady speed fast enough so your heart beats faster and causing you to breathe harder and deeper."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -97,13 +97,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="96dp"
-            android:paddingLeft="10dp"
-            android:text="The only way to lose body fat, especially belly fat, is by burning more calories than you consume.”"
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="82dp"
+                android:paddingLeft="10dp"
+                android:text="The only way to lose body fat, especially belly fat, is by burning more calories than you consume.”"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -120,7 +120,7 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-=============================
+
 
         <TextView
             android:layout_width="match_parent"
@@ -142,7 +142,7 @@
             android:paddingLeft="10dp"
             android:text="Walking increases your demand for energy which results in an increase in your metabolism. Live Strong explains:"
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -160,13 +160,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="119dp"
-            android:paddingLeft="10dp"
-            android:text=" “Brisk walking uphill or walking moderately for an extended duration of one hour are ways you can rev up your metabolism when walking.”"
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="107dp"
+                android:paddingLeft="10dp"
+                android:text=" “Brisk walking uphill or walking moderately for an extended duration of one hour are ways you can rev up your metabolism when walking.”"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -183,7 +183,7 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-=================================================
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="44dp"
@@ -204,7 +204,7 @@
             android:paddingLeft="10dp"
             android:text="Walking builds strength and endurance. This leads to stronger legs, especially stronger calves and hamstrings."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -222,13 +222,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="99dp"
-            android:paddingLeft="10dp"
-            android:text="For the ultimate leg workout, try walking hills, climbing stairs and walking on more challenging terrain."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="82dp"
+                android:paddingLeft="10dp"
+                android:text="For the ultimate leg workout, try walking hills, climbing stairs and walking on more challenging terrain."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -245,7 +245,7 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        ====================================================
+
 
         <TextView
             android:layout_width="match_parent"
@@ -261,13 +261,13 @@
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="177dp"
-            android:paddingLeft="10dp"
-            android:text="Taking a walk after dinner helps with digestion. It stimulates your digestive track making it easy for your food to be digested. According to LifeHacker, “two different studies have shown that a post-meal walk can aid in digestion."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="162dp"
+                android:paddingLeft="10dp"
+                android:text="Taking a walk after dinner helps with digestion. It stimulates your digestive track making it easy for your food to be digested. According to LifeHacker, “two different studies have shown that a post-meal walk can aid in digestion."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -285,13 +285,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="215dp"
-            android:paddingLeft="10dp"
-            android:text="One study in 2008 showed that walking sped the rate at which food moved through the stomach. Other studies have shown that walking also decreases blood sugar after meals, which decreases cardiovascular risk and potential signal diabetes.”"
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="181dp"
+                android:paddingLeft="10dp"
+                android:text="One study in 2008 showed that walking sped the rate at which food moved through the stomach. Other studies have shown that walking also decreases blood sugar after meals, which decreases cardiovascular risk and potential signal diabetes.”"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -308,7 +308,7 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-=====================================================
+
 
         <TextView
             android:layout_width="match_parent"
@@ -324,13 +324,13 @@
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="168dp"
-            android:paddingLeft="10dp"
-            android:text="Walking warms up your muscles and stretches them through motion. According to research, “gentle walking is the best exercise to help gently stretch out your muscles through motion."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="136dp"
+                android:paddingLeft="10dp"
+                android:text="Walking warms up your muscles and stretches them through motion. According to research, “gentle walking is the best exercise to help gently stretch out your muscles through motion."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -348,13 +348,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="87dp"
-            android:paddingLeft="10dp"
-            android:text="Take long strides and gently swing your arms to get the full stretching benefits.”"
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:paddingLeft="10dp"
+                android:text="Take long strides and gently swing your arms to get the full stretching benefits.”"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -372,7 +372,7 @@
             android:layout_height="20dp"></View>
 
 
-=========================================================
+
 
         <TextView
             android:layout_width="match_parent"
@@ -388,13 +388,13 @@
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="116dp"
-            android:paddingLeft="10dp"
-            android:text="Go for a walk outside (The Most Surprising Sources of Vitamin D) and absorb all of the Vitamin D you can. According to research,"
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="108dp"
+                android:paddingLeft="10dp"
+                android:text="Go for a walk outside (The Most Surprising Sources of Vitamin D) and absorb all of the Vitamin D you can. According to research,"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -412,13 +412,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="94dp"
-            android:paddingLeft="10dp"
-            android:text="“our body creates most of our vitamin D from direct sunlight on our skin.” It is essential for healthy bones and teeth."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="87dp"
+                android:paddingLeft="10dp"
+                android:text="“our body creates most of our vitamin D from direct sunlight on our skin.” It is essential for healthy bones and teeth."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -435,7 +435,6 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-=========================================================
 
         <TextView
             android:layout_width="match_parent"
@@ -451,13 +450,13 @@
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="148dp"
-            android:paddingLeft="10dp"
-            android:text="Walking has incredible stress and anxiety relief benefits. It has been proven that taking a walk could actually direct your brain into a calmer state of mind. Research has shown that"
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="134dp"
+                android:paddingLeft="10dp"
+                android:text="Walking has incredible stress and anxiety relief benefits. It has been proven that taking a walk could actually direct your brain into a calmer state of mind. Research has shown that"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -475,13 +474,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="94dp"
-            android:paddingLeft="10dp"
-            android:text="“walking briskly or jogging really does calm you down by sparking nerve cells in the brain that relax the senses.”"
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="“walking briskly or jogging really does calm you down by sparking nerve cells in the brain that relax the senses.”"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -498,7 +497,6 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-====================================================
 
         <TextView
             android:layout_width="match_parent"
@@ -514,13 +512,13 @@
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="89dp"
-            android:paddingLeft="10dp"
-            android:text="Trouble sleeping? Taking a walk before bed will help keep you up less often at night."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="86dp"
+                android:paddingLeft="10dp"
+                android:text="Trouble sleeping? Taking a walk before bed will help keep you up less often at night."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -538,13 +536,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="94dp"
-            android:paddingLeft="10dp"
-            android:text="According to various studies, exercise boosts the effect of the natural sleep hormone melatonin."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:paddingLeft="10dp"
+                android:text="According to various studies, exercise boosts the effect of the natural sleep hormone melatonin."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -561,7 +559,6 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-==================================================================
 
         <TextView
             android:layout_width="match_parent"
@@ -577,13 +574,13 @@
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="89dp"
-            android:paddingLeft="10dp"
-            android:text="Walking is one of the easiest ways to strengthen your heart. It is a form of aerobic exercise;"
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:paddingLeft="10dp"
+                android:text="Walking is one of the easiest ways to strengthen your heart. It is a form of aerobic exercise;"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -601,13 +598,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="122dp"
-            android:paddingLeft="10dp"
-            android:text="it increases your heart rate and blood circulation through the body, and it brings more oxygen and nutrients to the organs (WebMD)."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="107dp"
+                android:paddingLeft="10dp"
+                android:text="it increases your heart rate and blood circulation through the body, and it brings more oxygen and nutrients to the organs (WebMD)."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -624,7 +621,6 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-================================================================
 
         <TextView
             android:layout_width="match_parent"
@@ -640,13 +636,13 @@
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="89dp"
-            android:paddingLeft="10dp"
-            android:text="Walking boosts endorphins, which puts you in a better mood. According to a recent study,"
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="81dp"
+                android:paddingLeft="10dp"
+                android:text="Walking boosts endorphins, which puts you in a better mood. According to a recent study,"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -664,13 +660,13 @@
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="177dp"
-            android:paddingLeft="10dp"
-            android:text="“employees who took a 30-minute walk at lunchtime felt more enthusiastic and more relaxed in the afternoon than those who didn’t trek outdoors.” Walking also promotes a positive mood and wellbeing."
-            android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="138dp"
+                android:paddingLeft="10dp"
+                android:text="“employees who took a 30-minute walk at lunchtime felt more enthusiastic and more relaxed in the afternoon than those who didn’t trek outdoors.” Walking also promotes a positive mood and wellbeing."
+                android:textColor="#FDFEFE"
+                android:textSize="21dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -686,42 +682,6 @@
         <View
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     </LinearLayout>
     </ScrollView>

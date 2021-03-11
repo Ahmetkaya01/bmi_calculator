@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 
 
 public class MainActivity1 extends AppCompatActivity {
@@ -13,20 +14,23 @@ public class MainActivity1 extends AppCompatActivity {
     private Button Homebtn;
 ////
     private Button Happiness;
-    private Button Antistress;
-    private Button Allfooddiet;
-    private Button Selflove;
+    private Button Anti;
+    private Button Diet;
+    private Button Self;
     // // // // // // // // // // //
     private Button Randomworkout;
     private Button Plankitup;
     private Button Quickresistance;
     private Button Bestworkouts;
+    /////////////////////////////
+    private ImageButton Check;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-
+        Check = findViewById(R.id.checkyourbmi);
         Browsebtn = findViewById(R.id.browsebutton);
         Homebtn = findViewById(R.id.homebutton);
         ////
@@ -36,9 +40,9 @@ public class MainActivity1 extends AppCompatActivity {
         Bestworkouts = findViewById(R.id.bestworkouts);
         // // HORIZONTAL // // // // // // // // // // //
         Happiness = findViewById(R.id.happiness);
-        Antistress = findViewById(R.id.antistress);
-        Allfooddiet = findViewById(R.id.allfooddiet);
-        Selflove = findViewById(R.id.selflove);
+        Anti = findViewById(R.id.antistress);
+        Diet = findViewById(R.id.allfooddiet);
+        Self = findViewById(R.id.selflove);
 
         Happiness.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -57,33 +61,33 @@ public class MainActivity1 extends AppCompatActivity {
                             }
                         });
 
-                        Antistress = findViewById(R.id.antistress);
+                        Anti = findViewById(R.id.antistress);
 
-                        Button antistress = (Button) findViewById(R.id.antistress);
+                        Button Anti = (Button) findViewById(R.id.antistress);
 
-                        antistress.setOnClickListener(new View.OnClickListener() {
+                        Anti.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
                                 startActivity(new Intent(MainActivity1.this,Antistress.class));
                             }
                         });
 
-                        Allfooddiet = findViewById(R.id.allfooddiet);
+                        Diet = findViewById(R.id.allfooddiet);
 
-                        Button allfooddiet = (Button) findViewById(R.id.allfooddiet);
+                        Button Diet = (Button) findViewById(R.id.allfooddiet);
 
-                        allfooddiet.setOnClickListener(new View.OnClickListener() {
+                        Diet.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
                                 startActivity(new Intent(MainActivity1.this,allfooddiet.class));
                             }
                         });
 
-                Selflove = findViewById(R.id.selflove);
+                Self = findViewById(R.id.selflove);
 
-                Button selflove = (Button) findViewById(R.id.selflove);
+                Button Self = (Button) findViewById(R.id.selflove);
 
-                selflove.setOnClickListener(new View.OnClickListener() {
+                Self.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
                         startActivity(new Intent(MainActivity1.this,SelfLove.class));
@@ -152,6 +156,16 @@ public class MainActivity1 extends AppCompatActivity {
                             @Override
                             public void onClick(View v) {
                                 startActivity(new Intent(MainActivity1.this,MainActivity1.class));
+                            }
+                        });
+                        Check = findViewById(R.id.checkyourbmi);
+
+                        ImageButton Check = (ImageButton) findViewById(R.id.checkyourbmi);
+
+                        Check.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                startActivity(new Intent(MainActivity1.this,MainActivity.class));
                             }
                         });
                     }
