@@ -23,3 +23,6 @@ local.properties
 .gradle/6.1.1/javaCompile/taskHistory.bin
 .gradle/buildOutputCleanup/buildOutputCleanup.lock
 .idea/workspace.xml
+.gradle/checksums/checksums.lock
+.gradle/checksums/md5-checksums.bin
+.gradle/checksums/sha1-checksums.bin

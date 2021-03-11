@@ -37,9 +37,6 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
-                //BANNER//
-
-
                 <Button
                     android:id="@+id/happiness"
                     android:layout_width="337dp"
