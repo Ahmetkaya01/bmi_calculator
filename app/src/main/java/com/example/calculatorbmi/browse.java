@@ -53,14 +53,14 @@ public class browse extends AppCompatActivity {
 
                 Homebtn = findViewById(R.id.homebutton);
 
-//                Button homebutton = (Button) findViewById(R.id.homebutton);
-//
-//                homebutton.setOnClickListener(new View.OnClickListener() {
-//                    @Override
-//                    public void onClick(View v) {
-//                        startActivity(new Intent(browse.this,testercan.class));
-//                    }
-//                });
+                Button homebutton = (Button) findViewById(R.id.homebutton);
+
+                homebutton.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        startActivity(new Intent(browse.this,MainActivity1.class));
+                    }
+                });
 
                 fitnessarticle = findViewById(R.id.fitnessarticle);
 
