@@ -34,7 +34,6 @@
         <activity android:name=".benefitsofwalking" />
         <activity android:name=".yogaandpain" />
         <activity android:name=".YogaforEveryone" />
-        <activity android:name=".testercan" />
         <activity android:name=".Plankitup" />
         <activity android:name=".thebestbuttworkouts" />
         <activity android:name=".Randomworkout" />
@@ -44,7 +43,6 @@
         <activity android:name=".Antistress" />
         <activity android:name=".happinies" />
         <activity android:name=".FitnessArticle" />
-        <activity android:name=".Articles" />
         <activity android:name=".TENStepHIITWorkoutWllToneYour" />
         <activity android:name=".FiveBurpeeWorkouts" />
         <activity android:name=".FiveMoveMorningworkout" />
@@ -59,8 +57,8 @@
         <activity android:name=".exer" />
         <activity android:name=".ObeseActivity" />
         <activity android:name=".Results" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".MainActivity1">
+        <activity android:name=".CalculatorActivity" />
+        <activity android:name=".HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 
-public class MainActivity1 extends AppCompatActivity {
+public class HomeActivity extends AppCompatActivity {
     private Button Browsebtn;
     private Button Homebtn;
 ////
@@ -53,7 +53,7 @@ public class MainActivity1 extends AppCompatActivity {
                         happiniess.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(MainActivity1.this,happinies.class));
+                                startActivity(new Intent(HomeActivity.this,happinies.class));
                             }
                         });
 
@@ -64,7 +64,7 @@ public class MainActivity1 extends AppCompatActivity {
                         antistress.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(MainActivity1.this,Antistress.class));
+                                startActivity(new Intent(HomeActivity.this,Antistress.class));
                             }
                         });
 
@@ -75,7 +75,7 @@ public class MainActivity1 extends AppCompatActivity {
                         allfooddiet.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(MainActivity1.this,allfooddiet.class));
+                                startActivity(new Intent(HomeActivity.this,allfooddiet.class));
                             }
                         });
 
@@ -86,7 +86,7 @@ public class MainActivity1 extends AppCompatActivity {
                 selflove.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        startActivity(new Intent(MainActivity1.this,SelfLove.class));
+                        startActivity(new Intent(HomeActivity.this,SelfLove.class));
                     }
                 });
 
@@ -97,7 +97,7 @@ public class MainActivity1 extends AppCompatActivity {
                 randomworkout.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        startActivity(new Intent(MainActivity1.this,Randomworkout.class));
+                        startActivity(new Intent(HomeActivity.this,Randomworkout.class));
                     }
                 });
 
@@ -108,7 +108,7 @@ public class MainActivity1 extends AppCompatActivity {
                 plankitup.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        startActivity(new Intent(MainActivity1.this,Plankitup.class));
+                        startActivity(new Intent(HomeActivity.this,Plankitup.class));
                     }
                 });
 
@@ -119,7 +119,7 @@ public class MainActivity1 extends AppCompatActivity {
                 quickresistance.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        startActivity(new Intent(MainActivity1.this,EightQuickresistance.class));
+                        startActivity(new Intent(HomeActivity.this,EightQuickresistance.class));
                     }
                 });
 
@@ -130,7 +130,7 @@ public class MainActivity1 extends AppCompatActivity {
                         bestworkouts.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(MainActivity1.this,thebestbuttworkouts.class));
+                                startActivity(new Intent(HomeActivity.this,thebestbuttworkouts.class));
                             }
                         });
 
@@ -141,7 +141,7 @@ public class MainActivity1 extends AppCompatActivity {
                         browsebutton.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(MainActivity1.this,browse.class));
+                                startActivity(new Intent(HomeActivity.this,browse.class));
                             }
                         });
 
@@ -151,7 +151,7 @@ public class MainActivity1 extends AppCompatActivity {
                         homebutton.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(MainActivity1.this,MainActivity1.class));
+                                startActivity(new Intent(HomeActivity.this, HomeActivity.class));
                             }
                         });
                     }

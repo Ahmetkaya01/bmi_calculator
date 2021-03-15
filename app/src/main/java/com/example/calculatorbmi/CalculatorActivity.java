@@ -7,9 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class CalculatorActivity extends AppCompatActivity {
 
     private Button Calculate;
     private EditText Weight,Height;
@@ -41,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 // Calculate BMI, based on values given
                 float bmiValue = Weight / (newH * newH);
 
-                Intent intent = new Intent(MainActivity.this, Results.class);
+                Intent intent = new Intent(CalculatorActivity.this, Results.class);
 
                 // Put BMI value in Intent to send over Results activity
                 intent.putExtra("bmiValue", bmiValue);

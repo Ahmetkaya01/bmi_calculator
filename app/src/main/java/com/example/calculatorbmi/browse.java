@@ -54,7 +54,7 @@ public class browse extends AppCompatActivity {
                 homebutton.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        startActivity(new Intent(browse.this,testercan.class));
+                        startActivity(new Intent(browse.this,HomeActivity.class));
                     }
                 });
 

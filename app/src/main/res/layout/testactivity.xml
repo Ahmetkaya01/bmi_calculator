@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#010203"
-    tools:context=".MainActivity1">
+    tools:context=".HomeActivity">
 
 
     <View

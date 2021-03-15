@@ -128,7 +128,7 @@ public class Metabolism extends AppCompatActivity {
                         show.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                startActivity(new Intent(Metabolism.this,MainActivity1.class));
+                                startActivity(new Intent(Metabolism.this, HomeActivity.class));
                             }
                         });
 
