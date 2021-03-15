@@ -49,3 +49,7 @@ local.properties
 .idea/libraries/Gradle__pl_droidsonroids_gif_android_gif_drawable_1_2_1_aar.xml
 .idea/misc.xml
 .idea/modules.xml
+.idea/workspace.xml
+.gradle/6.1.1/executionHistory/executionHistory.lock
+.gradle/6.1.1/fileHashes/fileHashes.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
