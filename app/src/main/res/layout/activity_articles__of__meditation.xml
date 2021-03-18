@@ -30,6 +30,11 @@
                 android:textColor="#FDFEFE"
                 android:textSize="25sp"
                 android:textStyle="bold" />
+            //
+            benefitsofmeditation
+            typeofmeditation
+            shouldmeditation
+            wanttostart//
             <Button
                 android:id="@+id/benefitsofmeditation"
                 android:layout_width="match_parent"

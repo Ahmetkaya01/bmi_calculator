@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010203"
+    tools:context=".History_Of_Dance">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="History of Dance"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="30sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:id="@+id/t3"
+                android:layout_width="match_parent"
+                android:layout_height="104dp"
+                android:paddingLeft="10dp"
+                android:text="From the earliest moments of known human history, dance accompanied ancient rituals, spiritual gatherings and social events."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="298dp"
+                android:src="@drawable/olddance" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="285dp"
+                android:paddingLeft="10dp"
+                android:text="As a conduit of trance, spiritual force, pleasure, expression, performance and interaction, dance became infused into our nature from the earliest moments of our existence - from the moment when first African tribes covered themselves in war-paint to the to the spreading of music and dance across all four corners of the world. Without a doubt, dancing remains one of the most expressive forms of communications that we know."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="183dp"
+                android:paddingLeft="10dp"
+                android:text="The oldest proof of existence of dancing comes from the 9000 year old cave paintings that were found in India, which depicts various scenes of hunting, childbirth, religious rites, burials and most importantly, communal drinking and dancing."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="139dp"
+                android:paddingLeft="10dp"
+                android:text="Since dancing itself cannot leave clearly identifiable archeological artifacts that can be found today, scientist looked for secondary clues, written word, stone carvings, paintings and similar artifacts."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Period when dancing became widespread can be traced to the third millennia BC, when Egyptians started using dance as integral parts of their religious ceremonies."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="318dp"
+                android:src="@drawable/astairecan" />
+            //workoutnac//
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text=" Judging by the many tomb paintings that survived the tooth of time, Egyptian priests used musical instruments and dancers to mimic important events - stories of gods and cosmic patterns of moving stars and sun."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="235dp"
+                android:paddingLeft="10dp"
+                android:text="This tradition continued in ancient Greece, where dance was used very regular and openly to public (which eventually brought the birth of the famous Greek theatre in 6th century BC). Ancient paintings from 1st millennia clearly speak of many dance rituals in Greek culture, most notably the one before start of each Olympian Games, precursor to the modern Olympic Games."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="109dp"
+                android:paddingLeft="10dp"
+                android:text="As centuries went on, many other religions infused dance in the core of their rituals, such as Hindu dance ''Bharata Nhatyam'' which is preformed even today."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="398dp"
+                app:srcCompat="@drawable/tangodance" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="158dp"
+                android:paddingLeft="10dp"
+                android:text="Of course, not all dances in those ancient times were intended for religious purposes. Ordinary people used dance for celebration, entertainment, seduction and to induce the mood of frenzied exhilaration."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="216dp"
+                android:paddingLeft="10dp"
+                android:text="Annual celebration in honor of Greek god of wine Dionysus (and later Roman god Bacchus) included dancing and drinking for several days. 1400BC year old Egyptian painting showed the group of scantily dressed girls who danced for the wealthy male crowd, supported by the several musicians."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="119dp"
+                android:paddingLeft="10dp"
+                android:text="This kind of entertainment continued to be refined, until medieval times and the start of the Renaissance when ballet became integral part of the wealthy class."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="605dp"
+                app:srcCompat="@drawable/olddancecan" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="243dp"
+                android:paddingLeft="10dp"
+                android:text="European dances before the start of Renaissance were not widely documented, any only few isolated fragments of their existence remain found today. The most basic ''chain shaped'' dance practiced by commoners was most widespread across Europe, but the arrival of Renaissance and new forms of music brought many other styles in fashion."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="211dp"
+                android:paddingLeft="10dp"
+                android:text="Renaissance dances from Spain, France and Italy were soon surpassed by Baroque dances which became widely popular in French and English courts. After the end of French Revolution, many new types of dances emerged with focused on less restrictive woman clothing, and tendency for skipping and jumping."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="141dp"
+                android:paddingLeft="10dp"
+                android:text="These dances soon became even more energetic in 1844 with the beginning of so called ''international polka craze'' which also brought us the first appearance of famous waltz."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="309dp"
+                app:srcCompat="@drawable/advicedance" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:paddingLeft="10dp"
+                android:text="After the short period of time when great ballroom masters created wave of complicated dances, the era of modern day 2 person dance started with the careers of famous ballroom dances Vernon and Irene Castle."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="193dp"
+                android:paddingLeft="10dp"
+                android:text="After those early years of 20th century many modern dances were invented (Foxtrot, One-Step, Tango, Charleston, Swing, Postmodern, Hip-hop, breakdancing and more) and the expansion of musical brought those dances into worldwide popularity."
+                android:textColor="#FDFEFE"
+                android:textSize="21sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

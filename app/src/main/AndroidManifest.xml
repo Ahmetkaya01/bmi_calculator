@@ -14,7 +14,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Types_Of_Meditation"></activity>
+        <activity android:name=".Daily_Benefits_Meditation"></activity>
+        <activity android:name=".History_Of_Dance" />
+        <activity android:name=".Best_Dance" />
+        <activity android:name=".Benefits_Of_Dance" />
+        <activity android:name=".Think_You_Cant_Dance" />
+        <activity android:name=".Types_Of_Meditation" />
         <activity android:name=".Why_Should_Meditation" />
         <activity android:name=".Want_To_Start_Med" />
         <activity android:name=".Benefits_Of_Meditation" />
@@ -57,10 +62,8 @@
         <activity android:name=".FunctionalFitness" />
         <activity android:name=".Yogaarticle" />
         <activity android:name=".fitnessplan" />
-        <activity android:name=".Metabolism" />
         <activity android:name=".Exercise" />
         <activity android:name=".Healthyeatingbasics" />
-        <activity android:name=".exer" />
         <activity android:name=".ObeseActivity" />
         <activity android:name=".Results" />
         <activity android:name=".CalculatorActivity" />

@@ -8,10 +8,14 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:stretchColumns="1">
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
 
         <!-- everything you already have -->
         <TextView
-            android:id="@+id/textViewActivity"
+            android:id="@+id/Titlehome"
             android:layout_width="230dp"
             android:layout_height="wrap_content"
             android:paddingLeft="15dp"
@@ -32,9 +36,9 @@
                 android:orientation="horizontal">
 
                 <Button
-                    android:id="@+id/happiness"
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
+                    android:id="@+id/Happiness"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="5dp"
                     android:background="@drawable/happinies"
@@ -47,49 +51,56 @@
                     android:textStyle="bold" />
 
                 <Button
-                    android:id="@+id/antistress"
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
+                    android:id="@+id/Antistress"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
                     android:layout_marginLeft="20dp"
                     android:layout_marginRight="5dp"
-                    android:background="@drawable/antistress"
+                    android:background="@drawable/progpercent"
                     android:gravity="center"
                     android:paddingTop="250dp"
                     android:paddingRight="150dp"
                     android:text="Anti-Stress"
                     android:textColor="#ffffff"
-                    android:textSize="20dp"
+                    android:textSize="25dp"
                     android:textStyle="bold" />
 
 
                 <Button
-                    android:id="@+id/allfooddiet"
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
+                    android:id="@+id/Allfooddiet"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
                     android:layout_marginLeft="15dp"
                     android:layout_marginRight="10dp"
-                    android:background="@drawable/dietfoodall"
+                    android:background="@drawable/tomato"
                     android:paddingTop="250dp"
+                    android:paddingRight="140dp"
+                    android:textStyle="bold"
                     android:text="All-Food Diet"
                     android:textColor="#ffffff"
-                    android:textSize="30dp" />
+                    android:textSize="25dp" />
 
 
                 <Button
-                    android:id="@+id/selflove"
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
+                    android:id="@+id/Selflove"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
                     android:layout_marginLeft="25dp"
                     android:layout_marginRight="10dp"
-                    android:background="@drawable/selflove"
+                    android:background="@drawable/howselflove"
                     android:paddingTop="250dp"
                     android:text="Self-Love"
+                    android:textStyle="bold"
+                    android:paddingRight="170dp"
                     android:textColor="#ffffff"
                     android:textSize="30dp" />
 
             </LinearLayout>
         </HorizontalScrollView>
-
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp">
+        </View>
         <TextView
             android:id="@+id/textViewSingle"
             android:layout_width="396dp"
@@ -102,7 +113,7 @@
 
         <HorizontalScrollView
             android:layout_width="match_parent"
-            android:layout_height="200dp"
+            android:layout_height="350dp"
             android:layout_marginTop="16dp">
 
 
@@ -114,82 +125,150 @@
 
                 <Button
                     android:id="@+id/randomworkout"
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="15dp"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
                     android:layout_marginTop="20dp"
+                    android:paddingTop="250dp"
                     android:layout_marginRight="5dp"
-                    android:background="@drawable/randomworkout"
-                    android:text="Random Workout"
-                    android:textColor="@color/colorPrimary" />
+                    android:paddingRight="80dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:background="@drawable/wanttolosecanx"
+                    android:text="Random Workout" />
 
                 <Button
                     android:id="@+id/plankitup"
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="5dp"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
                     android:layout_marginTop="20dp"
-                    android:layout_marginRight="20dp"
-                    android:background="@drawable/plnakitup"
-                    android:text="Plank It Up"
-                    android:textColor="@color/colorPrimary" />
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="160dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:background="@drawable/buildups"
+                    android:text="Plank It Up" />
 
                 <Button
                     android:id="@+id/quickresistance"
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
                     android:layout_marginLeft="20dp"
                     android:layout_marginTop="20dp"
-                    android:layout_marginRight="20dp"
-                    android:background="@drawable/lowerbody"
-                    android:text="8 Quick Resistance-Band Arm Exercises"
-                    android:textColor="@color/colorPrimary" />
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="70dp"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"
+                    android:textSize="25dp"
+                    android:background="@drawable/eightquickbandarm"
+                    android:text="8 Quick Resistance"/>
 
 
                 <Button
-                    android:id="@+id/bestworkouts"
-                    android:layout_width="200dp"
-                    android:layout_height="match_parent"
+                    android:id="@+id/Bestworkouts"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
                     android:layout_marginLeft="20dp"
                     android:layout_marginTop="20dp"
-                    android:layout_marginRight="20dp"
-                    android:background="@drawable/legsfordays"
-                    android:text="The Best Workouts at Home"
-                    android:textColor="@color/colorPrimary"
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="70dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:background="@drawable/thebestcanwork"
+                    android:text="The Best Workouts"
                     android:textSize="25dp" />
 
 
             </LinearLayout>
 
         </HorizontalScrollView>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.5dp"
+            android:background="@android:color/background_light">
+        </View>
 
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dp">
+        </View>
+        <TextView
+            android:id="@+id/textViewActivity"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+
+            android:gravity="center"
+            android:text="@string/checkyourbmi"
+            android:textColor="#fafafa"
+            android:textStyle="bold"
+            android:textSize="26dp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dp">
+        </View>
+
+        <Button
+            android:id="@+id/checkyourbmi"
+            android:layout_width="232dp"
+            android:layout_height="192dp"
+            android:layout_gravity="center_horizontal|center"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="80dp"
+            android:background="@drawable/iconbmi"
+
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dp">
+        </View>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1.5dp"
+            android:background="@android:color/background_light">
+        </View>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dp">
+        </View>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="111dp"
             android:orientation="horizontal">
 
             <Button
-                android:layout_width="185dp"
+                android:id="@+id/browsebutton"
+                android:layout_width="190dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center"
-                android:layout_marginRight="20dp"
-                android:background="#400000"
+                android:layout_marginRight="5dp"
+                android:background="#3F5164"
+                android:layout_marginLeft="10dp"
                 android:text="Browse"
-                android:textColor="@color/colorPrimary"
+                android:textColor="#ffffff"
                 android:textStyle="bold" />
 
             <Button
-                android:layout_width="185dp"
+                android:id="@+id/homebutton"
+                android:layout_width="190dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center"
-                android:layout_marginLeft="20dp"
-                android:layout_marginRight="10dp"
-                android:background="#400000"
+                android:layout_marginLeft="10dp"
+                android:background="#3F5164"
                 android:text="Home"
-                android:textColor="@color/colorPrimary"
+                android:textColor="#ffffff"
                 android:textStyle="bold" />
 
         </LinearLayout>
-
     </TableLayout>
 </ScrollView>

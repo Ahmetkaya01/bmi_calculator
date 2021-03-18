@@ -21,6 +21,8 @@ public class HomeActivity extends AppCompatActivity {
     private Button Plankitup;
     private Button Quickresistance;
     private Button Bestworkouts;
+    ///////////
+    private Button checkyourbmi;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,12 +35,14 @@ public class HomeActivity extends AppCompatActivity {
         Randomworkout = findViewById(R.id.randomworkout);
         Plankitup = findViewById(R.id.plankitup);
         Quickresistance= findViewById(R.id.quickresistance);
-        Bestworkouts = findViewById(R.id.bestworkouts);
+        Bestworkouts = findViewById(R.id.Bestworkouts);
         // // HORIZONTAL // // // // // // // // // // //
-        Happiness = findViewById(R.id.happiness);
-        Antistress = findViewById(R.id.antistress);
-        Allfooddiet = findViewById(R.id.allfooddiet);
-        Selflove = findViewById(R.id.selflove);
+        Happiness = findViewById(R.id.Happiness);
+        Antistress = findViewById(R.id.Antistress);
+        Allfooddiet = findViewById(R.id.Allfooddiet);
+        Selflove = findViewById(R.id.Selflove);
+//////////////////////
+        checkyourbmi = findViewById(R.id.checkyourbmi);
 
         Happiness.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -46,9 +50,9 @@ public class HomeActivity extends AppCompatActivity {
                 Happiness.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Happiness = findViewById(R.id.happiness);
+                        Happiness = findViewById(R.id.Happiness);
 
-                        Button happiniess = (Button) findViewById(R.id.happiness);
+                        Button happiniess = (Button) findViewById(R.id.Happiness);
 
                         happiniess.setOnClickListener(new View.OnClickListener() {
                             @Override
@@ -57,9 +61,9 @@ public class HomeActivity extends AppCompatActivity {
                             }
                         });
 
-                        Antistress = findViewById(R.id.antistress);
+                        Antistress = findViewById(R.id.Antistress);
 
-                        Button antistress = (Button) findViewById(R.id.antistress);
+                        Button antistress = (Button) findViewById(R.id.Antistress);
 
                         antistress.setOnClickListener(new View.OnClickListener() {
                             @Override
@@ -68,9 +72,9 @@ public class HomeActivity extends AppCompatActivity {
                             }
                         });
 
-                        Allfooddiet = findViewById(R.id.allfooddiet);
+                        Allfooddiet = findViewById(R.id.Allfooddiet);
 
-                        Button allfooddiet = (Button) findViewById(R.id.allfooddiet);
+                        Button allfooddiet = (Button) findViewById(R.id.Allfooddiet);
 
                         allfooddiet.setOnClickListener(new View.OnClickListener() {
                             @Override
@@ -79,9 +83,9 @@ public class HomeActivity extends AppCompatActivity {
                             }
                         });
 
-                Selflove = findViewById(R.id.selflove);
+                Selflove = findViewById(R.id.Selflove);
 
-                Button selflove = (Button) findViewById(R.id.selflove);
+                Button selflove = (Button) findViewById(R.id.Selflove);
 
                 selflove.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -123,9 +127,9 @@ public class HomeActivity extends AppCompatActivity {
                     }
                 });
 
-                Bestworkouts = findViewById(R.id.bestworkouts);
+                Bestworkouts = findViewById(R.id.Bestworkouts);
 
-                        Button bestworkouts = (Button) findViewById(R.id.bestworkouts);
+                        Button bestworkouts = (Button) findViewById(R.id.Bestworkouts);
 
                         bestworkouts.setOnClickListener(new View.OnClickListener() {
                             @Override
@@ -151,7 +155,19 @@ public class HomeActivity extends AppCompatActivity {
                         homebutton.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
+
                                 startActivity(new Intent(HomeActivity.this, HomeActivity.class));
+                            }
+                        });
+
+                        checkyourbmi = findViewById(R.id.checkyourbmi);
+
+                        Button checkyourbmi = (Button) findViewById(R.id.checkyourbmi);
+
+                        checkyourbmi.setOnClickListener(new View.OnClickListener() {
+                            @Override
+                            public void onClick(View v) {
+                                startActivity(new Intent(HomeActivity.this,CalculatorActivity.class));
                             }
                         });
                     }

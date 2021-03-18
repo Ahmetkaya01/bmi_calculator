@@ -12,18 +12,103 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f89995-c9dc-4a15-87ab-412c408b0446" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articles_Of_Dance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articles_Of_Meditation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Benefits_Of_Meditation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Types_Of_Meditation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Want_To_Start_Med.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Why_Should_Meditation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_articles__of__dance.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_articles__of__meditation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefits__of__meditation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_types__of__meditation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_want__to__start__med.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_why__should__meditation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Benefits_Of_Dance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Daily_Benefits_Meditation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/History_Of_Dance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Think_You_Cant_Dance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/advicedance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/advicefromcn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/agentlereminder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/andvemediation.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/apractical.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/astairecan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/backed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bandresistance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/begginers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/benefitsofdancex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bestaworkot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bestdance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bestdancexd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/blackdancer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/blowyour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/brainfunction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/buildups.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/catcn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dance1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dancer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dothat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/edgarcayce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/eightquickbandarm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/elevenbenefits.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/famousdance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/flihter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/foodservice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/forhealthierrte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fstfoodhelp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gnicnad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/guideforbeginners.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hasnever.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/healthicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/howoften.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/howoftenyouare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/howselflove.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/howtodomountainclimbers.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/improvebalance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/insulinfunction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/jackspower.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lindytitle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/loverpooldance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/makeitclear.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/meditat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/meditation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/meditation2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/meditation3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/meditation4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/meditation5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/meditationpng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/meditatyourwayx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/medo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mencan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mindfulness.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/moderndance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/moonmedi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/morningmeditation.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/muuav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/olddance.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/olddancecan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/peakbrain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plscapture.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pointers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/practisingmed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pregnacy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/progpercent.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/riodedance.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sevenwaystostart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/showsbestdance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/soyouthinkdance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/squatsdropp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/stopmakingex.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sundaydiet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tangodance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/thatwillbuild.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/thebestcanwork.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/timemagazine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tomato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/training.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/trainyourbrain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/transcental.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/twodancer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/typesof.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/typesofdance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/visitdanceschool.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/wanttolosecanx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/waystobecomepro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yogaarttart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefits__of__dance.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_best__dance.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_daily__benefits__meditation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_history__of__dance.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_think__you__cant__dance.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -35,11 +120,237 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_browse.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_browse.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articles_Of_Dance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articles_Of_Dance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articles_Of_Meditation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articles_Of_Meditation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Metabolism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/ObeseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/ObeseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/exer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Best_Dance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/andyoumight.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/andyoumight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/antistresesese.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/antistresesese.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/armybody.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/armybody.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/asap.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/asap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bealert.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bealert.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/benchup11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/benchup11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/benefit13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/benefit13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/besafebeenseen.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/besafebeenseen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bewareofstrangers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bewareofstrangers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bir1one1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bir1one1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/boatposegifcan.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/boatposegifcan.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/body30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/body30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bodybmi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bodybmi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bosegif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bosegif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bottomlineqq.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bottomlineqq.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bottomlines.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bottomlines.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bridgedipsgif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bridgedipsgif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bridgepose.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bridgepose.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bridgeposecangif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bridgeposecangif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/burpess.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/burpess.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/burpess1998.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/burpess1998.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/burpessgifcankan.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/burpessgifcankan.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/burpesstitle1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/burpesstitle1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/cabbarr123.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cabbarr123.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/cabcub.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cabcub.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/camelposecangif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/camelposecangif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/catposegif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/catposegif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/challengeyour.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/challengeyour.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/chaturangafacing.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/chaturangafacing.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/childspose.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/childspose.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/cobrapose.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cobrapose.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/cobrarose.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cobrarose.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/controlledbre.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/controlledbre.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/corpseose.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/corpseose.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/crowdedpeople.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/crowdedpeople.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/deadlift.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/deadlift.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/deadliftoriginal.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/deadliftoriginal.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/dokuz.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dokuz.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/dolphinrosecangif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dolphinrosecangif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/dontwalkalone.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dontwalkalone.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/downward.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/downward.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/downwardfacing.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/downwardfacing.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/dropsquats.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dropsquats.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/eight.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/eight.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/eighteight88.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/eighteight88.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/errandsdone.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/errandsdone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/exercise.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/exercise.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/feelingdown.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/feelingdown.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/firsttitleone.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/firsttitleone.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/fitnesathoebests1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fitnesathoebests1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/fitness1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fitness1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/food.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/food.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/forearm.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/forearm.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/four44.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/four44.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/getupmoving.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/getupmoving.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/gifsyoga.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gifsyoga.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/giphy.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/giphy.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/goodhelathy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/goodhelathy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/goodwritingis.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/goodwritingis.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/greatfromexercise.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/greatfromexercise.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/halfboatcangif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/halfboatcangif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/happinies10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/happinies10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/happyface.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/happyface.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/healplate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/healplate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/healthylifestyle1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/healthylifestyle1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/healthyrisks.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/healthyrisks.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/highkness.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/highkness.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/holdfor6times.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/holdfor6times.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/hopeoptimisim.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/hopeoptimisim.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/iconbmi.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/iconbmi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ilkbaslik1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ilkbaslik1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/improveyourdigestion.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/improveyourdigestion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ingym.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ingym.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/inspired.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/inspired.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/isitnormal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/isitnormal.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/itisnottoolate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/itisnottoolate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/keepintouch.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/keepintouch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/kettlebed.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/kettlebed.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/kneetucks.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/kneetucks.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/lasttest1998.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lasttest1998.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/lateral.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lateral.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/loseweight19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/loseweight19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/lungeswitch.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lungeswitch.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/lungeto.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lungeto.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/lyingleggif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lyingleggif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/man.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/man.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/measure.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/measure.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/milk.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/milk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/mind.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mind.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/morecreative.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/morecreative.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/mountainclimberss.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mountainclimberss.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/moveitmonday.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/moveitmonday.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/myoptimism.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/myoptimism.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/neckpain.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/neckpain.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/nined.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/nined.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ninenine.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ninenine.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/normalweightxd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/normalweightxd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/obese.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/obese.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/obese1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/obese1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/obesebreakfast.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/obesebreakfast.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/obesesolution.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/obesesolution.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/obesetakepic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/obesetakepic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/obesetr.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/obesetr.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/oguznk.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/oguznk.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/one1one.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/one1one.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/original1998.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/original1998.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/originalmountainclimber.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/originalmountainclimber.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/originalselflove.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/originalselflove.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/phactivity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/phactivity.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/pinsonre.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pinsonre.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/piyometricgif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/piyometricgif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/planfitness.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/planfitness.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/planfitness2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/planfitness2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plankcankan.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plankcankan.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plankjacks.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plankjacks.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/planklegsgif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/planklegsgif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plankposebeginface.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plankposebeginface.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plankqqqq.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plankqqqq.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plankrosecan.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plankrosecan.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plankup.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plankup.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plankwithamazing.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plankwithamazing.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plankwitharow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plankwitharow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plmnrt.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plmnrt.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plnakitup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plnakitup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plsbesafe.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plsbesafe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/plyo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/plyo.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/positiveperson.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/positiveperson.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/powerjacks.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/powerjacks.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/prmkey.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/prmkey.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/pushups.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pushups.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/pushupsss.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pushupsss.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/quickstrees.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/quickstrees.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/randomworkout.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/randomworkout.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/razenrc.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/razenrc.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/reactionstrees.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/reactionstrees.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/reoginize.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/reoginize.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/reverseplank.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/reverseplank.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/runkos.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/runkos.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/seated.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/seated.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/setup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/setup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/sevenoriginal.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sevenoriginal.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/seyfly.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/seyfly.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/sidecrowcrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sidecrowcrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/sideplank1998.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sideplank1998.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/sideplank9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sideplank9.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/sideplankrosecan.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sideplankrosecan.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/sideweighet.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sideweighet.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/singlelegs.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/singlelegs.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/singlelegtest.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/singlelegtest.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/six6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/six6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/six66.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/six66.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/spiderman.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/spiderman.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/squattowood.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/squattowood.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/staffhose.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/staffhose.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/stopnegaitive.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/stopnegaitive.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/supereasyfull.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/supereasyfull.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/swandive.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/swandive.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/swissball.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/swissball.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/swissballjoke.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/swissballjoke.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/symp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/symp.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/talkingsuper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/talkingsuper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/talktomuch.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/talktomuch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/textingdangerous.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/textingdangerous.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/thebottomline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/thebottomline.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/thereisno.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/thereisno.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/thinkingofthat.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/thinkingofthat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/titleposes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/titleposes.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/titleworkbestathom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/titleworkbestathom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/trackingfood.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/trackingfood.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/treatyourself.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/treatyourself.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/treepose.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/treepose.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/trianglepose.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/trianglepose.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/tricepspsuh.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tricepspsuh.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/tryameal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tryameal.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/two.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/two.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/two2two.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/two2two.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/uc.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/uc.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ucuc.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ucuc.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ujhnm.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ujhnm.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/underweightsafe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/underweightsafe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/underweighttkt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/underweighttkt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/updateworkout.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/updateworkout.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/upwardcangif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/upwardcangif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/volumedown.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/volumedown.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/walkfacingtraffic.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/walkfacingtraffic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/walkingarticle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/walkingarticle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/walkingcandefense.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/walkingcandefense.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/walkingorrunningto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/walkingorrunningto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/walkingplancan.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/walkingplancan.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/walksingl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/walksingl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/walkthisway.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/walkthisway.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/wallsit.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/wallsit.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/wallsitorig.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/wallsitorig.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/wallsitoriginalone.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/wallsitoriginalone.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/warriorcan.gif" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/warriorcan.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ways.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ways.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/waystodo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/waystodo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/weightundrc.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/weightundrc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/whywalking.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/whywalking.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/womanchopping.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/womanchopping.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/yogaacan.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yogaacan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/yogaandpaintitle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yogaandpaintitle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/yogaforeveryone.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yogaforeveryone.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/yogahelps.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yogahelps.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/yogaposes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yogaposes.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/youfollowhealthylife.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/youfollowhealthylife.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/yourlegs.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yourlegs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/youwillburn.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/youwillburn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/youwillfeelcalmer.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/youwillfeelcalmer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/treatyourself.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_articles__of__dance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_articles__of__dance.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_articles__of__meditation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_articles__of__meditation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_exer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_exercise.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_exercise.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_metabolism.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/secondbrowse.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/test2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/testactivity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/testertettr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,43 +418,65 @@
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.-1804483896">
+    <key name="android.template.1250775198">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.1999973780">
-      <recent name="com.example.calculatorbmi" />
-    </key>
-    <key name="android.template.-2071876095">
+    <key name="android.template.115152623">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="android.template.-458031729">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.-1734686169">
+    <key name="android.template.-1294785453">
+      <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="android.template.1355104664">
+      <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="android.template.-313100960">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.1087597162">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AJT-115\OneDrive\Desktop\bmi_calculator\app\src\main\res\drawable" />
+      <recent name="C:\Users\AJT-115\OneDrive\Desktop\bmi_calculator\app\src\main\res\layout" />
+      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\drawable" />
+      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\layout" />
+      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\drawable-v24" />
+    </key>
+    <key name="android.template.-567988837">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\raw" />
+    <key name="android.template.1705266051">
+      <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.2062985860">
+    <key name="android.template.-524461131">
+      <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="android.template.1640927344">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="android.template.-442979020">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.-1866994826">
+    <key name="android.template.-138385328">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.1250775198">
+    <key name="android.template.1223958439">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.115152623">
+    <key name="android.template.-1734686169">
+      <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="android.template.-2071876095">
+      <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="android.template.1087597162">
+      <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="android.template.-1804483896">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="android.template.476117160">
@@ -152,50 +485,32 @@
     <key name="android.template.201064244">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.-567988837">
-      <recent name="com.example.calculatorbmi" />
-    </key>
-    <key name="android.template.-138385328">
-      <recent name="com.example.calculatorbmi" />
-    </key>
-    <key name="android.template.1355104664">
-      <recent name="com.example.calculatorbmi" />
-    </key>
-    <key name="android.template.-1294785453">
-      <recent name="com.example.calculatorbmi" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\drawable" />
-      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\layout" />
-      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\drawable-v24" />
-      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\app\src\main\res\drawable-v24" />
-    </key>
-    <key name="android.template.-524461131">
-      <recent name="com.example.calculatorbmi" />
-    </key>
-    <key name="android.template.1705266051">
+    <key name="android.template.2062985860">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="android.template.-1156487136">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.-1268962568">
-      <recent name="com.example.calculatorbmi" />
-    </key>
-    <key name="android.template.1223958439">
+    <key name="android.template.1040042292">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="android.template.221538562">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.1040042292">
-      <recent name="com.example.calculatorbmi" />
-    </key>
     <key name="android.template.-90186311">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.-313100960">
+    <key name="android.template.1999973780">
       <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="android.template.-1268962568">
+      <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="android.template.-1866994826">
+      <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\raw" />
     </key>
   </component>
   <component name="RunManager">
@@ -297,10 +612,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="69" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1614382300177" />
-    <state x="507" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615787263635">
+    <state x="507" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616093228373">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="507" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1615787263635" />
+    <state x="507" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1616093228373" />
     <state x="80" y="2" key="AndroidCreateResourceDirectoryDialog" timestamp="1611838845838">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -409,10 +724,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1614834571213" />
-    <state x="326" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1615787125920">
+    <state x="326" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1616078186206">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="326" y="144" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1615787125920" />
+    <state x="326" y="144" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1616078186206" />
     <state x="218" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609538638264">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -421,10 +736,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="299" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1614704407815" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1614819765152">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1616093021240">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1614819765152" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1616093021240" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
