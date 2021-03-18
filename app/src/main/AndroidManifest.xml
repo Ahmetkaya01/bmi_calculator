@@ -14,7 +14,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Articlesofsleeping"></activity>
+        <activity android:name=".Types_Of_Meditation"></activity>
+        <activity android:name=".Why_Should_Meditation" />
+        <activity android:name=".Want_To_Start_Med" />
+        <activity android:name=".Benefits_Of_Meditation" />
+        <activity android:name=".Articles_Of_Dance" />
+        <activity android:name=".Articles_Of_Meditation" />
+        <activity android:name=".Articlesofsleeping" />
         <activity android:name=".HealthySleepHygiene" />
         <activity android:name=".thebestwaystogetbetterSLEEP" />
         <activity android:name=".SleepPurpose" />
