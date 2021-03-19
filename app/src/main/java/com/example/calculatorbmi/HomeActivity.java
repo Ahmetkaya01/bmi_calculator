@@ -7,172 +7,119 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-
 public class HomeActivity extends AppCompatActivity {
-    private Button Browsebtn;
-    private Button Homebtn;
-////
-    private Button Happiness;
-    private Button Antistress;
-    private Button Allfooddiet;
-    private Button Selflove;
-    // // // // // // // // // // //
-    private Button Randomworkout;
-    private Button Plankitup;
-    private Button Quickresistance;
-    private Button Bestworkouts;
-    ///////////
-    private Button checkyourbmi;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
-        Browsebtn = findViewById(R.id.browsebutton);
-        Homebtn = findViewById(R.id.homebutton);
-        ////
-        Randomworkout = findViewById(R.id.randomworkout);
-        Plankitup = findViewById(R.id.plankitup);
-        Quickresistance= findViewById(R.id.quickresistance);
-        Bestworkouts = findViewById(R.id.Bestworkouts);
-        // // HORIZONTAL // // // // // // // // // // //
-        Happiness = findViewById(R.id.Happiness);
-        Antistress = findViewById(R.id.Antistress);
-        Allfooddiet = findViewById(R.id.Allfooddiet);
-        Selflove = findViewById(R.id.Selflove);
-//////////////////////
-        checkyourbmi = findViewById(R.id.checkyourbmi);
+        Button happiniess = (Button) findViewById(R.id.Happiness);
 
-        Happiness.setOnClickListener(new View.OnClickListener() {
+        happiniess.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Happiness.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        Happiness = findViewById(R.id.Happiness);
+                startActivity(new Intent(HomeActivity.this, happinies.class));
+            }
+        });
 
-                        Button happiniess = (Button) findViewById(R.id.Happiness);
 
-                        happiniess.setOnClickListener(new View.OnClickListener() {
-                            @Override
-                            public void onClick(View v) {
-                                startActivity(new Intent(HomeActivity.this,happinies.class));
-                            }
-                        });
+        Button antistress = (Button) findViewById(R.id.Antistress);
 
-                        Antistress = findViewById(R.id.Antistress);
+        antistress.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, Antistress.class));
+            }
+        });
 
-                        Button antistress = (Button) findViewById(R.id.Antistress);
 
-                        antistress.setOnClickListener(new View.OnClickListener() {
-                            @Override
-                            public void onClick(View v) {
-                                startActivity(new Intent(HomeActivity.this,Antistress.class));
-                            }
-                        });
+        Button allfooddiet = (Button) findViewById(R.id.Allfooddiet);
 
-                        Allfooddiet = findViewById(R.id.Allfooddiet);
+        allfooddiet.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, allfooddiet.class));
+            }
+        });
 
-                        Button allfooddiet = (Button) findViewById(R.id.Allfooddiet);
 
-                        allfooddiet.setOnClickListener(new View.OnClickListener() {
-                            @Override
-                            public void onClick(View v) {
-                                startActivity(new Intent(HomeActivity.this,allfooddiet.class));
-                            }
-                        });
+        Button selflove = (Button) findViewById(R.id.Selflove);
 
-                Selflove = findViewById(R.id.Selflove);
+        selflove.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, SelfLove.class));
+            }
+        });
 
-                Button selflove = (Button) findViewById(R.id.Selflove);
 
-                selflove.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        startActivity(new Intent(HomeActivity.this,SelfLove.class));
-                    }
-                });
+        Button randomworkout = (Button) findViewById(R.id.randomworkout);
 
-                Randomworkout = findViewById(R.id.randomworkout);
+        randomworkout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, Randomworkout.class));
+            }
+        });
 
-                Button randomworkout = (Button) findViewById(R.id.randomworkout);
 
-                randomworkout.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        startActivity(new Intent(HomeActivity.this,Randomworkout.class));
-                    }
-                });
+        Button plankitup = (Button) findViewById(R.id.plankitup);
 
-                Plankitup= findViewById(R.id.plankitup);
+        plankitup.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, Plankitup.class));
+            }
+        });
 
-                Button plankitup = (Button) findViewById(R.id.plankitup);
 
-                plankitup.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        startActivity(new Intent(HomeActivity.this,Plankitup.class));
-                    }
-                });
+        Button quickresistance = (Button) findViewById(R.id.quickresistance);
 
-                Quickresistance = findViewById(R.id.quickresistance);
+        quickresistance.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, EightQuickresistance.class));
+            }
+        });
 
-                Button quickresistance = (Button) findViewById(R.id.quickresistance);
 
-                quickresistance.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        startActivity(new Intent(HomeActivity.this,EightQuickresistance.class));
-                    }
-                });
+        Button bestworkouts = (Button) findViewById(R.id.Bestworkouts);
 
-                Bestworkouts = findViewById(R.id.Bestworkouts);
+        bestworkouts.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, thebestbuttworkouts.class));
+            }
+        });
 
-                        Button bestworkouts = (Button) findViewById(R.id.Bestworkouts);
 
-                        bestworkouts.setOnClickListener(new View.OnClickListener() {
-                            @Override
-                            public void onClick(View v) {
-                                startActivity(new Intent(HomeActivity.this,thebestbuttworkouts.class));
-                            }
-                        });
+        Button browsebutton = (Button) findViewById(R.id.browsebutton);
 
-                        Browsebtn = findViewById(R.id.browsebutton);
+        browsebutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, browse.class));
+            }
+        });
 
-                        Button browsebutton = (Button) findViewById(R.id.browsebutton);
+        Button homebutton = (Button) findViewById(R.id.homebutton);
 
-                        browsebutton.setOnClickListener(new View.OnClickListener() {
-                            @Override
-                            public void onClick(View v) {
-                                startActivity(new Intent(HomeActivity.this,browse.class));
-                            }
-                        });
+        homebutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
 
-                        Homebtn = findViewById(R.id.homebutton);
-                        Button homebutton = (Button) findViewById(R.id.homebutton);
+                startActivity(new Intent(HomeActivity.this, HomeActivity.class));
+            }
+        });
 
-                        homebutton.setOnClickListener(new View.OnClickListener() {
-                            @Override
-                            public void onClick(View v) {
 
-                                startActivity(new Intent(HomeActivity.this, HomeActivity.class));
-                            }
-                        });
+        Button checkyourbmi = (Button) findViewById(R.id.checkyourbmi);
 
-                        checkyourbmi = findViewById(R.id.checkyourbmi);
-
-                        Button checkyourbmi = (Button) findViewById(R.id.checkyourbmi);
-
-                        checkyourbmi.setOnClickListener(new View.OnClickListener() {
-                            @Override
-                            public void onClick(View v) {
-                                startActivity(new Intent(HomeActivity.this,CalculatorActivity.class));
-                            }
-                        });
-                    }
-
-                });
+        checkyourbmi.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(HomeActivity.this, CalculatorActivity.class));
             }
         });
     }
