@@ -24,20 +24,7 @@ public class Articles_Of_Dance extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_articles__of__dance);
 
-     benefitsofdance = findViewById(R.id.Benefitsofdance);
 
-     historyofdance = findViewById(R.id.Historyofdance);
-
-     thinkyoucant = findViewById(R.id.Thinkyoucant);
-
-     bestdance = findViewById(R.id.Bestdance);
-
-     Dailymeditation = findViewById(R.id.Dailymeditation);
-
-     benefitsofdance.setOnClickListener(new View.OnClickListener() {
-         @Override
-         public void onClick(View v) {
-             benefitsofdance = findViewById(R.id.Benefitsofdance);
 
              Button Benefitsofdance = (Button) findViewById(R.id.Benefitsofdance);
 
@@ -91,12 +78,6 @@ public class Articles_Of_Dance extends AppCompatActivity {
                      startActivity(new Intent(Articles_Of_Dance.this,Daily_Benefits_Meditation.class));
                  }
              });
-
-
-
-         }
-     });
-
 
     }
 }
