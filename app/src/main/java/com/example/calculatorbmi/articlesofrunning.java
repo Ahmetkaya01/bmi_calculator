@@ -17,18 +17,7 @@ public class articlesofrunning extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_articlesofrunning);
 
-        benefitofrunning = findViewById(R.id.benefitofrunning);
 
-        benefitsofjogging = findViewById(R.id.benefitsofjogging);
-
-        runinthemorning = findViewById(R.id.runinthemorning);
-
-        sixbenefits = findViewById(R.id.sixbenefits);
-
-        benefitofrunning.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                benefitofrunning = findViewById(R.id.benefitofrunning);
 
                 Button benefitofrunning = (Button) findViewById(R.id.benefitofrunning);
 
@@ -72,8 +61,7 @@ public class articlesofrunning extends AppCompatActivity {
                     }
                 });
 
-            }
-        });
+
 
     }
 }
