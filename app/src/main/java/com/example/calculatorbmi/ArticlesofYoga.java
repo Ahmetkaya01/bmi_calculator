@@ -13,26 +13,13 @@ public class ArticlesofYoga extends AppCompatActivity {
     private Button yogaforevery;
     private Button yogapro;
     private Button yogamoves12;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_articlesof_yoga);
 
-        yogandpain = findViewById(R.id.yogandpain);
-        yogaforevery = findViewById(R.id.yogaforevery);
-        yogapro = findViewById(R.id.yogapro);
-        yogamoves12 = findViewById(R.id.yogamoves12);
-
-        yogandpain.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                yogandpain.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-
-                        yogandpain = findViewById(R.id.yogandpain);
-
-                        Button yogandpain = (Button) findViewById(R.id.yogandpain);
+                         Button yogandpain = (Button) findViewById(R.id.yogandpain);
 
                         yogandpain.setOnClickListener(new View.OnClickListener() {
                             @Override
@@ -40,7 +27,7 @@ public class ArticlesofYoga extends AppCompatActivity {
                                 startActivity(new Intent(ArticlesofYoga.this,yogaandpain.class));
                             }
                         });
-                        yogaforevery = findViewById(R.id.yogaforevery);
+
 
                         Button yogaforevery = (Button) findViewById(R.id.yogaforevery);
 
@@ -51,7 +38,7 @@ public class ArticlesofYoga extends AppCompatActivity {
                             }
                         });
 
-                        yogapro = findViewById(R.id.yogapro);
+
 
                         Button yogapro = (Button) findViewById(R.id.yogapro);
 
@@ -62,7 +49,7 @@ public class ArticlesofYoga extends AppCompatActivity {
                             }
                         });
 
-                        yogamoves12 = findViewById(R.id.yogamoves12);
+
 
                         Button thebestyogaposes1 = (Button)  findViewById(R.id.yogamoves12);
 
@@ -72,9 +59,6 @@ public class ArticlesofYoga extends AppCompatActivity {
                                 startActivity(new Intent(ArticlesofYoga.this,Yogaproses.class));
                             }
                         });
-                    }
-                });
-            }
-        });
+
     }
 }
