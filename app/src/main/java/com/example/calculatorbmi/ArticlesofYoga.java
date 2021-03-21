@@ -13,7 +13,7 @@ public class ArticlesofYoga extends AppCompatActivity {
     private Button yogaforevery;
     private Button yogapro;
     private Button yogamoves12;
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -18,18 +18,7 @@ public class Articlesofwalking extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_articlesofwalking);
 
-        walkingsafety = findViewById(R.id.walkingsafety);
 
-        whenyouwalking = findViewById(R.id.whenyouwalking);
-
-        benefitsofwalking = findViewById(R.id.benefitsofwalking);
-
-        walk30minutes = findViewById(R.id.walk30minutes);
-
-        walkingsafety.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                walkingsafety = findViewById(R.id.walkingsafety);
 
                 Button walkingsafety = (Button) findViewById(R.id.walkingsafety);
 
@@ -73,8 +62,7 @@ public class Articlesofwalking extends AppCompatActivity {
                     }
                 });
 
-            }
-        });
+
 
 
     }
