@@ -13,7 +13,7 @@
             android:layout_height="20dp">
         </View>
 
-        <!-- everything you already have -->
+         everything you already have
         <TextView
             android:id="@+id/Titlehome"
             android:layout_width="230dp"
@@ -36,7 +36,7 @@
                 android:orientation="horizontal">
 
                 <Button
-                    android:id="@+id/Happiness"
+                    android:id="@+id/happines"
                     android:layout_width="337dp"
                     android:layout_height="297dp"
                     android:layout_marginLeft="20dp"
@@ -51,7 +51,7 @@
                     android:textStyle="bold" />
 
                 <Button
-                    android:id="@+id/Antistress"
+                    android:id="@+id/antistress"
                     android:layout_width="337dp"
                     android:layout_height="297dp"
                     android:layout_marginLeft="20dp"
@@ -67,7 +67,7 @@
 
 
                 <Button
-                    android:id="@+id/Allfooddiet"
+                    android:id="@+id/allfooddiet"
                     android:layout_width="337dp"
                     android:layout_height="297dp"
                     android:layout_marginLeft="15dp"
@@ -192,83 +192,229 @@
             </LinearLayout>
 
         </HorizontalScrollView>
+
         <View
             android:layout_width="fill_parent"
-            android:layout_height="1.5dp"
+            android:layout_height="20dp">
+        </View>
+        <TextView
+            android:id="@+id/textViewSingle"
+            android:layout_width="396dp"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:text="Trending Articles"
+            android:textColor="#fafafa"
+            android:textStyle="bold"
+            android:textSize="26dp" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_marginTop="16dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <Button
+                    android:id="@+id/fitness"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="210dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textSize="28dp"
+                    android:textStyle="bold"
+                    android:background="@drawable/fitnesxde"
+                    android:text="@string/articlefitness" />
+
+                <Button
+                    android:id="@+id/yoga"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="240dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textSize="28dp"
+                    android:textStyle="bold"
+                    android:background="@drawable/yoga"
+                    android:text="@string/articleyoga" />
+
+                <Button
+                    android:id="@+id/walking"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="200dp"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"
+                    android:textSize="27dp"
+                    android:background="@drawable/walkingrunaway"
+                    android:text="@string/articlewalking"/>
+
+
+                <Button
+                    android:id="@+id/dance"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="240dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:text="Dance"
+                    android:textStyle="bold"
+                    android:background="@drawable/dancer"
+                    android:textSize="25dp" />
+
+                <Button
+                    android:id="@+id/running"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="210dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:background="@drawable/runningicon"
+                    android:text="@string/articlerunning"
+                    android:textSize="25dp" />
+
+                <Button
+                    android:id="@+id/medidation"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="170dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:background="@drawable/meditatyourwayx"
+                    android:text="@string/articlemedidation"
+                    android:textSize="25dp" />
+
+
+                <Button
+                    android:id="@+id/sleep"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="240dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:background="@drawable/sleepicon1090"
+                    android:text="@string/articlesleep"
+                    android:textSize="25dp" />
+
+                <Button
+                    android:id="@+id/bestworkout"
+                    android:layout_width="337dp"
+                    android:layout_height="297dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:paddingTop="250dp"
+                    android:layout_marginRight="5dp"
+                    android:paddingRight="70dp"
+                    android:gravity="center"
+                    android:textColor="#ffffff"
+                    android:textStyle="bold"
+                    android:background="@drawable/thebestcanwork"
+                    android:text="@string/articletips"
+                    android:textSize="25dp" />
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="5.5dp"
             android:background="@android:color/background_light">
         </View>
 
         <View
             android:layout_width="fill_parent"
-            android:layout_height="10dp">
-        </View>
-        <TextView
-            android:id="@+id/textViewActivity"
-            android:layout_width="230dp"
-            android:layout_height="wrap_content"
-
-            android:gravity="center"
-            android:text="@string/checkyourbmi"
-            android:textColor="#fafafa"
-            android:textStyle="bold"
-            android:textSize="26dp" />
-        <View
-            android:layout_width="fill_parent"
-            android:layout_height="10dp">
+            android:layout_height="5dp">
         </View>
 
         <Button
-            android:id="@+id/checkyourbmi"
-            android:layout_width="232dp"
-            android:layout_height="192dp"
-            android:layout_gravity="center_horizontal|center"
-            android:layout_marginLeft="80dp"
-            android:layout_marginRight="80dp"
-            android:background="@drawable/iconbmi"
+            android:id="@+id/tcheckyourbmi"
+            android:layout_width="337dp"
+            android:layout_height="37dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#000"
+
+            android:text="Check Your Bmi"
 
             android:textColor="#ffffff"
+            android:textSize="25dp"
             android:textStyle="bold" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp">
         </View>
+
+        <ImageButton
+
+            android:id="@+id/calculator"
+            android:layout_width="337dp"
+            android:layout_height="110dp"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="130dp"
+            android:background="@drawable/appicon"
+            android:gravity="center"
+            android:paddingTop="250dp"
+            android:paddingRight="100dp"
+
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
         <View
             android:layout_width="fill_parent"
-            android:layout_height="1.5dp"
+            android:layout_height="25dp">
+        </View>
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="5.5dp"
             android:background="@android:color/background_light">
         </View>
+
         <View
             android:layout_width="fill_parent"
-            android:layout_height="10dp">
+            android:layout_height="30dp">
         </View>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="111dp"
-            android:orientation="horizontal">
 
-            <Button
-                android:id="@+id/browsebutton"
-                android:layout_width="190dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal|center"
-                android:layout_marginRight="5dp"
-                android:background="#3F5164"
-                android:layout_marginLeft="10dp"
-                android:text="Browse"
-                android:textColor="#ffffff"
-                android:textStyle="bold" />
-
-            <Button
-                android:id="@+id/homebutton"
-                android:layout_width="190dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal|center"
-                android:layout_marginLeft="10dp"
-                android:background="#3F5164"
-                android:text="Home"
-                android:textColor="#ffffff"
-                android:textStyle="bold" />
-
-        </LinearLayout>
     </TableLayout>
 </ScrollView>
