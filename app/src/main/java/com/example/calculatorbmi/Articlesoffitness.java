@@ -22,7 +22,7 @@ public class Articlesoffitness extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_articlesoffitness);
-//////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
         Button yourfitness = (Button) findViewById(R.id.yourfitness30);
 
         yourfitness.setOnClickListener(new View.OnClickListener() {
