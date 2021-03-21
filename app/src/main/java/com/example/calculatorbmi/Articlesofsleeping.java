@@ -19,18 +19,7 @@ public class Articlesofsleeping extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_articlesofsleeping);
 
-        healthyhygiene = findViewById(R.id.healthyhygiene);
 
-        sleepurose = findViewById(R.id.sleepurose);
-
-        reasonwhygood = findViewById(R.id.reasonwhygood);
-
-        bettergetsleep = findViewById(R.id.bettergetsleep);
-
-        healthyhygiene.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                healthyhygiene = findViewById(R.id.healthyhygiene);
 
                 Button healthyhygiene = (Button) findViewById(R.id.healthyhygiene);
 
@@ -76,7 +65,5 @@ public class Articlesofsleeping extends AppCompatActivity {
                     }
                 });
 
-            }
-        });
     }
 }
