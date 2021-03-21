@@ -23,18 +23,6 @@ public class Articles_Of_Meditation extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_articles__of__meditation);
 
-        benefitsofmeditation = findViewById(R.id.benefitsofmeditation);
-
-        typeofmeditation = findViewById(R.id.typeofmeditation);
-
-        shouldmeditation = findViewById(R.id.shouldmeditation);
-
-        wanttostart = findViewById(R.id.wanttostart);
-
-        benefitsofmeditation.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                benefitsofmeditation = findViewById(R.id.benefitsofmeditation);
 
                 Button benefitsofmeditation = (Button) findViewById(R.id.benefitsofmeditation);
 
@@ -77,12 +65,6 @@ public class Articles_Of_Meditation extends AppCompatActivity {
                         startActivity(new Intent(Articles_Of_Meditation.this,Want_To_Start_Med.class));
                     }
                 });
-
-
-            }
-        });
-
-
 
     }
 }
