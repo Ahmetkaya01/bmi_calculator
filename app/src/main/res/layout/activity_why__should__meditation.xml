@@ -31,13 +31,13 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="53dp"
                 android:gravity="center"
                 android:text="Why Should You Meditate?"
                 android:textColor="#FDFEFE"
-                android:textSize="25sp"
+                android:textSize="28sp"
                 android:textStyle="bold" />
 
 
@@ -64,7 +64,7 @@
 
                 android:text="It seems like everyone nowadays knows they “should” meditate, yet less than 10 percent of working Americans are doing it. Why is that?"
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -78,7 +78,7 @@
                 android:text="Most people say they don’t meditate because of one of the following reasons:"
                 android:textColor="#FDFEFE"
                 android:textStyle="bold"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -138,7 +138,7 @@
                 android:paddingLeft="10dp"
                 android:text="While these three explanations are common, none of them are actually valid, and actually represent the precise reason meditation is necessary in the first place."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -146,11 +146,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="107dp"
+                android:layout_height="77dp"
                 android:paddingLeft="10dp"
                 android:text="The mind makes up stories, and meditation helps to see through the stories to the truth of the matter. Here is the truth:"
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -158,11 +158,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="164dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="1.You can feel the benefits of meditation in as little as 5-10 minutes of meditation a day, and there is not a person alive who can’t find 10 minutes in their daily routine to do something that is important to them. If Oprah has time to meditate, so do you."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -174,7 +174,7 @@
                 android:paddingLeft="10dp"
                 android:text="2.While it is true that there are many meditation techniques, meditation is really just sitting still, in silence, doing nothing. Even your dog knows how to do that."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -182,11 +182,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="281dp"
+                android:layout_height="270dp"
                 android:paddingLeft="10dp"
                 android:text="3.Can you imagine if your child tried riding a bike for the first time and threw it on the ground because it wasn’t easy? You would tell him or her that he or she simply needs to practice, and that eventually, it would become second nature. The same is true for meditation. Practice is the only was to “get good” at it, although there really is nothing to “get good” at. Meditation is the practice of being with yourself fully, and honestly, you can’t get that wrong."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -198,7 +198,7 @@
                 android:paddingLeft="10dp"
                 android:text="There are some ways to make meditation easier though, and meditating in the morning is one of them. Here are five reasons why you should start your day with a morning meditation."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -227,11 +227,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="159dp"
+                android:layout_height="149dp"
                 android:paddingLeft="10dp"
                 android:text="You may be starting your day with an alarm, kids, or pets waking you up, and immediately thrust yourself into the news, email, and the internet. By starting the day frazzled and distracted, you can pretty much expect the day to follow suit."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -239,11 +239,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="159dp"
+                android:layout_height="149dp"
                 android:paddingLeft="10dp"
                 android:text="However, starting your day with a morning meditation will set the tone for a calm, mindful, and productive day, and who doesn’t want that? Sure, you feel like you don’t have “extra” time in the morning to meditate (who has “extra” time, anyway?),"
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -265,7 +265,7 @@
                 android:paddingLeft="10dp"
                 android:text="but adding meditation to your morning routine means you need to wake up a little earlier. Start with just 5-10 minutes, free of distractions, and see how you feel. Just know that the more time/effort you put in, the greater the results will be."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -282,7 +282,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            ////////////////////////////////////////////////////////////
+
 
             <TextView
                 android:layout_width="match_parent"
@@ -299,11 +299,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="177dp"
+                android:layout_height="153dp"
                 android:paddingLeft="10dp"
                 android:text="Perhaps one of the best reasons for meditating in the morning is to be sure you actually do it! Even with the best intentions, it’s all too easy for your to-do list to take over your day, and before you know it, you are too busy or too tired to sit and meditate."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -315,7 +315,7 @@
                 android:paddingLeft="10dp"
                 android:text="By having a meditation morning routine, you ensure that you actually follow through, since you are far less likely to make excuses first thing in the morning."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -337,7 +337,7 @@
                 android:paddingLeft="10dp"
                 android:text="Sitting in peace and quiet at the start of your day is like pressing the reset button on your life, and therefore, worth the effort of making sure you prioritize it every day."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -354,7 +354,8 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            /////////////////////////////////////////////////////////////
+
+
 
             <TextView
                 android:layout_width="match_parent"
@@ -375,7 +376,7 @@
                 android:paddingLeft="10dp"
                 android:text="It might sound counterintuitive that by doing nothing you will get more done, but meditation increases your ability to focus, improves your attention, and advances your ability to come up with creative solutions to problems."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -389,7 +390,7 @@
 
 As reported in the Harvard Business Review, biologist Christoph Randler found that “people whose performance peaks in the morning are better positioned for career success,"
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -407,11 +408,11 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="83dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="because they’re more proactive than people who are at their best in the evening.”"
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -428,7 +429,8 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            //////////////////////////////////////////////////////
+
+
 
 
             <TextView
@@ -450,7 +452,7 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
                 android:paddingLeft="10dp"
                 android:text="By having a meditation morning routine, you show yourself and the Universe that you intend to be in charge of your day, instead of being pulled around by external demands on your time. Also, by beginning your day with something that makes you feel proud of yourself,"
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -462,7 +464,7 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
                 android:paddingLeft="10dp"
                 android:text="you set the trajectory for more wins throughout the day. You will create the mindset you want to bring into your daily activities by starting the day feeling grounded, aware, and clear-headed."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -480,11 +482,11 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="105dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Meditation also helps you train your mind to see things more clearly, and be able to cut through negative thoughts, stories, and suffering."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -501,7 +503,8 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            ///////////////////////////////////
+
+
 
 
 
@@ -520,11 +523,11 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="176dp"
+                android:layout_height="152dp"
                 android:paddingLeft="10dp"
                 android:text="Many spiritual traditions suggest waking up before the sun to do yoga and meditate. The specific reasons vary, but ultimately it all comes down to creating a sacred connection to your higher self when the world and your mind are at their quietest."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -536,7 +539,7 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
                 android:paddingLeft="10dp"
                 android:text="Have you ever tried sitting at 5 a.m.? The peaceful calm and stillness at that time is unlike any other. And although to many people 5 a.m. seems like the middle of the night, being awake as the sun rises actually aligns you with nature and builds your energy reserves."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -554,11 +557,11 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="178dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="See if you can sit and be present for the first birds to chirp in the morning. There is a magic in the air when wild animals sense the sun about to rise. And as the sun rises, so too does your consciousness, if you choose to make of it a sacred ritual."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -575,21 +578,6 @@ As reported in the Harvard Business Review, biologist Christoph Randler found th
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        </LinearLayout>
+ </LinearLayout>
     </ScrollView>
 </LinearLayout>

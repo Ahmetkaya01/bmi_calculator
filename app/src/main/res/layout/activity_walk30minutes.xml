@@ -52,7 +52,7 @@
                 android:text="- Think About It"
                 android:textStyle="bold"
                 android:textColor="#FDFEFE"
-                android:textSize="28sp" />
+                android:textSize="25dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -60,11 +60,11 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="204dp"
+                android:layout_height="150dp"
                 android:paddingLeft="10dp"
                 android:text="Be honest: You easily spend 30 minutes a day on Instagram, Facebook and Snapchat. (It's OK, we do, too.) Well, put down your phone and use that time to take a walk around the neighborhood. There are eight amazing things that might happen if you do."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -81,7 +81,7 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-            =================================
+
 
             <View
                 android:layout_width="fill_parent"
@@ -101,7 +101,7 @@
                 android:text="- You'll Burn About 150 Calories"
                 android:textStyle="bold"
                 android:textColor="#FDFEFE"
-                android:textSize="28sp" />
+                android:textSize="23dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -109,11 +109,11 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="174dp"
+                android:layout_height="130dp"
                 android:paddingLeft="10dp"
                 android:text="Depending on your weight and the speed you're walking, you're likely to burn about 150 calories whenever you take a half-hour stroll. So don't worry about eating that extra cookie after lunch—you got this."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -130,7 +130,7 @@
                 android:layout_height="20dp"></View>
 
 
-=================================
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -152,7 +152,7 @@
                 android:text="- You'll Feel Calmer"
                 android:textStyle="bold"
                 android:textColor="#FDFEFE"
-                android:textSize="28sp" />
+                android:textSize="23dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -160,11 +160,11 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="174dp"
+                android:layout_height="123dp"
                 android:paddingLeft="10dp"
                 android:text="The act of walking can be relaxing, even if you're exploring a busy city street and not a quiet meadow. For an even deeper experience, download the meditation app  and listen to a guided walking meditation."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -180,7 +180,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-==================================================
+
 
 
             <View
@@ -209,11 +209,11 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="174dp"
+                android:layout_height="121dp"
                 android:paddingLeft="10dp"
                 android:text="Just 30 minutes a day can strengthen and tone the muscles in your thighs and calves. Pair your walks with strength-training exercises twice a week (lunges, squats, etc.) and you'll notice even better results."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -232,7 +232,7 @@
 
 
 
-=========================================
+
 
             <View
                 android:layout_width="fill_parent"
@@ -260,11 +260,11 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="174dp"
+                android:layout_height="125dp"
                 android:paddingLeft="10dp"
                 android:text="Walking regularly has been proven to help reduce the appearance and pain of varicose veins, according to the . (Just make sure you change into sneaks before you start to prevent injury and increase circulation.)"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -290,7 +290,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-======================================================
+
 
 
 
@@ -300,7 +300,7 @@
                 android:paddingLeft="10dp"
                 android:text="-You'll Improve Your Digestion"
                 android:textColor="#FDFEFE"
-                android:textSize="28sp"
+                android:textSize="23dp"
                 android:textStyle="bold" />
 
             <View
@@ -309,11 +309,11 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="141dp"
+                android:layout_height="125dp"
                 android:paddingLeft="10dp"
                 android:text="After eating a heavy meal, don't flop down on the couch in front of the TV. A 30-minute walk will help get things moving in your digestive tract and keep your blood sugar levels more stable."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -339,7 +339,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-======================================================
+
 
             <TextView
                 android:layout_width="match_parent"
@@ -347,7 +347,7 @@
                 android:paddingLeft="10dp"
                 android:text="- And You'll Feel More Creative"
                 android:textColor="#FDFEFE"
-                android:textSize="28sp"
+                android:textSize="23dp"
                 android:textStyle="bold" />
 
             <View
@@ -356,11 +356,11 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="224dp"
+                android:layout_height="180dp"
                 android:paddingLeft="10dp"
                 android:text="You know what won't get your creative juices flowing? Watching Friends reruns. (We still love you, Chandler.) When you go for a walk, bring a notebook with you. You'll be surprised how easily creative ideas pop up when you're on the move and clearing your head."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -386,7 +386,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-===================================================
+
 
             <TextView
                 android:layout_width="match_parent"
@@ -403,11 +403,11 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="168dp"
+                android:layout_height="130dp"
                 android:paddingLeft="10dp"
                 android:text="Something else you can take on that walk: your phone. Use the time to catch up with long-distance friends and family. Or, hell, make that dentist appointment you've been putting off for weeks."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -433,7 +433,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-================================================
+
 
             <TextView
                 android:layout_width="match_parent"
@@ -451,11 +451,11 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="193dp"
+                android:layout_height="150dp"
                 android:paddingLeft="10dp"
                 android:text="After a few weeks of making this routine, your half-hour walk will become a piece of cake. You might even be inspired to take it to the next level and try a 30-minute run or bike ride. The possibilities are endless, people."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -481,7 +481,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-===============================================
+
 
 
 

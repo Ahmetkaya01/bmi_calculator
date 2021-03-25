@@ -59,14 +59,14 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="We’ve never had so much on our minds—and so many relevant teachings at our fingertips."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -75,11 +75,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="184dp"
+                android:layout_height="176dp"
                 android:paddingLeft="10dp"
                 android:text="There’s never a bad time to start meditating. But I believe the moment we’re in right now, this unprecedented moment of separation and suffering, is uniquely ripe for starting to sit down and practice being present with what is (the gist of mindfulness meditation)."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -93,7 +93,7 @@
 
 Consider our current situation: We are individually and collectively brimming with uncertainty, stress, loneliness, anxiety, grief, fear, depression, anger, insecurity, restlessness, frustration, hopelessness. To be a human right now is to have the urge to escape the present moment, through various forms of denial, numbing, and distraction."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -106,7 +106,7 @@ Consider our current situation: We are individually and collectively brimming wi
                 android:paddingLeft="10dp"
                 android:text="These are solid coping mechanisms when used alongside other mental health strategies. But when they’re all you rely on, you might find that the pain and discomfort linger in the background—as soon as the distraction goes away, you still feel, well, bad."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -124,11 +124,11 @@ Consider our current situation: We are individually and collectively brimming wi
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="162dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Meanwhile, those of us who are socially distancing and sheltering in place are being forced to spend unprecedented amounts of time in isolation with the one character we can never seem to get any goddamn social distance from: our minds."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -136,11 +136,11 @@ Consider our current situation: We are individually and collectively brimming wi
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="135dp"
+                android:layout_height="124dp"
                 android:paddingLeft="10dp"
                 android:text="And the essential workers on the front lines who can’t social distance—they are having to maintain enough clarity and emotional well-being to do their jobs while risking their health."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -148,11 +148,11 @@ Consider our current situation: We are individually and collectively brimming wi
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="157dp"
+                android:layout_height="148dp"
                 android:paddingLeft="10dp"
                 android:text="Mindfulness meditation (also called insight or Vipassana meditation) doesn’t make any of these deeply unpleasant feelings go away either, just to clarify. The aim of the practice is not to get rid of or change anything about your experience."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
 
 
@@ -176,7 +176,7 @@ Consider our current situation: We are individually and collectively brimming wi
                 android:paddingLeft="10dp"
                 android:text="But what it does is cultivate your capacity to be with whatever is arising in a different way, to witness it without doing what we habitually do: judge it, push it away, hate it, and wage war on it, or else buy into it, get lost in it, tell stories about it, become immersed in it."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
 
 
@@ -190,7 +190,7 @@ Consider our current situation: We are individually and collectively brimming wi
                 android:paddingLeft="10dp"
                 android:text="These habits of mind are so ingrained and automatic that we don’t even notice how we layer unnecessary suffering on top of inevitable pain. To do otherwise is not the natural tendency of the mind, which is why it takes practice."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
 
 
@@ -199,12 +199,13 @@ Consider our current situation: We are individually and collectively brimming wi
                 android:layout_height="20dp"></View>
 
             <TextView
+
                 android:layout_width="match_parent"
-                android:layout_height="137dp"
+                android:layout_height="106dp"
                 android:paddingLeft="10dp"
                 android:text="Beginning to meditate can be confusing and overwhelming and frustrating, though. You’re never quite sure if you’re doing it right, or why you’re doing what you’re doing."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
 
 
@@ -228,7 +229,7 @@ Consider our current situation: We are individually and collectively brimming wi
                 android:paddingLeft="10dp"
                 android:text="That was certainly the case for me when I started meditating a couple of years ago, after writing a SELF piece about the profound physical and mental health benefits of the practice. You get restless and bored and tired and, above all, distracted—you’ll continually be finding yourself completely lost in thought, totally forgetting you were even supposed to be meditating."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp"/>
 
 
 
@@ -238,11 +239,11 @@ Consider our current situation: We are individually and collectively brimming wi
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="299dp"
+                android:layout_height="276dp"
                 android:paddingLeft="10dp"
                 android:text="That’s where guided meditations come in. Having a wonderful teacher to explain to you WTF you are supposed to be doing and guide you back to the present (usually using the breath as an anchor) in a gentle and compassionate way, over and over and over again again, is critical. As is, in my opinion, learning about the logic behind these practices and the ups and downs you’ll likely encounter, through insightful talks and dialogues with teachers."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
 
 
@@ -252,13 +253,13 @@ Consider our current situation: We are individually and collectively brimming wi
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="262dp"
+                android:layout_height="227dp"
                 android:paddingLeft="10dp"
                 android:text="Guided meditations and talks were instrumental to establishing and deepening my own practice over the past couple of years, in conjunction with a few books and silent meditation retreats.
 
 Fortunately, our access to teachers and resources that can help us establish a practice has never been greater, thanks to the ubiquity of meditation apps and online resources."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
 
 
@@ -279,11 +280,11 @@ Fortunately, our access to teachers and resources that can help us establish a p
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="542dp"
+                android:layout_height="485dp"
                 android:paddingLeft="10dp"
                 android:text="It’s no exaggeration to say that access to the words and wisdom of some of the best meditation teachers in the world is sitting in the palm of your hand. Consider the fact that most of the teachers featured in these apps—mostly Westerners, mostly white—had teachers of their own, of course. They are, by and large, beneficiaries of the great westward diffusion of Buddhist teachings, like meditation, that were freely given to them by teachers from various Buddhist traditions in Southeast Asian countries like Thailand, Tibet, and Myanmar in the mid-late 20th century. Decades of rich cross-fertilization later, we get to learn these meditation practices (or Westernized and secularized versions of them) from teachers representing a wide variety of training, approaches, and styles—all from a device that fits in our pockets."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
 
 
@@ -294,11 +295,11 @@ Fortunately, our access to teachers and resources that can help us establish a p
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="262dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="While the ubiquity of digital meditation resources in 2020 would make this a great time to start meditating whether or not this was the year of COVID-19, because of the pandemic, many meditation apps are currently offering teachings that are literally tailored to the contours of the experiences many of us are having under the present circumstances (and, in many cases, offering them freely)."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -306,11 +307,11 @@ Fortunately, our access to teachers and resources that can help us establish a p
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="492dp"
+                android:layout_height="442dp"
                 android:paddingLeft="10dp"
                 android:text="One of the most popular meditation apps (and one of my favorites), Ten Percent Happier, has created an incredible free Coronavirus Sanity Guide full of teachings, conversations, and meditations specific to this moment. (It is also offering free access to the entire app to essential workers in health care, grocery stores, food delivery, and warehouses, as well as teachers.) Along with conversations with experts like JoAnna Hardy, Pema Chodron, and the Dalai Lama himself (including short talks and long-form interviews), there are guided meditations for working with the kinds of feelings (loneliness, anxiety, depression, anger) and scenarios (being a first responder, financial insecurity, parenting, illness) you may be dealing with at the moment."
                 android:textColor="#FDFEFE"
-                android:textSize="21dp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"

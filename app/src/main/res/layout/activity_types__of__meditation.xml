@@ -32,7 +32,7 @@
                 android:layout_height="20dp">
             </View>
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -45,7 +45,7 @@
                 android:layout_height="20dp">
             </View>
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="232dp"
                 app:srcCompat="@drawable/typesof" />
@@ -57,27 +57,27 @@
                 android:layout_height="20dp">
             </View>
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:text="-What meditation is all about-"
                 android:textColor="#FDFEFE"
                 android:textStyle="bold"
-                android:textSize="30sp" />
+                android:textSize="25dp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="Meditation may be an ancient tradition, but it’s still practiced in cultures all over the world to create a sense of calm and inner harmony."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -85,13 +85,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="130dp"
                 android:paddingLeft="10dp"
                 android:text="Although the practice has ties to many different religious teachings, meditation is less about faith and more about altering consciousness, finding awareness, and achieving peace."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -99,26 +99,24 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="105dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="These days, with the greater need to reduce stress in the midst of our busy schedules and demanding lives, meditation is increasing in popularity."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
             <TextView
-                android:id="@+id/t3"
                 android:layout_width="match_parent"
                 android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="Although there isn’t a right or wrong way to meditate, it’s important to find a practice that meets your needs and complements your personality."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -136,13 +134,12 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
                 android:layout_width="match_parent"
                 android:layout_height="28dp"
                 android:paddingLeft="10dp"
                 android:text="There are six popular types of meditation practice:"
                 android:textColor="#FDFEFE"
-                android:textSize="17dp"
+                android:textSize="20dp"
                 android:textStyle="bold" />
 
             <View
@@ -151,13 +148,12 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- mindfulness meditation"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -165,13 +161,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- spiritual meditation"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -179,13 +175,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- focused meditation"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -193,13 +189,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- movement meditation"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -207,13 +203,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- mantra meditation"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -221,13 +217,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- transcendental meditation"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -237,13 +233,13 @@
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="Not all meditation styles are right for everyone. These practices require different skills and mindsets. How do you know which practice is right for you?"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -251,7 +247,7 @@
             </View>
 
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="264dp"
                 app:srcCompat="@drawable/practisingmed" />
@@ -261,13 +257,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="“It’s what feels comfortable and what you feel encouraged to practice,” says Mira Dessy, a meditation author and holistic nutritionist."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -275,13 +271,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="Keep reading to learn more about the different types of meditation and how to get started."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -299,10 +295,10 @@
                 android:layout_height="25dp">
             </View>
 
-            //////////////////////////////////////////////////
+
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="33dp"
                 android:paddingLeft="10dp"
@@ -318,13 +314,13 @@
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="Mindfulness meditation originates from Buddhist teachings and is the most popular meditation technique in the West."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -333,13 +329,13 @@
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="157dp"
                 android:paddingLeft="10dp"
                 android:text="In mindfulness meditation, you pay attention to your thoughts as they pass through your mind. You don’t judge the thoughts or become involved with them. You simply observe and take note of any patterns."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -347,7 +343,7 @@
             </View>
 
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="275dp"
                 app:srcCompat="@drawable/mindfulness" />
@@ -357,13 +353,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
-                android:layout_height="134dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="This practice combines concentration with awareness. You may find it helpful to focus on an object or your breath while you observe any bodily sensations, thoughts, or feelings."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -371,20 +367,21 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="This type of meditation is good for people who don’t have a teacher to guide them, as it can be easily practiced alone."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="15dp">
             </View>
 
-            ////////////////////////////////////////////////
+
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -398,7 +395,7 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="33dp"
                 android:paddingLeft="10dp"
@@ -414,13 +411,13 @@
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="Spiritual meditation is used in Eastern religions, such as Hinduism and Daoism, and in Christian faith."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -429,33 +426,33 @@
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="It’s similar to prayer in that you reflect on the silence around you and seek a deeper connection with your God or Universe."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp"/>
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="15dp">
             </View>
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="Essential oils are commonly used to heighten the spiritual experience. Popular options include:"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="15dp">
             </View>
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="275dp"
                 app:srcCompat="@drawable/pointers" />
@@ -465,13 +462,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- frankincense"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -479,13 +476,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- myrrh"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -493,13 +490,13 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- sage"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -507,7 +504,7 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
@@ -520,26 +517,26 @@
                 android:layout_height="20dp">
             </View>
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- sandalwood"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="- palo santo"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -547,20 +544,20 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="107dp"
                 android:paddingLeft="10dp"
                 android:text="Spiritual meditation can be practiced at home or in a place of worship. This practice is beneficial for those who thrive in silence and seek spiritual growth."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="15dp">
             </View>
 
-            //////////////////////////////////////////////////////////////////
+
 
             <View
                 android:layout_width="fill_parent"
@@ -575,7 +572,7 @@
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="33dp"
                 android:paddingLeft="10dp"
@@ -591,15 +588,15 @@
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
-                android:layout_height="153dp"
+                android:layout_height="133dp"
                 android:paddingLeft="10dp"
                 android:text="Focused meditation involves concentration using any of the five senses.
 
 For example, you can focus on something internal, like your breath, or you can bring in external influences to help focus your attention."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -608,15 +605,15 @@ For example, you can focus on something internal, like your breath, or you can b
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
-                android:layout_height="155dp"
+                android:layout_height="128dp"
                 android:paddingLeft="10dp"
                 android:text="Try counting mala beads, listening to a gong, or staring at a candle flame.
 
 This practice may be simple in theory, but it can be difficult for beginners to hold their focus for longer than a few minutes at first."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -624,7 +621,7 @@ This practice may be simple in theory, but it can be difficult for beginners to 
             </View>
 
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="180dp"
                 app:srcCompat="@drawable/edgarcayce" />
@@ -634,13 +631,13 @@ This practice may be simple in theory, but it can be difficult for beginners to 
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:paddingLeft="10dp"
                 android:text="If your mind does wander, it’s important to come back to the practice and refocus."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -649,20 +646,20 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
-                android:layout_height="84dp"
+                android:layout_height="79dp"
                 android:paddingLeft="10dp"
                 android:text="As the name suggests, this practice is ideal for anyone who requires additional focus in their life."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="15dp">
             </View>
 
-            ///////////////////////////////////////////////////////
+
 
             <View
                 android:layout_width="fill_parent"
@@ -677,7 +674,7 @@ This practice may be simple in theory, but it can be difficult for beginners to 
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="33dp"
                 android:paddingLeft="10dp"
@@ -693,13 +690,13 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="130dp"
                 android:paddingLeft="10dp"
                 android:text="Although most people think of yoga when they hear movement meditation, this practice may include walking through the woods, gardening, qigong, and other gentle forms of motion."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -708,7 +705,7 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="307dp"
                 app:srcCompat="@drawable/andvemediation" />
@@ -718,13 +715,13 @@ This practice may be simple in theory, but it can be difficult for beginners to 
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:paddingLeft="10dp"
                 android:text="It’s an active form of meditation where the movement guides you."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -733,20 +730,20 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="84dp"
                 android:paddingLeft="10dp"
                 android:text="Movement meditation is good for people who find peace in action and prefer to let their minds wander."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="15dp">
             </View>
 
-            /////////////////////////////////////////////////////////////////
+
 
 
             <View
@@ -762,7 +759,7 @@ This practice may be simple in theory, but it can be difficult for beginners to 
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="33dp"
                 android:paddingLeft="10dp"
@@ -778,13 +775,13 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="155dp"
                 android:paddingLeft="10dp"
                 android:text="Mantra meditation is prominent in many teachings, including Hindu and Buddhist traditions. This type of meditation uses a repetitive sound to clear the mind. It can be a word, phrase, or sound, such as the popular “Om.”"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -793,7 +790,7 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="307dp"
                 app:srcCompat="@drawable/andvemediation" />
@@ -803,13 +800,13 @@ This practice may be simple in theory, but it can be difficult for beginners to 
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
-                android:layout_height="156dp"
+                android:layout_height="131dp"
                 android:paddingLeft="10dp"
                 android:text="It doesn’t matter if your mantra is spoken loudly or quietly. After chanting the mantra for some time, you’ll be more alert and in tune with your environment. This allows you to experience deeper levels of awareness."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -818,20 +815,21 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
-                android:layout_height="137dp"
+                android:layout_height="136dp"
                 android:paddingLeft="10dp"
                 android:text="Some people enjoy mantra meditation because they find it easier to focus on a word than on their breath. This is also a good practice for people who don’t like silence and enjoy repetition."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="15dp">
             </View>
 
-            /////////////////////////////////////////////////////////////
+
+
 
             <View
                 android:layout_width="fill_parent"
@@ -846,7 +844,7 @@ This practice may be simple in theory, but it can be difficult for beginners to 
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="33dp"
                 android:paddingLeft="10dp"
@@ -862,13 +860,13 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
-                android:layout_height="108dp"
+                android:layout_height="100dp"
                 android:paddingLeft="10dp"
                 android:text="Transcendental Meditation is a popular type of meditation. This practice has been the subject of numerous studies in the scientific community."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -877,7 +875,7 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="307dp"
                 app:srcCompat="@drawable/transcental" />
@@ -887,13 +885,13 @@ This practice may be simple in theory, but it can be difficult for beginners to 
             </View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="It is more customizable than mantra meditation, using a mantra or series of words that are specific to each practitioner."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -902,7 +900,7 @@ This practice may be simple in theory, but it can be difficult for beginners to 
 
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="match_parent"
                 android:layout_height="84dp"
                 android:paddingLeft="10dp"

@@ -46,38 +46,41 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="wrap_content"
-                android:layout_height="119dp"
+                android:layout_height="109dp"
                 android:paddingLeft="10dp"
                 android:text="Learn how yoga can assist in musculoskeletal pain management and how you may wish to start yoga to form part of your co-management plan"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+                android:layout_height="10dp"></View>
 
-            //workoutnac//
+
+
+
+
 
             <ImageView
-                android:id="@+id/imageView2"
+
                 android:layout_width="match_parent"
                 android:layout_height="255dp"
                 app:srcCompat="@drawable/yogaandpaintitle" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+                android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="wrap_content"
-                android:layout_height="174dp"
+                android:layout_height="153dp"
                 android:paddingLeft="10dp"
                 android:text="Yoga is a vast system of practices and philosophy that originate in India. The most common and well-known form of yoga is Hatha Yoga, which involves physical postures, specific breathing techniques, and relaxation exercises."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -86,15 +89,15 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="148dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Yoga is an increasingly popular form of exercise and self-care that is accessed through yoga studios, gyms, hospitals, community centres, schools and at home through online yoga classes."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="10dp"></View>
+                android:layout_height="17dp"></View>
 
 
 
@@ -127,33 +130,33 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="wrap_content"
-                android:layout_height="201dp"
+                android:layout_height="176dp"
                 android:paddingLeft="10dp"
                 android:text="Yoga can be helpful in pain management with both physical and mental benefits, but yoga is not a quick fix solution. Yoga has many of the same benefits as mindfulness practice, due to the common focus on breath, body and present moment awareness."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+                android:layout_height="10dp"></View>
 
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="148dp"
+                android:layout_height="103dp"
                 android:paddingLeft="10dp"
                 android:text="Because yoga is also a physical practice many people find yoga more accessible than traditional meditation practices, which are undertaken in stillness."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="261dp"
                 app:srcCompat="@drawable/yogahelps" />
@@ -166,23 +169,24 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="85dp"
+                android:layout_height="75dp"
                 android:paddingLeft="10dp"
                 android:text="Yoga is particularly helpful in promoting relaxation when encountering stress and agitation."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
+
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="148dp"
+                android:layout_height="122dp"
                 android:paddingLeft="10dp"
                 android:text="Yoga traditionally serves as a ‘warm up’ of sorts for formal sitting and lying mindfulness meditation practice. Yoga can also invigorate the body to help counter depression."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -192,11 +196,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="118dp"
+                android:layout_height="102dp"
                 android:paddingLeft="10dp"
                 android:text="Yoga is very helpful in treating some of the mechanical aspects of pain, for example when there are tight muscles which contribute to pain."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -205,11 +209,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="171dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="However, practised incorrectly or without proper supervision yoga can also exacerbate your pain in the short term, despite the fact that research shows yoga is as safe as usual care and exercise."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -218,11 +222,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="170dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="Coming up with a helpful yoga routine requires greater care and experience when you have a persistent pain condition, especially when your nervous system is sensitized and you are prone to flare-ups."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -231,17 +235,18 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="117dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="When starting yoga it is important to start slowly and it must be practiced regularly and with awareness to be effective."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
-==============================
+
+
 
 
             <View
@@ -272,13 +277,13 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t3"
+
                 android:layout_width="wrap_content"
-                android:layout_height="138dp"
+                android:layout_height="107dp"
                 android:paddingLeft="10dp"
                 android:text="Reviews of the last 20 years of clinical trials suggest that yoga can significantly improve pain, disability and mood in people with persistent pain."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -287,18 +292,18 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="253dp"
+                android:layout_height="181dp"
                 android:paddingLeft="10dp"
                 android:text="The effect sizes of these improvements can be considered ‘moderate’4: this means roughly equivalent to Cognitive Behaviour Therapy (CBT). Yoga is one of the therapies recommended by the American Pain Society for people with low back pain who do not improve with other self-care strategies."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <ImageView
-                android:id="@+id/p2"
+
                 android:layout_width="match_parent"
                 android:layout_height="299dp"
                 app:srcCompat="@drawable/isitnormal" />
@@ -311,11 +316,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="85dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Most evidence is for the benefits of yoga in people with chronic back pain, although it can also help arthritis, headache/migraine, irritable bowel syndrome, fibromyalgia, and carpal tunnel syndrome."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -324,11 +329,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="206dp"
+                android:layout_height="148dp"
                 android:paddingLeft="10dp"
                 android:text="We still need more high quality studies to figure out for which pain conditions yoga is most effective, as well as what types of yoga are best suited to people in pain. So far, there is most evidence for Iyengar Yoga, Hatha Yoga and Viniyoga."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -338,11 +343,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="144dp"
+                android:layout_height="127dp"
                 android:paddingLeft="10dp"
                 android:text="We don’t yet fully understand how yoga helps people with pain. Emerging evidence suggests that it might help us more effectively control how we think and feel, both mentally and physically."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -351,17 +356,18 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="171dp"
+                android:layout_height="153dp"
                 android:paddingLeft="10dp"
                 android:text="It might also work by improving muscle flexibility, promoting relaxation, reducing inflammation, increasing the release of pain relieving endorphins, improving confidence and sense of our self control and confidence."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-          =============
+
+
 
             <View
                 android:layout_width="fill_parent"
@@ -393,11 +399,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="142dp"
+                android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="Yoga is currently an unregulated industry. Unlike health professions, such as medicine, physiotherapy or psychology, anyone can call themselves a yoga teacher."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -407,18 +413,18 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="176dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="However, many yoga teachers are represented by Yoga Australia, a volunteer association that sets minimum standards for Yoga Teacher Training and ongoing professional development."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <ImageView
-                android:id="@+id/imageView3"
+
                 android:layout_width="match_parent"
                 android:layout_height="306dp"
                 app:srcCompat="@drawable/neckpain" />
@@ -431,11 +437,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="196dp"
+                android:layout_height="156dp"
                 android:paddingLeft="10dp"
                 android:text="Given the complexity of many pain conditions pain, choosing a Level 2 (500 hours of training/5years of teaching experience) or Level 3 (10 years of training and 10 years of teaching) yoga teacher would be a good place to start."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -445,11 +451,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="176dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Most experienced yoga teachers may be able to recommend a class for you and some specifically run Yoga Therapy or Restorative Yoga classes which cater to those with injuries, chronic pain, or chronic illness."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -458,19 +464,15 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="176dp"
+                android:layout_height="151dp"
                 android:paddingLeft="10dp"
                 android:text="Most experienced yoga teachers may be able to recommend a class for you and some specifically run Yoga Therapy or Restorative Yoga classes which cater to those with injuries, chronic pain, or chronic illness."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
-
-
-
-
 
         </LinearLayout>
     </ScrollView>

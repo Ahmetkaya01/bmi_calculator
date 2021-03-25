@@ -60,11 +60,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="137dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Dance floors tend to be sweaty places for a reason.All of those shimmies and shakes burn energy like you wouldn’t believe—and come with many other surprising health benefits, too."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -72,11 +72,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="112dp"
+                android:layout_height="96dp"
                 android:paddingLeft="10dp"
                 android:text="When you cut a rug, you can expend more than 300 calories every half-hour, according to a report from the University of Brighton in the UK."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -85,11 +85,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="142dp"
+                android:layout_height="127dp"
                 android:paddingLeft="10dp"
                 android:text="That meets or exceeds the amount of energy you burn during an easy run or swim, the report shows. Even relatively tame forms of dance burn about the same number of calories as cycling."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -107,11 +107,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="142dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Dancing demands a lot of energy output because it involves “movement in all directions,” says Nick Smeeton, a principal lecturer at the University of Brighton and coauthor of that report."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -120,11 +120,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="192dp"
+                android:layout_height="174dp"
                 android:paddingLeft="10dp"
                 android:text=" While running, swimming and other propulsive forms of physical activity use rhythm and momentum to keep you moving, “there is a lot of accelerating and decelerating in dancing, which the body is less able to do in an energy efficient way,” Smeeton says."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -133,11 +133,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="162dp"
+                android:layout_height="150dp"
                 android:paddingLeft="10dp"
                 android:text="If running is like driving on a freeway, dancing is more like motoring through a busy city, he says. All of that starting, stopping and changing directions burns a ton of fuel even though you’re not covering a lot of ground."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -155,11 +155,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="162dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Of course, the amount of energy you expend has a lot to do with how hard you’re pushing yourself. A gentle two-step isn’t going to measure up to an intense, hilly run. But torching calories isn’t the only upside to dancing."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -168,11 +168,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="183dp"
+                android:layout_height="173dp"
                 android:paddingLeft="10dp"
                 android:text="Just as trail running and hiking better engage your lower-body joints and muscles than straight-ahead, level-ground locomotion, the up-and-down and side-to-side movements of dance may likewise activate and train many of your body’s little support muscles and tendons."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -181,11 +181,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="169dp"
+                android:layout_height="147dp"
                 android:paddingLeft="10dp"
                 android:text="Like other forms of cardio exercise, dancing also seems to have mood and mind benefits. A 2007 study found that hip hop dancing improved energy, buoyed mood and lowered stress in ways similar to aerobic exercise."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -194,11 +194,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="141dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Finally, the touch aspect of dancing with a partner may offer some special perks. Touch is the first sense that emerges during infancy, and the more experts examine the benefits of massage,"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -216,11 +216,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="168dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="holding hands and other forms of human-to-human physical contact, the more they find that touching improves well-being and reduces stress and anxiety. Basically, dancing with someone else is like exercise and a hug rolled together."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -229,12 +229,12 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="92dp"
+                android:layout_height="78dp"
                 android:paddingLeft="10dp"
                 android:text="Put all this together, and it’s clear we could all use more samba, salsa or boot scootin’ in our lives."
                 android:textColor="#FDFEFE"
-                android:textStyle="bold"
-                android:textSize="21sp" />
+                android:textSize="20dp"
+                android:textStyle="bold" />
 
             <View
                 android:layout_width="fill_parent"

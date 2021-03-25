@@ -17,86 +17,86 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="10dp">-->
+<!--            </View>-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="3.5dp"
-                android:background="@android:color/background_light">
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="3.5dp"-->
+<!--                android:background="@android:color/background_light">-->
 
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-            <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="Think You Can’t Dance?"
-                android:textColor="#FDFEFE"
-                android:textStyle="bold"
-                android:textSize="30sp" />
+<!--            </View>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:gravity="center"-->
+<!--                android:text="Think You Can’t Dance?"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textStyle="bold"-->
+<!--                android:textSize="30sp" />-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
 
-            <TextView
-                android:id="@+id/belive"
-                android:layout_width="match_parent"
-                android:layout_height="35dp"
-                android:paddingLeft="10dp"
-                android:text="Believe me, you probably can."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+<!--            <TextView-->
+<!--                android:id="@+id/belive"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="35dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Believe me, you probably can."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
 
-            <ImageView
-                android:id="@+id/p2"
-                android:layout_width="match_parent"
-                android:layout_height="268dp"
-                app:srcCompat="@drawable/soyouthinkdance" />
+<!--            <ImageView-->
+<!--                android:id="@+id/p2"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="268dp"-->
+<!--                app:srcCompat="@drawable/soyouthinkdance" />-->
 
-            //workoutnac//
+<!--            //workoutnac//-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
 
 
-            <TextView
-                android:id="@+id/heyyou"
-                android:layout_width="match_parent"
-                android:layout_height="107dp"
-                android:paddingLeft="10dp"
-                android:text="Hey, you! Yes, you reading this article. Would you consider yourself a dancer? No? Yes? If not, I am here to explain to you that you are."
-                android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+<!--            <TextView-->
+<!--                android:id="@+id/heyyou"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="81dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Hey, you! Yes, you reading this article. Would you consider yourself a dancer? No? Yes? If not, I am here to explain to you that you are."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
 
             <TextView
                 android:id="@+id/iam"
                 android:layout_width="match_parent"
-                android:layout_height="183dp"
+                android:layout_height="175dp"
                 android:paddingLeft="10dp"
                 android:text="I am a dancer. But what is the difference between us that makes that distinction? Dance has always been a huge part of my life. My mom was a dance major in college and before that she taught in the studio that my grandmother ran out of the basement of their home."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -106,11 +106,11 @@
             <TextView
                 android:id="@+id/wheniwas"
                 android:layout_width="match_parent"
-                android:layout_height="211dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="When I was just an itty-bitty three-year-old my mom put me in my first dance class. Since then I've done just about any style of dance you can think of; ballet, jazz, tap, modern, pointe, musical theater, even hip-hop. I was on a competitive dance team and was dance captain for my high school's musicals."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -120,11 +120,11 @@
             <TextView
                 android:id="@+id/today"
                 android:layout_width="match_parent"
-                android:layout_height="159dp"
+                android:layout_height="154dp"
                 android:paddingLeft="10dp"
                 android:text="Today, I'm majoring in dance and hoping to make a career of it. But all of this just classifies me as a trained dancer. I like to think that everyone is a dancer. Dance is an integral part of all of our lives whether we realize it or not."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -146,11 +146,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="218dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Not everyone has a dance background like mine, but you don't have to in order to have dance as a particularly important part of your life. If you truly think about it, dance follows us as we grow. From the time we're babies, we dance about in our little toddler way, bouncing around and clapping to the beat."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -159,23 +159,24 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="189dp"
+                android:layout_height="176dp"
                 android:paddingLeft="10dp"
                 android:text="Babies don't have to be taught any of this because dance and rhythm are natural. We grow a little older and our parents might decide to throw us in dance class because we either want to be a ballerina when we grow up or they couldn't pass up the opportunity to see us in a tiny tutu."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
+
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="189dp"
+                android:layout_height="175dp"
                 android:paddingLeft="10dp"
                 android:text="Think a little further down the road to being in middle school. I know, it's so awkward it hurts. There are braces and legs that don't fit our bodies and probably some blue eye shadow painted on our eyelids. But none of that matters when the school dance is coming up."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -184,11 +185,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="162dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Which, yes, makes us cringe to think about, but it is an important experience for most people. These moments get us through that barrier, or at least start to knock it down, of being socially awkward and afraid of human contact."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -207,11 +208,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="238dp"
+                android:layout_height="221dp"
                 android:paddingLeft="10dp"
                 android:text=" Once we graduate from what may be the closest thing we have to hell on earth, we enter high school. High school is a time for letting loose and enjoying current popular social dances like the Wobble or Soulja Boy or whatever. It is also a time for a very important rite of passage in America... the senior prom. And what exactly is the prom again?"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -220,11 +221,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="238dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="A dance. High school seniors get all gussied up in fancy dresses and tuxedos and go dance the night away. If you ask someone to recall their prom, they'll probably tell you about what they wore, who their date was, or maybe even what they ate. They may not mention what dances they did, but dance was the catalyst for all of those memories."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -234,11 +235,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="238dp"
+                android:layout_height="220dp"
                 android:paddingLeft="10dp"
                 android:text="At long last, we move on to college. You have a great time dancing with friends at house parties (after you're 21, of course), but college and life after graduation is a time that tends to have some bumps in the road. When faced with a challenge or devastating loss and you can't seem to get out of the slump you're in, dance can be cathartic."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -248,11 +249,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="238dp"
+                android:layout_height="233dp"
                 android:paddingLeft="10dp"
                 android:text="Friends and family will pull you up and put on a silly song and bounce around with you until they have you laughing, smiling, and forgetting why you were sad for even just those few minutes. I can't help but think of Harry and Hermione in the last Harry Potter movie when Ron leaves because Harry knew that a little bit of dancing would help cheer up his friend."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -270,7 +271,7 @@
                 android:paddingLeft="10dp"
                 android:text="Once you enter the real adult world you might find yourself at your own wedding. One of the most important days in so many people's lives is filled with significant dances: a couple's first dance together to their song, a bride and her father or a groom and his mother sharing beautiful moments together. Nowadays even the bridal party gets involved by performing cheesy choreography to a mash up of their favorite songs."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -279,11 +280,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="239dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="All of these moments hold certain significance in many people's lives and they all have everything to do with dance. Now, think a little further down the road to being one half of a sweet old couple dancing together to a Frank Sinatra song on your 50th wedding anniversary, or even just a regular night under the stars with your loved one."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -302,11 +303,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="129dp"
+                android:layout_height="119dp"
                 android:paddingLeft="10dp"
                 android:text="Dance is for all people. All people dance. Humans dance in celebration, to express our culture, to eliminate our sorrows, and to show happiness. We dance for all things."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -319,8 +320,8 @@
                 android:paddingLeft="10dp"
                 android:text="''[Dance] is not mere translation or abstraction from life; it is life itself.''"
                 android:textColor="#FDFEFE"
-                android:textSize="24sp"
-                android:textStyle="bold" />
+                android:textSize="20dp"
+           />
 
             <View
                 android:layout_width="fill_parent"

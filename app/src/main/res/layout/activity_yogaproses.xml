@@ -36,11 +36,11 @@
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
                 android:textStyle="bold"
+                android:paddingLeft="10dp"
                 android:text="The Best Yoga Poses For Toned Arms"
                 android:textColor="#FDFEFE"
-                android:textSize="28sp" />
+                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -63,11 +63,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="wrap_content"
-                android:layout_height="62dp"
+                android:layout_height="56dp"
                 android:paddingLeft="10dp"
                 android:text="Arms, like butts can be a a tricky old thing when it comes to working out."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -76,11 +76,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="148dp"
+                android:layout_height="102dp"
                 android:paddingLeft="10dp"
                 android:text="‘What are the right exercises for a good level of lean muscle, and nice toning?’ is a question that even the most non-committal exerciser has asked themselves, right?"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -93,7 +93,7 @@
                 android:paddingLeft="10dp"
                 android:text="Tuck shop arms, chicken wings, flabby arms, whatever you call them, missing #armday at the gym is not an option."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -102,11 +102,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="284dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Because pumping weights and tricep dips are certainly not the only way to get the arms of your dreams, we caught up with ultra bendy—and super sweet—Brisbane yoga instructor Elise Maisonneuve of Elise Danielle Holistic Health/Wellbeing, Cultivate Calm and Harlow Hot Yoga to give us the low down on the best yoga moves for toned, sexy arms."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -119,12 +119,12 @@
                 android:paddingLeft="10dp"
                 android:text="Because we’re also suckers for a moving picture, we’ve pulled together this sweet GIF guide for your work out."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-            ========================================
+
             <View
 
                 android:layout_width="fill_parent"
@@ -167,7 +167,7 @@
                 android:paddingLeft="10dp"
                 android:text="1. Stand tall, with your feet firmly planted shoulder-width apart."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
 
             <View
                 android:layout_width="fill_parent"
@@ -175,11 +175,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="96dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="*Pro Tip: gently draw the lower abdominals in to help keep the spine long and straight throughout the pose."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -194,29 +194,31 @@
                 android:paddingLeft="10dp"
                 android:text="2. Take a deep breath in, and raise your arms out wide overhead, bringing the palms together to touch."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="84dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="3. Exhale and begin to release the arms back down, whilst hinging at the hips to fold forward."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="84dp"
+                android:layout_height="57dp"
                 android:paddingLeft="10dp"
                 android:text="4. Inhale to lift up halfway—bending the knees if needed to keep the spine straight."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -228,7 +230,7 @@
                 android:paddingLeft="10dp"
                 android:text="5. Exhale to fold forward."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
 
             <View
                 android:layout_width="fill_parent"
@@ -236,11 +238,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="119dp"
+                android:layout_height="103dp"
                 android:paddingLeft="10dp"
                 android:text="6. Inhale, scoop the lower belly in, take the arms out wide and make your way back up to standing with the arms overhead, once again."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -252,12 +254,12 @@
                 android:paddingLeft="10dp"
                 android:text="7. Exhale as you release your arms beside you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-            =======================================
+
 
             <View
 
@@ -301,7 +303,7 @@
                 android:paddingLeft="10dp"
                 android:text="To start, set yourself up in down dog."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
 
             <View
                 android:layout_width="fill_parent"
@@ -309,11 +311,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="54dp"
                 android:paddingLeft="10dp"
                 android:text="1. Feet hip width apart, hands should be shoulder width apart."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -326,7 +328,7 @@
                 android:paddingLeft="10dp"
                 android:text="2. Aim to create an upside down ‘V’ shape with the body."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -334,11 +336,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="284dp"
+                android:layout_height="205dp"
                 android:paddingLeft="10dp"
                 android:text="*Pro Tip: focus on drawing the shoulder blades down the back and together so as to not put too much pressure at the front of your shoulders (which is where the rotator cuff is), and draw your lower belly in to keep the spine neutral. This will help you to develop more core and upper back strength, and help to prevent lower back pain."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -346,11 +348,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="144dp"
+                android:layout_height="99dp"
                 android:paddingLeft="10dp"
                 android:text="3. Take a deep breath in, lift up on to your toes and roll your spine forward so that your shoulders are now stacked over the top of your wrists, as you move into plank pose."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -358,11 +360,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="146dp"
+                android:layout_height="107dp"
                 android:paddingLeft="10dp"
                 android:text="4. Take two deep breaths in plank but watch that your hips don't sag down or pop-up. (Imagine a level sitting on your back from the tip of your head to your toes.)"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -370,17 +372,17 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="98dp"
+                android:layout_height="61dp"
                 android:paddingLeft="10dp"
                 android:text="5. Inhale and draw the lower belly in before pressing your hips back up into down dog."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            ==============================
+
             <View
 
                 android:layout_width="fill_parent"
@@ -419,11 +421,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="120dp"
+                android:layout_height="102dp"
                 android:paddingLeft="10dp"
                 android:text="1. Start in plank position ensuring that your core is active, your spine is neutral and shoulder blades are drawing down the back and together."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -431,11 +433,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="39dp"
+                android:layout_height="31dp"
                 android:paddingLeft="10dp"
                 android:text="2. Inhale at the top of plank."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -444,11 +446,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_height="51dp"
                 android:paddingLeft="10dp"
                 android:text="3. Exhale to lower half way into chaturanga (or low plank)."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -456,11 +458,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="252dp"
+                android:layout_height="199dp"
                 android:paddingLeft="10dp"
                 android:text="*Pro Tip: No cheating; make sure your shoulders do not go any lower than your elbows. Don't collapse through the front of the shoulders and keep your shoulder blades drawing down the back and together.  It will feel much harder but this alignment protects the rotator cuff, and helps build up those triceps and upper back muscles."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -468,11 +470,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="173dp"
+                android:layout_height="152dp"
                 android:paddingLeft="10dp"
                 android:text="4. Inhale, press your chest through your arms, draw your lower belly in and press your hips forward. Then in a continuous motion, roll over the tops of your feet, and lift up into upward facing dog—no knees on the floor!"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -480,11 +482,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="114dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="*Pro Tip: you shouldn’t feel anything in your lower back so make sure your core is switched on to protect the lower back at all times."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -492,17 +494,17 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="98dp"
+                android:layout_height="83dp"
                 android:paddingLeft="10dp"
                 android:text="5. Exhale, then draw your lower belly in, lower the chest down and make your way back to high plank to finish."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            ============================
+
 
             <View
 
@@ -542,11 +544,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="120dp"
+                android:layout_height="101dp"
                 android:paddingLeft="10dp"
                 android:text="1. Start with legs and feet together in a squat position, with your sitting bones on your heals and palms together in heart centre."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -558,7 +560,7 @@
                 android:paddingLeft="10dp"
                 android:text="2. Take two deep breaths in and out"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -571,7 +573,7 @@
                 android:paddingLeft="10dp"
                 android:text="3. Inhale begin to twist deeply to your left and place your hands down about 15cm away from your left thigh"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
 
             <View
                 android:layout_width="fill_parent"
@@ -579,11 +581,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="123dp"
+                android:layout_height="85dp"
                 android:paddingLeft="10dp"
                 android:text="4. Exhale come into chaturanga arms (bending at the elbows at a 90 degree angle) creating a shelf for your left thigh"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -591,11 +593,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="120dp"
+                android:layout_height="101dp"
                 android:paddingLeft="10dp"
                 android:text="5. Inhale begin to draw you lower belly in strongly and begin to shift your weight over on to your upper arms (left hip can rest on your left elbow)"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -603,11 +605,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="146dp"
+                android:layout_height="127dp"
                 android:paddingLeft="10dp"
                 android:text="*Pro Tip: This is a combination of a strong chaturanga game and core activation—energetically squeeze your upper arms towards one another and scoop your lower belly in."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -615,11 +617,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="6. Exhale, and slowly begin to extend your legs out. Right leg kicks behind you and the left leg extends out straight. Remember to think about kicking out through both heels."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -628,11 +630,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="40dp"
+                android:layout_height="33dp"
                 android:paddingLeft="10dp"
                 android:text="7. Try to hold for five deep breaths."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -644,7 +646,7 @@
                 android:paddingLeft="10dp"
                 android:text="8. Inhale to draw the legs back in."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -652,11 +654,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_height="30dp"
                 android:paddingLeft="10dp"
                 android:text="9. Exhale to release the feet back down."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -664,11 +666,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="94dp"
+                android:layout_height="81dp"
                 android:paddingLeft="10dp"
                 android:text="10. Inhale to lift your arms back up and meet back in the squat position with palms together in heart centre."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"

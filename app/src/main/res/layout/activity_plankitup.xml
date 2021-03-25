@@ -52,12 +52,12 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="141dp"
+                android:layout_height="103dp"
 
                 android:paddingLeft="10dp"
                 android:text="The pursuit of perfect abs often seems like a lifelong ordeal. So many things — pizza, pasta, and oh yes, pregnancy! — can thwart our dreams of a toned tummy."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -66,11 +66,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="95dp"
+                android:layout_height="75dp"
                 android:paddingLeft="10dp"
                 android:text="But aside from J-Lo-level #bodygoals, there are other reasons to focus on strengthening your core."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -79,11 +79,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="138dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="According to the Centers for Disease Control and Prevention (CDC), creating a strong core can help preventTrusted Source back injuries and improve stability."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -96,7 +96,7 @@
                 android:paddingLeft="10dp"
                 android:text="And one of the best ways to get the job done? Planks."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -105,14 +105,14 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="195dp"
+                android:layout_height="152dp"
                 android:paddingLeft="10dp"
                 android:text="Love ’em or hate ’em, planks are a supercharged way to tighten your core, slim your abs, and shape your waistline. Many experts now recommend planking over crunches or sit-ups, since planks put less strain on your spine and hip flexors."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <ImageView
@@ -127,24 +127,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="121dp"
+                android:layout_height="100dp"
                 android:paddingLeft="10dp"
                 android:text="Plus, a plank will tone your back, glutes, hamstrings, arms, and shoulders at the same time. That’s a lot of gain for just 60 seconds of pain."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="121dp"
-                android:paddingLeft="10dp"
-                android:text="Plus, a plank will tone your back, glutes, hamstrings, arms, and shoulders at the same time. That’s a lot of gain for just 60 seconds of pain."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -153,11 +140,25 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="225dp"
+                android:layout_height="106dp"
+                android:paddingLeft="10dp"
+                android:text="Plus, a plank will tone your back, glutes, hamstrings, arms, and shoulders at the same time. That’s a lot of gain for just 60 seconds of pain."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="181dp"
                 android:paddingLeft="10dp"
                 android:text="The basic forearm plank is a great place to start, but you can multiply the many benefits of planks by trying one of these challenging variations. From the Spider-Man to the Swiss ball jackknife, these will bring you ever closer to an abs-solutely killer core. J-Lo, eat your heart out."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -202,11 +203,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="77dp"
                 android:paddingLeft="10dp"
                 android:text="If you’re new to planks, the forearm plank is a great way to really feel the burn. This video outlines proper form and technique."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -230,7 +231,7 @@
                 android:text="1.Get down on your mat and place your forearms directly underneath your shoulders. Your hands should be extended and your body lengthened."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -239,10 +240,10 @@
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="2.Tuck your tailbone and ensure you engage your glutes, triceps, and abs to prevent your spine from arching toward the mat."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -250,11 +251,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="56dp"
                 android:paddingLeft="10dp"
                 android:text="3.Tuck your toes under and lift your knees, so that your body forms a straight line."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -263,11 +264,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="146dp"
+                android:layout_height="98dp"
                 android:paddingLeft="10dp"
                 android:text="Try holding your plank for 20 to 30 seconds, building up to 1 minute or longer. According to the Guinness Book of World Records, the longest forearm plank was held for 8 hours!"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -276,11 +277,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="136dp"
+                android:layout_height="128dp"
                 android:paddingLeft="10dp"
                 android:text="Pro tip: Let your gaze fall toward your mat, approximately one foot in front of you, so that your neck is in a neutral position. For more do’s and don’ts, you can also check out this video."
                 android:textColor="#FDFEFE"
-                android:textSize="20sp"
+                android:textSize="20dp"
                 android:textStyle="bold" />
             <View
                 android:layout_width="fill_parent"
@@ -321,11 +322,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="108dp"
                 android:paddingLeft="10dp"
                 android:text="You already know how to do a traditional plank, but transitioning between forearm and full plank is a great way to progress your workout."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -349,7 +350,7 @@
                 android:text="1.Start in the forearm plank position."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
 
             <View
                 android:layout_width="fill_parent"
@@ -361,7 +362,7 @@
                 android:text="2.Move and straighten one arm at a time to lift yourself into the full plank. Try these slowly first to master the transition."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -369,11 +370,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="54dp"
                 android:paddingLeft="10dp"
                 android:text="3.Pick up the pace according to your comfort level."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -382,11 +383,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="146dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="Aim to repeat for 30 seconds for 1 set, performing 3 sets. Build until you can perform the plank for 1 minute or longer, as long as you can safely hold proper form."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -440,11 +441,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="102dp"
                 android:paddingLeft="10dp"
                 android:text="This Gif from Howcast demonstrates several modifications to make the side plank easier or more difficult. For the most basic posture:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -468,7 +469,7 @@
                 android:text="1.Lie on one side. Ensure your elbow is directly underneath your shoulder, with your arm flat."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -480,7 +481,7 @@
                 android:text="2.Keeping your knees on the ground, stack your legs and raise your hips."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -488,11 +489,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="53dp"
                 android:paddingLeft="10dp"
                 android:text="3.Try placing your hand on your hip or raising it straight toward the ceiling."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -501,11 +502,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="61dp"
+                android:layout_height="52dp"
                 android:paddingLeft="10dp"
                 android:text="4.Squeeze your glutes as you hold for 30 seconds to 1 minute."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -513,11 +514,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="172dp"
+                android:layout_height="125dp"
                 android:paddingLeft="10dp"
                 android:text="When comfortable with this pose, try lifting from stacked feet instead of knees. Then, you can increase difficulty and build greater stability with variations like arm reaches, or raising and lowering your hip."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -525,11 +526,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="139dp"
+                android:layout_height="125dp"
                 android:paddingLeft="10dp"
                 android:text="Hold one arm and leg up like a starfish or add a knee pull to challenge yourself further. Be sure to even out your muscle tone by completing 10 reps of each movement on both your sides."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="15dp">
@@ -581,11 +582,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="198dp"
+                android:layout_height="153dp"
                 android:paddingLeft="10dp"
                 android:text="Walking sideways with your plank will strengthen your core as well as your upper and lower body muscle groups. These include the deltoids, glutes, quads, hamstrings, and even calves. Trainer Clinton Steenkamp advises you to:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -609,7 +610,7 @@
                 android:text="1.Start in a full plank position with your hands directly underneath your shoulders."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -621,7 +622,7 @@
                 android:text="2.Activate your glutes and abs to prevent injury and gain maximum benefit."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -629,11 +630,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="59dp"
                 android:paddingLeft="10dp"
                 android:text="3.Begin to shift laterally by simultaneously moving your right hand and foot to the right."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -646,7 +647,7 @@
                 android:paddingLeft="10dp"
                 android:text="4.Lift your left hand and foot to meet in the center and return to the plank position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -654,11 +655,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="198dp"
+                android:layout_height="148dp"
                 android:paddingLeft="10dp"
                 android:text="Complete 5 steps to the right and then 5 again to the left for one set. Beginners should aim for 3 sets, working up to 5. Alternatively, Steenkamp encourages you to time 1- or 2-minute rounds, working up to 5 rounds."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -712,11 +713,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="301dp"
+                android:layout_height="250dp"
                 android:paddingLeft="10dp"
                 android:text="By building your strength, fitness expert Ani Esraelian asserts that you’ll gain greater body awareness and control. This full-body exercise targets several muscle groups, including the glutes, hamstrings, abs, obliques, triceps, and shoulders. You can do this on a mat or with a foam roller. Using the foam roller is more advanced. It challenges your triceps while helping alleviate wrist strain."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -736,11 +737,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="77dp"
+                android:paddingLeft="10dp"
                 android:text="1.Sit tall on the floor with legs extended long in front of you. Place your hands behind you, either on the floor or atop a foam roller."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -752,7 +753,7 @@
                 android:text="2.Engage your glutes, core, and arms to lift your hips, forming a straight line from heels to shoulders. Esraelian cautions against letting your hips sag or lift too high. Ensure that your shoulders are drawn down, away from your ears."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -760,11 +761,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="3.You can stop here or continue to challenge yourself by adding a tricep dip: While holding your plank, bend your arms, pointing your elbows straight back."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -773,11 +774,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="221dp"
+                android:layout_height="151dp"
                 android:paddingLeft="10dp"
                 android:text="4.If you want an even greater challenge, add a leg raise: Hold your reverse plank, bending at the hip, and kick your right leg up toward the ceiling. Be sure to keep your hips stable and upper body strong while kicking. Return your leg to the floor with control."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -785,11 +786,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="143dp"
+                android:layout_height="125dp"
                 android:paddingLeft="10dp"
                 android:text="Repeat with your left leg, alternating for 3 kicks on each side to complete 1 rep. Aim for 5 plank reps, holding each for 3 full breaths. Alternatively, time 2 to 3 minutes for each rep."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -843,11 +844,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="86dp"
+                android:layout_height="55dp"
                 android:paddingLeft="10dp"
                 android:text="Try these “Spider-Man” planks to feel the burn in your obliques, abs, and lower spine."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -871,7 +872,7 @@
                 android:text="1.Begin in your full plank position."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -883,7 +884,7 @@
                 android:text="2.Pull the knee toward the outside of your elbow and then push it back to return to a plank position. Make sure that your knee is open, so that the inner thigh hovers over the floor as you move your leg."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -895,7 +896,7 @@
                 android:paddingLeft="10dp"
                 android:text="3.Exhale as the knee rounds forward and inhale as you push back."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -904,11 +905,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="89dp"
+                android:layout_height="77dp"
                 android:paddingLeft="10dp"
                 android:text="Start with 5 to 10 reps on each side. Aim for up to 20 reps on each side as you get stronger."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -967,7 +968,7 @@
                 android:paddingLeft="10dp"
                 android:text="For another move that will define your obliques, try taking the knee to the outside, pulling it across your torso."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -976,8 +977,9 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="215dp"
+                android:layout_height="309dp"
                 android:src="@drawable/plankwithamazing" />
+
 
             <View
                 android:layout_width="fill_parent"
@@ -987,11 +989,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="33dp"
                 android:paddingLeft="10dp"
                 android:text="1.Begin in a full plank position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1003,7 +1005,7 @@
                 android:text="2.Lift your leg and pull your knee toward the opposite shoulder."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1011,11 +1013,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="90dp"
+                android:layout_height="79dp"
                 android:paddingLeft="10dp"
                 android:text="3.Push your knee back to starting plank position. Be sure to keep your abs and glutes tight throughout the exercise."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1024,11 +1026,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="67dp"
+                android:layout_height="53dp"
                 android:paddingLeft="10dp"
                 android:text="4.Repeat on the other side to balance out your strength training."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1082,11 +1084,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="180dp"
+                android:layout_height="151dp"
                 android:paddingLeft="10dp"
                 android:text="Fitness expert Melissa Boleslawski calls this exercise the “money maker.” This full-body exercise targets the abs, mid-back, and chest, but also activates so many other muscle groups. It also offers a kick of cardio."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1110,19 +1112,20 @@
                 android:paddingLeft="10dp"
                 android:text="1.Grab 2 dumbbells of your choice."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
+
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="52dp"
+                android:paddingLeft="10dp"
                 android:text="2.Get into a full plank position and place the dumbbells in your hands."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1134,7 +1137,7 @@
                 android:paddingLeft="10dp"
                 android:text="3.Complete a row with one arm."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1147,7 +1150,7 @@
                 android:paddingLeft="10dp"
                 android:text="4.Replace your dumbbell to starting position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1155,11 +1158,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="29dp"
                 android:paddingLeft="10dp"
                 android:text="5.Complete 1 row with opposite arm."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1172,7 +1175,7 @@
                 android:paddingLeft="10dp"
                 android:text="6.Finish the rep with a push-up."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -1181,11 +1184,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="136dp"
+                android:layout_height="106dp"
                 android:paddingLeft="10dp"
                 android:text="Boleslawski encourages her beginner clients to complete 7 reps and her advanced clients to do 15. You can further challenge yourself to finish within 60 to 90 seconds."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -1194,11 +1197,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="171dp"
+                android:layout_height="127dp"
                 android:paddingLeft="10dp"
                 android:text="Pro tip: “The object of this exercise is to not let those hips swap back and forth like crazy,” says Boleslawski. “And as always, breathe! Too many individuals forget to breathe in the plank position.”"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -1240,7 +1243,7 @@
                 android:paddingLeft="10dp"
                 android:text="Plank jacks get your heart pumping during your strength routine."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1260,11 +1263,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="32dp"
                 android:paddingLeft="10dp"
                 android:text="1.Begin in a forearm plank."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1276,7 +1279,7 @@
                 android:text="2.Jump both feet outward, wider than hip-distance apart."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1288,7 +1291,7 @@
                 android:paddingLeft="10dp"
                 android:text="3.Immediately hop them back into the original plank position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1297,11 +1300,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="144dp"
+                android:layout_height="126dp"
                 android:paddingLeft="10dp"
                 android:text="Plank jacks should be performed quickly, similar to regular jumping jacks. Aim for 3 sets, 60 seconds each, or do as many as you can safely perform with excellent plank form."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1309,11 +1312,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="Pro tip: Throughout the exercise, be careful not to raise or lower your hips out of the straight-line position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="20dp"
                 android:textStyle="bold" />
 
 
@@ -1334,7 +1337,6 @@
                 android:layout_height="20dp">
             </View>
 
-=======================================================================
 
             <TextView
 
@@ -1355,11 +1357,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="168dp"
+                android:layout_height="128dp"
                 android:paddingLeft="10dp"
                 android:text="Planks with shoulder taps work several muscle groups, including hip flexors, abs, back, glutes, hamstrings, and quads. Fitness pro Pauline Mitchell shows several variations of plank taps. For the most basic:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1379,11 +1381,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="62dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="1.Start with a full plank modified on knees."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1392,11 +1394,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="117dp"
+                android:layout_height="99dp"
                 android:paddingLeft="10dp"
                 android:text="2.Keep your abs in tight and prevent your body from swaying as you lift one arm, bent at the elbow, and cross your hand to your opposite shoulder."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1404,11 +1406,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="62dp"
+                android:layout_height="28dp"
                 android:paddingLeft="10dp"
                 android:text="3.Repeat with the other side, alternating."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1417,11 +1419,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="144dp"
+                android:layout_height="124dp"
                 android:paddingLeft="10dp"
                 android:text="Mitchell recommends that you start with 10 to 15 reps, followed by a rest, and then repeat for another set. Aim to build up strength so you can perform sets lasting 30 seconds each."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1429,11 +1431,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="142dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="Pro tip: For added challenge, come off your knees to a regular full plank. As you get more advanced, bring your feet together. This makes maintaining stability more difficult."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="20dp"
                 android:textStyle="bold" />
 
 
@@ -1454,7 +1456,6 @@
                 android:layout_height="20dp">
             </View>
 
-===========================================================
 
 
 
@@ -1477,11 +1478,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="168dp"
+                android:layout_height="128dp"
                 android:paddingLeft="10dp"
                 android:text="Mountain climbers activate your whole body, making them a really effective exercise with a burst of cardio. Be sure to keep your wrists, arms, and shoulders stacked throughout the exercise."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1490,7 +1491,7 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="301dp"
+                android:layout_height="270dp"
                 android:src="@drawable/originalmountainclimber" />
 
             <View
@@ -1501,11 +1502,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="38dp"
+                android:layout_height="32dp"
                 android:paddingLeft="10dp"
                 android:text="1.Start in a full plank position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1514,11 +1515,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="93dp"
+                android:layout_height="79dp"
                 android:paddingLeft="10dp"
                 android:text="2.Place your hands slightly wider than your shoulders and use your upper body and pelvis to stabilize yourself."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1526,11 +1527,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="93dp"
+                android:layout_height="75dp"
                 android:paddingLeft="10dp"
                 android:text="3.Tighten your abs and draw one knee toward your chest without letting your hips lift."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1539,11 +1540,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="53dp"
                 android:paddingLeft="10dp"
                 android:text="4.Extend your leg back to starting position to finish one side."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1552,11 +1553,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="67dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="5.Alternate with the other knee to finish the rep."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1565,11 +1566,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="101dp"
+                android:layout_height="83dp"
                 android:paddingLeft="10dp"
                 android:text="This fitness pro demonstrates the movement with a toe tap, but you don’t necessarily need to touch the ground."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1578,11 +1579,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="181dp"
+                android:layout_height="125dp"
                 android:paddingLeft="10dp"
                 android:text="Pro tip: As you become more comfortable, you can pick up speed. The faster you go, the more cardiovascular benefit you gain — but be sure to still safely maintain proper form."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1599,7 +1600,6 @@
                 android:layout_height="20dp">
             </View>
 
-            =======================================================
 
             <TextView
 
@@ -1620,11 +1620,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="145dp"
+                android:layout_height="101dp"
                 android:paddingLeft="10dp"
                 android:text="Swiss ball jackknives are also excellent for building strength and stability. Coach Adam Ford emphasizes that it’s important to keep a neutral spine throughout the exercise."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1633,7 +1633,7 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="381dp"
+                android:layout_height="408dp"
                 android:src="@drawable/swissball" />
 
             <View
@@ -1644,11 +1644,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="1.Start in a full plank position with your feet on the exercise ball. Activate your abs to maintain stability and align your spine."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1657,11 +1657,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="115dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="2.Roll the ball forward with your feet, pulling your knees toward you. Be careful not to drop your hips or round your back."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1669,11 +1669,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="66dp"
+                android:layout_height="55dp"
                 android:paddingLeft="10dp"
                 android:text="3.Extend your legs, rolling the ball back, to return to the starting plank position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1682,11 +1682,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="118dp"
+                android:layout_height="76dp"
                 android:paddingLeft="10dp"
                 android:text="Initially, aim for 2 sets of 4 to 6 repetitions. When you can comfortably do 10 reps, try one of Ford’s advanced variations."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1695,120 +1695,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="63dp"
+                android:layout_height="53dp"
                 android:paddingLeft="10dp"
                 android:text="Pro tip: Moving the ball further back increases the resistance on your abs."
                 android:textColor="#FDFEFE"
-                android:textStyle="bold"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="2.5dp"
-                android:background="@android:color/background_light">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-
-            ===============================
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:text="13. Swiss ball pike"
-                android:textColor="#FDFEFE"
-                android:textSize="25sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="91dp"
-                android:paddingLeft="10dp"
-                android:text="Planking on a pike is even more advanced. It tests your stability and core strength."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-
-            <pl.droidsonroids.gif.GifImageView
-                android:layout_width="match_parent"
-                android:layout_height="257dp"
-                android:src="@drawable/swissballjoke" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="88dp"
-                android:paddingLeft="10dp"
-                android:text="1.Start with your ball behind you and come into a full plank position, toes pointing down on the ball."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp"></View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="68dp"
-                android:paddingLeft="10dp"
-                android:text="2.Keep your knees locked as you roll forward on the ball and lift your hips."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="85dp"
-                android:paddingLeft="10dp"
-                android:text="3.Slowly roll back as you lower your hips, getting back into the original plank position."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="15dp">
-            </View>
-
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="115dp"
-                android:paddingLeft="10dp"
-                android:text="Pro tip: If you really want to kick it up a notch, try this super advanced variation with a press at the top of the pike."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="20dp"
                 android:textStyle="bold" />
 
             <View
@@ -1830,7 +1721,116 @@
                 android:layout_height="20dp">
             </View>
 
-======================================================
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="13. Swiss ball pike"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="51dp"
+                android:paddingLeft="10dp"
+                android:text="Planking on a pike is even more advanced. It tests your stability and core strength."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="257dp"
+                android:src="@drawable/swissballjoke" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="79dp"
+                android:paddingLeft="10dp"
+                android:text="1.Start with your ball behind you and come into a full plank position, toes pointing down on the ball."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="2.Keep your knees locked as you roll forward on the ball and lift your hips."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:paddingLeft="10dp"
+                android:text="3.Slowly roll back as you lower your hips, getting back into the original plank position."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp">
+            </View>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="78dp"
+                android:paddingLeft="10dp"
+                android:text="Pro tip: If you really want to kick it up a notch, try this super advanced variation with a press at the top of the pike."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2.5dp"
+                android:background="@android:color/background_light">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+
 
             <TextView
 
@@ -1851,11 +1851,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="118dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="Burpees will get your heart pounding. That’s why they’re beloved by boot camps and CrossFit gyms alike. Here’s how you do them:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1875,11 +1875,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="61dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="1.Begin with your feet shoulder-width apart."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -1888,11 +1888,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="68dp"
+                android:layout_height="54dp"
                 android:paddingLeft="10dp"
                 android:text="2.Squat down, keeping your weight in your heels."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1900,11 +1900,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="65dp"
+                android:layout_height="53dp"
                 android:paddingLeft="10dp"
                 android:text="3.Drop your hands to the floor, a little narrower than your feet."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1913,23 +1913,24 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="89dp"
+                android:layout_height="53dp"
                 android:paddingLeft="10dp"
                 android:text="4.Shifting your weight to your upper body, jump your feet back into a full plank."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
             </View>
+
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="68dp"
+                android:layout_height="53dp"
                 android:paddingLeft="10dp"
                 android:text="5.Immediately hop them right back to where they started."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1938,11 +1939,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="93dp"
+                android:layout_height="57dp"
                 android:paddingLeft="10dp"
                 android:text="6.Then lift your body to standing, reaching your arms over your head, and jump."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
@@ -1950,11 +1951,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="94dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="Pro tip: For an added challenge, insert a push-up while in your plank position at the bottom of the burpee."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="20dp"
                 android:textStyle="bold" />
 
             <View
@@ -1976,22 +1977,7 @@
                 android:layout_height="20dp">
             </View>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        </LinearLayout>
+    </LinearLayout>
 
     </ScrollView>
 

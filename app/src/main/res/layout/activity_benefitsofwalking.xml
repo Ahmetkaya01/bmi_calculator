@@ -47,17 +47,16 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="119dp"
+            android:layout_height="103dp"
             android:paddingLeft="10dp"
             android:text="What’s not to like about walking? It’s free. It’s easy to do, and it’s easy on the joints. And there’s no question that walking is good for you."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-        //workoutnac//
 
         <ImageView
 
@@ -71,11 +70,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="309dp"
+            android:layout_height="wrap_content"
             android:paddingLeft="10dp"
             android:text="A University of Tennessee study found that women who walked had less body fat than those who didn’t walk. It also lowers the risk of blood clots, since the calf acts as a venous pump, contracting and pumping blood from the feet and legs back to the heart, reducing the load on the heart. In addition to being an easy aerobic exercise, walking is good for you in many other ways."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -93,8 +92,7 @@
 
             android:layout_width="match_parent"
             android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+            android:paddingLeft="15dp"
             android:text="1. Improve Circulation"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -106,11 +104,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="208dp"
+            android:layout_height="150dp"
             android:paddingLeft="10dp"
             android:text="Walking wards off heart disease, brings up the heart rate, lowers blood pressure and strengthens the heart. Post-menopausal women who walk just one to two miles a day can lower their blood pressure by nearly 11 points in 24 weeks."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -127,15 +125,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="176dp"
+            android:layout_height="127dp"
             android:paddingLeft="10dp"
             android:text="Women who walk 30 minutes a day can reduce their risk of stroke by 20%, and by 40% when they stepped up the pace, according to researchers at the Harvard School of Public Health in Boston."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
-
-
-
-        ===========================================
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
@@ -153,8 +147,8 @@
 
             android:layout_width="match_parent"
             android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+
+            android:paddingLeft="15dp"
             android:text="2. Shore Up Your Bones"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -164,13 +158,13 @@
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-<!--        <TextView-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="143dp"-->
-<!--            android:paddingLeft="10dp"-->
-<!--            android:text="Walking can stop the loss of bone mass for those with osteoporosis, according to Michael A. Schwartz, MD, of Plancher Orthopedics & Sports Medicine in New York."-->
-<!--            android:textColor="#FDFEFE"-->
-<!--            android:textSize="23sp" />-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="107dp"
+            android:paddingLeft="10dp"
+            android:text="Walking can stop the loss of bone mass for those with osteoporosis, according to Michael A. Schwartz, MD, of Plancher Orthopedics / Sports Medicine in New York."
+            android:textColor="#FDFEFE"
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -187,17 +181,15 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="117dp"
+            android:layout_height="101dp"
             android:paddingLeft="10dp"
             android:text="In fact, one study of post-menopausal women found that 30 minutes of walking each day reduced their risk of hip fractures by 40%."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
-
-=========================================
 
         <View
             android:layout_width="fill_parent"
@@ -207,13 +199,14 @@
         </View>
         <View
             android:layout_width="fill_parent"
-            android:layout_height="10dp"></View>
+            android:layout_height="10dp">
+        </View>
         <TextView
 
             android:layout_width="match_parent"
             android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+
+            android:paddingLeft="15dp"
             android:text="3. Enjoy a Longer Life"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -225,11 +218,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="143dp"
+            android:layout_height="100dp"
             android:paddingLeft="10dp"
             android:text="Research finds that people who exercise regularly in their fifties and sixties are 35% less likely to die over the next eight years than their non-walking counterparts."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -246,17 +239,16 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="89dp"
+            android:layout_height="78dp"
             android:paddingLeft="10dp"
-            android:text=" That number shoots up to 45% less likely for those who have underlying health conditions."
+            android:text="That number shoots up to 45% less likely for those who have underlying health conditions."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="20dp"></View>
 
-====================================================
 
         <View
             android:layout_width="fill_parent"
@@ -271,8 +263,7 @@
 
             android:layout_width="match_parent"
             android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+            android:paddingLeft="15dp"
             android:text="4. Lighten Your Mood"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -284,11 +275,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="89dp"
+            android:layout_height="82dp"
             android:paddingLeft="10dp"
             android:text="Walking releases natural pain­killing endorphins to the body – one of the emotional benefits of exercise."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -305,17 +296,16 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="117dp"
+            android:layout_height="105dp"
             android:paddingLeft="10dp"
             android:text="A California State University, Long Beach, study showed that the more steps people took during the day, the better their moods were."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-        ===================
 
         <View
             android:layout_width="fill_parent"
@@ -326,12 +316,13 @@
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
+
         <TextView
 
             android:layout_width="match_parent"
-            android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+            android:layout_height="37dp"
+
+            android:paddingLeft="15dp"
             android:text="5. Lose Weight"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -343,11 +334,12 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="60dp"
+            android:layout_height="34dp"
             android:paddingLeft="10dp"
             android:text="A brisk 30-minute walk burns 200 calories."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
+
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -364,17 +356,15 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="72dp"
+            android:layout_height="64dp"
             android:paddingLeft="10dp"
             android:text="Over time, calories burned can lead to pounds dropped."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
-
-        =====================
 
         <View
             android:layout_width="fill_parent"
@@ -389,8 +379,8 @@
 
             android:layout_width="match_parent"
             android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+
+            android:paddingLeft="15dp"
             android:text="6. Strengthen Muscles"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -402,11 +392,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="94dp"
+            android:layout_height="80dp"
             android:paddingLeft="10dp"
             android:text="Walking tones your leg and abdominal muscles – and even arm muscles if you pump them as you walk."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -423,17 +413,17 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="86dp"
+            android:layout_height="77dp"
             android:paddingLeft="10dp"
             android:text=" This increases your range of motion, shifting the pressure and weight from your joints to your muscles."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
-            android:layout_height="10dp"></View>
+            android:layout_height="15dp"></View>
 
-        =========================
+
 
         <View
             android:layout_width="fill_parent"
@@ -444,12 +434,13 @@
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
+
         <TextView
 
             android:layout_width="match_parent"
-            android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+            android:layout_height="36dp"
+
+            android:paddingLeft="15dp"
             android:text="7. Improve Sleep"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -461,11 +452,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="60dp"
+            android:layout_height="58dp"
             android:paddingLeft="10dp"
             android:text="Studies found that women, ages 50 to 75, who took one-hour morning walks,"
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -482,17 +473,17 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="70dp"
+            android:layout_height="54dp"
             android:paddingLeft="10dp"
             android:text="were more likely to relieve insomnia than women who didn’t walk."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-==========================
+
         <View
             android:layout_width="fill_parent"
             android:layout_height="1.5dp"
@@ -502,12 +493,12 @@
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
+
         <TextView
 
             android:layout_width="match_parent"
-            android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+            android:layout_height="36dp"
+            android:paddingLeft="15dp"
             android:text="8. Support Your Joints"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -519,11 +510,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="118dp"
+            android:layout_height="79dp"
             android:paddingLeft="10dp"
             android:text="The majority of joint cartilage has no direct blood supply. It gets its nutrition from joint fluid that circulates as we move."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -540,18 +531,16 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="115dp"
+            android:layout_height="80dp"
             android:paddingLeft="10dp"
             android:text="Movement and compression from  walking “squishes” the cartilage, bringing oxygen and nutrients into the area."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-
-        ===========================================
 
         <View
             android:layout_width="fill_parent"
@@ -562,12 +551,13 @@
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
+
         <TextView
 
             android:layout_width="match_parent"
-            android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+            android:layout_height="33dp"
+
+            android:paddingLeft="15dp"
             android:text="9. Improve Your Breath"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -579,11 +569,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="89dp"
+            android:layout_height="82dp"
             android:paddingLeft="10dp"
             android:text="When walking, your breathing rate increases, causing oxygen to travel faster through bloodstream,"
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -600,17 +590,15 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="95dp"
+            android:layout_height="77dp"
             android:paddingLeft="10dp"
             android:text="helping to eliminate waste products and improve your energy level and the ability to heal."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
-
-========================================
 
         <View
             android:layout_width="fill_parent"
@@ -621,12 +609,13 @@
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
+
         <TextView
 
             android:layout_width="match_parent"
-            android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+            android:layout_height="36dp"
+
+            android:paddingLeft="15dp"
             android:text="10. Slow Down Mental Decline"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -638,11 +627,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="140dp"
+            android:layout_height="126dp"
             android:paddingLeft="10dp"
             android:text="A study of 6,000 women, ages 65 and older, performed by researchers at the University of California, San Francisco, found that age-related memory decline was lower in those who walked more."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -659,17 +648,16 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="149dp"
+            android:layout_height="105dp"
             android:paddingLeft="10dp"
             android:text="The women walking 2.5 miles per day had a 17% decline in memory, as opposed to a 25% decline in women who walked less than a half-mile per week."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
 
-=====================================
 
         <View
             android:layout_width="fill_parent"
@@ -680,12 +668,13 @@
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
+
         <TextView
 
             android:layout_width="match_parent"
-            android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+            android:layout_height="40dp"
+
+            android:paddingLeft="15dp"
             android:text="11. Lower Alzheimer’s Risk"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -697,11 +686,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="140dp"
+            android:layout_height="124dp"
             android:paddingLeft="10dp"
             android:text="A study from the University of Virginia Health System in Charlottesville found that men between the ages of 71 and 93 who walked more than a quarter of a mile per day,"
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -718,17 +707,15 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="90dp"
+            android:layout_height="77dp"
             android:paddingLeft="10dp"
             android:text="had half the incidence of dementia and Alzheimer’s disease than those who walked less."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
-
-======================================================
 
         <View
             android:layout_width="fill_parent"
@@ -739,12 +726,13 @@
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
+
         <TextView
 
             android:layout_width="match_parent"
-            android:layout_height="55dp"
-            android:gravity="center"
-            android:paddingLeft="10dp"
+            android:layout_height="33dp"
+
+            android:paddingLeft="15dp"
             android:text="12. Do More for Longer"
             android:textColor="#FDFEFE"
             android:textSize="25sp"
@@ -756,11 +744,11 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="140dp"
+            android:layout_height="127dp"
             android:paddingLeft="10dp"
             android:text="Aerobic walking and resistance exercise programs may reduce the incidence of disability in the activities of daily living for people who are older than 65 and have symptomatic OA,"
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
         <View
             android:layout_width="fill_parent"
             android:layout_height="10dp"></View>
@@ -779,11 +767,11 @@
         <TextView
             android:id="@+id/t3"
             android:layout_width="wrap_content"
-            android:layout_height="64dp"
+            android:layout_height="55dp"
             android:paddingLeft="10dp"
             android:text="a study published in the Journal of Clinical Outcomes Management found."
             android:textColor="#FDFEFE"
-            android:textSize="23sp" />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="fill_parent"

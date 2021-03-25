@@ -25,69 +25,69 @@
             //DONE//
             //DONE//
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="15dp"></View>
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="15dp"></View>
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="3.5dp"
-                android:background="@android:color/background_light">
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="3.5dp"
+                            android:background="@android:color/background_light">
 
-            </View>
+                        </View>
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="20dp"></View>
+                        <TextView
+                            android:id="@+id/r1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:textStyle="bold"
+                            android:text="12 Yoga Moves to Target Your Abs"
+                            android:textColor="#FDFEFE"
+                            android:textSize="25sp" />
+
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="20dp"></View>
+
+
+                        <ImageView
+                            android:id="@+id/p2"
+                            android:layout_width="match_parent"
+                            android:layout_height="285dp"
+                            app:srcCompat="@drawable/yogaacan" />
+
+                        //workoutnac//
+
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="20dp"></View>
+
+                        <TextView
+                            android:id="@+id/t3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="272dp"
+                            android:paddingLeft="10dp"
+                            android:text="I often get questions from first-time students about the benefits of yoga, and for some, there seems to be a preconceived notion that yoga is just a simple workout where you don’t break a sweat. And while some forms of yoga take less physical activity—like these facial yoga poses meant to target anti-aging—others like vinyasa or ashtanga-style classes, are more rigorous and engage muscles you never knew existed!."
+                            android:textColor="#FDFEFE"
+                            android:textSize="20dp" />
+
+                        <View
+                            android:layout_width="fill_parent"
+                            android:layout_height="20dp"></View>
+
+
             <TextView
-                android:id="@+id/r1"
+
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:text="12 Yoga Moves to Target Your Abs"
-                android:textColor="#FDFEFE"
-                android:textSize="28sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-
-            <ImageView
-                android:id="@+id/p2"
-                android:layout_width="match_parent"
-                android:layout_height="285dp"
-                app:srcCompat="@drawable/yogaacan" />
-
-            //workoutnac//
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-            <TextView
-                android:id="@+id/t3"
-                android:layout_width="wrap_content"
-                android:layout_height="337dp"
+                android:layout_height="257dp"
                 android:paddingLeft="10dp"
-                android:text="I often get questions from first-time students about the benefits of yoga, and for some, there seems to be a preconceived notion that yoga is just a simple workout where you don’t break a sweat. And while some forms of yoga take less physical activity—like these facial yoga poses meant to target anti-aging—others like vinyasa or ashtanga-style classes, are more rigorous and engage muscles you never knew existed!."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="308dp"
                 android:text="As a yoga teacher, I love having the ability to sequence classes based on a particular area of the body that I want to target. And when it comes to beginner yogis, I work a lot of core strengthening poses into our classes. Having a strong core may not only help one’s posture and spine, but will also allow you to be able to move on to more challenging arm-balancing yoga poses like crow pose and eight-angle pose."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -96,15 +96,16 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="117dp"
+                android:layout_height="109dp"
                 android:paddingLeft="10dp"
                 android:text="So, if you’re looking to give your core a workout, look no further. Check out these 12 yoga moves that target your abs and strengthen your core."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -115,6 +116,7 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:id="@+id/r2"
                 android:layout_width="match_parent"
@@ -140,11 +142,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="230dp"
+                android:layout_height="181dp"
+                android:paddingLeft="10dp"
                 android:text="Regular triangle pose (Trikonasana) may provide relief from back pain and tension in the arms. The simple modification of extending your arms in front of you like you’re grasping a ball targets your abs as you are engaging your core muscle to keep them lifted and stay in the pose."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -153,11 +155,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="575dp"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Stand lengthwise on your mat with a medium stance, your feet parallel and about three feet apart. Move your right foot 90 degrees, so your toes face the short end of the mat, while your left toes turn about 5-10 degrees inward. Inhale and lift your arms up in line with your shoulders and palms facing the ground. On an exhale, stretch forward, lengthening the left side of your body and reach for your foot with your right fingertips. Stretch the left hand up with the left palm facing forwards, and gaze toward the middle finger of your left palm. Stay here for one whole breath before engaging your core and reaching both your arms towards the front of the room, like you’re holding an exercise ball. Stay here for six more breaths before repeating on the other side."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -173,7 +175,6 @@
                 android:layout_height="20dp"></View>
 
 
-<!--            =================================================================================-->
 
             <TextView
                 android:id="@+id/r4"
@@ -201,11 +202,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="176dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Warrior III (Virabhadrasana III), the most challenging pose in the warrior series, combines balance with strength. This asana helps strengthen both the core and back muscles while helping to clear your mind."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -214,10 +215,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="362dp"
+                android:layout_height="293dp"
+                android:paddingLeft="10dp"
                 android:text="Begin at the top of your mat in mountain pose (Tadasana), begin to slowly stretch your body forward while simultaneously raising your right heel and leg backward and upwards. Keeping the toes flexed and pointing downwards, take your arms out in front of you, parallel to each other. Your neck is aligned with your spine, shoulders are relaxed, and gaze is focused down on one point on the mat to keep your balance. Stay in this pose for seven breaths before repeating on the other side."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -231,6 +233,7 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:id="@+id/r5"
                 android:layout_width="match_parent"
@@ -247,7 +250,7 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="419dp"
+                android:layout_height="289dp"
                 android:src="@drawable/cobrapose" />
 
             <View
@@ -257,11 +260,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="203dp"
+                android:layout_height="153dp"
+                android:paddingLeft="10dp"
                 android:text="The key to cobra pose (Bhujangasana) is to lift off the mat using your core, thus strengthening it, while keeping your arms light. This asana also improves the flexibility of your spine and relieves pain caused by menstruation and sciatica."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -270,16 +273,18 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="335dp"
+                android:layout_height="255dp"
+                android:paddingLeft="10dp"
                 android:text="Lie down on your belly, placing your legs together with the tops of all your toes firmly planted on the ground. Put your hands in line with your chest and on an inhale, clench your butt muscles and use your core to lift the upper body off the mat. Make sure your pelvis remains on the mat, your elbows are close to the sides of your body, your chest is open, and your shoulder blades are drawing downwards. Stay here for seven breaths."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            =========================================================================
+
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -288,6 +293,7 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:id="@+id/r6"
                 android:layout_width="match_parent"
@@ -318,7 +324,7 @@
                 android:paddingLeft="10dp"
                 android:text="Plank pose (Phalakasana) is one of the key asanas meant to develop both arm and core strength."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -331,21 +337,20 @@
                 android:paddingLeft="10dp"
                 android:text="Begin on all fours with your shoulders in line with your wrists and fingers active and spread. Engage your belly upwards as you extend one leg back at a time with your toes tucked and your thighs nice and flexed. Your spine is long, and there is a straight line from the head to your heels. Keep your arms engaged as you push up from the mat, roll your shoulder blades down your back, and lengthen your tailbone towards your heels."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-<!--            ===============================================-->
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
-                android:background="@android:color/background_light">
-            </View>
+                android:background="@android:color/background_light"></View>
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:id="@+id/r7"
                 android:layout_width="match_parent"
@@ -362,7 +367,7 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="370dp"
+                android:layout_height="281dp"
                 android:src="@drawable/sideplankrosecan" />
 
             <View
@@ -372,11 +377,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="146dp"
+                android:layout_height="129dp"
+                android:paddingLeft="10dp"
                 android:text="A variation on the traditional plank, side plank pose (Vasisthasana) further strengthens your core and arms while the added arm balance challenges focus and concentration."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -385,26 +390,27 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="332dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="From plank, keep your core engaged as you turn onto the outside edge of your right foot while stacking your left foot on top of the right. Shifting your weight to your right hand, slowly raise your left hand up to the ceiling as you open your body towards the left side of the room. Your gaze is directly in front of you or to your middle finger of your left hand. Stay in the pose for seven breaths before coming back to plank and repeating on the other side. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-<!--            =========================================================================-->
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
                 android:background="@android:color/background_light">
 
             </View>
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:id="@+id/r8"
                 android:layout_width="match_parent"
@@ -421,18 +427,18 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="325dp"
+                android:layout_height="295dp"
                 android:src="@drawable/dolphinrosecangif" />
 
 
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="176dp"
+                android:layout_height="133dp"
                 android:paddingLeft="10dp"
                 android:text="Dolphin pose (Matsyakrida) not only targets your abs, but it may also improve the flexibility of your spine and help strengthen your shoulders—great for those of us looking to build our upper body strength."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -441,11 +447,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="425dp"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Begin by kneeling on the mat with your feet tucked under your buttocks. Put your elbows in front of your knees, and place your forearms on the mat, interlacing your fingers where they meet. Tuck your toes and slowly lift your hips to the ceiling, straightening your knees and coming to the shape of an inverted V. Take a breath in and lift your belly upwards and inwards, and on your exhale move your body forward, taking your chin in front of your clasped hands. Inhale, coming back to the starting position. Repeat at least 7-10 more times. "
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -457,10 +463,10 @@
                 android:background="@android:color/background_light">
 
             </View>
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-<!--&lt;!&ndash;            ================================================================&ndash;&gt;-->
 
             <TextView
                 android:id="@+id/r9"
@@ -478,7 +484,7 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="339dp"
+                android:layout_height="307dp"
                 android:src="@drawable/catposegif" />
 
             <View
@@ -488,11 +494,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="146dp"
+                android:layout_height="112dp"
+                android:paddingLeft="10dp"
                 android:text="While regular cat pose (Marjariasana) is used to massage the spine, modifying it with a crunch targets the abs and also works on your balance and concentration."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -501,16 +507,15 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="499dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Start on your hands and knees, shoulders in line with your wrists, and your hips in line with your knees—this starting pose is commonly referred to as tabletop position. On an inhale, lift your right hand off the floor to shoulder height with fingers pointing forward. Engage your core and find your balance as you lift your left leg straight behind you to hip height, toes pointing downward. On your exhale, round your back and lift your belly upwards as you move your right elbow and left knee in towards your navel. Inhale back to starting position, and exhale to crunch. Repeat for five more breaths before returning to tabletop position, and repeat on the other side. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-<!--&lt;!&ndash;            ================================================================&ndash;&gt;-->
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -521,6 +526,7 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:id="@+id/r10"
                 android:layout_width="match_parent"
@@ -547,11 +553,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="257dp"
+                android:layout_height="203dp"
                 android:paddingLeft="10dp"
                 android:text="In addition to engaging the abdominal muscles, upward facing plank pose (Purvottanasana) is a great heart opening pose that stretches the shoulders, and ankles. It also helps strengthen the arms and wrists and is one I highly recommend practicing if you work in front of a computer all day long."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -560,16 +566,15 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="389dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Begin in a seated position with legs activated and outstretched. Place your hands on the mat keeping a forearm's distance between the fingertips and buttocks, with fingers spread active and pointing towards heels. On an inhale, expand your chest and draw your shoulder blades down as you slowly begin to lift your glutes off the ground, keeping your legs straight, thighs rolled inwards, and core engaged. Keep your chin pointing towards your chest, and your gaze to the front of the room. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-<!--            ================================================-->
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -580,6 +585,7 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:id="@+id/t132"
                 android:layout_width="match_parent"
@@ -592,7 +598,7 @@
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp"></View>
+                android:layout_height="20dp"></View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
@@ -606,11 +612,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="170dp"
+                android:layout_height="133dp"
                 android:paddingLeft="10dp"
                 android:text="A primer for other back bending poses in yoga, camel pose (Ustrasana) provides a deep stretch through your front body, which helps treat migraines2﻿ and pain associated with your monthly cycle."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -619,16 +625,15 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="364dp"
+                android:layout_height="304dp"
+                android:paddingLeft="10dp"
                 android:text="Start by kneeling with your knees hip distance apart and tops of the feet resting on your mat. Place your hands on the backs of your hips with fingers pointing downwards as you slowly begin to use your thigh muscles to lean back and reach for your heels, one hand at a time. Open through your chest and push your shoulder blades together as your head hangs backward. Stay in the pose for seven breaths, and make sure to bring your head up first when dismounting from the posture. "
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-<!--            ==============================================-->
 
             <View
                 android:layout_width="fill_parent"
@@ -636,6 +641,7 @@
                 android:background="@android:color/background_light">
 
             </View>
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
@@ -661,15 +667,14 @@
                 android:src="@drawable/boatposegifcan" />
 
 
-
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="232dp"
+                android:layout_height="178dp"
+                android:paddingLeft="10dp"
                 android:text="An excellent asana for developing your core, Boat Pose (Navasana) is more challenging than it looks. But the rewards of regular practice speak for themselves: strengthening of your spine, neck, and legs; improving mental strength by focusing on balancing in the pose."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -678,16 +683,15 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="305dp"
+                android:layout_height="252dp"
                 android:paddingLeft="10dp"
                 android:text="Sit on your mat with your feet extended in front of you. Lean back and find your balance on your sit bones as you slowly begin to lift your legs off the floor. Keep your legs straight, and feet pointed to the ceiling. Engage your abdomen and extend your arms straight towards your feet until they are parallel with the floor, palms facing each other. Your spine is lengthening as your balance on your sit bones. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-<!--&lt;!&ndash;            ==============================================&ndash;&gt;-->
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -698,6 +702,7 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
+
             <TextView
                 android:id="@+id/r12"
                 android:layout_width="match_parent"
@@ -714,18 +719,21 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="370dp"
+                android:layout_height="293dp"
                 android:src="@drawable/halfboatcangif" />
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
 
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="181dp"
+                android:layout_height="152dp"
                 android:paddingLeft="10dp"
                 android:text="While half-boat pose (Ardha Navasana) is the asana you practice while working your way up to full boat pose, adding a modification in the form of a twist will turn the simple pose into a challenging one that targets your oblique muscles."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -734,16 +742,15 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="385dp"
+                android:layout_height="331dp"
                 android:paddingLeft="10dp"
                 android:text="Begin in boat pose with your legs fully extended to the ceiling, and arms at shoulder length in front of you. On an inhale bend at your knees and bring your hands to the middle, holding an imaginary ball between them. Exhale moving your knees to the right as you reach your arms to the left and slowly lower your torso halfway back down. Inhale coming back to the starting position—boat pose—and stay here for a couple of breaths, before repeating on the other side. This is one round; repeat three more times. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-<!--            ==============================================-->
 
             <View
                 android:layout_width="fill_parent"
@@ -755,7 +762,7 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-<!--            -->
+            <!--            -->
             <TextView
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
@@ -772,18 +779,8 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="353dp"
+                android:layout_height="287dp"
                 android:src="@drawable/bridgeposecangif" />
-
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingLeft="10dp"
-                android:text="Regular bridge pose (Setubandhasana) is excellent for strengthening the legs and glutes. Modifying it with alternating leg lifts engages the muscles in your core, effectively targeting and building your abs."
-                android:textColor="#FDFEFE"
-                android:textSize="22sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -792,11 +789,24 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="419dp"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Regular bridge pose (Setubandhasana) is excellent for strengthening the legs and glutes. Modifying it with alternating leg lifts engages the muscles in your core, effectively targeting and building your abs."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="326dp"
                 android:paddingLeft="10dp"
                 android:text="Lie in a supine position with your knees bent, and heels close to your hip bones. On your inhale, gently squeeze your glutes and slowly lift your pelvis up, one vertebra at a time. Keep your shoulder blades rotating inward, and your chin away from your chest. On your next inhale, slowly bring your right knee in towards your chest, squeezing your glute and straightening your leg upward. Keep your core engaged as you point your toes up toward the ceiling. Stay in the pose for seven breaths before releasing and repeating on the other side. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"

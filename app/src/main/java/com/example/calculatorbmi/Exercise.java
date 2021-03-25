@@ -21,7 +21,7 @@ public class Exercise extends AppCompatActivity {
         show.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(Exercise.this,browse.class));
+                startActivity(new Intent(Exercise.this,HomeActivity.class));
             }
         });
     }

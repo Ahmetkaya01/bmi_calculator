@@ -46,11 +46,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="Let’s begin with these 12 pedestrian safety tips and information to make your walking experience a safe, pleasant, and beneficially healthy!"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -68,13 +68,14 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
+
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="116dp"
+                android:layout_height="109dp"
                 android:paddingLeft="10dp"
                 android:text="Let’s begin with these 21 pedestrian safety tips and information to make your walking experience a safe, pleasant, and beneficially healthy!"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -104,7 +105,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-=========================================================
+
 
             <TextView
                 android:layout_width="347dp"
@@ -121,11 +122,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="142dp"
+                android:layout_height="106dp"
                 android:paddingLeft="10dp"
                 android:text="If you remember only two lessons from this article (the first being to face traffic) it’s that you must, must, must wear reflective clothing when walking at night."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -133,11 +134,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="166dp"
+                android:layout_height="130dp"
                 android:paddingLeft="10dp"
                 android:text="70% of all pedestrian fatalities happen at night. It all comes down to reaction time, and drivers can’t react to what they don’t see. In the daytime, you should always wear bright colored clothing to be seen by drivers."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -167,7 +168,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-===========================================================
+
 
             <TextView
                 android:layout_width="match_parent"
@@ -184,11 +185,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="253dp"
+                android:layout_height="201dp"
                 android:paddingLeft="10dp"
                 android:text="Don’t assume vehicles will stop! Yes, I know legally, when pedestrians are in a crossway, cars are supposed to stop… the operative words being suppose-to. Let’s face it, drivers are distracted, obtuse, clueless, concerned about getting that parking stop just beyond the crosswalk, or any of a hundred different reasons."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -196,11 +197,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="166dp"
+                android:layout_height="129dp"
                 android:paddingLeft="10dp"
                 android:text="70% of all pedestrian fatalities happen at night. It all comes down to reaction time, and drivers can’t react to what they don’t see. In the daytime, you should always wear bright colored clothing to be seen by drivers."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -208,11 +209,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="225dp"
+                android:layout_height="180dp"
                 android:paddingLeft="10dp"
                 android:text="The crosswalk laws do not mean a thing if you are hurled over the hood of a car because you assumed that you have the right of way. Be safe, be seen, and be smart. When crossing a street, make eye contact with the driver of the car. Give them a wave and make sure they see and respond to you."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -230,11 +231,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="172dp"
+                android:layout_height="131dp"
                 android:paddingLeft="10dp"
                 android:text="Use the left, right, left rule. Look left, then right, then left again as this is the side of the road cars will be approaching you. Watch for turning vehicles. If a driver cut the corner, you may find yourself under a tire."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -251,7 +252,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-===========================================
+
 
             <TextView
                 android:layout_width="match_parent"
@@ -268,11 +269,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="82dp"
                 android:paddingLeft="10dp"
                 android:text="While walking side by side is a more natural thing to do, on the road this can only lead to trouble."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -291,11 +292,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="103dp"
                 android:paddingLeft="10dp"
                 android:text="You are much more exposed to the roadway, and when drivers come around a blind curve, this could give them and you less reaction time to avoid a collision."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -312,7 +313,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-==============================
+
 
 
             <TextView
@@ -334,7 +335,7 @@
                 android:paddingLeft="10dp"
                 android:text="What I mean by this is you should just walk in a predictable manner. No sudden swerving out into the roadway, no randomly waving your arms out."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -365,7 +366,7 @@
                 android:layout_height="20dp"></View>
 
 
-================================================
+
 
 
 
@@ -388,7 +389,7 @@
                 android:paddingLeft="10dp"
                 android:text="Don’t ever challenge a vehicle or ever assume the drivers know when you have the right of way."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -411,7 +412,7 @@
                 android:paddingLeft="10dp"
                 android:text="Also, err on the side of caution. The very size of a car negates all of your rights as a pedestrian."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -428,7 +429,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-=======================================
+
 
 
             <TextView
@@ -450,7 +451,7 @@
                 android:paddingLeft="10dp"
                 android:text="Working full time, then getting home after the sun sets is common in winter."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -473,7 +474,7 @@
                 android:paddingLeft="10dp"
                 android:text="If you must walk at night please take the following precautions:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -481,11 +482,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="279dp"
+                android:layout_height="224dp"
                 android:paddingLeft="10dp"
                 android:text="-Wear a reflective vest! (tip #2) If you remember only two lessons from this website (the first one being to face traffic) then this is number two. A reflective vest will save your life. Think about how many times you have driven at night only to see a pedestrian at the very last moment. Put yourself in the driver’s seat…what will make it easier for you to be seen?"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -493,11 +494,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="145dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="-Carry and use a flashlight or better yet a headlamp. Headlamps are now a very common household item and are sold at all local hardware and big box stores."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -513,7 +514,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-===================================
+
 
 
             <TextView
@@ -531,11 +532,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="140dp"
+                android:layout_height="99dp"
                 android:paddingLeft="10dp"
                 android:text="When you are walking alone, let someone know where you’ll be walking and when you expect to return, then let that person know that you have returned."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -554,11 +555,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="92dp"
+                android:layout_height="79dp"
                 android:paddingLeft="10dp"
                 android:text="This should develop into a habit, and could get you valuable help to you if you miss placing the return call."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -574,7 +575,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-============================
+
 
 
             <TextView
@@ -592,11 +593,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="117dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="When walking near wooded areas, dense brush, doorways, and courtyards you need to be aware of your surroundings and any possible threats."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -625,7 +626,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="25dp"></View>
 
-======================================================
+
 
 
             <TextView
@@ -643,11 +644,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="206dp"
+                android:layout_height="151dp"
                 android:paddingLeft="10dp"
                 android:text="It’s unfortunate to even have to write about this but yes, there is always a possibility that you will draw the unwanted attention of the criminal element. Be prepared. Walk in areas that have other walkers, runners, foot traffic, and cars (believe it or not)."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -666,11 +667,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="121dp"
+                android:layout_height="107dp"
                 android:paddingLeft="10dp"
                 android:text="Acting alert and aware can convince a bad guy that they should move on. For added peace of mind, carry pepper spray or other protection devices."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -688,7 +689,7 @@
                 android:layout_height="25dp"></View>
 
 
-            ===================================
+
 
             <TextView
                 android:layout_width="match_parent"
@@ -705,11 +706,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="138dp"
+                android:layout_height="100dp"
                 android:paddingLeft="10dp"
                 android:text="Listening to audiobooks or music while walking is a wonderful way to utilize your time. But, keep the volume at a level where you can also hear your environment."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -728,11 +729,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="143dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="You need to be aware of cars, kids, dogs, and other factors in order to walk safely. You also thank yourself in years to come that your hearing wasn’t blown out while staying in shape."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -740,11 +741,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="229dp"
+                android:layout_height="174dp"
                 android:paddingLeft="10dp"
                 android:text="-A note on headphones: I love to walk and listen to motivational speakers, audiobooks, and music. I listen to some form of audio about 75 percent of the time. My advice is to keep the sound at a reasonable volume so you can also hear what is going on in your surroundings."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -760,7 +761,6 @@
                 android:layout_width="fill_parent"
                 android:layout_height="25dp"></View>
 
-===================================================
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="34dp"
@@ -776,11 +776,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="138dp"
+                android:layout_height="99dp"
                 android:paddingLeft="10dp"
                 android:text="Hang up the phone! Stop talking, stop texting, stop playing games. You will be less likely to anticipate any approaching trouble whether it’s drivers,"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -799,11 +799,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="143dp"
+                android:layout_height="108dp"
                 android:paddingLeft="10dp"
                 android:text="tripping hazards, passing runners, approaching dogs or of more concern, potential criminals that view you as a distracted, easy target."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"

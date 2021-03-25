@@ -59,11 +59,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="86dp"
+                android:layout_height="74dp"
                 android:paddingLeft="10dp"
                 android:text="There’s something about grooving to the sound of music that seems to take all of our cares away."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -72,11 +72,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="160dp"
+                android:layout_height="152dp"
                 android:paddingLeft="10dp"
                 android:text="Maybe it’s the rhythm of your favorite tunes or the heart-pumping workout that gets you up and off the couch. Or perhaps it’s the challenge of mastering the more complicated moves that brings you so much joy."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -85,11 +85,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="105dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Regardless of your reasons, one thing’s for sure: The physical, mental, and emotional health benefits of dancing are endless."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -122,11 +122,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="88dp"
+                android:layout_height="74dp"
                 android:paddingLeft="10dp"
                 android:text="Whether you’re 80 years young or 8 years old, engaging in physical activities that involve dance changes you."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -135,11 +135,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="111dp"
+                android:layout_height="97dp"
                 android:paddingLeft="10dp"
                 android:text="From better physical and mental health to a boost in emotional and social well-being, moving your body to the sound of music can transform your life."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -153,7 +153,7 @@
                 android:paddingLeft="20dp"
                 android:textColor="#FDFEFE"
                 android:textStyle="bold"
-                android:textSize="30sp" />
+                android:textSize="25dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -162,12 +162,12 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="90dp"
+                android:layout_height="75dp"
                 android:paddingLeft="10dp"
                 android:text="Dance is exercise, so the physical benefits of dancing will be similar to that of other cardio activities."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
-            ///////////////////////////////////////////////////
+                android:textSize="20dp" />
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -199,11 +199,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="160dp"
+                android:layout_height="150dp"
                 android:paddingLeft="10dp"
                 android:text="The heart-pumping health benefits of dance are right in line with the Department of Health and Human Services’ physical activity guidelinesTrusted Source for adults. It states for health benefits, adults should do:"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -222,11 +222,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="61dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="- At least 150 minutes to 300 minutes per week of moderate-intensity exercise,"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -236,11 +236,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="72dp"
+                android:layout_height="51dp"
                 android:paddingLeft="10dp"
                 android:text="- 75 minutes to 150 minutes per week of vigorous-intensity aerobic physical activity"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -254,14 +254,12 @@
                 android:paddingLeft="10dp"
                 android:text="Professional ballroom dancer and certified personal trainer Leon Turetsky says that all styles of dance make for great cardio workouts since your heart rate gets challenged from executing the different moves."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
-
-            ========================================================
 
             <View
                 android:layout_width="fill_parent"
@@ -290,11 +288,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="184dp"
+                android:layout_height="175dp"
                 android:paddingLeft="10dp"
                 android:text="Professional dancer Jonathan Tylicki, the director of education for AKT, a boutique fitness concept rooted in dance, says one of the reasons dance is such a great form of physical fitness is because it incorporates movements on all planes of motion and from all directions."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -313,11 +311,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="109dp"
+                android:layout_height="105dp"
                 android:paddingLeft="10dp"
                 android:text="“Movements that we typically do in our daily life, like walking, taking the stairs, and common workouts like treadmills and cycling, occur in the sagittal plane,"
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -327,11 +325,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="131dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="but dance works your body from all planes, including lateral and rotational, which turns on and conditions all muscles, meaning no muscle is left behind,” he said."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -341,18 +339,16 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="69dp"
+                android:layout_height="51dp"
                 android:paddingLeft="10dp"
                 android:text="This type of movement not only increases strength, it also improves balance."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
-
-            //////////////////////////////////////////////////////
 
             <View
                 android:layout_width="fill_parent"
@@ -381,11 +377,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="83dp"
+                android:layout_height="76dp"
                 android:paddingLeft="10dp"
                 android:text="Many forms of dancing, such as ballroom, are appropriate for people with limited mobility or chronic health issues."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -404,11 +400,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="87dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="If you have concerns about the intensity of a class, talk with your doctor and the instructor before starting the class."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -418,18 +414,18 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="56dp"
+                android:layout_height="50dp"
                 android:paddingLeft="10dp"
                 android:text="They can help you with any modifications, if needed."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
             </View>
 
-            ///////////////////////////////////////////////////////////
+
 
             <View
                 android:layout_width="fill_parent"
@@ -470,11 +466,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="112dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="If you need a reason to get moving, consider this: A lot of research shows how dancing can maintain and even boost your ability to think as you age."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -493,11 +489,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="165dp"
+                android:layout_height="124dp"
                 android:paddingLeft="10dp"
                 android:text="But how does this happen? Well, according to some studies, scientists have found that the areas of the brain that control memory and skills, such as planning and organizing, improve with exercise like dance."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -507,18 +503,18 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="89dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="Plus, unlike other forms of exercise, dance has the additional benefits of improving balance through rhythm and music."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
             </View>
 
-            ////////////////////////////////////////////////////////////
+
 
             <View
                 android:layout_width="fill_parent"
@@ -547,11 +543,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="88dp"
+                android:layout_height="75dp"
                 android:paddingLeft="10dp"
                 android:text="If you’ve ever tried tap dancing, then you know exactly what we mean by dance challenging your brain."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -570,11 +566,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="138dp"
+                android:layout_height="127dp"
                 android:paddingLeft="10dp"
                 android:text="Tylicki points out that the brain power you need to access for dance, specifically, requires you to focus on both the constant changing of movement and recalling moves and patterns."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -584,18 +580,18 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="89dp"
+                android:layout_height="54dp"
                 android:paddingLeft="10dp"
                 android:text="This is an excellent form of mental exercise for your mind, regardless of your age."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
             </View>
 
-            /////////////////////////////////////////////
+
 
             <View
                 android:layout_width="fill_parent"
@@ -636,11 +632,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="108dp"
+                android:layout_height="103dp"
                 android:paddingLeft="10dp"
                 android:text="One of the greatest things about dance is that anyone can participate. If you’re able to move, even if it’s only your upper body, you can dance."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -661,11 +657,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="90dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="This equalizer is what makes dance so popular with people who typically shy away from other forms of exercise."
                 android:textColor="#FDFEFE"
-                android:textSize="21sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"

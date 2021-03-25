@@ -68,25 +68,29 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="280dp"
-                android:text="We absolutely love resistance bands. They’re so convenient to throw in your gym bag and take your workouts anywhere. Plus, they'll help you target every muscle group—big and small—to leave you feeling toned all over. Resistance bands are the perfect tool to add some extra intensity, too. The greater the resistance, the more energy you’ll burn."
-                android:textColor="#FDFEFE"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:textSize="23sp" />
+                android:text="We absolutely love resistance bands. They’re so convenient to throw in your gym bag and take your workouts anywhere. Plus, they'll help you target every muscle group—big and small—to leave you feeling toned all over. Resistance bands are the perfect tool to add some extra intensity, too. The greater the resistance, the more energy you’ll burn."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="10dp">
+                android:layout_height="15dp">
             </View>
 
 
             <ImageView
                 android:id="@+id/imageView11"
                 android:layout_width="match_parent"
-                android:layout_height="293dp"
+                android:layout_height="309dp"
                 app:srcCompat="@drawable/tips5" />
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="15dp">
+            </View>
 
             <TextView
 
@@ -96,7 +100,7 @@
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -132,11 +136,11 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="354dp"
+                android:layout_height="400dp"
                 android:src="@drawable/bandbic" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <TextView
@@ -147,7 +151,7 @@
                 android:paddingRight="10dp"
                 android:text="This move primarily targets your biceps with some forearm activation. Be sure to lower the band slowly with control, not letting it snap back down. Brace your core throughout."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -162,7 +166,7 @@ Curl the band up to shoulder height, then lower."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
                 android:paddingRight="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -173,7 +177,7 @@ Curl the band up to shoulder height, then lower."
                 android:id="@+id/do1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="- Do 15 reps -"
                 android:textColor="#FDFEFE"
@@ -184,7 +188,6 @@ Curl the band up to shoulder height, then lower."
                 android:layout_height="15dp">
             </View>
 
-            ---------------------------------------------------------------------
 
             <View
                 android:layout_width="fill_parent"
@@ -214,7 +217,7 @@ Curl the band up to shoulder height, then lower."
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="354dp"
+                android:layout_height="408dp"
                 android:src="@drawable/bandkickback" />
             <View
                 android:layout_width="fill_parent"
@@ -229,7 +232,7 @@ Curl the band up to shoulder height, then lower."
                 android:textColor="#FDFEFE"
                 android:paddingRight="5dp"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -246,7 +249,7 @@ Keeping elbows tucked close to your sides, extend your arms straight back behind
                 android:textColor="#FDFEFE"
                 android:paddingRight="10dp"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
 
 
@@ -259,7 +262,7 @@ Keeping elbows tucked close to your sides, extend your arms straight back behind
                 android:id="@+id/do123"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="- Do 15 reps -"
                 android:textColor="#FDFEFE"
@@ -267,7 +270,7 @@ Keeping elbows tucked close to your sides, extend your arms straight back behind
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="15dp">
+                android:layout_height="20dp">
             </View>
 
             <View
@@ -280,7 +283,7 @@ Keeping elbows tucked close to your sides, extend your arms straight back behind
                 android:layout_width="fill_parent"
                 android:layout_height="10dp">
             </View>
-            -------------------------------------------------------------------
+
 
             <TextView
                 android:id="@+id/bandforward"
@@ -299,7 +302,7 @@ Keeping elbows tucked close to your sides, extend your arms straight back behind
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="354dp"
+                android:layout_height="414dp"
                 android:src="@drawable/bandforward" />
             <View
                 android:layout_width="fill_parent"
@@ -313,7 +316,7 @@ Keeping elbows tucked close to your sides, extend your arms straight back behind
                 android:paddingLeft="10dp"
                 android:text="This move will strengthen your shoulders, particularly the front deltoids. Keep a slight bend in your elbows at all times. Pause at the top to feel the muscle contract before lowering slowly, with control, back to the starting position."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -328,7 +331,7 @@ Keeping elbows tucked close to your sides, extend your arms straight back behind
 Holding a handle in each hand, palms facing your thighs in an overhand grip, raise your arms straight out in front of you until you reach shoulder height, then lower back down to start position. "
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -339,7 +342,7 @@ Holding a handle in each hand, palms facing your thighs in an overhand grip, rai
                 android:id="@+id/bold"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="- Do 15 reps -"
                 android:textColor="#FDFEFE"
@@ -353,7 +356,7 @@ Holding a handle in each hand, palms facing your thighs in an overhand grip, rai
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
-                android:background="@android:color/background_dark">
+                android:background="@android:color/background_light">
 
             </View>
 
@@ -379,7 +382,7 @@ Holding a handle in each hand, palms facing your thighs in an overhand grip, rai
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="354dp"
+                android:layout_height="406dp"
                 android:src="@drawable/bandlatpull" />
 
             <View
@@ -390,11 +393,11 @@ Holding a handle in each hand, palms facing your thighs in an overhand grip, rai
             <TextView
                 android:id="@+id/banlatpulls"
                 android:layout_width="match_parent"
-                android:layout_height="152dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Band lat pulls strengthen your back and shoulders, particularly your latissimus dorsi—lats for short—which are in the middle of your back. This movement also works your neck and upper traps."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -404,12 +407,12 @@ Holding a handle in each hand, palms facing your thighs in an overhand grip, rai
             <TextView
                 android:id="@+id/padding"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="177dp"
+                android:paddingLeft="10dp"
                 android:text="Standing with feet hip-width apart, hold one end of the resistance band in each hand, palms facing down, and extend your arms out in front of you at shoulder height.
 Engaging your core and squeezing your back muscles together, pull the band apart by extending your arms out to the sides. "
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -420,7 +423,7 @@ Engaging your core and squeezing your back muscles together, pull the band apart
                 android:id="@+id/reverse"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+               android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="- Reverse the motion and repeat for 15 reps."
                 android:textColor="#FDFEFE"
@@ -462,7 +465,7 @@ Engaging your core and squeezing your back muscles together, pull the band apart
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="354dp"
+                android:layout_height="412dp"
                 android:src="@drawable/bandupright" />
             <View
                 android:layout_width="fill_parent"
@@ -476,7 +479,7 @@ Engaging your core and squeezing your back muscles together, pull the band apart
                 android:text="This movement will strengthen your shoulders, especially your front deltoids. You will also work your abs, upper back, and lower traps."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -491,7 +494,7 @@ Engaging your core and squeezing your back muscles together, pull the band apart
 With your chest tall and core engaged, pull the handles up to chest height, bending your elbows out to the sides. "
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -502,7 +505,7 @@ With your chest tall and core engaged, pull the handles up to chest height, bend
                 android:id="@+id/center"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="-Lower back to start position and repeat for 15 reps."
                 android:textColor="#FDFEFE"
@@ -540,7 +543,7 @@ With your chest tall and core engaged, pull the handles up to chest height, bend
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="354dp"
+                android:layout_height="409dp"
                 android:src="@drawable/bandshoulder" />
             <View
                 android:layout_width="fill_parent"
@@ -554,7 +557,7 @@ With your chest tall and core engaged, pull the handles up to chest height, bend
                 android:text="This double-duty move works all the muscles of your shoulders and your core. Be sure to brace your core throughout and bring the bands down slowly, with control."
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -570,7 +573,7 @@ With your chest tall and core engaged, pull the handles up to chest height, bend
 Press the handles of the band up, pausing when your upper arms are parallel with the ground, and the band is behind your arms, then press all the way up.
 Keep a soft bend in your elbows, slowly lower to the starting position. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -581,7 +584,7 @@ Keep a soft bend in your elbows, slowly lower to the starting position. "
                 android:id="@+id/repeat"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="- Repeat for 15 reps -"
                 android:textColor="#FDFEFE"
@@ -622,7 +625,7 @@ Keep a soft bend in your elbows, slowly lower to the starting position. "
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="354dp"
+                android:layout_height="410dp"
                 android:src="@drawable/bandxc" />
             <View
                 android:layout_width="fill_parent"
@@ -632,11 +635,11 @@ Keep a soft bend in your elbows, slowly lower to the starting position. "
             <TextView
                 android:id="@+id/entire"
                 android:layout_width="match_parent"
-                android:layout_height="201dp"
+                android:layout_height="150dp"
                 android:paddingLeft="10dp"
                 android:text="You will strengthen your entire back, abs, and biceps with this move. Make sure to brace your core and keep a soft bend in your knees. Try to keep your shoulder blades back and down before beginning this movement and not shrug your shoulders."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -653,7 +656,7 @@ With knees slightly bent, hinge forward at the hips, keeping a straight back and
 Pull the band back, leading with your elbows, bringing your shoulder blades together.
 Hold this contraction at the top, feeling the squeeze, then slowly release to the starting position.  "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -664,7 +667,7 @@ Hold this contraction at the top, feeling the squeeze, then slowly release to th
                 android:id="@+id/boldreps"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="-Do 15 reps."
                 android:textColor="#FDFEFE"
@@ -703,7 +706,7 @@ Hold this contraction at the top, feeling the squeeze, then slowly release to th
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="354dp"
+                android:layout_height="415dp"
                 android:src="@drawable/bandcurl" />
 
             <View
@@ -718,7 +721,7 @@ Hold this contraction at the top, feeling the squeeze, then slowly release to th
                 android:paddingLeft="10dp"
                 android:text="You've already hit your biceps and shoulders, so that this move will help further tax the muscles for even better results. You'll also fire up your core muscles for this movement as you brace to keep yourself steady. Remember to move slowly and with control, never letting the band snap back down."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -734,7 +737,7 @@ Hold this contraction at the top, feeling the squeeze, then slowly release to th
 Keep a tight core and upright chest. Curl the bands towards your shoulders, keeping your elbows locked in place at your sides. Once the bands are at your shoulders, twists your wrists, so your palms face forward.
 Press the bands overhead. Slowly lower to your shoulders, flip your palms back to face the front, and slowly lower to the starting position.   "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -745,7 +748,7 @@ Press the bands overhead. Slowly lower to your shoulders, flip your palms back t
                 android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="-Do 15 reps."
                 android:textColor="#FDFEFE"
@@ -772,5 +775,4 @@ Press the bands overhead. Slowly lower to your shoulders, flip your palms back t
 
         </LinearLayout>
     </ScrollView>
-
 </LinearLayout>

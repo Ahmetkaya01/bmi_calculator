@@ -1,4 +1,5 @@
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#010203"
@@ -13,7 +14,6 @@
             android:layout_height="20dp">
         </View>
 
-         everything you already have
         <TextView
             android:id="@+id/Titlehome"
             android:layout_width="230dp"
@@ -384,6 +384,7 @@
             android:background="@drawable/appicon"
             android:gravity="center"
             android:paddingTop="250dp"
+            android:src="@drawable/button_border"
             android:paddingRight="100dp"
             android:textColor="#ffffff"
             android:textSize="25dp"

@@ -47,71 +47,71 @@
                 android:layout_height="15dp"></View>
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="A good night’s sleep is incredibly important for your health."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="In fact, it’s just as important as eating healthy and exercising."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Unfortunately, there’s a lot that can interfere with natural sleep patterns."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="People are now sleeping less than they did in the past, and sleep quality has decreased as well."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingLeft="20dp"
+                android:paddingLeft="10dp"
                 android:text="-Here are 6 reasons why good sleep is important."
                 android:textColor="#FDFEFE"
                 android:textStyle="bold"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="10dp"></View>
+                android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="100dp"
-                android:gravity="center"
+                android:layout_height="68dp"
+                android:paddingLeft="10dp"
                 android:text="1. Poor sleep is linked to higher body weight"
                 android:textColor="#FDFEFE"
-                android:textSize="25sp"
+                android:textSize="25dp"
                 android:textStyle="bold" />
 
 
@@ -130,39 +130,39 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="63dp"
+                android:layout_height="36dp"
                 android:paddingLeft="10dp"
                 android:text="Poor sleep is strongly linked to weight gain."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="90dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="People with short sleep duration tend to weigh significantly more than those who get adequate sleep."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="179dp"
+                android:layout_height="127dp"
                 android:paddingLeft="10dp"
                 android:text="In fact, short sleep duration is one of the strongest risk factors for obesity.In one extensive review study, children and adults with short sleep duration were 89% and 55% more likely to develop obesity, respectively."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -182,11 +182,11 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="102dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="Short sleep duration is associated with an increased risk of weight gain and obesity in both children and adults."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -203,16 +203,14 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            ////////////////////////////////////////////////////////
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="63dp"
-                android:gravity="center"
+                android:layout_height="34dp"
                 android:text="2. Good sleepers tend to eat fewer calories"
                 android:textColor="#FDFEFE"
-                android:textSize="25sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
 
@@ -231,39 +229,39 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="89dp"
                 android:paddingLeft="10dp"
                 android:text="Studies show that sleep-deprived individuals have a bigger appetite and tend to eat more calories."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="121dp"
                 android:paddingLeft="10dp"
                 android:text="Sleep deprivation disrupts the daily fluctuations in appetite hormones and is believed to cause poor appetite regulation."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="117dp"
                 android:paddingLeft="10dp"
                 android:text="This includes higher levels of ghrelin, the hormone that stimulates appetite, and reduced levels of leptin, the hormone that suppresses appetite."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -287,7 +285,7 @@
                 android:paddingLeft="10dp"
                 android:text="Poor sleep affects hormones that regulate appetite. Those who get adequate sleep tend to eat fewer calories than those who don’t."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -304,13 +302,13 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-//////////////////////////////////////////////////////
+
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:text="3. Good sleep can improve concentration and productivity"
                 android:textColor="#FDFEFE"
                 android:textSize="25sp"
@@ -332,41 +330,39 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="62dp"
+                android:layout_height="50dp"
                 android:paddingLeft="10dp"
                 android:text="Sleep is important for various aspects of brain function."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="63dp"
+                android:layout_height="55dp"
                 android:paddingLeft="10dp"
                 android:text="This includes cognition, concentration, productivity, and performance."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
-                android:layout_height="97dp"
-                android:paddingLeft="10dp"
-                android:text="All of these are negatively affected by sleep deprivation.
 
-A study on medical interns provides a good example."
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:paddingLeft="10dp"
+                android:text="All of these are negatively affected by sleep deprivation.A study on medical interns provides a good example."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -386,11 +382,11 @@ A study on medical interns provides a good example."
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="122dp"
+                android:layout_height="77dp"
                 android:paddingLeft="10dp"
                 android:text="Good sleep can maximize problem-solving skills and enhance memory. Poor sleep has been shown to impair brain function."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -407,11 +403,12 @@ A study on medical interns provides a good example."
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-/////////////////////////////////////////////////////////////////
+
+
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="4. Good sleep can maximize athletic performance"
@@ -435,39 +432,39 @@ A study on medical interns provides a good example."
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="62dp"
                 android:paddingLeft="10dp"
                 android:text="Sleep has been shown to enhance athletic performance."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="121dp"
+                android:layout_height="97dp"
                 android:paddingLeft="10dp"
                 android:text="In a study on basketball players, longer sleep was shown to significantly improve speed, accuracy, reaction times, and mental well-being."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="118dp"
+                android:layout_height="81dp"
                 android:paddingLeft="10dp"
                 android:text="Less sleep duration has also been associated with poor exercise performance and functional limitation in older women."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -487,11 +484,11 @@ A study on medical interns provides a good example."
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="122dp"
+                android:layout_height="75dp"
                 android:paddingLeft="10dp"
                 android:text="Longer sleep has been shown to improve many aspects of athletic and physical performance."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -508,11 +505,12 @@ A study on medical interns provides a good example."
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-//////////////////////////////////////////////////////////
+
+
 
             <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
+
+                  android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="5. Poor sleepers have a greater risk of heart disease and stroke"
@@ -536,39 +534,39 @@ A study on medical interns provides a good example."
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="92dp"
+                android:layout_height="57dp"
                 android:paddingLeft="10dp"
                 android:text="Sleep quality and duration can have a major effect on many health risk factors."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="91dp"
+                android:layout_height="58dp"
                 android:paddingLeft="10dp"
                 android:text="These are the factors believed to drive chronic diseases, including heart disease."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="152dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="A review of 15 studies found that people who don’t get enough sleep are at far greater risk of heart disease or stroke than those who sleep 7–8 hours per night."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -588,11 +586,11 @@ A study on medical interns provides a good example."
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="95dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="Sleeping less than 7–8 hours per night is linked to an increased risk of heart disease and stroke."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -609,16 +607,15 @@ A study on medical interns provides a good example."
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-/////////////////////////////////////////////////////////////
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="106dp"
-                android:gravity="center"
-                android:text="6. Sleep Affects Glucose Metabolism and Type 2 Diabetes Risk"
+                android:layout_height="56dp"
+                android:paddingLeft="10dp"
+                android:text="6.Sleep Affects Glucose Metabolism and Type 2 Diabetes Risk"
                 android:textColor="#FDFEFE"
-                android:textSize="25sp"
+                android:textSize="23sp"
                 android:textStyle="bold" />
 
 
@@ -637,41 +634,41 @@ A study on medical interns provides a good example."
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="177dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Experimental sleep restriction affects blood sugar and reduces insulin sensitivity. In a study in healthy young men, restricting sleep to 4 hours per night for 6 nights in a row caused symptoms of prediabetes."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="144dp"
+                android:layout_height="104dp"
                 android:paddingLeft="10dp"
                 android:text="These symptoms resolved after one week of increased sleep duration.
 
 Poor sleep habits are also strongly linked to adverse effects on blood sugar in the general population."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
-                android:layout_height="123dp"
+                android:layout_height="79dp"
                 android:paddingLeft="10dp"
                 android:text="Those sleeping less than 6 hours per night have repeatedly been shown to be at an increased risk of type 2 diabetes."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -691,11 +688,11 @@ Poor sleep habits are also strongly linked to adverse effects on blood sugar in 
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="102dp"
                 android:paddingLeft="10dp"
                 android:text="Sleep deprivation can cause prediabetes in healthy adults in as little as 6 days. Many studies show a strong link between short sleep duration and type 2 diabetes."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -711,28 +708,6 @@ Poor sleep habits are also strongly linked to adverse effects on blood sugar in 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
         </LinearLayout>

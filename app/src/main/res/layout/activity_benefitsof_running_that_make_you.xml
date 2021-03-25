@@ -48,8 +48,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="38dp"
-                android:gravity="center"
-
+                android:paddingLeft="10dp"
                 android:text="Running Is Good for Your Heart"
                 android:textColor="#FDFEFE"
                 android:textSize="25sp"
@@ -60,13 +59,12 @@
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="289dp"
+                android:layout_height="225dp"
                 android:paddingLeft="10dp"
                 android:text="So why exactly is running good for you? For starters, running is the king of cardio. Running even five to 10 minutes a day, at slow speeds (how does a nice 12-minute mile sound to you?) is associated with a drastically reduced risk of dying from cardiovascular disease, according to a landmark study in the Journal of the American College of Cardiology."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -83,13 +81,12 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="238dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Compared with never-runners, regular runners have half the chance of dying from heart disease. Every time you run, you decrease your resting heart rate, so  so your heart doesn't need to work as hard, says exercise physiologist Greg Justice, founder of AYC Health / Fitness in Kansas city."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
 
 
@@ -107,8 +104,6 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-///////////////////////////////////////////////////////////
-
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="38dp"
@@ -123,13 +118,12 @@
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="203dp"
+                android:layout_height="152dp"
                 android:paddingLeft="10dp"
                 android:text="One of the biggest benefits of running is its mood-boosting effects. When you run, your brain pumps out two powerful feel-good chemicals, endorphins and endocannabinoids, explains Justice. The latter sounds a lot like cannabis, right?"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -146,13 +140,12 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="261dp"
+                android:layout_height="205dp"
                 android:paddingLeft="10dp"
                 android:text="That's for a reason. Chemically, the endocannabinoids your body produces during a run aren't all that different from marijuana's moodaltering chemical, THC. The most studied mid-run endocannabinoid, called anandamide, was actually discovered when scientists were trying to figure out how pot gets people lit."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
 
             <View
@@ -169,8 +162,6 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            //////////////////////////////////////////////
-
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="38dp"
@@ -185,13 +176,12 @@
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="265dp"
+                android:layout_height="195dp"
                 android:paddingLeft="10dp"
                 android:text="A Medicine / Science in Sports / Exercise study of nearly 75,000 runners and walkers found that, nope, running doesn't up the risk of osteoarthritis—even people who cover 26.2 miles on the regular. In fact, the study showed runners were half as likely to suffer from knee osteoarthritis compared with walkers."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -208,19 +198,17 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="292dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Surprised? Every time you pound the pavement, you stress your bones and cartilage, just like your muscles, causing them to spring back stronger, explains Janet Hamilton, C.S.C.S., an exercise physiologist with Running Strong in Atlanta. Low-impact exercises like walking,biking, or swimming don't have the same bone-building benefits of running."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"></View>
-
+                android:layout_height="20dp"></View>
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -231,7 +219,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-///////////////////////////////////////////////////
+
 
             <TextView
                 android:layout_width="match_parent"
@@ -247,13 +235,12 @@
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="204dp"
+                android:layout_height="152dp"
                 android:paddingLeft="10dp"
                 android:text="Running requires a lot of fuel (aka calories). In fact, the average 150-pound person will burn about 12.2 calories per minute running a 10-minute mile, says Hamilton. Not too shabby, eh? And that's one of the body benefits of running on flat terrain."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -270,18 +257,17 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="99dp"
+                android:layout_height="76dp"
                 android:paddingLeft="10dp"
                 android:text="Head outside where wind and hills up your effort and you can expect to burn even more."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"></View>
+                android:layout_height="20dp"></View>
 
             <View
                 android:layout_width="fill_parent"
@@ -292,8 +278,6 @@
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
-
-////////////////////////////////////////////////////
 
             <TextView
                 android:layout_width="match_parent"
@@ -309,13 +293,12 @@
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="204dp"
+                android:layout_height="151dp"
                 android:paddingLeft="10dp"
                 android:text="You've probably caught on to this benefit of running when you found your legs to be sore AF the day after a 10k, but here's a little background on why. Your body's biggest muscles are all in your legs, and running is advantageous to all of them:"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -332,18 +315,17 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="149dp"
+                android:layout_height="103dp"
                 android:paddingLeft="10dp"
                 android:text="your inner and outer thighs, your gluteus maximus, quads, hamstrings, and calves, says Justice. That makes hitting the pavement like a dozen leg workouts in one."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"></View>
+                android:layout_height="20dp"></View>
 
             <View
                 android:layout_width="fill_parent"
@@ -355,8 +337,6 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-
-////////////////////////////////////////////////////////////
 
             <TextView
                 android:layout_width="match_parent"
@@ -372,20 +352,18 @@
                 android:layout_height="10dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="201dp"
+                android:layout_height="148dp"
                 android:paddingLeft="10dp"
                 android:text="The lower body isn't the only part of you that feels the benefits of running. It's a core-carver, challenging not only your six-pack rectus abdominis, but also the deeper core muscles, including your obliques, erector spinae, and transverse abdominis."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
             <ImageView
-
                 android:layout_width="match_parent"
                 android:layout_height="425dp"
                 app:srcCompat="@drawable/likewhoa" />
@@ -395,18 +373,17 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
-                android:layout_height="166dp"
+                android:layout_height="98dp"
                 android:paddingLeft="10dp"
                 android:text="Those deep muscles play important roles stabilizing your spine, transferring power between your swinging arms and legs and sucking in your gut, Justice says."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"></View>
+                android:layout_height="20dp"></View>
 
             <View
                 android:layout_width="fill_parent"

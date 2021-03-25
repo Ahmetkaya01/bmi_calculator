@@ -3,18 +3,27 @@ package com.example.calculatorbmi;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+
 import android.os.Bundle;
+
 import android.view.View;
+
 import android.widget.Button;
+
 import android.widget.ImageButton;
 
+
 public class HomeActivity extends AppCompatActivity {
+
 
     //walking dance running medidation sleep//
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
+
+
+
 
         Button happiniess = (Button) findViewById(R.id.Happines);
 
@@ -25,7 +34,6 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
-
         Button antistress = (Button) findViewById(R.id.Antistress);
 
         antistress.setOnClickListener(new View.OnClickListener() {
@@ -35,13 +43,13 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
-
         Button allfooddiet = (Button) findViewById(R.id.Allfooddiet);
 
         allfooddiet.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(HomeActivity.this, allfooddiet.class));
+
             }
         });
 

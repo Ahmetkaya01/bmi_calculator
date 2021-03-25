@@ -47,7 +47,7 @@
                 android:textColor="#FDFEFE"
 
                 android:paddingLeft="10sp"
-                android:textSize="28sp" />
+                android:textSize="25sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -58,7 +58,7 @@
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
 
@@ -77,11 +77,11 @@
             <TextView
                 android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="531dp"
+                android:layout_height="418dp"
+                android:paddingLeft="10dp"
                 android:text="The number one thing that starts our day right is making sure we move our bodies first thing in the morning. When we kick off our day with a workout, it guarantees that we feel more alert, energized, and ready to take on whatever comes our way. We especially love high-intensity interval training (HIIT) workouts in the morning because they’re quick to complete and they tone your body from head to toe.HIIT workouts efficiently and effectively boost your metabolism, increase your energy levels, and sculpt your muscles.Plus, your metabolism will be revved all day long, and you’ll feel good that you accomplished something before even sitting at your desk for the day."
                 android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -92,7 +92,7 @@
             <ImageView
                 android:id="@+id/imageView11"
                 android:layout_width="match_parent"
-                android:layout_height="293dp"
+                android:layout_height="308dp"
                 app:srcCompat="@drawable/tips5" />
             <View
                 android:layout_width="fill_parent"
@@ -102,21 +102,21 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="262dp"
+                android:layout_height="205dp"
                 android:paddingLeft="10dp"
                 android:text="Now, if we're starting to lose you because you've never been a morning workout lover, we have a few tips to help you form a morning workout routine that doesn't feel like a chore. In fact, once you get a taste of how great you feel the rest of the day after your early morning sweat session, we bet you won't look back!"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
 
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="365dp"
+                android:layout_height="298dp"
                 android:paddingLeft="10dp"
                 android:text="Because being well-rested is so important for your health and feeling energized during the day, be sure you're going to bed early enough. Make sure you set your alarm at a reasonable time: you need to have enough time for your workout, but you want your wake-up time to be sustainable so that you can form a workable habit. Moving the alarm clock away from the bed can help ensure that you actually drag yourself out from under the blankets and start lacing up your sneakers."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <ImageView
                 android:id="@+id/imageView"
@@ -131,7 +131,7 @@
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="20dp"
                 android:text="Before bed, we like to lay out our clothes, sneakers, earbuds, headbands, and any sort of gear we might need for our morning workout. That way, everything is ready to go and we aren't rummaging through the closet trying to find the right leggings while still rubbing the sleep from our eyes. It also helps to throw a water bottle in the fridge the night before, so a quick grab of cold water is at the ready. You can even prep a healthy breakfast, such as overnight oats or a protein-packed smoothie, and stash it in the fridge." />
 
             <View
@@ -157,7 +157,7 @@
                 android:layout_height="match_parent"
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp"
+                android:textSize="20dp"
                 android:text="Plan your workout the night before so that you don't have to make decisions or put in too much thought when your brain is still wishing it was checked out in la-la land. The more you can do the night before to cut down on the time and brain power you need in the morning before your workout, the better."/>
 
             <View
@@ -174,7 +174,7 @@
                 android:paddingLeft="10dp"
                 android:text="So, put together a playlist of your favorite pump-up songs, set one (or two!) alarms, and get excited for your new morning workout routine. This workout doesn’t require any equipment, so it’s the perfect routine to do anytime, anywhere."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
@@ -183,11 +183,11 @@
             <TextView
                 android:id="@+id/tr"
                 android:layout_width="match_parent"
-                android:layout_height="124dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Go through one or two rounds of the five HIIT moves below to transform your morning exercise routine and start your day off right."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -252,7 +252,7 @@
 Jump up and switch your legs in mid-air so that you land in a lunge position with your left leg in front.
 Continue jumping back and forth, switching sides with each rep."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp"/>
 
             <View
                 android:layout_width="fill_parent"
@@ -266,7 +266,7 @@ Continue jumping back and forth, switching sides with each rep."
                 android:paddingLeft="10dp"
                 android:text="Continue for 20 seconds, and then rest for 10 seconds. Repeat a total of two times before moving to the next exercise."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -291,6 +291,7 @@ Continue jumping back and forth, switching sides with each rep."
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="Squat Up-Down"
+                android:textStyle="bold"
                 android:textColor="#FDFEFE"
                 android:textSize="25sp" />
 
@@ -312,8 +313,8 @@ Continue jumping back and forth, switching sides with each rep."
             <TextView
                 android:id="@+id/nbvc"
                 android:layout_width="match_parent"
-                android:layout_height="54dp"
-                android:gravity="center"
+                android:layout_height="36dp"
+                android:paddingLeft="10dp"
                 android:text="Sculpts your lower body and core."
                 android:textColor="#FDFEFE"
                 android:textSize="23sp"
@@ -327,14 +328,14 @@ Continue jumping back and forth, switching sides with each rep."
             <TextView
                 android:id="@+id/asdcv"
                 android:layout_width="match_parent"
-                android:layout_height="251dp"
+                android:layout_height="229dp"
                 android:paddingLeft="10dp"
                 android:text="Start in a standing position with your hands on your hips, feet together, and a slight bend in your knees.
 Step your left leg back, lowering into a half-kneeling position.
 Repeat on your right leg, then immediately step your right leg out in front of you to push yourself back up to the starting position.
 Switch the starting leg with each rep."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -397,7 +398,7 @@ Switch the starting leg with each rep."
                 android:id="@+id/sc"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="Works your core while boosting your heart rate."
                 android:textColor="#FDFEFE"
@@ -417,7 +418,7 @@ Lift your left knee up to touch your left palm, then quickly alternate sides, li
 Switch sides with each rep."
                 android:paddingLeft="10dp"
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -432,7 +433,7 @@ Switch sides with each rep."
                 android:text="Continue for 20 seconds, and then rest for 10 seconds. Repeat a total of two times before moving on to the next exercise."
                 android:textColor="#FDFEFE"
                 android:textStyle="bold"
-                android:textSize="23sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -468,20 +469,24 @@ Switch sides with each rep."
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="391dp"
-                android:src="@drawable/sideplank" />
+                android:layout_height="415dp"
+                android:src="@drawable/sideplank9" />
 
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
 
             <TextView
                 android:id="@+id/juyt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
+                android:paddingLeft="10dp"
                 android:textStyle="bold"
                 android:text="Sculpts your obliques, core, hips, and shoulders."
                 android:textColor="#FDFEFE"
-                android:textSize="25sp" />
+                android:textSize="21dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -499,7 +504,7 @@ Start on the ground in a side plank position with your right foot placed out in 
 Lower your hips up and down a few inches.
 Complete all reps before switching sides."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -510,11 +515,11 @@ Complete all reps before switching sides."
                 android:id="@+id/qwd"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="center"
                 android:textStyle="bold"
+                android:paddingLeft="10dp"
                 android:text="Perform 15 reps on each side."
                 android:textColor="#FDFEFE"
-                android:textSize="25sp" />
+                android:textSize="23dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -532,7 +537,7 @@ Complete all reps before switching sides."
                 android:layout_height="20dp">
             </View>
 
-            ///////////////////////////////////////////////////////////////////
+
             <TextView
                 android:id="@+id/lkh"
                 android:layout_width="match_parent"
@@ -550,8 +555,8 @@ Complete all reps before switching sides."
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="388dp"
-                android:src="@drawable/mountainclimbers" />
+                android:layout_height="409dp"
+                android:src="@drawable/mountainclimbersxd" />
 
             <View
                 android:layout_width="fill_parent"
@@ -583,7 +588,7 @@ Bring your right knee under your torso up towards your chest.
 Return your right leg to starting position while pulling your left knee under your torso up towards your chest.
 Switch sides with each rep and move as quickly as possible while keeping good form."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -597,12 +602,12 @@ Switch sides with each rep and move as quickly as possible while keeping good fo
 
                 android:text="Continue for 20 seconds. Then rest for 10 seconds. Repeat a total of two times."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <View

@@ -19,7 +19,7 @@ public class ObeseActivity extends AppCompatActivity {
         show.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(ObeseActivity.this,browse.class));
+                startActivity(new Intent(ObeseActivity.this,HomeActivity.class));
             }
         });
     }

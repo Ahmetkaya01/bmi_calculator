@@ -22,486 +22,484 @@
 
                 //DONE//
             //DONE//
-                 //DONE//
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="3.5dp"
-                android:background="@android:color/background_light">
-
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="15dp">
-            </View>
-            <TextView
-                android:id="@+id/t1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:text="What To Know About Exercise And How To Start ?"
-                android:textColor="#FDFEFE"
-
-                android:textSize="30sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="227dp"
-                android:src="@drawable/exercise" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-                android:id="@+id/t4"
-                android:layout_width="match_parent"
-                android:layout_height="151dp"
-                android:text="Exercise involves engaging in physical activity and increasing the heart rate beyond resting levels. It is an important part of preserving physical and mental health."
-
-                android:textColor="#FDFEFE"
-
-                android:paddingLeft="10dp"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="251dp"
-
-                android:src="@drawable/ingym" />
-
-
-
-
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="1dp"
-                android:background="@android:color/background_light">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:text="Burpee and Tuck Jumps"
-                android:textColor="#FDFEFE"
-                android:textSize="25sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="199dp"
-                android:paddingLeft="10dp"
-                android:text="This hybrid move combines elements of burpees and tuck jumps, and we won’t lie—sweat will flow. Not only does this powerhouse exercise work nearly every major muscle in the body, it also doubles as an intense cardio challenge."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <pl.droidsonroids.gif.GifImageView
-                android:layout_width="match_parent"
-                android:layout_height="404dp"
-                android:src="@drawable/burpe" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-
-                android:text="Luckily it’s actually not as complicated to perform this move as it looks. Here's how to do it:
-
-Start in a push-up position with your elbows fully extended.
-Use your body’s momentum to launch into a tuck jump, bringing your knees up to your chest as far as possible without compromising your form.
-Land with soft knees.
-Jump your feet back into the push-up position and start again."
-                android:textColor="#FDFEFE"
-                android:paddingLeft="10dp"
-                android:textSize="20sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="32dp"
-                android:paddingLeft="10dp"
-                android:text=" - Complete 10 reps"
-                android:textColor="#FDFEFE"
-                android:textSize="20sp"
-                android:textStyle="bold" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="1dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="Commando"
-                android:textStyle="bold"
-                android:textColor="#FDFEFE"
-                android:textSize="25sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="115dp"
-                android:paddingLeft="10dp"
-                android:text="This dynamic move works the shoulders, chest, core, and arms, helping build upper body strength and endurance."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <pl.droidsonroids.gif.GifImageView
-                android:layout_width="match_parent"
-                android:layout_height="323dp"
-                android:src="@drawable/commando" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingLeft="10dp"
-                android:text="Itsines shares how it’s done:
-
-Start in a forearm plank with your core tight.
-Then, one arm at a time, press your way to a straight-arm plank (push-up position).
-"
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="80dp"
-                android:paddingLeft="10dp"
-                android:text=" - Complete 12 reps starting with your right arm and 12 starting with your left for 24 reps total."
-                android:textColor="#FDFEFE"
-                android:textSize="20sp"
-                android:textStyle="bold" />
-
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="1.5dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:text="Snap Jump"
-                android:textColor="#FDFEFE"
-                android:textSize="25sp" />
-
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="176dp"
-                android:paddingLeft="10dp"
-                android:text="The snap jump is a simplified version of the first move, but that doesn’t mean it’s easy. You’ll still get your heart pumping, and work your shoulders, core, glutes, hip flexors, hamstrings, quadriceps, and calves."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <pl.droidsonroids.gif.GifImageView
-                android:layout_width="match_parent"
-                android:layout_height="251dp"
-                android:src="@drawable/snapjump" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:paddingLeft="10dp"
-                android:text=" -Here’s how to do it:"
-                android:textColor="#FDFEFE"
-                android:textSize="20sp"
-                android:textStyle="bold" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="87dp"
-                android:paddingLeft="10dp"
-                android:text="Start in a push-up position.
-Jump your legs up towards your chest (tuck position) and back out as quickly as possible."
-                android:textColor="#FDFEFE"
-                android:textSize="20sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="10dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="36dp"
-                android:paddingLeft="10dp"
-                android:text=" - Complete 15 reps."
-                android:textColor="#FDFEFE"
-                android:textSize="20sp"
-                android:textStyle="bold" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="1.5dp"
-                android:background="@android:color/background_light">
-            </View>
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:text="Toe Taps"
-                android:textColor="#FDFEFE"
-                android:textSize="25sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="126dp"
-                android:paddingLeft="10dp"
-                android:text="You’ll get that with this move, which works the abdominals and hip flexors, strengthening your core for better total body stability and posture."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <pl.droidsonroids.gif.GifImageView
-                android:layout_width="match_parent"
-                android:layout_height="284dp"
-                android:src="@drawable/toeta" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="203dp"
-                android:paddingLeft="10dp"
-                android:text="To perform the exercise:                     Start on your back. Raise legs up to the sky (try to keep them as straight as possible). Bring your arms and upper body up to meet your toes in one fluid movement, engaging your core rather than using momentum.
-
-                "
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="36dp"
-                android:paddingLeft="10dp"
-                android:text=" -  Complete 15 reps."
-                android:textColor="#FDFEFE"
-                android:textSize="20sp"
-                android:textStyle="bold" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="1.5dp"
-                android:background="@android:color/background_dark">
-
-            </View>
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="X Hop"
-                android:textStyle="bold"
-                android:textColor="#FDFEFE"
-
-                android:textSize="25sp" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingLeft="10dp"
-                android:text="You’ll torch calories, improve your cardiovascular fitness, and increase your muscular strength and endurance as you work your glutes, quads, hamstrings, and core."
-                android:textColor="#FDFEFE"
-                android:textSize="23sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <pl.droidsonroids.gif.GifImageView
-                android:layout_width="match_parent"
-                android:layout_height="339dp"
-                android:src="@drawable/xhop" />
-
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
-
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:paddingLeft="10dp"
-                android:text=" -  Here’s how to do it:"
-                android:textColor="#FDFEFE"
-                android:textSize="20sp"
-                android:textStyle="bold" />
-            <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingLeft="10dp"
-                android:text=" Start in a lunge with your right leg forward in front of you. Your hands should be on your hips.
-Jump to a squat, bringing your arms forward together in front of you.
-Jump back out to a lunge but with the opposite (left) leg out in front."
-                android:textColor="#FDFEFE"
-                android:textSize="20sp" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
+<!--                 //DONE//-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="10dp">-->
+<!--            </View>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="3.5dp"-->
+<!--                android:background="@android:color/background_light">-->
+
+<!--            </View>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="15dp">-->
+<!--            </View>-->
+<!--            <TextView-->
+<!--                android:id="@+id/t1"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:gravity="center"-->
+<!--                android:textStyle="bold"-->
+<!--                android:text="What To Know About Exercise And How To Start ?"-->
+<!--                android:textColor="#FDFEFE"-->
+
+<!--                android:textSize="30sp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="10dp">-->
+<!--            </View>-->
+
+
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="227dp"-->
+<!--                android:src="@drawable/exercise" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/t4"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="107dp"-->
+<!--                android:paddingLeft="10dp"-->
+
+<!--                android:text="Exercise involves engaging in physical activity and increasing the heart rate beyond resting levels. It is an important part of preserving physical and mental health."-->
+
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+
+<!--            <ImageView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="251dp"-->
+<!--                android:src="@drawable/ingym" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="1dp"-->
+<!--                android:background="@android:color/background_light">-->
+
+<!--            </View>-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:gravity="center"-->
+<!--                android:textStyle="bold"-->
+<!--                android:text="Burpee and Tuck Jumps"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="25sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="152dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="This hybrid move combines elements of burpees and tuck jumps, and we won’t lie—sweat will flow. Not only does this powerhouse exercise work nearly every major muscle in the body, it also doubles as an intense cardio challenge."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="404dp"-->
+<!--                android:src="@drawable/burpe" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+
+<!--                android:text="Luckily it’s actually not as complicated to perform this move as it looks. Here's how to do it:-->
+
+<!--Start in a push-up position with your elbows fully extended.-->
+<!--Use your body’s momentum to launch into a tuck jump, bringing your knees up to your chest as far as possible without compromising your form.-->
+<!--Land with soft knees.-->
+<!--Jump your feet back into the push-up position and start again."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:textSize="20sp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="15dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="32dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text=" - Complete 10 reps"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="1dp"-->
+<!--                android:background="@android:color/background_light">-->
+
+<!--            </View>-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:gravity="center"-->
+<!--                android:text="Commando"-->
+<!--                android:textStyle="bold"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="25sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="82dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="This dynamic move works the shoulders, chest, core, and arms, helping build upper body strength and endurance."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="233dp"-->
+<!--                android:src="@drawable/commando" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Itsines shares how it’s done:-->
+
+<!--Start in a forearm plank with your core tight.-->
+<!--Then, one arm at a time, press your way to a straight-arm plank (push-up position).-->
+<!--"               android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="10dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="80dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text=" - Complete 12 reps starting with your right arm and 12 starting with your left for 24 reps total."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="1.5dp"-->
+<!--                android:background="@android:color/background_light">-->
+
+<!--            </View>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:gravity="center"-->
+<!--                android:textStyle="bold"-->
+<!--                android:text="Snap Jump"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="25sp" />-->
+
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="The snap jump is a simplified version of the first move, but that doesn’t mean it’s easy. You’ll still get your heart pumping, and work your shoulders, core, glutes, hip flexors, hamstrings, quadriceps, and calves."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="251dp"-->
+<!--                android:src="@drawable/snapjump" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="30dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text=" -Here’s how to do it:"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="10dp">-->
+<!--            </View>-->
+
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="87dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="Start in a push-up position.-->
+<!--Jump your legs up towards your chest (tuck position) and back out as quickly as possible."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20sp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="10dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="36dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text=" - Complete 15 reps."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="1.5dp"-->
+<!--                android:background="@android:color/background_light">-->
+<!--            </View>-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:gravity="center"-->
+<!--                android:textStyle="bold"-->
+<!--                android:text="Toe Taps"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="25sp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="You’ll get that with this move, which works the abdominals and hip flexors, strengthening your core for better total body stability and posture."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="284dp"-->
+<!--                android:src="@drawable/toeta" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="152dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="To perform the exercise:                     Start on your back. Raise legs up to the sky (try to keep them as straight as possible). Bring your arms and upper body up to meet your toes in one fluid movement, engaging your core rather than using momentum."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="10dp">-->
+<!--            </View>-->
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="36dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text=" -  Complete 15 reps."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="25dp">-->
+<!--            </View>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="1.5dp"-->
+<!--                android:background="@android:color/background_light">-->
+
+<!--            </View>-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="25dp">-->
+<!--            </View>-->
+
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:gravity="center"-->
+<!--                android:text="X Hop"-->
+<!--                android:textStyle="bold"-->
+<!--                android:textColor="#FDFEFE"-->
+
+<!--                android:textSize="25sp" />-->
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text="You’ll torch calories, improve your cardiovascular fitness, and increase your muscular strength and endurance as you work your glutes, quads, hamstrings, and core."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20dp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <pl.droidsonroids.gif.GifImageView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="366dp"-->
+<!--                android:src="@drawable/xhop" />-->
+
+
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
+
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="30dp"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text=" -  Here’s how to do it:"-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textStyle="bold" />-->
+<!--            <TextView-->
+
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:paddingLeft="10dp"-->
+<!--                android:text=" Start in a lunge with your right leg forward in front of you. Your hands should be on your hips.-->
+<!--Jump to a squat, bringing your arms forward together in front of you.-->
+<!--Jump back out to a lunge but with the opposite (left) leg out in front."-->
+<!--                android:textColor="#FDFEFE"-->
+<!--                android:textSize="20sp" />-->
+<!--            <View-->
+<!--                android:layout_width="fill_parent"-->
+<!--                android:layout_height="20dp">-->
+<!--            </View>-->
 
             <TextView
 
@@ -512,17 +510,7 @@ Jump back out to a lunge but with the opposite (left) leg out in front."
                 android:textColor="#FDFEFE"
                 android:textSize="20sp"
                 android:textStyle="bold" />
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp">
-            </View>
 
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="1.5dp"
-                android:background="@android:color/background_light">
-
-            </View>
 
             <View
                 android:layout_width="fill_parent"
@@ -535,7 +523,7 @@ Jump back out to a lunge but with the opposite (left) leg out in front."
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="30dp"
                 android:layout_marginVertical="15dp"
-                android:background="@drawable/btn_bg"
+                android:background="@drawable/button_border"
                 android:gravity="center"
                 android:text="See The Articles"
                 android:textColor="#fafafa" />

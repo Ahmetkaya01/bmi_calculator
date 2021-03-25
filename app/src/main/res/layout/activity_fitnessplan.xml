@@ -38,7 +38,6 @@
                 android:layout_height="20dp">
             </View>
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -53,7 +52,6 @@
             </View>
 
             <ImageView
-                android:id="@+id/p2"
                 android:layout_width="match_parent"
                 android:layout_height="271dp"
                 app:srcCompat="@drawable/updateworkout" />
@@ -67,13 +65,12 @@
 
 
             <TextView
-                android:id="@+id/t3"
                 android:layout_width="match_parent"
-                android:layout_height="149dp"
+                android:layout_height="127dp"
                 android:paddingLeft="10dp"
                 android:text=" Take this 30-day beach body challenge for toned arms, shapely legs and a slim waist. This equipment-free workout can be done from the comfort of your home, on-the-go or at the beach."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -82,7 +79,6 @@
 
 
             <ImageView
-                android:id="@+id/imageView11"
                 android:layout_width="match_parent"
                 android:layout_height="290dp"
                 app:srcCompat="@drawable/fitness1" />
@@ -94,7 +90,6 @@
 
 
             <ImageView
-                android:id="@+id/imageView"
                 android:layout_width="match_parent"
                 android:layout_height="739dp"
                 app:srcCompat="@drawable/planfitness" />
@@ -104,7 +99,6 @@
                 android:layout_height="30dp"></View>
 
             <ImageView
-                android:id="@+id/imageView"
                 android:layout_width="match_parent"
                 android:layout_height="739dp"
                 app:srcCompat="@drawable/planfitness2" />
@@ -125,7 +119,6 @@
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -142,8 +135,8 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="422dp"
-                android:src="@drawable/pushups" />
+                android:layout_height="281dp"
+                android:src="@drawable/guidepushups" />
 
             <View
                 android:layout_width="fill_parent"
@@ -151,7 +144,6 @@
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -168,13 +160,12 @@
             </View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Push-ups are a great exercise to challenge your core and upper-body strength. To decrease the difficulty of the exercise, you can add an incline position by resting your hands on a wall, bench or chair."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -193,12 +184,10 @@
             </View>
 
 
-            <!-- things to scroll -->
- -----------------------------------------------------
+
 
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -214,8 +203,8 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="409dp"
-                android:src="@drawable/powerjacks" />
+                android:layout_height="323dp"
+                android:src="@drawable/minutecan" />
 
             <View
                 android:layout_width="fill_parent"
@@ -223,7 +212,6 @@
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -238,13 +226,12 @@
             </View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Power jacks are a great full-body cardio exercise to burn fat. By adding the power to the jack, you’ll target your glutes and thighs and increase the difficulty of the exercise by leaps and bounds. For a modified version, perform regular jumping jacks without the added squat motion. "
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -261,10 +248,8 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
-            --------------------------------------------------
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -275,13 +260,13 @@
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="405dp"
-                android:src="@drawable/plankup" />
+                android:layout_height="236dp"
+                android:src="@drawable/benefitspush" />
 
             <View
                 android:layout_width="fill_parent"
@@ -289,7 +274,6 @@
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -304,13 +288,12 @@
             </View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Plank Up-Downs are a great exercise for strengthening your core, shoulders and triceps in one go while keeping your heart rate in the fat-burning zone. For a modified version, leave your knees in contact with the ground.  "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -329,7 +312,6 @@
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -344,8 +326,8 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="411dp"
-                android:src="@drawable/plyo" />
+                android:layout_height="523dp"
+                android:src="@drawable/forcahmpion" />
 
             <View
                 android:layout_width="fill_parent"
@@ -353,7 +335,6 @@
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -368,7 +349,6 @@
             </View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -376,7 +356,7 @@
 
 Note: For this exercise, right-left is considered one repetition.   "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -394,10 +374,8 @@ Note: For this exercise, right-left is considered one repetition.   "
                 android:layout_height="20dp">
             </View>
 
-            --------------------------------------------------
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -413,8 +391,8 @@ Note: For this exercise, right-left is considered one repetition.   "
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="398dp"
-                android:src="@drawable/sideplank" />
+                android:layout_height="275dp"
+                android:src="@drawable/crunchesplank" />
 
             <View
                 android:layout_width="fill_parent"
@@ -422,7 +400,6 @@ Note: For this exercise, right-left is considered one repetition.   "
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -437,7 +414,6 @@ Note: For this exercise, right-left is considered one repetition.   "
             </View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -445,7 +421,7 @@ Note: For this exercise, right-left is considered one repetition.   "
 
 Note: For this exercise, complete the required amount of repetitions on one side and then switch to the opposite side.   "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -453,7 +429,6 @@ Note: For this exercise, complete the required amount of repetitions on one side
             </View>
 
 
-            --------------------------------------------------
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -466,7 +441,6 @@ Note: For this exercise, complete the required amount of repetitions on one side
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -482,8 +456,8 @@ Note: For this exercise, complete the required amount of repetitions on one side
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="403dp"
-                android:src="@drawable/dropsquats" />
+                android:layout_height="268dp"
+                android:src="@drawable/forthebuns" />
 
             <View
                 android:layout_width="fill_parent"
@@ -491,7 +465,6 @@ Note: For this exercise, complete the required amount of repetitions on one side
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -506,13 +479,12 @@ Note: For this exercise, complete the required amount of repetitions on one side
             </View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Add a little more intensity to your squat. Drop squats target your glutes and quadriceps and because they’re explosive, you’ll burn extra calories. If drop squats are too challenging, perform regular air squats instead.   "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -531,7 +503,6 @@ Note: For this exercise, complete the required amount of repetitions on one side
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -547,8 +518,8 @@ Note: For this exercise, complete the required amount of repetitions on one side
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="410dp"
-                android:src="@drawable/kneetucks" />
+                android:layout_height="249dp"
+                android:src="@drawable/modifedmoun" />
 
             <View
                 android:layout_width="fill_parent"
@@ -556,7 +527,6 @@ Note: For this exercise, complete the required amount of repetitions on one side
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -571,13 +541,12 @@ Note: For this exercise, complete the required amount of repetitions on one side
             </View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
                 android:text="Look and feel your best at the beach! Knee tucks work both your upper and lower abdominal muscles to get you beach body ready.   "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -597,7 +566,6 @@ Note: For this exercise, complete the required amount of repetitions on one side
 
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -613,8 +581,8 @@ Note: For this exercise, complete the required amount of repetitions on one side
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_height="400dp"
-                android:src="@drawable/mountainclimbers" />
+                android:layout_height="408dp"
+                android:src="@drawable/mountainclimbersxd" />
 
             <View
                 android:layout_width="fill_parent"
@@ -622,7 +590,6 @@ Note: For this exercise, complete the required amount of repetitions on one side
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -637,7 +604,6 @@ Note: For this exercise, complete the required amount of repetitions on one side
             </View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -645,7 +611,7 @@ Note: For this exercise, complete the required amount of repetitions on one side
 
 Note: For this exercise, right-left is considered one repetition.    "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -665,10 +631,10 @@ Note: For this exercise, right-left is considered one repetition.    "
 
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
+                android:textStyle="bold"
                 android:text="- Burpees -"
                 android:textColor="#FDFEFE"
                 android:textSize="25sp" />
@@ -680,13 +646,13 @@ Note: For this exercise, right-left is considered one repetition.    "
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp">
+                android:layout_height="10dp">
             </View>
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
                 android:layout_height="409dp"
-                android:src="@drawable/burpess" />
+                android:src="@drawable/burpe" />
 
             <View
                 android:layout_width="fill_parent"
@@ -694,7 +660,6 @@ Note: For this exercise, right-left is considered one repetition.    "
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -709,7 +674,6 @@ Note: For this exercise, right-left is considered one repetition.    "
             </View>
 
             <TextView
-                android:id="@+id/t1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -717,15 +681,13 @@ Note: For this exercise, right-left is considered one repetition.    "
 
 Note: For a modified version, walk your feet up to your hands one at a time and then stand nice and tall. Omit the jumping portion at the top of the movement.  "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
 
-
-            --------------------------------------------------
 
 
             <View
@@ -745,7 +707,6 @@ Note: For a modified version, walk your feet up to your hands one at a time and 
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -770,7 +731,6 @@ Note: For a modified version, walk your feet up to your hands one at a time and 
             </View>
 
             <TextView
-                android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
@@ -785,7 +745,7 @@ Note: For a modified version, walk your feet up to your hands one at a time and 
             </View>
 
             <TextView
-                android:id="@+id/t1"
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="If you think regular planks are easy, try this!  Add plank jacks to your workout routine to elevate your heart rate to the fat-burning zone while increasing your upper-body strength. If you find plank jacks are too challenging, step your feet in and out instead of jumping.
@@ -793,7 +753,7 @@ Note: For a modified version, walk your feet up to your hands one at a time and 
 Note: For this exercise, out-in with your feet is considered one repetition.   "
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"

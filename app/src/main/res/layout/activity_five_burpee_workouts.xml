@@ -68,13 +68,12 @@
                 android:layout_height="20dp"></View>
 
             <TextView
-                android:id="@+id/t3"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:paddingLeft="10dp"
                 android:text="To help you reach your health and fitness goals, we tapped Karena and Katrina from Tone It Up for their advice. Here, they'll let you in on all their wellness secrets, as well as a few tips and tricks along the way."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -83,11 +82,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="133dp"
+                android:layout_height="85dp"
                 android:paddingLeft="10dp"
                 android:text="Burpees are one of those moves that you love to hate—but there's no doubt that they come with a load of body-toning benefits."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -117,13 +116,13 @@
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+                android:layout_height="10dp"></View>
 
 
             <ImageView
                 android:id="@+id/wsd"
                 android:layout_width="match_parent"
-                android:layout_height="324dp"
+                android:layout_height="280dp"
                 app:srcCompat="@drawable/burpesstitle1" />
 
             <View
@@ -132,15 +131,15 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_height="215dp"
+                android:layout_height="176dp"
                 android:paddingLeft="10dp"
                 android:text="Burpees are a full-body exercise which consists of a plank followed by a jump squat. This exercise, which is also known as a squat-thrust, was originally used to test agility and strength in the Army and Navy and has since become a staple in many exercise programs."
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
+                android:layout_height="10dp"></View>
 
 
             <ImageView
@@ -156,11 +155,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="315dp"
+                android:layout_height="252dp"
                 android:paddingLeft="10dp"
                 android:text="Burpees are a popular exercise as they offer several benefits. They bring your heart rate up, which boosts your metabolism and brings your workout to the next level. This also means you burn extra calories long after you've finished your workout. Burpees are often incorporated into HIIT (High Intensity Interval Training) workouts because they quickly get your heart rate in the fat burning zone. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -178,11 +177,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="257dp"
+                android:layout_height="202dp"
                 android:paddingLeft="10dp"
                 android:text="Keep in mind proper form while performing a burpee. It is important you keep your back straight during the plank. Don’t let your midsection sag down and don’t let your hips go too far up in the air. While doing the jump squat portion of the burpee, make sure you land with your knees slightly bent to protect your knees.  "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -191,11 +190,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="133dp"
+                android:layout_height="106dp"
                 android:paddingLeft="10dp"
                 android:text="Get started with this total body burpee workout consisting of five exercises that will strengthen, tone and improve your agility. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -240,11 +239,11 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="98dp"
+                android:layout_height="80dp"
                 android:paddingLeft="10dp"
                 android:text="It is best to start with the classic burpee. These will rev your metabolism and sculpt your full body! "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="20dp"
                 android:textStyle="bold" />
 
             <View
@@ -254,14 +253,14 @@
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="197dp"
+                android:layout_height="174dp"
                 android:paddingLeft="10dp"
                 android:text="Start with your feet hip-width apart, standing tall.
 Jump into the air, then lower your hands to the ground and hop your legs back into plank position.
 Immediately hop your legs forward so that you're in a crouching position.
 From here, jump straight into the air. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -317,31 +316,15 @@ From here, jump straight into the air. "
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-        <TextView
+            <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="88dp"
+                android:layout_height="83dp"
                 android:paddingLeft="10dp"
                 android:text="It is best to start with the classic burpee. These will rev your metabolism and sculpt your full body! "
-            android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textColor="#FDFEFE"
+                android:textSize="21dp"
                 android:textStyle="bold" />
-
-            <View
-                android:layout_width="fill_parent"
-                android:layout_height="20dp"></View>
-
-         <TextView
-
-                android:layout_width="match_parent"
-                android:layout_height="208dp"
-                android:paddingLeft="10dp"
-                android:text="Start with your feet hip-width apart, standing tall.
-Jump into the air, then lower your hands to the ground and hop your legs back into plank position.
-Immediately hop your legs forward so that you're in a crouching position.
-From here, jump straight into the air. "
-             android:textColor="#FDFEFE"
-                android:textSize="23sp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -350,11 +333,27 @@ From here, jump straight into the air. "
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="68dp"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Start with your feet hip-width apart, standing tall.
+Jump into the air, then lower your hands to the ground and hop your legs back into plank position.
+Immediately hop your legs forward so that you're in a crouching position.
+From here, jump straight into the air. "
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="59dp"
                 android:paddingLeft="10dp"
                 android:text="Repeat this sequence. Perform as many as you can in 30-60 seconds. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
@@ -396,12 +395,12 @@ From here, jump straight into the air. "
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="88dp"
+                android:layout_height="wrap_content"
                 android:paddingLeft="10dp"
-                android:textStyle="bold"
                 android:text="This move raises your heart rate and metabolism even more and adds extra toning for your core. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="21dp"
+                android:textStyle="bold" />
 
             <View
                 android:layout_width="fill_parent"
@@ -413,7 +412,7 @@ From here, jump straight into the air. "
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="343dp"
+                android:layout_height="274dp"
                 android:paddingLeft="10dp"
                 android:text="Start with your feet hip-width apart, standing tall.
 Jump into the air, then lower your hands to the ground and hop your legs back into plank position.
@@ -421,7 +420,7 @@ In this plank position, jump both legs out to the side, then immediately jump th
 You can modify this by adding one to three plank jacks during your burpee to add some extra core love!
 Hop your legs forward so that you're in a crouching position. From here, jump straight into the air. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -433,7 +432,7 @@ Hop your legs forward so that you're in a crouching position. From here, jump st
                 android:text="Repeat this sequence as many times as you can in 30-60 seconds. "
                 android:textColor="#FDFEFE"
                 android:paddingLeft="10dp"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
@@ -482,7 +481,7 @@ Hop your legs forward so that you're in a crouching position. From here, jump st
                 android:paddingLeft="10dp"
                 android:text="This burpee variation adds extra toning for your shoulders. Grab some dumbbells ranging from 3 pounds to 10 pounds, depending on your strength. You want your arms to feel fatigued, but you should be able to maintain proper form. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -491,14 +490,14 @@ Hop your legs forward so that you're in a crouching position. From here, jump st
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="284dp"
+                android:layout_height="224dp"
                 android:paddingLeft="10dp"
                 android:text="Start by holding dumbbells by your side.
 Instead of jumping into the air, immediately lower down to the ground and hop back into a plank.
 When you jump back and return to standing, remove the jump. Swap in a shoulder press by raising the dumbbells to a 90-degree angle, then extend arms straight above your head.
 Lower arms back down and repeat the move. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -507,18 +506,18 @@ Lower arms back down and repeat the move. "
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="64dp"
+                android:layout_height="60dp"
                 android:paddingLeft="10dp"
                 android:text="Repeat this sequence as many times as you can in 30-60 seconds. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-<!--&lt;!&ndash;            ========================================================&ndash;&gt;-->
+
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="1.5dp"
@@ -555,11 +554,11 @@ Lower arms back down and repeat the move. "
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="121dp"
+                android:layout_height="81dp"
                 android:paddingLeft="10dp"
                 android:text="Instead of a shoulder press, this burpee variation uses an upright row to strengthen and sculpt your shoulders and back. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -568,14 +567,14 @@ Lower arms back down and repeat the move. "
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="256dp"
+                android:layout_height="203dp"
                 android:paddingLeft="10dp"
                 android:text="Hold dumbbells by your side.
 Instead of jumping into the air, immediately lower down to the ground and hop back into plank.
 When you jump back and return to standing, remove the jump and hold the dumbbells in front of your hips.
 Raise your hands to your chest with your elbows out to the side. Lower back down to start. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp" />
+                android:textSize="20dp" />
 
             <View
                 android:layout_width="fill_parent"
@@ -584,11 +583,11 @@ Raise your hands to your chest with your elbows out to the side. Lower back down
             <TextView
 
                 android:layout_width="match_parent"
-                android:layout_height="68dp"
+                android:layout_height="67dp"
                 android:paddingLeft="10dp"
                 android:text="Repeat this sequence as many times as you can in 30-60 seconds. "
                 android:textColor="#FDFEFE"
-                android:textSize="23sp"
+                android:textSize="21dp"
                 android:textStyle="bold" />
 
             <View
