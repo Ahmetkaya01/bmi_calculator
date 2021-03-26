@@ -12,6 +12,9 @@ import android.widget.Button;
 
 import android.widget.ImageButton;
 
+import com.google.android.gms.ads.AdSize;
+import com.google.android.gms.ads.AdView;
+
 
 public class HomeActivity extends AppCompatActivity {
 
@@ -23,6 +26,11 @@ public class HomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_home);
 
 
+        AdView adView = new AdView(this);
+
+        adView.setAdSize(AdSize.BANNER);
+
+        adView.setAdUnitId("ca-app-pub-3940256099942544/6300978111");
 
 
         Button happiniess = (Button) findViewById(R.id.Happines);
