@@ -20,7 +20,7 @@
         <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713"/>
+            android:value="ca-app-pub-1259119329136843~4891280129"/>
 
         <activity android:name=".Daily_Benefits_Meditation" ></activity>
         <activity android:name=".History_Of_Dance" />
