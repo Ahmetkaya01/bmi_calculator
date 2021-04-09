@@ -20,10 +20,6 @@
             android:orientation="vertical">
 
 
-
-            // DONE
-            DONE
-            DONE//
             <TextView
                 android:id="@+id/tvAnswer"
                 android:layout_width="match_parent"
@@ -299,7 +295,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
             </View>
-
+// BOSL
             <TextView
                 android:id="@+id/t16"
                 android:layout_width="match_parent"
@@ -420,7 +416,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="20dp"></View>
 
-            //todo How to Prevent Obesity in Kids and Adults//
+            //bosluk nerede basliyor?
 
 
             <!-- things to scroll -->
@@ -629,7 +625,7 @@ Weight training boosts the metabolism, helping a person burn more calories than 
 
             <View
                 android:layout_width="fill_parent"
-                android:layout_height="30dp">
+                android:layout_height="20dp">
             </View>
 
 

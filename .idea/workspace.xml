@@ -8,7 +8,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f89995-c9dc-4a15-87ab-412c408b0446" name="Default Changelist" comment="">
@@ -16,103 +16,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__pl_droidsonroids_gif_android_gif_drawable_1_2_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__pl_droidsonroids_gif_android_gif_drawable_1_2_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Antistress.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Antistress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Best_Dance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Best_Dance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Daily_Benefits_Meditation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Daily_Benefits_Meditation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/EightQuickresistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/EightQuickresistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/FiveBurpeeWorkouts.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/FiveBurpeeWorkouts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/FiveMoveMorningworkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/FiveMoveMorningworkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/FunctionalFitness.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/HealthySleepHygiene.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/HealthySleepHygiene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Healthyeatingbasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Healthyeatingbasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/History_Of_Dance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/History_Of_Dance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Plankitup.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Plankitup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Randomworkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Randomworkout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/SelfLove.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/SelfLove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/SleepPurpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/SleepPurpose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/TENStepHIITWorkoutWllToneYour.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/TENStepHIITWorkoutWllToneYour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Think_You_Cant_Dance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Think_You_Cant_Dance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Types_Of_Meditation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Types_Of_Meditation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Want_To_Start_Med.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Want_To_Start_Med.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Why_Should_Meditation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Why_Should_Meditation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Yogaarticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Yogaarticle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/YogaforEveryone.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/YogaforEveryone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Yogaproses.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Yogaproses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/allfooddiet.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/allfooddiet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/benefitsofRunningThatMakeYou.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/benefitsofRunningThatMakeYou.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/benefitsofrunningandjogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/benefitsofrunningandjogging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/benefitsofwalking.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/benefitsofwalking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/fitnessplan.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/fitnessplan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/happinies.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/happinies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/runninginthemorning.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/runninginthemorning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/sixbenefitsofrunning.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/sixbenefitsofrunning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/supereasyworkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/supereasyworkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/thebestbuttworkouts.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/thebestbuttworkouts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/thebestwaystogetbetterSLEEP.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/thebestwaystogetbetterSLEEP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/walk30minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/walk30minutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/walkingsafetytips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/walkingsafetytips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/whilewalkingwhathappens.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/whilewalkingwhathappens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/whygoodisimportant.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/whygoodisimportant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/yogaandpain.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/yogaandpain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_functional_fitness.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_allfooddiet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_allfooddiet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_antistress.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_antistress.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefits__of__dance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefits__of__dance.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefits__of__meditation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefits__of__meditation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefitsof_running_that_make_you.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefitsof_running_that_make_you.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefitsofrunningandjogging.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefitsofrunningandjogging.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefitsofwalking.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_benefitsofwalking.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_best__dance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_best__dance.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_daily__benefits__meditation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_daily__benefits__meditation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_eight_quickresistance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_eight_quickresistance.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_exercise.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_exercise.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_fitnessplan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_fitnessplan.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_five_burpee_workouts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_five_burpee_workouts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_five_move_morningworkout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_five_move_morningworkout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_functional_fitness.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_happinies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_happinies.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_healthy_sleep_hygiene.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_healthy_sleep_hygiene.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_healthyeatingbasics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_healthyeatingbasics.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_history__of__dance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_history__of__dance.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_obese.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_obese.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_plankitup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_plankitup.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_randomworkout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_randomworkout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_runninginthemorning.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_runninginthemorning.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_self_love.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_self_love.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sixbenefitsofrunning.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sixbenefitsofrunning.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_sleep_purpose.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sleep_purpose.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_supereasyworkout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_supereasyworkout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_t_e_n_step_h_i_i_t_workout_wll_tone_your.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_t_e_n_step_h_i_i_t_workout_wll_tone_your.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_thebestbuttworkouts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_thebestbuttworkouts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_thebestwaystogetbetter_s_l_e_e_p.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_thebestwaystogetbetter_s_l_e_e_p.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_think__you__cant__dance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_think__you__cant__dance.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_types__of__meditation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_types__of__meditation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_walk30minutes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_walk30minutes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_walkingsafetytips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_walkingsafetytips.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_want__to__start__med.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_want__to__start__med.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_whilewalkingwhathappens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_whilewalkingwhathappens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_why__should__meditation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_why__should__meditation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_whygoodisimportant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_whygoodisimportant.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_yogaandpain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_yogaandpain.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_yogaarticle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_yogaarticle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_yogafor_everyone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_yogafor_everyone.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_yogaproses.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_yogaproses.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/thebestyogaposes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/thebestyogaposes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,38 +311,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="411" y="62" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1612134337739" />
-    <state width="1236" height="255" key="GridCell.Tab.0.bottom" timestamp="1616862948753">
+    <state width="1236" height="203" key="GridCell.Tab.0.bottom" timestamp="1617981322905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="255" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1616862948753" />
-    <state width="1236" height="255" key="GridCell.Tab.0.center" timestamp="1616862948753">
+    <state width="1236" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617981322905" />
+    <state width="1236" height="203" key="GridCell.Tab.0.center" timestamp="1617981322904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="255" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1616862948753" />
-    <state width="1236" height="255" key="GridCell.Tab.0.left" timestamp="1616862948752">
+    <state width="1236" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617981322904" />
+    <state width="1236" height="203" key="GridCell.Tab.0.left" timestamp="1617981322904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="255" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1616862948752" />
-    <state width="1236" height="255" key="GridCell.Tab.0.right" timestamp="1616862948753">
+    <state width="1236" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617981322904" />
+    <state width="1236" height="203" key="GridCell.Tab.0.right" timestamp="1617981322904">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="255" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1616862948753" />
-    <state width="1236" height="203" key="GridCell.Tab.1.bottom" timestamp="1609668198459">
+    <state width="1236" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617981322904" />
+    <state width="1236" height="203" key="GridCell.Tab.1.bottom" timestamp="1617981322905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609668198459" />
-    <state width="1236" height="203" key="GridCell.Tab.1.center" timestamp="1609668198459">
+    <state width="1236" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617981322905" />
+    <state width="1236" height="203" key="GridCell.Tab.1.center" timestamp="1617981322905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1609668198459" />
-    <state width="1236" height="203" key="GridCell.Tab.1.left" timestamp="1609668198458">
+    <state width="1236" height="203" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1617981322905" />
+    <state width="1236" height="203" key="GridCell.Tab.1.left" timestamp="1617981322905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1609668198458" />
-    <state width="1236" height="203" key="GridCell.Tab.1.right" timestamp="1609668198459">
+    <state width="1236" height="203" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1617981322905" />
+    <state width="1236" height="203" key="GridCell.Tab.1.right" timestamp="1617981322905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1609668198459" />
+    <state width="1236" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1617981322905" />
     <state width="1236" height="203" key="GridCell.Tab.2.bottom" timestamp="1609538656405">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -502,6 +411,11 @@
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java</url>
           <line>63</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
