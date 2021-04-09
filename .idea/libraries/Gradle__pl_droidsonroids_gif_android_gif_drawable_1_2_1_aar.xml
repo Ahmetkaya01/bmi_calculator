@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: pl.droidsonroids.gif:android-gif-drawable:1.2.1@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f71f61596e5880f2e3ede8414659a283/jetified-android-gif-drawable-1.2.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f71f61596e5880f2e3ede8414659a283/jetified-android-gif-drawable-1.2.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f71f61596e5880f2e3ede8414659a283/jetified-android-gif-drawable-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65299e01c10dde2a04a8cb06af1d4ee5/jetified-android-gif-drawable-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65299e01c10dde2a04a8cb06af1d4ee5/jetified-android-gif-drawable-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65299e01c10dde2a04a8cb06af1d4ee5/jetified-android-gif-drawable-1.2.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.droidsonroids.gif/android-gif-drawable/1.2.1/7a13ae172cf29fce89c5fcecdae0d3aaac07b0f3/android-gif-drawable-1.2.1-javadoc.jar!/" />

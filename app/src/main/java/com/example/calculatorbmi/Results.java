@@ -63,19 +63,10 @@ public class Results extends AppCompatActivity {
 
     @Override
 
-//    gifcan3=findViewById(R.id.gif3);
-
-//    gifcan6=findViewById(R.id.gif6);
-
-//    gifcan9=findViewById(R.id.gif9);
-
-//    gifcan12=findViewById(R.id.gif12);
-
-
-
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_results);
+
         title1=findViewById(R.id.t1);
         image2=findViewById(R.id.p2);
         text3=findViewById(R.id.t3);
@@ -138,7 +129,7 @@ public class Results extends AppCompatActivity {
             ResultImage.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.underweight));
 
             title1.setText("Best Advices");
-
+            title1.setTextSize(39);
             image2.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.obese));
 
             text3.setText("What To Do If You Are Underweight");
@@ -250,7 +241,7 @@ public class Results extends AppCompatActivity {
 
 
             image17.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.setup));
-
+            image17.setVisibility(View.INVISIBLE);
 
         } else if (bmiValue >= 18.5 && bmiValue < 25) {
             // If BMI value more than 18.5 and less than 25 he is "normal"

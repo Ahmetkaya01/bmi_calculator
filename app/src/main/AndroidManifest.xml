@@ -7,8 +7,6 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
-
-
     <application
         android:allowBackup="true"
         android:icon="@drawable/appicon"
@@ -18,9 +16,11 @@
         android:theme="@style/AppTheme">
 
         <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        //Homeactivity//
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1259119329136843~4891280129"/>
+            android:value="ca-app-pub-1259119329136843~4891280129"   />
+
 
         <activity android:name=".Daily_Benefits_Meditation" ></activity>
         <activity android:name=".History_Of_Dance" />
@@ -65,7 +65,6 @@
         <activity android:name=".FiveMoveMorningworkout" />
         <activity android:name=".EightQuickresistance" />
         <activity android:name=".supereasyworkout" />
-        <activity android:name=".FunctionalFitness" />
         <activity android:name=".Yogaarticle" />
         <activity android:name=".fitnessplan" />
         <activity android:name=".Exercise" />
@@ -82,6 +81,5 @@
             </intent-filter>
         </activity>
     </application>
-
 
 </manifest>

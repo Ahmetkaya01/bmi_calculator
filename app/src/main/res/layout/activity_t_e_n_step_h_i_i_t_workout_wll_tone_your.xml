@@ -19,7 +19,15 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                app:adSize="BANNER"
+                app:adUnitId="ca-app-pub-1259119329136843/5617230905">
+            </com.google.android.gms.ads.AdView>
 
                 //DONE
             DONE
@@ -1269,112 +1277,6 @@ Do as many reps as you can in 30 seconds."
             <!--                android:textColor="#000"-->
             <!--                android:textSize="20sp"-->
             <!--                android:textStyle="bold" />-->
-
-            <!--            <View-->
-            <!--                android:layout_width="fill_parent"-->
-            <!--                android:layout_height="30dp"></View>-->
-
-            <!--            <pl.droidsonroids.gif.GifImageView-->
-            <!--                android:layout_width="match_parent"-->
-            <!--                android:layout_height="341dp"-->
-            <!--                android:src="@drawable/camelposecangif" />-->
-
-            <!--            <View-->
-            <!--                android:layout_width="fill_parent"-->
-            <!--                android:layout_height="30dp"></View>-->
-
-            <!--            <TextView-->
-
-            <!--                android:layout_width="match_parent"-->
-            <!--                android:layout_height="146dp"-->
-            <!--                android:text="A primer for other back bending poses in yoga, camel pose (Ustrasana) provides a deep stretch through your front body, which helps treat migraines2﻿ and pain associated with your monthly cycle."-->
-            <!--                android:textColor="#141414"-->
-            <!--                android:textSize="23sp" />-->
-
-            <!--            <View-->
-            <!--                android:layout_width="fill_parent"-->
-            <!--                android:layout_height="30dp"></View>-->
-
-            <!--            <TextView-->
-
-            <!--                android:layout_width="match_parent"-->
-            <!--                android:layout_height="575dp"-->
-            <!--                android:text="Start by kneeling with your knees hip distance apart and tops of the feet resting on your mat. Place your hands on the backs of your hips with fingers pointing downwards as you slowly begin to use your thigh muscles to lean back and reach for your heels, one hand at a time. Open through your chest and push your shoulder blades together as your head hangs backward. Stay in the pose for seven breaths, and make sure to bring your head up first when dismounting from the posture. "-->
-            <!--                android:textColor="#141414"-->
-            <!--                android:textSize="23sp" />-->
-
-            <!--            <View-->
-            <!--                android:layout_width="fill_parent"-->
-            <!--                android:layout_height="30dp"></View>-->
-            <!--            ==============================================-->
-
-            <!--            <TextView-->
-            <!--                android:id="@+id/t1"-->
-            <!--                android:layout_width="match_parent"-->
-            <!--                android:layout_height="wrap_content"-->
-
-            <!--                android:text="10 - Boat Pose-->
-            <!--"-->
-            <!--                android:textColor="#000"-->
-            <!--                android:textSize="20sp"-->
-            <!--                android:textStyle="bold" />-->
-
-            <!--            <View-->
-            <!--                android:layout_width="fill_parent"-->
-            <!--                android:layout_height="30dp"></View>-->
-
-            <!--            <pl.droidsonroids.gif.GifImageView-->
-            <!--                android:layout_width="match_parent"-->
-            <!--                android:layout_height="308dp"-->
-            <!--                android:src="@drawable/boatposegifcan" />-->
-
-            <!--            <View-->
-            <!--                android:layout_width="fill_parent"-->
-            <!--                android:layout_height="30dp"></View>-->
-
-            <!--            <TextView-->
-
-            <!--                android:layout_width="match_parent"-->
-            <!--                android:layout_height="232dp"-->
-            <!--                android:text="An excellent asana for developing your core, Boat Pose (Navasana) is more challenging than it looks. But the rewards of regular practice speak for themselves: strengthening of your spine, neck, and legs; improving mental strength by focusing on balancing in the pose."-->
-            <!--                android:textColor="#141414"-->
-            <!--                android:textSize="23sp" />-->
-
-            <!--            <View-->
-            <!--                android:layout_width="fill_parent"-->
-            <!--                android:layout_height="30dp"></View>-->
-
-            <!--            <TextView-->
-
-            <!--                android:layout_width="match_parent"-->
-            <!--                android:layout_height="575dp"-->
-            <!--                android:text="Sit on your mat with your feet extended in front of you. Lean back and find your balance on your sit bones as you slowly begin to lift your legs off the floor. Keep your legs straight, and feet pointed to the ceiling. Engage your abdomen and extend your arms straight towards your feet until they are parallel with the floor, palms facing each other. Your spine is lengthening as your balance on your sit bones. "-->
-            <!--                android:textColor="#141414"-->
-            <!--                android:textSize="23sp" />-->
-
-            <!--            <View-->
-            <!--                android:layout_width="fill_parent"-->
-            <!--                android:layout_height="30dp"></View>-->
-            <!--            ==============================================-->
-
-            <!--            <TextView-->
-            <!--                android:id="@+id/t1"-->
-            <!--                android:layout_width="match_parent"-->
-            <!--                android:layout_height="wrap_content"-->
-
-            <!--                android:text="11 - Half-Boat Pose with a Twist"-->
-            <!--                android:textColor="#000"-->
-            <!--                android:textSize="20sp"-->
-            <!--                android:textStyle="bold" />-->
-
-            <!--            <View-->
-            <!--                android:layout_width="fill_parent"-->
-            <!--                android:layout_height="30dp"></View>-->
-
-            <!--            <pl.droidsonroids.gif.GifImageView-->
-            <!--                android:layout_width="match_parent"-->
-            <!--                android:layout_height="308dp"-->
-            <!--                android:src="@drawable/halfboatcangif" />-->
 
             <!--            <View-->
             <!--                android:layout_width="fill_parent"-->

@@ -4,11 +4,18 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class benefitsofwalking extends AppCompatActivity {
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 
+public class benefitsofwalking extends AppCompatActivity {
+    private AdView mAdView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_benefitsofwalking);
+
+        mAdView = findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
     }
 }

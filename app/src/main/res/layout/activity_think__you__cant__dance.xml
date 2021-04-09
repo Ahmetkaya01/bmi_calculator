@@ -16,78 +16,86 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                app:adSize="BANNER"
+                app:adUnitId="ca-app-pub-1259119329136843/3528100095">
+            </com.google.android.gms.ads.AdView>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="3.5dp"-->
-<!--                android:background="@android:color/background_light">-->
+            </View>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Think You Can’t Dance?"
+                android:textColor="#FDFEFE"
+                android:textStyle="bold"
+                android:textSize="30sp" />
 
-<!--            </View>-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
-<!--            <TextView-->
-<!--                android:id="@+id/t1"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:text="Think You Can’t Dance?"-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textStyle="bold"-->
-<!--                android:textSize="30sp" />-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            <TextView
+                android:id="@+id/belive"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:paddingLeft="10dp"
+                android:text="Believe me, you probably can."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
 
-<!--            <TextView-->
-<!--                android:id="@+id/belive"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="35dp"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="Believe me, you probably can."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp" />-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            <ImageView
+                android:id="@+id/p2"
+                android:layout_width="match_parent"
+                android:layout_height="268dp"
+                app:srcCompat="@drawable/soyouthinkdance" />
 
-<!--            <ImageView-->
-<!--                android:id="@+id/p2"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="268dp"-->
-<!--                app:srcCompat="@drawable/soyouthinkdance" />-->
+            //workoutnac//
 
-<!--            //workoutnac//-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
 
-<!--            <TextView-->
-<!--                android:id="@+id/heyyou"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="81dp"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="Hey, you! Yes, you reading this article. Would you consider yourself a dancer? No? Yes? If not, I am here to explain to you that you are."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp" />-->
+            <TextView
+                android:id="@+id/heyyou"
+                android:layout_width="match_parent"
+                android:layout_height="81dp"
+                android:paddingLeft="10dp"
+                android:text="Hey, you! Yes, you reading this article. Would you consider yourself a dancer? No? Yes? If not, I am here to explain to you that you are."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
             <TextView
                 android:id="@+id/iam"

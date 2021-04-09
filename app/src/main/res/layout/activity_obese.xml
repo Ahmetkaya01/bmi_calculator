@@ -18,334 +18,342 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                app:adSize="BANNER"
+                app:adUnitId="ca-app-pub-1259119329136843/2546190915">
+            </com.google.android.gms.ads.AdView>
             //DONE
             DONE//
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="3.5dp"-->
-<!--                android:background="@android:color/background_light">-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="3.5dp"
+                android:background="@android:color/background_light">
 
-<!--            </View>-->
-
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp">-->
-<!--            </View>-->
+            </View>
 
 
-<!--            <TextView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:gravity="center"-->
-<!--                android:textStyle="bold"-->
-<!--                android:text="Best Advices for Obese"-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="30sp" />-->
-<!--t-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <ImageView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="263dp"-->
-<!--                app:srcCompat="@drawable/resultsobese" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="30dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="match_parent"-->
-<!--                android:gravity="center"-->
-<!--                android:textStyle="bold"-->
-<!--                android:text="It's All About Planning"-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="25sp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
 
 
-<!--            <TextView-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Best Advices for Obese"
+                android:textColor="#FDFEFE"
+                android:textSize="30sp" />
+t
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
 
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="76dp"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="When you have a lot of weight to lose, it means playing the long game. And during that time, you'll face challenges."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp" />-->
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="263dp"
+                app:srcCompat="@drawable/resultsobese" />
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="30dp">
+            </View>
 
-<!--            <TextView-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="It's All About Planning"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
 
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="100dp"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="Weight loss experts and people who have done it offer you their ideas to cut calories, fight the 'angry' make exercise easier, stay on track, and more."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp">-->
-<!--            </View>-->
-
-<!--            <TextView-->
-
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="53dp"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="Some are tried-and-true, and others may surprise you."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
-
-<!--             things to scroll-->
-
-<!--            <ImageView-->
-<!--                android:id="@+id/i5"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="290dp"-->
-<!--                app:srcCompat="@drawable/obese1" />-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp"></View>-->
-
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="1.5dp"-->
-<!--                android:background="@android:color/background_dark">-->
-
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
 
+            <TextView
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp"></View>-->
-<!--            <TextView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:textSize="20dp"-->
-<!--                android:text="People who eat more in the morning and less at night tend to lose more weight." />-->
+                android:layout_width="match_parent"
+                android:layout_height="76dp"
+                android:paddingLeft="10dp"
+                android:text="When you have a lot of weight to lose, it means playing the long game. And during that time, you'll face challenges."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp"></View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
 
-<!--            <TextView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="103dp"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="Some studies suggest that starting your day with a high-protein meal &#45;&#45; especially warm, solid food &#45;&#45; helps you feel fuller and less hungry later."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp" />-->
+            <TextView
 
-<!--            <TextView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="Shoot for 350-400 calories with at least 25 grams of protein, says Domenica Rubino, MD, director of the Washington Center for Weight Management/Research."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp" />-->
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:text="Weight loss experts and people who have done it offer you their ideas to cut calories, fight the 'angry' make exercise easier, stay on track, and more."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp"></View>-->
-<!--            <ImageView-->
+            <TextView
 
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="296dp"-->
-<!--                app:srcCompat="@drawable/obesebreakfast" />-->
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:paddingLeft="10dp"
+                android:text="Some are tried-and-true, and others may surprise you."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp"></View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="1.5dp"-->
-<!--                android:background="@android:color/background_dark">-->
+             things to scroll
 
-<!--            </View>-->
+            <ImageView
+                android:id="@+id/i5"
+                android:layout_width="match_parent"
+                android:layout_height="290dp"
+                app:srcCompat="@drawable/obese1" />
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp"></View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
 
-<!--            <TextView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="match_parent"-->
-<!--                android:gravity="center"-->
-<!--                android:textStyle="bold"-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="25sp"-->
-<!--                android:text="Keep a Photo Diary"/>-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_dark">
 
-<!--            <TextView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="100dp"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="‘We have horrible memories in terms of what we eat,’ says Susan Albers, PsyD, author of EatQ. Save your food photos in a daily file."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp">-->
-<!--            </View>-->
-<!--            <TextView-->
-<!--                android:id="@+id/t10"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="103dp"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="Before your next snack or meal, review them. They'll remind you what you've already eaten. And that may help you decide to downsize or choose something else."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp" />-->
+            </View>
 
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp"></View>-->
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="20dp"
+                android:text="People who eat more in the morning and less at night tend to lose more weight." />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="103dp"
+                android:paddingLeft="10dp"
+                android:text="Some studies suggest that starting your day with a high-protein meal -- especially warm, solid food -- helps you feel fuller and less hungry later."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Shoot for 350-400 calories with at least 25 grams of protein, says Domenica Rubino, MD, director of the Washington Center for Weight Management/Research."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="296dp"
+                app:srcCompat="@drawable/obesebreakfast" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_dark">
+
+            </View>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp"
+                android:text="Keep a Photo Diary"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:paddingLeft="10dp"
+                android:text="‘We have horrible memories in terms of what we eat,’ says Susan Albers, PsyD, author of EatQ. Save your food photos in a daily file."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+            <TextView
+                android:id="@+id/t10"
+                android:layout_width="match_parent"
+                android:layout_height="103dp"
+                android:paddingLeft="10dp"
+                android:text="Before your next snack or meal, review them. They'll remind you what you've already eaten. And that may help you decide to downsize or choose something else."
+                android:textColor="#FDFEFE"
+                android:textSize="20dp" />
 
 
-<!--            <ImageView-->
-<!--                android:id="@+id/i11"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="292dp"-->
-<!--                app:srcCompat="@drawable/obesetakepic" />-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp"></View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
 
-<!--            </View>-->
+            <ImageView
+                android:id="@+id/i11"
+                android:layout_width="match_parent"
+                android:layout_height="292dp"
+                app:srcCompat="@drawable/obesetakepic" />
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="1.5dp"-->
-<!--                android:background="@android:color/background_dark">-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
 
-<!--            </View>-->
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp"></View>-->
-<!--            <TextView-->
-<!--                android:id="@+id/t12"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="match_parent"-->
-<!--                android:gravity="center"-->
-<!--                android:textStyle="bold"-->
-<!--                android:text="Try a Meal Replacement Plan"-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="25sp" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_dark">
 
-<!--            <TextView-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:text="Under a licensed professional's care, you'll eat one regular meal per day and swap the others for special shakes,"-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:textSize="20dp" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp">-->
-<!--            </View>-->
-<!--            <TextView-->
-<!--                android:id="@+id/t13"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:text="soups, or bars. ''If you can stick to it, you'll see big results in 6 months to a year,'' says Ken Fujioka, MD, an obesity specialist at the Scripps Clinic in San Diego."-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:textSize="20dp" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            </View>
 
-<!--            <ImageView-->
-<!--                android:id="@+id/i14"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="297dp"-->
-<!--                app:srcCompat="@drawable/tryameal" />-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"></View>
+            <TextView
+                android:id="@+id/t12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Try a Meal Replacement Plan"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp">-->
-<!--            </View>-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Under a licensed professional's care, you'll eat one regular meal per day and swap the others for special shakes,"
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="20dp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
+            <TextView
+                android:id="@+id/t13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="soups, or bars. ''If you can stick to it, you'll see big results in 6 months to a year,'' says Ken Fujioka, MD, an obesity specialist at the Scripps Clinic in San Diego."
+                android:textColor="#FDFEFE"
+                android:paddingLeft="10dp"
+                android:textSize="20dp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="1.5dp"-->
-<!--                android:background="@android:color/background_dark">-->
+            <ImageView
+                android:id="@+id/i14"
+                android:layout_width="match_parent"
+                android:layout_height="297dp"
+                app:srcCompat="@drawable/tryameal" />
 
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
 
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1.5dp"
+                android:background="@android:color/background_dark">
 
-<!--            <TextView-->
-<!--                android:id="@+id/t15"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="match_parent"-->
-<!--                android:gravity="center"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:textStyle="bold"-->
-<!--                android:text="Set Up Your Food Storage"-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="25sp" />-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="20dp">-->
-<!--            </View>-->
+            </View>
 
-<!--            <TextView-->
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
 
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:paddingLeft="10dp"-->
-<!--                android:text="Out of sight, out of mind &#45;&#45; and mouth. After you purge your home of those treats you can't resist, Albers recommends taking the idea a step further: Assign shelves in the pantry and the fridge so your healthy food becomes easy to see and reach. "-->
-<!--                android:textColor="#FDFEFE"-->
-<!--                android:textSize="20dp"/>-->
-<!--            <View-->
-<!--                android:layout_width="fill_parent"-->
-<!--                android:layout_height="10dp">-->
-<!--            </View>-->
+            <TextView
+                android:id="@+id/t15"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:textStyle="bold"
+                android:text="Set Up Your Food Storage"
+                android:textColor="#FDFEFE"
+                android:textSize="25sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="20dp">
+            </View>
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Out of sight, out of mind -- and mouth. After you purge your home of those treats you can't resist, Albers recommends taking the idea a step further: Assign shelves in the pantry and the fridge so your healthy food becomes easy to see and reach. "
+                android:textColor="#FDFEFE"
+                android:textSize="20dp"/>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp">
+            </View>
             <TextView
 
                 android:layout_width="match_parent"

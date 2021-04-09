@@ -18,7 +18,15 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                app:adSize="BANNER"
+                app:adUnitId="ca-app-pub-1259119329136843/1159111148">
+            </com.google.android.gms.ads.AdView>
 
                 //DONE//
             //DONE//
@@ -525,7 +533,7 @@ Jump back out to a lunge but with the opposite (left) leg out in front."
                 android:layout_marginVertical="15dp"
                 android:background="@drawable/button_border"
                 android:gravity="center"
-                android:text="See The Articles"
+                android:text="Go To Menu"
                 android:textColor="#fafafa" />
 
             <View

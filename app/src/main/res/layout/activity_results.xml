@@ -600,22 +600,6 @@
                 android:textColor="#FDFEFE"
                 android:textSize="23sp"/>
 
-<!--            tcan1-->
-<!--            tcan2-->
-<!--            gif3-->
-<!--            tcan4-->
-<!--            tcan5-->
-<!--            gif6-->
-<!--            tcan7-->
-<!--            tcan8-->
-<!--            gif9-->
-<!--            tcan10-->
-<!--            tcan11-->
-<!--            gif12-->
-<!--            tcan13-->
-<!--            tcan14-->
-<!--            gif15-->
-<!--            tcan16-->
             <View
                 android:layout_width="fill_parent"
                 android:layout_height="20dp">
