@@ -12,16 +12,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f89995-c9dc-4a15-87ab-412c408b0446" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lsticon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,14 +81,17 @@
     <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_30 [emulator-5554]" />
     <property name="DEBUGGABLE_PROCESS" value="com.example.calculatorbmi" />
     <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-18T03:12:51.724Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Pixel_2_API_30" />
     <property name="android.recentlyUsedThemes" value="AppTheme&#10;android:Theme&#10;android:Theme.Material.NoActionBar" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/layout" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -120,7 +131,7 @@
     <key name="android.template.-567988837">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.1087597162">
+    <key name="android.template.1705266051">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="android.template.-524461131">
@@ -144,7 +155,7 @@
     <key name="android.template.-2071876095">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.-1866994826">
+    <key name="android.template.1087597162">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="android.template.-1804483896">
@@ -177,7 +188,7 @@
     <key name="android.template.-1268962568">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.1705266051">
+    <key name="android.template.-1866994826">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -263,10 +274,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="158" y="73" key="#PSD" timestamp="1616754150078">
+    <state x="158" y="73" key="#PSD" timestamp="1618339420311">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="158" y="73" key="#PSD/0.0.1280.680@0.0.1280.680" timestamp="1616754150078" />
+    <state x="158" y="73" key="#PSD/0.0.1280.680@0.0.1280.680" timestamp="1618339420311" />
     <state x="521" y="95" key="#app" timestamp="1615728766246">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
@@ -299,10 +310,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="500" y="154" key="AndroidCreateXmlResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1611111950000" />
-    <state x="496" y="106" key="AndroidProcessChooserDialog" timestamp="1609538470372">
+    <state x="496" y="106" key="AndroidProcessChooserDialog" timestamp="1618339348377">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="496" y="106" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1609538470372" />
+    <state x="496" y="106" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1618339348377" />
     <state x="221" y="0" key="CommitChangelistDialog2" timestamp="1610650663242">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -343,38 +354,6 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="203" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1617981322905" />
-    <state width="1236" height="203" key="GridCell.Tab.2.bottom" timestamp="1609538656405">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1236" height="203" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609538656405" />
-    <state width="1236" height="203" key="GridCell.Tab.2.center" timestamp="1609538656404">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1236" height="203" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1609538656404" />
-    <state width="1236" height="203" key="GridCell.Tab.2.left" timestamp="1609538656404">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1236" height="203" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1609538656404" />
-    <state width="1236" height="203" key="GridCell.Tab.2.right" timestamp="1609538656405">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1236" height="203" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1609538656405" />
-    <state width="1236" height="203" key="GridCell.Tab.3.bottom" timestamp="1609538656405">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1236" height="203" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609538656405" />
-    <state width="1236" height="203" key="GridCell.Tab.3.center" timestamp="1609538656405">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1236" height="203" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1609538656405" />
-    <state width="1236" height="203" key="GridCell.Tab.3.left" timestamp="1609538656405">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1236" height="203" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1609538656405" />
-    <state width="1236" height="203" key="GridCell.Tab.3.right" timestamp="1609538656405">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1236" height="203" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1609538656405" />
     <state x="327" y="52" key="RollbackChangesDialog" timestamp="1612730159130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -383,26 +362,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="452" y="119" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1614386483793" />
-    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1614834571213">
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1618339720870">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1614834571213" />
-    <state x="326" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1616752794475">
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1618339720870" />
+    <state x="326" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1618708197368">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="326" y="144" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1616752794475" />
-    <state x="218" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609538638264">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="218" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1609538638264" />
+    <state x="326" y="144" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1618708197368" />
     <state x="299" y="151" key="run.anything.popup" timestamp="1614704407815">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="299" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1614704407815" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1616692997411">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1618339797229">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1616692997411" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1618339797229" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
