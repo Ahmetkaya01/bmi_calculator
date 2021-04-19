@@ -12,87 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f89995-c9dc-4a15-87ab-412c408b0446" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/release/output-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/appcompat/group-index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/constraintlayout/group-index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/recyclerview/group-index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/espresso/group-index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/ext/group-index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/google/android/gms/group-index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/google/firebase/group-index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/calculatorbmi/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/ak/calculatorbmi/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Antistress.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Antistress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articles_Of_Dance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Articles_Of_Dance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articles_Of_Meditation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Articles_Of_Meditation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/ArticlesofYoga.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/ArticlesofYoga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articlesoffitness.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Articlesoffitness.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articlesofsleeping.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Articlesofsleeping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Articlesofwalking.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Articlesofwalking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Benefits_Of_Dance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Benefits_Of_Dance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Benefits_Of_Meditation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Benefits_Of_Meditation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Best_Dance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Best_Dance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/CalculatorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/CalculatorActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Daily_Benefits_Meditation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Daily_Benefits_Meditation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/EightQuickresistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/EightQuickresistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/FiveBurpeeWorkouts.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/FiveBurpeeWorkouts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/FiveMoveMorningworkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/FiveMoveMorningworkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/HealthySleepHygiene.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/HealthySleepHygiene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Healthyeatingbasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Healthyeatingbasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/History_Of_Dance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/History_Of_Dance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/HomeActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/ObeseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/ObeseActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Plankitup.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Plankitup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Randomworkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Randomworkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/SelfLove.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/SelfLove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/SleepPurpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/SleepPurpose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Splash_Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Splash_Screen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/TENStepHIITWorkoutWllToneYour.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/TENStepHIITWorkoutWllToneYour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Think_You_Cant_Dance.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Think_You_Cant_Dance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Types_Of_Meditation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Types_Of_Meditation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Want_To_Start_Med.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Want_To_Start_Med.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Why_Should_Meditation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Why_Should_Meditation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Yogaarticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Yogaarticle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/YogaforEveryone.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/YogaforEveryone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/Yogaproses.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/Yogaproses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/allfooddiet.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/allfooddiet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/articlesofrunning.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/articlesofrunning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/benefitsofRunningThatMakeYou.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/benefitsofRunningThatMakeYou.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/benefitsofrunningandjogging.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/benefitsofrunningandjogging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/benefitsofwalking.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/benefitsofwalking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/fitnessplan.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/fitnessplan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/happinies.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/happinies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/runninginthemorning.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/runninginthemorning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/sixbenefitsofrunning.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/sixbenefitsofrunning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/supereasyworkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/supereasyworkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/thebestbuttworkouts.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/thebestbuttworkouts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/thebestwaystogetbetterSLEEP.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/thebestwaystogetbetterSLEEP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/walk30minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/walk30minutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/walkingsafetytips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/walkingsafetytips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/whilewalkingwhathappens.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/whilewalkingwhathappens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/whygoodisimportant.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/whygoodisimportant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/calculatorbmi/yogaandpain.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ak/calculatorbmi/yogaandpain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/calculatorbmi/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/ak/calculatorbmi/ExampleUnitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -441,18 +363,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1618339720870" />
-    <state x="326" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1618708197368">
+    <state x="326" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1618844978828">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="326" y="144" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1618708197368" />
+    <state x="326" y="144" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1618844978828" />
     <state x="299" y="151" key="run.anything.popup" timestamp="1614704407815">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="299" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1614704407815" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1618843959770">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1618845034877">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1618843959770" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1618845034877" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
