@@ -12,24 +12,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f89995-c9dc-4a15-87ab-412c408b0446" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/lsticon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/picture2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash__screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash__screen.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +62,11 @@
       </list>
     </option>
   </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\AJT-115\Desktop\bmi_key.jks" />
+    <option name="KEY_ALIAS" value="ak" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -78,11 +79,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="app" />
     <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_30 [emulator-5554]" />
     <property name="DEBUGGABLE_PROCESS" value="com.example.calculatorbmi" />
     <property name="DEBUGGER_ID" value="Auto" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_30" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-18T03:12:51.724Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\AJT-115\OneDrive\Desktop\bmi_calculator\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
@@ -90,7 +94,7 @@
     <property name="android.recentlyUsedThemes" value="AppTheme&#10;android:Theme&#10;android:Theme.Material.NoActionBar" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/layout" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/bmi_key.jks" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -121,13 +125,6 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\AJT-115\OneDrive\Desktop\bmi_calculator\app\src\main\res\drawable" />
-      <recent name="C:\Users\AJT-115\OneDrive\Desktop\bmi_calculator\app\src\main\res\layout" />
-      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\drawable" />
-      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\layout" />
-      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\drawable-v24" />
-    </key>
     <key name="android.template.-567988837">
       <recent name="com.example.calculatorbmi" />
     </key>
@@ -135,6 +132,9 @@
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="android.template.-524461131">
+      <recent name="com.example.calculatorbmi" />
+    </key>
+    <key name="android.template.-2071876095">
       <recent name="com.example.calculatorbmi" />
     </key>
     <key name="android.template.1640927344">
@@ -152,8 +152,12 @@
     <key name="android.template.-1734686169">
       <recent name="com.example.calculatorbmi" />
     </key>
-    <key name="android.template.-2071876095">
-      <recent name="com.example.calculatorbmi" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AJT-115\OneDrive\Desktop\bmi_calculator\app\src\main\res\drawable" />
+      <recent name="C:\Users\AJT-115\OneDrive\Desktop\bmi_calculator\app\src\main\res\layout" />
+      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\drawable" />
+      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\layout" />
+      <recent name="C:\Users\AJT-115\AndroidStudioProjects\CalculatorBmi\bmi_calculator\app\src\main\res\drawable-v24" />
     </key>
     <key name="android.template.1087597162">
       <recent name="com.example.calculatorbmi" />
@@ -282,10 +286,10 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="521" y="95" key="#app/0.23.1680.947@0.23.1680.947" timestamp="1615728766246" />
-    <state x="309" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614822888001">
+    <state x="309" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618841122995">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="309" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1614822888001" />
+    <state x="309" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1618841122995" />
     <state x="321" y="69" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1614382300177">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -318,10 +322,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="221" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1610650663242" />
-    <state x="411" y="62" key="FileChooserDialogImpl" timestamp="1612134337739">
+    <state x="411" y="62" key="FileChooserDialogImpl" timestamp="1618841247166">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="411" y="62" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1612134337739" />
+    <state x="411" y="62" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1618841247166" />
     <state width="1236" height="203" key="GridCell.Tab.0.bottom" timestamp="1617981322905">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
