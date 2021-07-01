@@ -247,7 +247,6 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/browsebutton"
                 android:layout_width="185dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center"
@@ -258,7 +257,6 @@
                 android:textStyle="bold" />
 
             <Button
-                android:id="@+id/homebutton"
                 android:layout_width="185dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal|center"

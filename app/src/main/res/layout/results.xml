@@ -72,7 +72,7 @@
                 android:id="@+id/i5"
                 android:layout_width="match_parent"
                 android:layout_height="249dp"
-                app:srcCompat="@drawable/allfooddiet" />
+                app:srcCompat="@drawable/picture2" />
 
             <View
                 android:layout_width="fill_parent"
